@@ -12,10 +12,10 @@ To "install" / get the contents of this repo (we call it git pull):
 6. git clone `https://github.com/kwangyy/dsa3101.git` to clone the content in here
 
 To access Anaconda:
-1. Download it, obviously. You can download it [here](https://repo.anaconda.com/miniconda/).
-   - Honestly, if you want to use a later version it should be ok :) 
-3. Do NOT put it on PATH, but rather put it separately
-  - e.g. for me, the path for anaconda is: "C:\Users\chiak\miniconda3\Scripts"
-  - type env in your search bar and you should be able to access your PATH
-3. `conda install jupyter` to install jupyter notebooks. 
-4. `jupyter notebooks` to access it!
+1. Download it, obviously. You can download it [here](https://www.anaconda.com/download/success).
+   - Python 3.12 is not supported for some libraries, but we will configure that shortly.
+2. Run the Anaconda Prompt.
+3. Run `jupyter notebooks` to make sure you can run jupyter notebooks
+4. When we want to create a new environment in Anaconda, we can do that with "conda create -n test_env python=3.10.0".
+
+The rest of the software should be quite easy :) 
