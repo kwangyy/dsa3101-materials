@@ -1,0 +1,43 @@
+@prefix ex: <http://example.org/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+ex:Alice%20Green ex:enrolledIn ex:Calculus%20I .
+
+ex:Bob%20Johnson ex:enrolledIn ex:AI%20101,
+        ex:Machine%20Learning .
+
+ex:Dr.%20Alice%20Smith ex:teaches ex:AI%20101,
+        ex:Machine%20Learning ;
+    ex:worksIn ex:Computer%20Science .
+
+ex:Dr.%20Emily%20White ex:teaches ex:Calculus%20I ;
+    ex:worksIn ex:Mathematics .
+
+ex:Dr.%20John%20Doe ex:teaches ex:Data%20Structures ;
+    ex:worksIn ex:Computer%20Science .
+
+ex:Dr.%20Mark%20Brown ex:teaches ex:Operating%20Systems .
+
+ex:Jane%20Doe ex:enrolledIn ex:Data%20Structures .
+
+ex:enrolledIn a owl:ObjectProperty .
+
+ex:locatedIn a owl:ObjectProperty .
+
+ex:offers a owl:ObjectProperty .
+
+ex:teaches a owl:ObjectProperty .
+
+ex:worksIn a owl:ObjectProperty .
+
+ex:Engineering%20Hall ex:locatedIn ex:North%20Campus .
+
+ex:Mathematics ex:locatedIn ex:Science%20Building ;
+    ex:offers ex:Calculus%20I .
+
+ex:Computer%20Science ex:locatedIn ex:Engineering%20Hall ;
+    ex:offers ex:AI%20101,
+        ex:Data%20Structures,
+        ex:Machine%20Learning,
+        ex:Operating%20Systems .
+
