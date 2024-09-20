@@ -88,22 +88,23 @@ print(validated_rdf_graph.serialize(format='turtle'))
 # Convert the validated RDF graph back to a NetworkX graph for visualization
 nx_validated_graph = rdf_to_networkx(validated_rdf_graph)
 
-# Visualize the graph
-plt.figure(figsize=(12, 10))
-pos = nx.spring_layout(nx_validated_graph, k=0.5, iterations=50)
-nx.draw(nx_validated_graph, pos, with_labels=False, font_size=8, node_size=3000, node_color='lightblue', 
-        edge_color='gray', alpha=0.6, arrows=True)
+if __name__ == "__main__":
+    # Visualize the graph
+    plt.figure(figsize=(12, 10))
+    pos = nx.spring_layout(nx_validated_graph, k=0.5, iterations=50)
+    nx.draw(nx_validated_graph, pos, with_labels=False, font_size=8, node_size=3000, node_color='lightblue', 
+            edge_color='gray', alpha=0.6, arrows=True)
 
-# Add edge labels
-edge_labels = nx.get_edge_attributes(nx_validated_graph, 'label')
-nx.draw_networkx_edge_labels(nx_validated_graph, pos, edge_labels=edge_labels, font_size=6)
+    # Add edge labels
+    edge_labels = nx.get_edge_attributes(nx_validated_graph, 'label')
+    nx.draw_networkx_edge_labels(nx_validated_graph, pos, edge_labels=edge_labels, font_size=6)
 
-# Improve node labels
-labels = {node: node.split('/')[-1].replace('>', '') for node in nx_validated_graph.nodes()}
-labels = {k: v.replace('%20', ' ') for k, v in labels.items()}  # Replace URL encoding for spaces
-nx.draw_networkx_labels(nx_validated_graph, pos, labels, font_size=8)
+    # Improve node labels
+    labels = {node: node.split('/')[-1].replace('>', '') for node in nx_validated_graph.nodes()}
+    labels = {k: v.replace('%20', ' ') for k, v in labels.items()}  # Replace URL encoding for spaces
+    nx.draw_networkx_labels(nx_validated_graph, pos, labels, font_size=8)
 
-plt.title('Validated Knowledge Graph')
-plt.axis('off')
-plt.tight_layout()
-plt.show()
+    plt.title('Validated Knowledge Graph')
+    plt.axis('off')
+    plt.tight_layout()
+    plt.show()
