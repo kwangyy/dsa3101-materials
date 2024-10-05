@@ -1,7 +1,7 @@
 "use client"
 
 import React, { useEffect, useRef } from 'react';
-import { Network } from 'vis-network';
+import { Network, Options } from 'vis-network';
 import { DataSet } from 'vis-data';
 
 interface KnowledgeGraphProps {
@@ -13,16 +13,25 @@ interface KnowledgeGraphProps {
 
 export function KnowledgeGraphVisualization({ data }: KnowledgeGraphProps) {
   const containerRef = useRef<HTMLDivElement>(null);
+  const networkRef = useRef<Network | null>(null);
 
   useEffect(() => {
     if (containerRef.current) {
       const nodes = new DataSet(data.nodes);
       const edges = new DataSet(data.edges);
 
-      const network = new Network(containerRef.current, { nodes, edges }, {
+      const options: Options = {
         nodes: {
           shape: 'dot',
           size: 16,
+          font: {
+            size: 12,
+            color: '#ffffff'
+          },
+          borderWidth: 2
+        },
+        edges: {
+          width: 1,
         },
         physics: {
           forceAtlas2Based: {
@@ -36,11 +45,25 @@ export function KnowledgeGraphVisualization({ data }: KnowledgeGraphProps) {
           timestep: 0.35,
           stabilization: { iterations: 150 },
         },
-      });
+      };
+
+      networkRef.current = new Network(containerRef.current, { nodes, edges }, options);
 
       return () => {
-        network.destroy();
+        if (networkRef.current) {
+          networkRef.current.destroy();
+          networkRef.current = null;
+        }
       };
+    }
+  }, []);
+
+  useEffect(() => {
+    if (networkRef.current) {
+      networkRef.current.setData({
+        nodes: new DataSet(data.nodes),
+        edges: new DataSet(data.edges)
+      });
     }
   }, [data]);
 
