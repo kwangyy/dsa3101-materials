@@ -11,6 +11,7 @@ import {
   ResizablePanel,
   ResizablePanelGroup,
 } from "@/components/ui/resizable"
+import { KnowledgeGraphVisualization } from './knowledge-graph-visualisation';
 
 // Placeholder for the knowledge graph visualization
 const KnowledgeGraph = () => (
@@ -20,13 +21,19 @@ const KnowledgeGraph = () => (
 )
 
 // Placeholder for the statistics component
-const Statistics = () => (
+interface StatisticsProps {
+  nodes: number;
+  edges: number;
+  queries: number;
+}
+
+const Statistics: React.FC<StatisticsProps> = ({ nodes, edges, queries }) => (
   <div className="bg-muted p-4 rounded-lg">
     <h3 className="font-semibold mb-2">Statistics</h3>
     <ul className="space-y-1 text-sm">
-      <li>Nodes: 1,234</li>
-      <li>Edges: 5,678</li>
-      <li>Queries: 9,012</li>
+      <li>Nodes: {nodes.toLocaleString()}</li>
+      <li>Edges: {edges.toLocaleString()}</li>
+      <li>Queries: {queries.toLocaleString()}</li>
     </ul>
   </div>
 )
@@ -36,16 +43,39 @@ export function KnowledgeGraphInterface() {
     { role: "system", content: "Welcome to the Knowledge Graph interface. How can I assist you?" },
   ])
   const [input, setInput] = useState("")
+  const [graphData, setGraphData] = useState({
+    nodes: [
+      { id: 1, label: 'Node 1' },
+      { id: 2, label: 'Node 2' },
+      { id: 3, label: 'Node 3' },
+      { id: 4, label: 'Node 4' },
+      { id: 5, label: 'Node 5' },
+    ],
+    edges: [
+      { from: 1, to: 2 },
+      { from: 1, to: 3 },
+      { from: 2, to: 4 },
+      { from: 2, to: 5 },
+    ],
+  })
+  const [queryCount, setQueryCount] = useState(0)
 
   const handleSend = () => {
     if (input.trim()) {
       setMessages([...messages, { role: "user", content: input }])
+      setQueryCount(prevCount => prevCount + 1)
       // Simulate a response (in a real app, this would come from an API)
       setTimeout(() => {
         setMessages((prev) => [
           ...prev,
           { role: "system", content: `Here's some information about "${input}"...` },
         ])
+        // Here you would typically update graphData based on the API response
+        // For this example, we'll just add a new node and edge
+        setGraphData(prevData => ({
+          nodes: [...prevData.nodes, { id: prevData.nodes.length + 1, label: `Node ${prevData.nodes.length + 1}` }],
+          edges: [...prevData.edges, { from: 1, to: prevData.nodes.length + 1 }]
+        }))
       }, 1000)
       setInput("")
     }
@@ -56,7 +86,7 @@ export function KnowledgeGraphInterface() {
       <ResizablePanel defaultSize={50}>
         <div className="p-4 h-full">
           <h2 className="text-lg font-semibold mb-4">Knowledge Graph</h2>
-          <KnowledgeGraph />
+          <KnowledgeGraphVisualization data={graphData} />
         </div>
       </ResizablePanel>
       <ResizableHandle withHandle />
@@ -100,7 +130,11 @@ export function KnowledgeGraphInterface() {
             </div>
           </div>
           <div className="p-4 border-t">
-            <Statistics />
+            <Statistics 
+              nodes={graphData.nodes.length} 
+              edges={graphData.edges.length} 
+              queries={queryCount} 
+            />
           </div>
         </div>
       </ResizablePanel>
