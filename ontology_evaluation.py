@@ -194,48 +194,54 @@ def evaluate_query_performance(nx_graph, queries):
     utility_score = success_count / len(queries)
     print(f"Utility Score: {utility_score:.2f}")
 
-# Create the RDF graph from the CSV and convert it to NetworkX graph
-data_graph = rdf_to_networkx(ontology)
+# Function to generate a knowledge graph for a non-ontology dataset
+def generate_non_ontology_knowledge_graph(data):
+    G = nx.Graph()
+    for head, relationship, tail in data:
+        G.add_node(head)
+        G.add_node(tail)
+        G.add_edge(head, tail, label=relationship)
+    return G
 
-# Validate and convert the NetworkX graph to an RDF graph
-validated_rdf_graph = validate_and_convert_graph(data_graph, ontology)
+if __name__ == "__main__":
+    # Create the RDF graph from the CSV and convert it to NetworkX graph
+    data_graph = rdf_to_networkx(ontology)
 
-# Output the validated graph in Turtle format
-print("Validated and combined graph in Turtle format:")
-print(validated_rdf_graph.serialize(format='turtle'))
+    # Validate and convert the NetworkX graph to an RDF graph
+    validated_rdf_graph = validate_and_convert_graph(data_graph, ontology)
 
-# Convert the validated RDF graph back to a NetworkX graph for visualization
-nx_validated_graph = rdf_to_networkx(validated_rdf_graph)
+    # Convert the validated RDF graph back to a NetworkX graph for visualization
+    nx_validated_graph = rdf_to_networkx(validated_rdf_graph)
 
-# Evaluate the completeness, consistency, and utility of the graph
-expected_node_types = {ex.Person, ex.Course, ex.Department, ex.Building}
-evaluate_graph_completeness(data_graph, expected_node_types)
-evaluate_graph_consistency(data_graph)
+    # Evaluate the completeness, consistency, and utility of the graph
+    expected_node_types = {ex.Person, ex.Course, ex.Department, ex.Building}
+    evaluate_graph_completeness(data_graph, expected_node_types)
+    evaluate_graph_consistency(data_graph)
 
-# Example queries for utility evaluation (adjust based on your ontology)
-example_queries = [
-    ('Dr.%20Alice%20Smith', 'teaches', 'AI%20101'),
-    ('Mathematics', 'offers', 'Calculus%20I')
-]
+    # Example queries for utility evaluation (adjust based on your ontology)
+    example_queries = [
+        ('Dr.%20Alice%20Smith', 'teaches', 'AI%20101'),
+        ('Mathematics', 'offers', 'Calculus%20I')
+    ]
 
-evaluate_query_performance(nx_validated_graph, example_queries)
+    evaluate_query_performance(nx_validated_graph, example_queries)
 
-# Visualize the graph
-plt.figure(figsize=(12, 10))
-pos = nx.spring_layout(nx_validated_graph, k=0.5, iterations=50)
-nx.draw(nx_validated_graph, pos, with_labels=False, font_size=8, node_size=3000, node_color='lightblue', 
-        edge_color='gray', alpha=0.6, arrows=True)
+    # Visualize the graph
+    plt.figure(figsize=(12, 10))
+    pos = nx.spring_layout(nx_validated_graph, k=0.5, iterations=50)
+    nx.draw(nx_validated_graph, pos, with_labels=False, font_size=8, node_size=3000, node_color='lightblue', 
+            edge_color='gray', alpha=0.6, arrows=True)
 
-# Add edge labels
-edge_labels = nx.get_edge_attributes(nx_validated_graph, 'label')
-nx.draw_networkx_edge_labels(nx_validated_graph, pos, edge_labels=edge_labels, font_size=6)
+    # Add edge labels
+    edge_labels = nx.get_edge_attributes(nx_validated_graph, 'label')
+    nx.draw_networkx_edge_labels(nx_validated_graph, pos, edge_labels=edge_labels, font_size=6)
 
-# Improve node labels
-labels = {node: node.split('/')[-1].replace('>', '') for node in nx_validated_graph.nodes()}
-labels = {k: v.replace('%20', ' ') for k, v in labels.items()}  # Replace URL encoding for spaces
-nx.draw_networkx_labels(nx_validated_graph, pos, labels, font_size=8)
+    # Improve node labels
+    labels = {node: node.split('/')[-1].replace('>', '') for node in nx_validated_graph.nodes()}
+    labels = {k: v.replace('%20', ' ') for k, v in labels.items()}  # Replace URL encoding for spaces
+    nx.draw_networkx_labels(nx_validated_graph, pos, labels, font_size=8)
 
-plt.title('Validated Knowledge Graph')
-plt.axis('off')
-plt.tight_layout()
-plt.show()
+    plt.title('Validated Knowledge Graph')
+    plt.axis('off')
+    plt.tight_layout()
+    plt.show()
