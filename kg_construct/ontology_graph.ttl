@@ -1,0 +1,77 @@
+@prefix ex: <http://example.org/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ex:Alice%20Green a ex:Student ;
+    ex:enrolledIn ex:Calculus%20I .
+
+ex:Bob%20Johnson a ex:Student ;
+    ex:enrolledIn ex:AI%20101,
+        ex:Machine%20Learning .
+
+ex:Dr.%20Alice%20Smith a ex:FacultyMember ;
+    ex:teaches ex:AI%20101,
+        ex:Machine%20Learning ;
+    ex:worksIn ex:Computer%20Science .
+
+ex:Dr.%20Emily%20White a ex:FacultyMember ;
+    ex:teaches ex:Calculus%20I ;
+    ex:worksIn ex:Mathematics .
+
+ex:Dr.%20John%20Doe a ex:FacultyMember ;
+    ex:teaches ex:Data%20Structures ;
+    ex:worksIn ex:Computer%20Science .
+
+ex:Dr.%20Mark%20Brown a ex:FacultyMember ;
+    ex:teaches ex:Operating%20Systems .
+
+ex:Jane%20Doe a ex:Student ;
+    ex:enrolledIn ex:Data%20Structures .
+
+ex:enrolledIn a owl:ObjectProperty .
+
+ex:locatedIn a owl:ObjectProperty .
+
+ex:offers a owl:ObjectProperty .
+
+ex:teaches a owl:ObjectProperty .
+
+ex:worksIn a owl:ObjectProperty .
+
+ex:Engineering%20Hall a ex:Building,
+        ex:Department ;
+    ex:locatedIn ex:North%20Campus .
+
+ex:Mathematics a ex:Department ;
+    ex:locatedIn ex:Science%20Building ;
+    ex:offers ex:Calculus%20I .
+
+ex:North%20Campus a ex:Building .
+
+ex:Science%20Building a ex:Building .
+
+ex:Computer%20Science a ex:Department ;
+    ex:locatedIn ex:Engineering%20Hall ;
+    ex:offers ex:AI%20101,
+        ex:Data%20Structures,
+        ex:Machine%20Learning,
+        ex:Operating%20Systems .
+
+ex:Operating%20Systems a ex:Course .
+
+ex:AI%20101 a ex:Course .
+
+ex:Calculus%20I a ex:Course .
+
+ex:Data%20Structures a ex:Course .
+
+ex:Machine%20Learning a ex:Course .
+
+ex:Student rdfs:subClassOf ex:Human .
+
+ex:Department rdfs:subClassOf ex:Building .
+
+ex:FacultyMember rdfs:subClassOf ex:Human .
+
+ex:Course rdfs:subClassOf ex:Department .
+

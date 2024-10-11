@@ -2,7 +2,7 @@ import networkx as nx
 import pandas as pd 
 import matplotlib.pyplot as plt
 
-kg_data = pd.read_csv("kg_construct/test_graph.csv")
+kg_data = pd.read_csv("dsa3101-materials/kg_construct/test_graph.csv")
 data_graph = nx.Graph()
 for _, row in kg_data.iterrows():
     data_graph.add_edge(row['head_node'], row['tail_node'], label=row['relationship'])
