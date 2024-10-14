@@ -34,11 +34,8 @@ export function KnowledgeGraphInterface() {
     { role: "system", content: "Welcome to the Knowledge Graph interface. How can I assist you?" },
   ])
   const [input, setInput] = useState("")
-  const [graphs, setGraphs] = useState([
-    { id: 1, name: "Graph 1" },
-    { id: 2, name: "Graph 2" },
-  ])
-  const [selectedGraph, setSelectedGraph] = useState<{ id: number; name: string } | null>(null)
+  const [graphs, setGraphs] = useState<any[]>([])
+  const [selectedGraph, setSelectedGraph] = useState(graphs[0])
   const [newGraphName, setNewGraphName] = useState("")
   const [isSidebarCollapsed, setIsSidebarCollapsed] = useState(false)
 
@@ -79,9 +76,10 @@ export function KnowledgeGraphInterface() {
   return (
     <div className="flex h-screen max-h-screen">
       <div
-        className={`bg-gray-800 text-white transition-all duration-300 ease-in-out ${
+        className={`text-white transition-all duration-300 ease-in-out ${
           isSidebarCollapsed ? 'w-0 min-w-0 overflow-hidden' : 'w-64 min-w-64'
         }`}
+        style={{ backgroundColor: 'var(--background)' }}
       >
         <div className="h-full flex flex-col relative">
           <Button
@@ -101,9 +99,13 @@ export function KnowledgeGraphInterface() {
                 placeholder="New graph name"
                 value={newGraphName}
                 onChange={(e) => setNewGraphName(e.target.value)}
-                className="bg-gray-700 text-white placeholder-gray-400 border-gray-600"
+                className="flex-grow bg-gray-700 text-white placeholder-gray-400 border-gray-600"
               />
-              <Button onClick={handleAddGraph} className="bg-gray-700 hover:bg-gray-600">
+              <Button 
+                onClick={handleAddGraph} 
+                className="bg-gray-700 hover:bg-gray-600 text-white"
+                size="icon"
+              >
                 <Plus className="h-4 w-4" />
                 <span className="sr-only">Add Graph</span>
               </Button>
