@@ -23,7 +23,7 @@ def add_triples_from_csv(csv_file, rdf_graph, namespace):
             rdf_graph.add((relationship, RDF.type, OWL.ObjectProperty))
 
 # Add triples from the CSV file to the RDF graph
-add_triples_from_csv('kg_construct/test_graph.csv', ontology, ex)
+add_triples_from_csv("dsa3101-materials/kg_construct/test_graph.csv", ontology, ex)
 
 if __name__ == "__main__":
     # Output RDF/OWL graph in Turtle format (for visualization)
