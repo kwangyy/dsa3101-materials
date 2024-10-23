@@ -12,9 +12,13 @@ import {
   ResizablePanelGroup,
 } from "@/components/ui/resizable"
 
-const KnowledgeGraph = ({ name }: { name: string }) => (
-  <div className="w-full h-full bg-muted rounded-lg flex items-center justify-center">
-    <p className="text-muted-foreground">Knowledge Graph: {name}</p>
+const KnowledgeGraph = ({ name, data, onUploadClick }: { name: string; data: string | null; onUploadClick: () => void }) => (
+  <div className="w-full h-full bg-muted rounded-lg flex flex-col items-center justify-center p-4">
+    {data ? (
+      <p className="text-muted-foreground">Knowledge Graph: {name}</p>
+    ) : (
+      <Button onClick={onUploadClick}>Upload</Button>
+    )}
   </div>
 )
 
@@ -29,18 +33,79 @@ const Statistics = () => (
   </div>
 )
 
+const OntologySelection = ({ onCustomUpload, onGenerateOntology }: { onCustomUpload: (file: File) => void; onGenerateOntology: () => void }) => (
+  <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+    <div className="bg-white p-6 rounded-lg">
+      <h2 className="text-xl font-bold mb-4">Select Ontology</h2>
+      <div className="flex space-x-4">
+        <div>
+          <Input
+            type="file"
+            accept=".txt,.owl"
+            onChange={(e) => {
+              const file = e.target.files?.[0];
+              if (file && (file.name.endsWith('.txt') || file.name.endsWith('.owl'))) {
+                onCustomUpload(file);
+              } else {
+                alert('Please upload a .txt or .owl file');
+              }
+            }}
+            className="mb-2"
+          />
+          <Button variant="outline" onClick={() => document.querySelector('input[type="file"]')?.click()}>
+            Upload Custom Ontology
+          </Button>
+        </div>
+        <Button onClick={onGenerateOntology}>
+          Use LLM-Generated Ontology
+        </Button>
+      </div>
+    </div>
+  </div>
+)
+
+const UploadModal = ({ isOpen, onClose, onUpload }: { isOpen: boolean; onClose: () => void; onUpload: (file: File) => void }) => {
+  if (!isOpen) return null;
+
+  return (
+    <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+      <div className="bg-white p-6 rounded-lg">
+        <h2 className="text-xl font-bold mb-4">Upload Data</h2>
+        <Input
+          type="file"
+          accept=".txt"
+          onChange={(e) => {
+            const file = e.target.files?.[0];
+            if (file && file.name.endsWith('.txt')) {
+              onUpload(file);
+              onClose();
+            } else {
+              alert('Please upload a .txt file');
+            }
+          }}
+          className="hidden"
+          id="file-upload"
+        />
+        <div className="mt-4 flex justify-end">
+          <Button onClick={onClose} variant="outline" className="mr-2">Cancel</Button>
+          <Button onClick={() => document.getElementById('file-upload')?.click()} variant="outline">Select File</Button>
+        </div>
+      </div>
+    </div>
+  )
+}
+
 export function KnowledgeGraphInterface() {
   const [messages, setMessages] = useState([
     { role: "system", content: "Welcome to the Knowledge Graph interface. How can I assist you?" },
   ])
   const [input, setInput] = useState("")
-  const [graphs, setGraphs] = useState([
-    { id: 1, name: "Graph 1" },
-    { id: 2, name: "Graph 2" },
-  ])
-  const [selectedGraph, setSelectedGraph] = useState<{ id: number; name: string } | null>(null)
+  const [graphs, setGraphs] = useState([])
+  const [selectedGraph, setSelectedGraph] = useState<{ id: number; name: string; data: string | null } | null>(null)
   const [newGraphName, setNewGraphName] = useState("")
   const [isSidebarCollapsed, setIsSidebarCollapsed] = useState(false)
+  const [isUploadModalOpen, setIsUploadModalOpen] = useState(false)
+  const [showOntologySelection, setShowOntologySelection] = useState(false)
 
   const handleSend = () => {
     if (input.trim()) {
@@ -57,7 +122,7 @@ export function KnowledgeGraphInterface() {
 
   const handleAddGraph = () => {
     if (newGraphName.trim()) {
-      const newGraph = { id: Date.now(), name: newGraphName.trim() }
+      const newGraph = { id: Date.now(), name: newGraphName.trim(), data: null }
       setGraphs([...graphs, newGraph])
       setNewGraphName("")
       setSelectedGraph(newGraph)
@@ -74,6 +139,21 @@ export function KnowledgeGraphInterface() {
 
   const toggleSidebar = () => {
     setIsSidebarCollapsed(!isSidebarCollapsed)
+  }
+
+  const handleDataUpload = (file: File) => {
+    const reader = new FileReader()
+    reader.onload = (e) => {
+      const text = e.target?.result as string
+      const updatedGraphs = graphs.map(g => 
+        g.id === selectedGraph?.id ? { ...g, data: text } : g
+      )
+      setGraphs(updatedGraphs)
+      setSelectedGraph(prev => prev ? { ...prev, data: text } : null)
+      setIsUploadModalOpen(false)
+      setShowOntologySelection(true)
+    }
+    reader.readAsText(file)
   }
 
   return (
@@ -158,7 +238,11 @@ export function KnowledgeGraphInterface() {
               <h2 className="text-lg font-semibold">Knowledge Graph</h2>
             </div>
             {selectedGraph ? (
-              <KnowledgeGraph name={selectedGraph.name} />
+              <KnowledgeGraph 
+                name={selectedGraph.name} 
+                data={selectedGraph.data} 
+                onUploadClick={() => setIsUploadModalOpen(true)} 
+              />
             ) : (
               <div className="w-full h-full flex items-center justify-center">
                 <p className="text-muted-foreground">Select or create a graph</p>
@@ -212,6 +296,23 @@ export function KnowledgeGraphInterface() {
           </div>
         </ResizablePanel>
       </ResizablePanelGroup>
+      <UploadModal 
+        isOpen={isUploadModalOpen} 
+        onClose={() => setIsUploadModalOpen(false)} 
+        onUpload={handleDataUpload} 
+      />
+      {showOntologySelection && (
+        <OntologySelection 
+          onCustomUpload={(file) => {
+            // Handle custom ontology upload
+            setShowOntologySelection(true)
+          }}
+          onGenerateOntology={() => {
+            // Handle LLM-generated ontology
+            setShowOntologySelection(false)
+          }}
+        />
+      )}
     </div>
   )
 }
