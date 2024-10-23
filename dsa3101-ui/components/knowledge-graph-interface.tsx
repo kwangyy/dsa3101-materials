@@ -34,8 +34,11 @@ export function KnowledgeGraphInterface() {
     { role: "system", content: "Welcome to the Knowledge Graph interface. How can I assist you?" },
   ])
   const [input, setInput] = useState("")
-  const [graphs, setGraphs] = useState<any[]>([])
-  const [selectedGraph, setSelectedGraph] = useState(graphs[0])
+  const [graphs, setGraphs] = useState([
+    { id: 1, name: "Graph 1" },
+    { id: 2, name: "Graph 2" },
+  ])
+  const [selectedGraph, setSelectedGraph] = useState<{ id: number; name: string } | null>(null)
   const [newGraphName, setNewGraphName] = useState("")
   const [isSidebarCollapsed, setIsSidebarCollapsed] = useState(false)
 
@@ -76,22 +79,21 @@ export function KnowledgeGraphInterface() {
   return (
     <div className="flex h-screen max-h-screen">
       <div
-        className={`text-white transition-all duration-300 ease-in-out ${
+        className={`bg-gray-100 text-gray-800 transition-all duration-300 ease-in-out ${
           isSidebarCollapsed ? 'w-0 min-w-0 overflow-hidden' : 'w-64 min-w-64'
         }`}
-        style={{ backgroundColor: 'var(--background)' }}
       >
         <div className="h-full flex flex-col relative">
           <Button
             variant="ghost"
             size="icon"
-            className="absolute top-2 right-2 z-10 text-white hover:bg-gray-700"
+            className="absolute top-2 right-2 z-10 text-gray-600 hover:bg-gray-200"
             onClick={toggleSidebar}
           >
             <ChevronLeft className="h-4 w-4" />
             <span className="sr-only">Collapse sidebar</span>
           </Button>
-          <div className="p-4 border-b border-gray-700">
+          <div className="p-4 border-b border-gray-200">
             <h2 className="text-lg font-semibold mb-4">Knowledge Graphs</h2>
             <div className="flex space-x-2">
               <Input
@@ -99,11 +101,11 @@ export function KnowledgeGraphInterface() {
                 placeholder="New graph name"
                 value={newGraphName}
                 onChange={(e) => setNewGraphName(e.target.value)}
-                className="flex-grow bg-gray-700 text-white placeholder-gray-400 border-gray-600"
+                className="flex-grow bg-white text-gray-800 placeholder-gray-400 border-gray-300"
               />
               <Button 
                 onClick={handleAddGraph} 
-                className="bg-gray-700 hover:bg-gray-600 text-white"
+                className="bg-white hover:bg-gray-100 text-gray-800"
                 size="icon"
               >
                 <Plus className="h-4 w-4" />
@@ -115,8 +117,8 @@ export function KnowledgeGraphInterface() {
             {graphs.map((graph) => (
               <div
                 key={graph.id}
-                className={`flex items-center justify-between p-2 hover:bg-gray-700 cursor-pointer ${
-                  selectedGraph?.id === graph.id ? "bg-gray-700" : ""
+                className={`flex items-center justify-between p-2 hover:bg-gray-200 cursor-pointer ${
+                  selectedGraph?.id === graph.id ? "bg-gray-200" : ""
                 }`}
                 onClick={() => setSelectedGraph(graph)}
               >
@@ -128,7 +130,7 @@ export function KnowledgeGraphInterface() {
                     e.stopPropagation()
                     handleDeleteGraph(graph.id)
                   }}
-                  className="text-white hover:bg-gray-600"
+                  className="text-gray-600 hover:bg-gray-300"
                 >
                   <Trash2 className="h-4 w-4" />
                   <span className="sr-only">Delete {graph.name}</span>
@@ -158,8 +160,8 @@ export function KnowledgeGraphInterface() {
             {selectedGraph ? (
               <KnowledgeGraph name={selectedGraph.name} />
             ) : (
-              <div className="h-full flex items-center justify-center">
-              <p className="text-muted-foreground">Select or create a graph</p>
+              <div className="w-full h-full flex items-center justify-center">
+                <p className="text-muted-foreground">Select or create a graph</p>
               </div>
             )}
           </div>
