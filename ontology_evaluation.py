@@ -11,6 +11,19 @@ ex = Namespace("")  # Using empty namespace as requested
 ontology.bind("ex", ex)
 
 # Explicitly define ontology types if not already present
+import networkx as nx
+from rdflib import Graph, RDF, URIRef, Namespace
+from rdflib.namespace import RDFS, OWL
+import matplotlib.pyplot as plt
+from urllib.parse import quote, unquote
+import csv
+
+# Create RDF graph and define namespaces
+ontology = Graph()
+ex = Namespace("")  # Using empty namespace as requested
+ontology.bind("ex", ex)
+
+# Explicitly define ontology types if not already present
 ontology.add((ex.Person, RDF.type, RDFS.Class))
 ontology.add((ex.Course, RDF.type, RDFS.Class))
 ontology.add((ex.Department, RDF.type, RDFS.Class))
@@ -112,45 +125,56 @@ def validate_and_convert_graph(nx_graph, rdf_ontology):
 
 # Function to convert RDF graph to NetworkX graph
 def rdf_to_networkx(rdf_graph):
+    """
+    Convert an RDF graph to a NetworkX graph and ensure only types from the ontology
+    are assigned as node labels.
+    """
     G = nx.Graph()
+
+    exclude_nodes = {ex.Person, ex.Course, ex.Department, ex.Building}
+    exclude_properties = {RDF.type, OWL.ObjectProperty}
 
     # Step 1: Add nodes and edges for actual entities (subjects and objects)
     for s, p, o in rdf_graph:
-        # Add subjects and objects as nodes (predicates are excluded)
-        if isinstance(s, URIRef):  # Subject is always an entity
-            G.add_node(str(s))
-        if isinstance(o, URIRef) and p != RDF.type:  # Object is an entity, but skip rdf:type
-            G.add_node(str(o))
+        # Skip rdf:type and owl:ObjectProperty for relationships
+        if p == RDF.type:
+            # Assign type only if the type is one of the ontology classes
+            if o in exclude_nodes:
+                # Ensure the node is added before assigning a label
+                if str(s) not in G:
+                    G.add_node(str(s))
+                G.nodes[str(s)]['label'] = o.split('/')[-1]  # Assign label (e.g., Person, Course)
+            continue
 
-        # Add edge (subject -> object) with predicate as the label
+        # Add nodes for subjects and objects (only actual entities, not classes)
+        if isinstance(s, URIRef):
+            if str(s) not in G:  # Add the subject node if not already present
+                G.add_node(str(s))
+
+        if isinstance(o, URIRef) and p not in exclude_properties:
+            if str(o) not in G:  # Add the object node if not already present
+                G.add_node(str(o))
+
+        # Add edge (subject -> object) with predicate as the label (ignore rdf:type)
         if isinstance(o, URIRef) and p != RDF.type:
             G.add_edge(str(s), str(o), label=str(p))
 
-        # Assign rdf:type as a label for the subject (without treating rdf:type as a node)
-        if p == RDF.type and isinstance(s, URIRef):
-            node_type = str(o).split('/')[-1]  # Get the type (Person, Course, etc.)
-            G.nodes[str(s)]['label'] = node_type  # Assign the node type as label
-
     return G
+
 
 # Function to evaluate the completeness of the graph
 def evaluate_graph_completeness(nx_graph, expected_labels):
     """
     Evaluate completeness by checking if all expected node types are present.
     """
-    # Extract labels from the nodes in the NetworkX graph
     node_labels = set(data.get('label') for node, data in nx_graph.nodes(data=True) if 'label' in data)
-
-    # Convert expected labels to strings (since they are URIRefs)
     expected_label_strs = set(str(label) for label in expected_labels)
 
     print(f"expected_labels: {expected_label_strs}")
     print(f"node_labels: {node_labels}")
 
-    # Compute missing labels
     missing_labels = expected_label_strs - node_labels
     completeness_score = (len(expected_label_strs) - len(missing_labels)) / len(expected_label_strs)
-
     print(f"Completeness Score: {completeness_score:.2f}")
     if missing_labels:
         print(f"Missing node labels: {missing_labels}")
@@ -167,7 +191,6 @@ def evaluate_graph_consistency(nx_graph):
         relationship = edge_data['label']
         if relationship == 'INVALID_RELATIONSHIP':
             invalid_relationships.append((u, v))
-
     consistency_score = 1 if not invalid_relationships else 1 - (len(invalid_relationships) / nx_graph.number_of_edges())
     print(f"Consistency Score: {consistency_score:.2f}")
     if invalid_relationships:
