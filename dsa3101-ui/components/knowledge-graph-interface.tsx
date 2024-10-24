@@ -37,28 +37,32 @@ const OntologySelection = ({ onCustomUpload, onGenerateOntology }: { onCustomUpl
   <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
     <div className="bg-white p-6 rounded-lg">
       <h2 className="text-xl font-bold mb-4">Select Ontology</h2>
-      <div className="flex space-x-4">
-        <div>
-          <Input
-            type="file"
-            accept=".txt,.owl"
-            onChange={(e) => {
-              const file = e.target.files?.[0];
-              if (file && (file.name.endsWith('.txt') || file.name.endsWith('.owl'))) {
-                onCustomUpload(file);
-              } else {
-                alert('Please upload a .txt or .owl file');
-              }
-            }}
-            className="mb-2"
-          />
-          <Button variant="outline" onClick={() => document.querySelector('input[type="file"]')?.click()}>
+      <Input
+        type="file"
+        accept=".txt,.owl"
+        onChange={(e) => {
+          const file = e.target.files?.[0];
+          if (file && (file.name.endsWith('.txt') || file.name.endsWith('.owl'))) {
+            onCustomUpload(file);
+          } else {
+            alert('Please upload a .txt or .owl file.');
+          }
+        }}
+        className="hidden"
+        id="ontology-file-upload"
+      />
+      <div className="flex flex-col space-y-4">
+        <Button variant="outline" onClick={() => document.getElementById('ontology-file-upload')?.click()}>
+          Choose File
+        </Button>
+        <div className="flex space-x-2">
+          <Button variant="outline" onClick={() => document.getElementById('ontology-file-upload')?.click()} className="flex-1">
             Upload Custom Ontology
           </Button>
+          <Button onClick={onGenerateOntology} className="flex-1">
+            Use LLM-Generated Ontology
+          </Button>
         </div>
-        <Button onClick={onGenerateOntology}>
-          Use LLM-Generated Ontology
-        </Button>
       </div>
     </div>
   </div>
@@ -305,10 +309,12 @@ export function KnowledgeGraphInterface() {
         <OntologySelection 
           onCustomUpload={(file) => {
             // Handle custom ontology upload
-            setShowOntologySelection(true)
+            // Process the ontology file here
+            setShowOntologySelection(false)
           }}
           onGenerateOntology={() => {
             // Handle LLM-generated ontology
+            // Generate or fetch the ontology here
             setShowOntologySelection(false)
           }}
         />
