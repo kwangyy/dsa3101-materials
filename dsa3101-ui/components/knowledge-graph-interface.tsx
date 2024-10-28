@@ -10,7 +10,7 @@ import {
   ResizablePanel,
   ResizablePanelGroup,
 } from "@/components/ui/resizable"
-import { ChatInterface } from "./knowledge-graph/ChatInterface"
+import { ChatInterface } from "./chat/ChatInterface"
 import { OntologySelection } from "./knowledge-graph/OntologySelection"
 import { UploadModal } from "./knowledge-graph/UploadModal"
 import KnowledgeGraphD3 from "./KnowledgeGraphD3"
@@ -86,7 +86,19 @@ export function KnowledgeGraphInterface() {
       uniqueNodes.add(item.tail_node);
     });
 
-    const nodes = Array.from(uniqueNodes).map(id => ({ id }));
+    const nodes = Array.from(uniqueNodes).map(id => ({
+      id,
+      details: {
+        type: "Entity",
+        connections: apiResponse.filter(item => 
+          item.head_node === id || item.tail_node === id
+        ).length,
+        relationships: apiResponse
+          .filter(item => item.head_node === id || item.tail_node === id)
+          .map(item => item.relationship)
+          .filter((value, index, self) => self.indexOf(value) === index) // Remove duplicates
+      }
+    }));
     const links = apiResponse.map((item: any) => ({
       source: item.head_node,
       target: item.tail_node,
@@ -115,7 +127,7 @@ export function KnowledgeGraphInterface() {
             <span className="sr-only">Collapse sidebar</span>
           </Button>
           <div className="p-4 border-b border-gray-200">
-            <h2 className="text-lg font-semibold mb-4">Knowledge Graphs</h2>
+            <h2 className="text-lg font-semibold mb-4">node.py</h2>
             <div className="flex space-x-2">
               <Input
                 type="text"

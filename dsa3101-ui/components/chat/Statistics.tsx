@@ -9,4 +9,4 @@ export const Statistics = () => (
       <li>Queries: 9,012</li>
     </ul>
   </div>
-)
+);
