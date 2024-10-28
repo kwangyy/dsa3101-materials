@@ -1,116 +1,39 @@
 "use client"
 
 import { useState } from "react"
-import { Send, Plus, Trash2, ChevronLeft, ChevronRight } from "lucide-react"
+import { Plus, Trash2, ChevronLeft, ChevronRight } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { ScrollArea } from "@/components/ui/scroll-area"
-import { Separator } from "@/components/ui/separator"
 import {
   ResizableHandle,
   ResizablePanel,
   ResizablePanelGroup,
 } from "@/components/ui/resizable"
-
-const KnowledgeGraph = ({ name, data, onUploadClick }: { name: string; data: string | null; onUploadClick: () => void }) => (
-  <div className="w-full h-full bg-muted rounded-lg flex flex-col items-center justify-center p-4">
-    {data ? (
-      <p className="text-muted-foreground">Knowledge Graph: {name}</p>
-    ) : (
-      <Button onClick={onUploadClick}>Upload</Button>
-    )}
-  </div>
-)
-
-const Statistics = () => (
-  <div className="bg-muted p-4 rounded-lg">
-    <h3 className="font-semibold mb-2">Statistics</h3>
-    <ul className="space-y-1 text-sm">
-      <li>Nodes: 1,234</li>
-      <li>Edges: 5,678</li>
-      <li>Queries: 9,012</li>
-    </ul>
-  </div>
-)
-
-const OntologySelection = ({ onCustomUpload, onGenerateOntology }: { onCustomUpload: (file: File) => void; onGenerateOntology: () => void }) => (
-  <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
-    <div className="bg-white p-6 rounded-lg">
-      <h2 className="text-xl font-bold mb-4">Select Ontology</h2>
-      <Input
-        type="file"
-        accept=".txt,.owl"
-        onChange={(e) => {
-          const file = e.target.files?.[0];
-          if (file && (file.name.endsWith('.txt') || file.name.endsWith('.owl'))) {
-            onCustomUpload(file);
-          } else {
-            alert('Please upload a .txt or .owl file.');
-          }
-        }}
-        className="hidden"
-        id="ontology-file-upload"
-      />
-      <div className="flex flex-col space-y-4">
-        <Button variant="outline" onClick={() => document.getElementById('ontology-file-upload')?.click()}>
-          Choose File
-        </Button>
-        <div className="flex space-x-2">
-          <Button variant="outline" onClick={() => document.getElementById('ontology-file-upload')?.click()} className="flex-1">
-            Upload Custom Ontology
-          </Button>
-          <Button onClick={onGenerateOntology} className="flex-1">
-            Use LLM-Generated Ontology
-          </Button>
-        </div>
-      </div>
-    </div>
-  </div>
-)
-
-const UploadModal = ({ isOpen, onClose, onUpload }: { isOpen: boolean; onClose: () => void; onUpload: (file: File) => void }) => {
-  if (!isOpen) return null;
-
-  return (
-    <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
-      <div className="bg-white p-6 rounded-lg">
-        <h2 className="text-xl font-bold mb-4">Upload Data</h2>
-        <Input
-          type="file"
-          accept=".txt"
-          onChange={(e) => {
-            const file = e.target.files?.[0];
-            if (file && file.name.endsWith('.txt')) {
-              onUpload(file);
-              onClose();
-            } else {
-              alert('Please upload a .txt file');
-            }
-          }}
-          className="hidden"
-          id="file-upload"
-        />
-        <div className="mt-4 flex justify-end">
-          <Button onClick={onClose} variant="outline" className="mr-2">Cancel</Button>
-          <Button onClick={() => document.getElementById('file-upload')?.click()} variant="outline">Select File</Button>
-        </div>
-      </div>
-    </div>
-  )
-}
+import { ChatInterface } from "./knowledge-graph/ChatInterface"
+import { OntologySelection } from "./knowledge-graph/OntologySelection"
+import { UploadModal } from "./knowledge-graph/UploadModal"
+import KnowledgeGraphD3 from "./KnowledgeGraphD3"
 
 export function KnowledgeGraphInterface() {
+  // States from original component
   const [messages, setMessages] = useState([
     { role: "system", content: "Welcome to the Knowledge Graph interface. How can I assist you?" },
   ])
   const [input, setInput] = useState("")
   const [graphs, setGraphs] = useState([])
-  const [selectedGraph, setSelectedGraph] = useState<{ id: number; name: string; data: string | null } | null>(null)
+  const [selectedGraph, setSelectedGraph] = useState<{ 
+    id: number; 
+    name: string; 
+    data: { nodes: Array<{id: string}>; links: Array<{source: string; target: string; relationship: string}> } | null 
+  } | null>(null)
   const [newGraphName, setNewGraphName] = useState("")
   const [isSidebarCollapsed, setIsSidebarCollapsed] = useState(false)
   const [isUploadModalOpen, setIsUploadModalOpen] = useState(false)
   const [showOntologySelection, setShowOntologySelection] = useState(false)
+  const [tempTextData, setTempTextData] = useState<string | null>(null)
 
+  // Handlers from original component
   const handleSend = () => {
     if (input.trim()) {
       setMessages([...messages, { role: "user", content: input }])
@@ -146,22 +69,36 @@ export function KnowledgeGraphInterface() {
   }
 
   const handleDataUpload = (file: File) => {
-    const reader = new FileReader()
+    const reader = new FileReader();
     reader.onload = (e) => {
-      const text = e.target?.result as string
-      const updatedGraphs = graphs.map(g => 
-        g.id === selectedGraph?.id ? { ...g, data: text } : g
-      )
-      setGraphs(updatedGraphs)
-      setSelectedGraph(prev => prev ? { ...prev, data: text } : null)
-      setIsUploadModalOpen(false)
-      setShowOntologySelection(true)
-    }
-    reader.readAsText(file)
-  }
+      const text = e.target?.result as string;
+      setTempTextData(text);  // Store the text data temporarily
+      setShowOntologySelection(true);  // Show ontology selection screen
+      setIsUploadModalOpen(false);
+    };
+    reader.readAsText(file);
+  };
+
+  const transformGraphData = (apiResponse: any) => {
+    const uniqueNodes = new Set<string>();
+    apiResponse.forEach((item: any) => {
+      uniqueNodes.add(item.head_node);
+      uniqueNodes.add(item.tail_node);
+    });
+
+    const nodes = Array.from(uniqueNodes).map(id => ({ id }));
+    const links = apiResponse.map((item: any) => ({
+      source: item.head_node,
+      target: item.tail_node,
+      relationship: item.relationship
+    }));
+
+    return { nodes, links };
+  };
 
   return (
     <div className="flex h-screen max-h-screen">
+      {/* Sidebar */}
       <div
         className={`bg-gray-100 text-gray-800 transition-all duration-300 ease-in-out ${
           isSidebarCollapsed ? 'w-0 min-w-0 overflow-hidden' : 'w-64 min-w-64'
@@ -224,9 +161,11 @@ export function KnowledgeGraphInterface() {
           </ScrollArea>
         </div>
       </div>
+
       <ResizablePanelGroup direction="horizontal" className="flex-1">
         <ResizablePanel defaultSize={50}>
           <div className="p-4 h-full relative">
+            {/* Knowledge Graph Panel */}
             <div className="flex items-center mb-4">
               {isSidebarCollapsed && (
                 <Button
@@ -239,13 +178,15 @@ export function KnowledgeGraphInterface() {
                   <span className="sr-only">Expand sidebar</span>
                 </Button>
               )}
-              <h2 className="text-lg font-semibold">Knowledge Graph</h2>
+              <h2 className="text-lg font-semibold flex-grow">Knowledge Graph</h2>
             </div>
             {selectedGraph ? (
-              <KnowledgeGraph 
-                name={selectedGraph.name} 
-                data={selectedGraph.data} 
-                onUploadClick={() => setIsUploadModalOpen(true)} 
+              <KnowledgeGraphD3 
+                nodes={selectedGraph.data?.nodes || []}
+                links={selectedGraph.data?.links || []}
+                onUploadClick={() => setIsUploadModalOpen(true)}
+                data={selectedGraph.data}
+                name={selectedGraph.name}
               />
             ) : (
               <div className="w-full h-full flex items-center justify-center">
@@ -256,50 +197,17 @@ export function KnowledgeGraphInterface() {
         </ResizablePanel>
         <ResizableHandle withHandle />
         <ResizablePanel defaultSize={50}>
-          <div className="flex flex-col h-full">
-            <div className="flex-1 p-4 flex flex-col">
-              <h2 className="text-lg font-semibold mb-4">Search Interface</h2>
-              <ScrollArea className="flex-1 pr-4">
-                {messages.map((message, index) => (
-                  <div
-                    key={index}
-                    className={`mb-4 ${
-                      message.role === "user" ? "text-right" : "text-left"
-                    }`}
-                  >
-                    <span
-                      className={`inline-block p-2 rounded-lg ${
-                        message.role === "user"
-                          ? "bg-primary text-primary-foreground"
-                          : "bg-muted"
-                      }`}
-                    >
-                      {message.content}
-                    </span>
-                  </div>
-                ))}
-              </ScrollArea>
-              <Separator className="my-4" />
-              <div className="flex items-center space-x-2">
-                <Input
-                  type="text"
-                  placeholder="Search the knowledge graph..."
-                  value={input}
-                  onChange={(e) => setInput(e.target.value)}
-                  onKeyPress={(e) => e.key === "Enter" && handleSend()}
-                />
-                <Button onClick={handleSend}>
-                  <Send className="h-4 w-4" />
-                  <span className="sr-only">Send</span>
-                </Button>
-              </div>
-            </div>
-            <div className="p-4 border-t">
-              <Statistics />
-            </div>
-          </div>
+          {/* Chat Interface */}
+          <ChatInterface
+            messages={messages}
+            input={input}
+            onInputChange={(value) => setInput(value)}
+            onSend={handleSend}
+          />
         </ResizablePanel>
       </ResizablePanelGroup>
+
+      {/* Modals */}
       <UploadModal 
         isOpen={isUploadModalOpen} 
         onClose={() => setIsUploadModalOpen(false)} 
@@ -307,15 +215,60 @@ export function KnowledgeGraphInterface() {
       />
       {showOntologySelection && (
         <OntologySelection 
-          onCustomUpload={(file) => {
-            // Handle custom ontology upload
-            // Process the ontology file here
-            setShowOntologySelection(false)
+          onCustomUpload={async (file) => {
+            const reader = new FileReader();
+            reader.onload = async (e) => {
+              const ontologyText = e.target?.result as string;
+              try {
+                const response = await fetch('/api/process-data', {
+                  method: 'POST',
+                  headers: { 'Content-Type': 'application/json' },
+                  body: JSON.stringify({ 
+                    data: tempTextData, 
+                    ontology: ontologyText 
+                  }),
+                });
+                
+                const result = await response.json();
+                if (result.error) throw new Error(result.error);
+                
+                const graphData = transformGraphData(result.entityResult);
+                const updatedGraphs = graphs.map(g => 
+                  g.id === selectedGraph?.id ? { ...g, data: graphData } : g
+                );
+                setGraphs(updatedGraphs);
+                setSelectedGraph(prev => prev ? { ...prev, data: graphData } : null);
+                setShowOntologySelection(false);
+              } catch (error) {
+                console.error('Error:', error);
+              }
+            };
+            reader.readAsText(file);
           }}
-          onGenerateOntology={() => {
-            // Handle LLM-generated ontology
-            // Generate or fetch the ontology here
-            setShowOntologySelection(false)
+          onGenerateOntology={async () => {
+            try {
+              const response = await fetch('/api/process-data', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ 
+                  data: tempTextData, 
+                  ontology: null 
+                }),
+              });
+              
+              const result = await response.json();
+              if (result.error) throw new Error(result.error);
+              
+              const graphData = transformGraphData(result.entityResult);
+              const updatedGraphs = graphs.map(g => 
+                g.id === selectedGraph?.id ? { ...g, data: graphData } : g
+              );
+              setGraphs(updatedGraphs);
+              setSelectedGraph(prev => prev ? { ...prev, data: graphData } : null);
+              setShowOntologySelection(false);
+            } catch (error) {
+              console.error('Error:', error);
+            }
           }}
         />
       )}

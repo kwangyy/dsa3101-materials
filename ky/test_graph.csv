@@ -1,0 +1,21 @@
+,head_node,relationship,tail_node
+0,Dr. Alice Smith,teaches,AI 101
+1,Bob Johnson,enrolledIn,AI 101
+2,Dr. Alice Smith,worksIn,Computer Science
+3,Computer Science,locatedIn,Engineering Hall
+4,Computer Science,offers,AI 101
+5,Dr. John Doe,teaches,Data Structures
+6,Jane Doe,enrolledIn,Data Structures
+7,Computer Science,offers,Data Structures
+8,Dr. John Doe,worksIn,Computer Science
+9,Mathematics,locatedIn,Science Building
+10,Dr. Emily White,teaches,Calculus I
+11,Alice Green,enrolledIn,Calculus I
+12,Mathematics,offers,Calculus I
+13,Dr. Emily White,worksIn,Mathematics
+14,Dr. Alice Smith,teaches,Machine Learning
+15,Bob Johnson,enrolledIn,Machine Learning
+16,Computer Science,offers,Machine Learning
+17,Dr. Mark Brown,teaches,Operating Systems
+18,Computer Science,offers,Operating Systems
+19,Engineering Hall,locatedIn,North Campus
