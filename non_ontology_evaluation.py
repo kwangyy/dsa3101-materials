@@ -1,6 +1,7 @@
 import networkx as nx
 import matplotlib.pyplot as plt  # Import matplotlib for plotting
 from ontology_evaluation import evaluate_graph_completeness, evaluate_graph_consistency, evaluate_query_performance, generate_non_ontology_knowledge_graph, ex
+from ontology_evaluation import ontology
 
 # Non-ontology data
 non_ontology_data = [
@@ -23,7 +24,7 @@ expected_node_types = {ex.Person, ex.Course, ex.Department, ex.Building}
 evaluate_graph_completeness(non_ontology_graph, expected_node_types)
 
 # Evaluate consistency (expected to be poor)
-evaluate_graph_consistency(non_ontology_graph)
+evaluate_graph_consistency(non_ontology_graph, ontology)
 
 # Example queries for non-ontology dataset
 example_queries_non_ontology = [
