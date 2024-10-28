@@ -4,6 +4,7 @@ from rdflib.namespace import RDFS, OWL
 import matplotlib.pyplot as plt
 from urllib.parse import quote, unquote
 import csv
+from collections import deque
 
 # Create RDF graph and define namespaces
 ontology = Graph()
@@ -70,7 +71,7 @@ def assign_node_type(node_uri, relationship_uri, rdf_graph, is_subject=True):
             rdf_graph.add((node_uri, RDF.type, ex.Building))
 
     # Logging for debugging
-    print(f"Assigned type for {node_uri}: {rdf_graph.value(node_uri, RDF.type)}")
+    # print(f"Assigned type for {node_uri}: {rdf_graph.value(node_uri, RDF.type)}")
 
 # Function to infer node types for existing nodes
 def infer_node_type(node_uri, relationship_uri, ontology):
@@ -84,11 +85,11 @@ def infer_node_type(node_uri, relationship_uri, ontology):
     return None
 
 # Add triples from the CSV file to the RDF graph
-add_triples_from_csv('dsa3101-materials/kg_construct/test_graph.csv', ontology, ex)
+add_triples_from_csv('kg_construct/test_graph.csv', ontology, ex)
 
 # Check the RDF graph after adding triples and assigning types
-print("RDF graph after adding triples and assigning types:")
-print(ontology.serialize(format='turtle'))
+# print("RDF graph after adding triples and assigning types:")
+# print(ontology.serialize(format='turtle'))
 
 # Function to validate and convert a NetworkX graph to an RDF graph
 def validate_and_convert_graph(nx_graph, rdf_ontology):
@@ -166,8 +167,8 @@ def evaluate_graph_completeness(nx_graph, expected_labels):
     node_labels = set(data.get('label') for node, data in nx_graph.nodes(data=True) if 'label' in data)
     expected_label_strs = set(str(label) for label in expected_labels)
 
-    print(f"expected_labels: {expected_label_strs}")
-    print(f"node_labels: {node_labels}")
+    # print(f"expected_labels: {expected_label_strs}")
+    # print(f"node_labels: {node_labels}")
 
     missing_labels = expected_label_strs - node_labels
     completeness_score = (len(expected_label_strs) - len(missing_labels)) / len(expected_label_strs)
@@ -233,6 +234,71 @@ def evaluate_query_performance(nx_graph, queries):
     utility_score = success_count / len(queries)
     print(f"Utility Score: {utility_score:.2f}")
 
+# Function to get instances of a target class in the ontology
+def get_class_instances(ontology, target_class):
+    instances = set()
+    for instance in ontology.subjects(RDF.type, target_class):
+        instances.add(instance)
+    return instances
+
+# Function to get all instances in the ontology
+def get_all_instances_count(ontology):
+    instance_count = 0
+    for s, p, o in ontology.triples((None, RDF.type, None)):
+        instance_count += 1
+    return instance_count
+
+# Function to get subclasses of a parent class
+def get_subclasses(ontology, parent_class):
+    subclasses = {}
+    queue = deque([(parent_class, 0)])  # Track distance from parent_class
+
+    while queue:
+        current_class, distance = queue.popleft()
+        for subclass in ontology.subjects(RDFS.subClassOf, current_class):
+            if subclass not in subclasses:
+                subclasses[subclass] = distance + 1
+                queue.append((subclass, distance + 1))
+
+    return subclasses
+
+# Evluate the knowledge graph via the structural metrics
+def evaluate_class_instantiation_for_class(ontology, target_class):
+    # debug
+    print(f"target_class: {target_class}")
+
+    # Get instances of the target class and total instances in the knowledge graph
+    class_instances = get_class_instances(ontology, target_class)
+    total_instances = get_all_instances_count(ontology)
+    
+    if total_instances == 0:
+        print(f"Class Instantiation Value for class {target_class}: 0")
+        return 0  # Avoid division by zero
+
+    # Calculate instantiation ratio for the target class
+    ir_c = len(class_instances) / total_instances
+
+    # Get subclasses and their distances
+    subclasses = get_subclasses(ontology, target_class)
+
+    # Calculate CI(Class)
+    ci_value = ir_c
+    for subclass, distance in subclasses.items():
+        subclass_instances = get_class_instances(ontology, subclass)
+        ir_subclass = len(subclass_instances) / total_instances
+        ci_value += ir_subclass / (2 ** distance)
+
+    print(f"Class Instantiation Value for class {target_class}: {ci_value:.2f}")
+    return ci_value
+
+# Function to evaluate class instantiation for all classes in the ontology
+def evaluate_class_instantiation_for_ontology(ontology):
+    total_ci = 0
+    for target_class in ontology.subjects(RDF.type, RDFS.Class):
+        total_ci += evaluate_class_instantiation_for_class(ontology, target_class)
+    print(f"Total Class Instantiation Value for the Ontology: {total_ci:.2f}")
+    return total_ci
+
 # Function to generate a knowledge graph for a non-ontology dataset
 def generate_non_ontology_knowledge_graph(data):
     G = nx.Graph()
@@ -264,6 +330,8 @@ if __name__ == "__main__":
     ]
 
     evaluate_query_performance(nx_validated_graph, example_queries)
+
+    evaluate_class_instantiation_for_ontology(ontology)
 
     # Visualize the graph
     plt.figure(figsize=(12, 10))
