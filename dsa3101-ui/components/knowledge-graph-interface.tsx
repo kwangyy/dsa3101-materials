@@ -14,24 +14,27 @@ import { ChatInterface } from "./chat/ChatInterface"
 import { OntologySelection } from "./knowledge-graph/OntologySelection"
 import { UploadModal } from "./knowledge-graph/UploadModal"
 import KnowledgeGraphD3 from "./KnowledgeGraphD3"
+import { useGraphStore } from "../stores/graphStore"
 
 export function KnowledgeGraphInterface() {
-  // States from original component
+  const { 
+    graphs, 
+    selectedGraph, 
+    setGraphs, 
+    setSelectedGraph, 
+    addGraph, 
+    deleteGraph 
+  } = useGraphStore();
+
   const [messages, setMessages] = useState([
     { role: "system", content: "Welcome to the Knowledge Graph interface. How can I assist you?" },
-  ])
-  const [input, setInput] = useState("")
-  const [graphs, setGraphs] = useState([])
-  const [selectedGraph, setSelectedGraph] = useState<{ 
-    id: number; 
-    name: string; 
-    data: { nodes: Array<{id: string}>; links: Array<{source: string; target: string; relationship: string}> } | null 
-  } | null>(null)
-  const [newGraphName, setNewGraphName] = useState("")
-  const [isSidebarCollapsed, setIsSidebarCollapsed] = useState(false)
-  const [isUploadModalOpen, setIsUploadModalOpen] = useState(false)
-  const [showOntologySelection, setShowOntologySelection] = useState(false)
-  const [tempTextData, setTempTextData] = useState<string | null>(null)
+  ]);
+  const [input, setInput] = useState("");
+  const [newGraphName, setNewGraphName] = useState("");
+  const [isSidebarCollapsed, setIsSidebarCollapsed] = useState(false);
+  const [isUploadModalOpen, setIsUploadModalOpen] = useState(false);
+  const [showOntologySelection, setShowOntologySelection] = useState(false);
+  const [tempTextData, setTempTextData] = useState<string | null>(null);
 
   // Handlers from original component
   const handleSend = () => {
