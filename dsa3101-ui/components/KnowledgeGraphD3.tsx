@@ -145,15 +145,7 @@ const KnowledgeGraphD3: React.FC<KnowledgeGraphProps> = ({ nodes, links, onUploa
 
     svg.call(zoomRef.current as any);
 
-    // Modify the D3 visualization effect
-    const simulation = d3.forceSimulation(nodes)
-      .force('link', d3.forceLink(links).id((d: any) => d.id).distance(200)) // Increased distance
-      .force('charge', d3.forceManyBody().strength(-2000)) // Much stronger repulsion
-      .force('center', d3.forceCenter(dimensions.width / 2, dimensions.height / 2))
-      .force('x', d3.forceX(dimensions.width / 2).strength(0.1))
-      .force('y', d3.forceY(dimensions.height / 2).strength(0.1));
-
-    // Define arrow marker first
+    // Define arrow marker
     const defs = svg.append('defs');
     defs.append('marker')
       .attr('id', 'arrowhead')
@@ -167,57 +159,140 @@ const KnowledgeGraphD3: React.FC<KnowledgeGraphProps> = ({ nodes, links, onUploa
       .attr('d', 'M0,-5L10,0L0,5')
       .attr('fill', '#999');
 
+    // Create the force simulation
+    const simulation = d3.forceSimulation(nodes)
+      .force('link', d3.forceLink(links).id((d: any) => d.id).distance(150))  // Increased distance
+      .force('charge', d3.forceManyBody().strength(-500))  // Stronger repulsion
+      .force('center', d3.forceCenter(dimensions.width / 2, dimensions.height / 2))
+      .force('collision', d3.forceCollide().radius(60));  // Increased collision radius
+
     // Create links with arrows
     const l = g.append('g')
-      .selectAll('path')  // Changed from 'line' to 'path'
+      .selectAll('path')
       .data(links)
       .join('path')
       .attr('stroke', '#999')
       .attr('stroke-width', 1.5)
       .attr('fill', 'none')
-      .attr('marker-end', 'url(#arrowhead)');  // Add arrow marker
+      .attr('marker-end', 'url(#arrowhead)');
 
     // Create link labels
     const linkText = g.append('g')
       .selectAll('text')
       .data(links)
       .join('text')
-      .text(d => d.relationship)
-      .attr('font-size', '8px')
-      .attr('text-anchor', 'middle')
-      .attr('dy', -5);
+      .attr('font-size', '10px')
+      .attr('fill', '#666')
+      .text((d: any) => d.relationship);
 
-    // Create node groups
+    // Create nodes group
     const nodeGroup = g.append('g')
       .selectAll('g')
       .data(nodes)
-      .join('g');
+      .join('g')
+      .attr('class', 'node');
 
-    // Add main circle for each node
+    // Add circles to nodes
     nodeGroup.append('circle')
       .attr('r', 30)
-      .attr('fill', '#69b3a2')
-      .attr('stroke', '#fff')
-      .attr('stroke-width', 2);
+      .attr('fill', '#69b3a2');
 
-    // Add node labels
+    // Add labels to nodes
     nodeGroup.append('text')
       .text((d: any) => d.id)
       .attr('text-anchor', 'middle')
       .attr('dy', '.35em')
-      .attr('font-size', '14px')
-      .attr('fill', 'black')  // Changed from 'white' to 'black'
-      .attr('font-weight', 'bold');
+      .attr('font-size', '12px')
+      .attr('fill', 'black')
+      .attr('font-weight', 'bold')
+      .each(function(d: any) {  // Handle long text
+        const text = d3.select(this);
+        const words = d.id.split(/\s+/);
+        if (words.length > 2) {
+          text.text('');
+          text.append('tspan')
+            .attr('x', 0)
+            .attr('dy', '-0.5em')
+            .text(words.slice(0, 2).join(' '));
+          text.append('tspan')
+            .attr('x', 0)
+            .attr('dy', '1.2em')
+            .text(words.slice(2).join(' '));
+        }
+      });
+
+    // Define and add drag behavior
+    const drag = d3.drag<SVGGElement, any>()
+      .on('start', (event) => {
+        if (!event.active) simulation.alphaTarget(0.3).restart();
+        const d = event.subject;
+        d.fx = d.x;
+        d.fy = d.y;
+      })
+      .on('drag', (event) => {
+        const d = event.subject;
+        d.fx = event.x;
+        d.fy = event.y;
+      })
+      .on('end', (event) => {
+        if (!event.active) simulation.alphaTarget(0);
+        const d = event.subject;
+        d.fx = null;
+        d.fy = null;
+      });
+
+    // Apply drag to nodes
+    nodeGroup.call(drag as any);
+
+    // Update positions on each tick
+    simulation.on('tick', () => {
+      // Update node positions
+      nodeGroup.attr('transform', (d: any) => `translate(${d.x},${d.y})`);
+
+      // Update link positions with arrows
+      l.attr('d', (d: any) => {
+        const dx = d.target.x - d.source.x;
+        const dy = d.target.y - d.source.y;
+        const dr = Math.sqrt(dx * dx + dy * dy);
+        const endPointRatio = (dr - 32) / dr;
+        const endX = d.source.x + dx * endPointRatio;
+        const endY = d.source.y + dy * endPointRatio;
+        return `M${d.source.x},${d.source.y}L${endX},${endY}`;
+      });
+
+      // Update link label positions
+      linkText
+        .attr('x', (d: any) => (d.source.x + d.target.x) / 2)
+        .attr('y', (d: any) => (d.source.y + d.target.y) / 2 - 5);
+
+      // Update info box positions
+      infoBoxContainer.selectAll('.info-box')
+        .attr('transform', function() {
+          const node = d3.select(this).datum() as any;
+          return `translate(${node.x},${node.y})`;
+        });
+    });
 
     // Create a separate group for info boxes at the top level
     const infoBoxContainer = g.append('g')
       .attr('class', 'info-box-container');
 
-    // Node click handler with immediate box rendering
+    // Add click handler for nodes
     nodeGroup.on('click', async function(event, d: any) {
       event.stopPropagation();
       
-      // Remove existing info boxes
+      // Check if clicking the same node
+      const existingBox = infoBoxContainer.selectAll('.info-box').filter(function(data: any) {
+        return data.id === d.id;
+      });
+      
+      // If info box exists for this node, remove it and return
+      if (!existingBox.empty()) {
+        existingBox.remove();
+        return;
+      }
+      
+      // Remove any other existing info boxes
       infoBoxContainer.selectAll('*').remove();
       
       // Create new info box
@@ -322,39 +397,6 @@ const KnowledgeGraphD3: React.FC<KnowledgeGraphProps> = ({ nodes, links, onUploa
     // Add click handler to svg to close info boxes
     svg.on('click', () => {
       infoBoxContainer.selectAll('*').remove();
-    });
-
-    // Update the simulation tick function
-    simulation.on('tick', () => {
-      // Update node positions
-      nodeGroup
-        .attr('transform', (d: any) => `translate(${d.x},${d.y})`);
-
-      // Update link positions with arrows
-      l.attr('d', (d: any) => {
-        const dx = d.target.x - d.source.x;
-        const dy = d.target.y - d.source.y;
-        const dr = Math.sqrt(dx * dx + dy * dy);
-        
-        // Calculate end point before the node
-        const endPointRatio = (dr - 32) / dr;
-        const endX = d.source.x + dx * endPointRatio;
-        const endY = d.source.y + dy * endPointRatio;
-        
-        return `M${d.source.x},${d.source.y}L${endX},${endY}`;
-      });
-
-      // Update info box positions
-      infoBoxContainer.selectAll('.info-box')
-        .attr('transform', function() {
-          const node = d3.select(this).datum() as any;
-          return `translate(${node.x},${node.y})`;
-        });
-
-      // Update link label positions
-      linkText
-        .attr('x', (d: any) => (d.source.x + d.target.x) / 2)
-        .attr('y', (d: any) => (d.source.y + d.target.y) / 2);
     });
   }, [nodes, links, dimensions]);
 
