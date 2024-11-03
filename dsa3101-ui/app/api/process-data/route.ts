@@ -2,21 +2,34 @@ import { NextRequest, NextResponse } from 'next/server';
 
 export async function POST(req: NextRequest) {
   try {
-    const { data, ontology } = await req.json();
-    console.log('Received data:', data);
-    console.log('Received ontology:', ontology);
+    const body = await req.json();
+    console.log('Raw request body:', body);
+
+    const { data } = body;
+    console.log('Destructured data:', data);
+
+    if (!data) {
+      console.error('No data provided');
+      return NextResponse.json({ error: 'No data provided' }, { status: 400 });
+    }
 
     const response = await fetch('http://127.0.0.1:5000/api/process-data', {
       method: 'POST',
       headers: { 
         'Content-Type': 'application/json',
         'Accept': 'application/json',
-        'Access-Control-Allow-Origin': '*'
       },
-      body: JSON.stringify({ data, ontology }),
+      body: JSON.stringify({ data }),
     });
 
     console.log('Response status:', response.status);
+    
+    if (!response.ok) {
+      const errorText = await response.text();
+      console.error('Error response:', errorText);
+      return NextResponse.json({ error: errorText }, { status: response.status });
+    }
+
     const result = await response.json();
     console.log('Response data:', result);
 

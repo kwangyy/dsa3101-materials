@@ -16,8 +16,5 @@ export const ChatInterface = ({ messages, input, onInputChange, onSend }: ChatIn
         onSend={onSend}
       />
     </div>
-    <div className="p-4 border-t">
-      <Statistics />
-    </div>
   </div>
 )

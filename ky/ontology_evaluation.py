@@ -1,3 +1,5 @@
+import json
+
 def evaluate_graph_completeness(triplets, ontology):
     """Evaluate completeness of graph against ontology"""
     # Get expected types from ontology
@@ -175,19 +177,27 @@ def evaluate_all_metrics(response_json, ontology_json):
         'overall_score': (completeness_score + consistency_score + (ner_results['accuracy']/100)) / 3
     }
     
-    # Print comprehensive summary
-    print("\nComprehensive Evaluation Summary:")
-    print(f"Completeness Score: {combined_metrics['completeness_score']:.2f}")
-    print(f"Consistency Score: {combined_metrics['consistency_score']:.2f}")
-    print(f"Accuracy: {combined_metrics['accuracy']:.2f}%")
-    print(f"Valid Relationships: {combined_metrics['valid_count']}")
-    print(f"Invalid Relationships: {combined_metrics['invalid_count']}")
-    print(f"Overall Score: {combined_metrics['overall_score']:.2f}")
+    # # Print comprehensive summary
+    # print("\nComprehensive Evaluation Summary:")
+    # print(f"Completeness Score: {combined_metrics['completeness_score']:.2f}")
+    # print(f"Consistency Score: {combined_metrics['consistency_score']:.2f}")
+    # print(f"Accuracy: {combined_metrics['accuracy']:.2f}%")
+    # print(f"Valid Relationships: {combined_metrics['valid_count']}")
+    # print(f"Invalid Relationships: {combined_metrics['invalid_count']}")
+    # print(f"Overall Score: {combined_metrics['overall_score']:.2f}")
     
-    if combined_metrics['invalid_cases']:
-        print("\nDetailed Invalid Cases:")
-        for case in combined_metrics['invalid_cases']:
-            print(f"Invalid: {case['head_type']} -[{case['relationship']}]-> {case['tail_type']}")
-            print(f"  Entities: {case['head']} -> {case['tail']}")
+    # if combined_metrics['invalid_cases']:
+    #     print("\nDetailed Invalid Cases:")
+    #     for case in combined_metrics['invalid_cases']:
+    #         print(f"Invalid: {case['head_type']} -[{case['relationship']}]-> {case['tail_type']}")
+    #         print(f"  Entities: {case['head']} -> {case['tail']}")
     
     return combined_metrics
+
+if __name__ == "__main__":
+    with open('ky/example_ontology.json', 'r') as file:
+        ontology_json = json.load(file)
+    with open('ky/example_responses.json', 'r') as file:
+        response_json = json.load(file)
+    print(ontology_json)
+    evaluate_all_metrics(response_json, ontology_json)

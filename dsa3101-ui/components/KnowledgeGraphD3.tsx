@@ -24,6 +24,7 @@ interface KnowledgeGraphProps {
   onUploadClick: () => void;
   data: any;
   name: string;
+  isLoading?: boolean;
 }
 
 // Define the drag behavior
@@ -99,7 +100,7 @@ const fetchWikipediaData = async (searchTerm: string) => {
   }
 };
 
-const KnowledgeGraphD3: React.FC<KnowledgeGraphProps> = ({ nodes, links, onUploadClick, data, name }) => {
+const KnowledgeGraphD3: React.FC<KnowledgeGraphProps> = ({ nodes, links, onUploadClick, data, name, isLoading }) => {
   const svgRef = useRef<SVGSVGElement | null>(null);
   const containerRef = useRef<HTMLDivElement | null>(null);
   const zoomRef = useRef<any>(null); // Add this line
@@ -410,7 +411,16 @@ const KnowledgeGraphD3: React.FC<KnowledgeGraphProps> = ({ nodes, links, onUploa
     );
   };
 
-  if (!nodes || nodes.length === 0) {
+  if (isLoading) {
+    return (
+      <div className="w-full h-full bg-muted rounded-lg flex flex-col items-center justify-center p-4 gap-4">
+        <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-gray-900"></div>
+        <p className="text-muted-foreground">Your knowledge graph is loading...</p>
+      </div>
+    );
+  }
+
+  if (!nodes?.length && !links?.length && !isLoading) {
     return (
       <div className="w-full h-full bg-muted rounded-lg flex flex-col items-center justify-center p-4">
         <Button onClick={onUploadClick}>Upload</Button>
