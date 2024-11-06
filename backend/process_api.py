@@ -1,13 +1,14 @@
-import pandas as pd 
 import os 
 from dotenv import load_dotenv
 from huggingface_hub import InferenceClient
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from pymongo import MongoClient
-from ontology_evaluation import evaluate_all_metrics
-from inference_model import eval_json_input
 from bson import ObjectId
+
+# Local imports 
+from llms.inference_model import infer
+from ontology.ontology_evaluation import evaluate_all_metrics
 
 # MongoDB setup
 client = MongoClient('mongodb://localhost:27017/')
@@ -35,7 +36,7 @@ def process_data():
         if not text: 
             return jsonify({'error': 'No data provided'}), 400
         
-        evaluated_data = eval_json_input(text, client)['data']
+        evaluated_data = infer(text)['data']
         
         # Create new document
         result = collection.insert_one({
