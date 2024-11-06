@@ -22,7 +22,7 @@ def prepare_prompt_for_affiliation(data, person_name):
     return prompt
 
 # Initialize Hugging Face client
-client = InferenceClient(api_key="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")
+client = InferenceClient(api_key="")
 
 # Load data from JSON file at the specified path
 data = load_data(r"C:\Users\valer\Desktop\data.json")
