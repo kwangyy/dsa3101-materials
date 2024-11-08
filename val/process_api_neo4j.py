@@ -10,7 +10,7 @@ from neo4j import GraphDatabase
 
 # Load environment variables
 load_dotenv()
-api_key = os.getenv("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")
+api_key = os.getenv("K")
 hf_client = InferenceClient("meta-llama/Llama-3.1-8B-Instruct", api_key=api_key)
 
 app = FastAPI()
@@ -27,7 +27,7 @@ app.add_middleware(
 # Neo4j setup
 NEO4J_URI = os.getenv("NEO4J_URI", "bolt://localhost:7687")
 NEO4J_USER = os.getenv("NEO4J_USER", "neo4j")
-NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "Valerie555%%%")
+NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "HF_TOKEN")
 driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
 
 # Request/Response models
