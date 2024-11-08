@@ -2,7 +2,7 @@ import re
 import json
 import os
 from typing import Optional, Dict, Any, Callable
-from huggingface_hub import InferenceClient
+from huggingface_hub import AsyncInferenceClient
 
 def extract_json_from_response(response_text: str) -> Optional[Dict[str, Any]]:
     """
@@ -41,21 +41,38 @@ def extract_json_from_response(response_text: str) -> Optional[Dict[str, Any]]:
 
     return None
 
-def create_llm_client(model_name: str, api_key: str) -> InferenceClient:
+def create_llm_client(model_name: str, api_key: str) -> AsyncInferenceClient:
     """Creates a new LLM client with the specified model and API key."""
-    return InferenceClient(model_name, api_key=api_key)
+    return AsyncInferenceClient(
+        model=model_name,
+        token=api_key
+    )
 
-def process_with_llm(
-    client: InferenceClient,
+async def process_with_llm(
+    client: AsyncInferenceClient,
     input_data: Dict[str, Any],
     prompt_template: str,
     input_key: str = "data",
     temperature: float = 0.8,
     max_tokens: int = 4096,
-    top_p: float = 0.7
-) -> Optional[Dict[str, Any]]:
+    top_p: float = 0.7,
+    json_output: bool = True
+) -> Dict[str, Any]:
     """
     Process input data using the specified prompt template and model.
+    
+    Args:
+        client: AsyncInferenceClient instance
+        input_data: Dictionary containing input data
+        prompt_template: Template string for the prompt
+        input_key: Key to access input data
+        temperature: Temperature parameter for LLM
+        max_tokens: Maximum tokens for response
+        top_p: Top p parameter for LLM
+        json_output: If True, extracts JSON from response. If False, returns content in JSON
+    
+    Returns:
+        Dict: Either the extracted JSON or {"content": response_text}
     """
     if not isinstance(input_data, dict) or input_key not in input_data:
         raise ValueError(f"Input must be a dictionary with a '{input_key}' key")
@@ -64,7 +81,7 @@ def process_with_llm(
     populated_prompt = prompt_template.format(**{input_key: content})
     
     print("Processing input...")
-    completion = client.chat.completions.create(
+    completion = await client.chat.completions.create(
         model=client.model,
         messages=[
             {"role": "user", "content": populated_prompt}
@@ -77,12 +94,14 @@ def process_with_llm(
     response_text = completion.choices[0].message.content
     print(response_text)
     
-    extracted_json = extract_json_from_response(response_text)
     print("Processing complete")
-    return extracted_json
+    if json_output:
+        extracted_json = extract_json_from_response(response_text)
+        return extracted_json if extracted_json is not None else {"content": response_text}
+    return {"content": response_text}
 
 def process_files(
-    client: InferenceClient,
+    client: AsyncInferenceClient,
     input_folder: str,
     output_folder: str,
     prompt_template: str,

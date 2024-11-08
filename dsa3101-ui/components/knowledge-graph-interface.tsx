@@ -28,9 +28,6 @@ export function KnowledgeGraphInterface() {
     updateGraph
   } = useGraphStore();
 
-  const [messages, setMessages] = useState([
-    { role: "system", content: "Welcome to the Knowledge Graph interface. How can I assist you?" },
-  ]);
   const [input, setInput] = useState("");
   const [newGraphName, setNewGraphName] = useState("");
   const [isSidebarCollapsed, setIsSidebarCollapsed] = useState(false);
@@ -40,18 +37,82 @@ export function KnowledgeGraphInterface() {
   const [metrics, setMetrics] = useState<any>(null);
 
   // Handlers from original component
-  const handleSend = () => {
-    if (input.trim()) {
-      setMessages([...messages, { role: "user", content: input }])
-      setTimeout(() => {
-        setMessages((prev) => [
-          ...prev,
-          { role: "system", content: `Here's some information about "${input}"...` },
-        ])
-      }, 1000)
-      setInput("")
+  const handleSend = async () => {
+    if (!input.trim() || !selectedGraph) return;
+
+    const userMessage: Message = {
+      role: "user",
+      content: input,
+      timestamp: new Date().toISOString(),
+    };
+    
+    // Create a new graph object with initialized messages
+    const updatedGraph = {
+      ...selectedGraph,
+      messages: selectedGraph.messages ? [...selectedGraph.messages, userMessage] : [userMessage]
+    };
+    
+    updateGraph(selectedGraph.id, updatedGraph);
+    
+    try {
+      // Get the last N messages for context (e.g., last 5 messages)
+      const recentMessages = updatedGraph.messages.slice(-5);
+      
+      // Format messages for LLM context
+      const conversationHistory = recentMessages.map(msg => ({
+        role: msg.role,
+        content: msg.content
+      }));
+
+      // Send to your API
+      const response = await fetch('/api/chat', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          currentMessage: input,
+          conversationHistory: conversationHistory,
+          graphId: selectedGraph.id,
+          graphContext: {
+            nodes: selectedGraph.data?.nodes || [],
+            relationships: selectedGraph.data?.links || []
+          }
+        })
+      });
+
+      const result = await response.json();
+      
+      const systemMessage: Message = {
+        role: "assistant",
+        content: result.response,
+        timestamp: new Date().toISOString(),
+        metadata: {
+          queryType: result.type,
+          relatedNodes: result.relatedNodes,
+          graphContext: result.graphContext
+        }
+      };
+
+      updateGraph(selectedGraph.id, {
+        ...updatedGraph,
+        messages: [...updatedGraph.messages, systemMessage]
+      });
+
+    } catch (error) {
+      console.error('Chat API Error:', error);
+      const errorMessage: Message = {
+        role: "system",
+        content: "Sorry, I encountered an error processing your request.",
+        timestamp: new Date().toISOString()
+      };
+      
+      updateGraph(selectedGraph.id, {
+        ...updatedGraph,
+        messages: [...updatedGraph.messages, errorMessage]
+      });
     }
-  }
+
+    setInput("");
+  };
 
   const handleAddGraph = () => {
     if (newGraphName.trim()) {
@@ -59,7 +120,11 @@ export function KnowledgeGraphInterface() {
         id: Date.now(),
         name: newGraphName.trim(),
         data: null,
-        isLoading: false
+        isLoading: false,
+        messages: [{ 
+          role: "system", 
+          content: "Welcome to the Knowledge Graph interface. How can I assist you?" 
+        }]
       };
       addGraph(newGraph);
       setNewGraphName("");
@@ -266,7 +331,7 @@ export function KnowledgeGraphInterface() {
           {/* Chat Interface */}
           <div className="flex flex-col h-full">
             <ChatInterface
-              messages={messages}
+              messages={selectedGraph?.messages || []}
               input={input}
               onInputChange={(value) => setInput(value)}
               onSend={handleSend}

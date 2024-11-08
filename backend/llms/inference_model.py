@@ -2,6 +2,7 @@ import os
 import json
 from dotenv import load_dotenv
 from llm_utils import create_llm_client, process_with_llm, process_files
+import asyncio
 
 load_dotenv()
 
@@ -86,23 +87,28 @@ TEXT:
 {text}
 """
 
-def infer(input_json):
-    # Convert JSON object to string if needed
+async def infer(input_json):
     if isinstance(input_json, dict):
         text_content = json.dumps(input_json, indent=2)
     else:
         text_content = str(input_json)
 
-    # Wrap the text content in a dictionary with 'text' key
     formatted_input = {'text': text_content}
     client = create_llm_client("meta-llama/Llama-3.1-8B-Instruct", os.getenv("HF_TOKEN"))
-    return process_with_llm(client, formatted_input, inference_prompt, input_key="text")
+    return await process_with_llm(client, formatted_input, inference_prompt, input_key="text")
 
 def eval_text_files(input_folder, output_folder):
     client = create_llm_client("meta-llama/Llama-3.1-8B-Instruct", os.getenv("HF_TOKEN"))
     process_files(client, input_folder, output_folder, inference_prompt)
 
 if __name__ == "__main__":
-    with open("1.json", 'r') as file:
-        json_obj = json.load(file)
-    infer(json_obj)
+    async def test_inference():
+        with open("../examples/example_response.txt", 'r') as file:
+            json_obj = file.read()
+            print(json_obj)
+
+        answer = await infer(json_obj)
+        with open("../examples/response_answer.json", "w") as file:
+            json.dump(answer, file)
+    
+    asyncio.run(test_inference())

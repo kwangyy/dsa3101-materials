@@ -195,9 +195,10 @@ def evaluate_all_metrics(response_json, ontology_json):
     return combined_metrics
 
 if __name__ == "__main__":
-    with open('ky/example_ontology.json', 'r') as file:
+    with open('../examples/ontology_answer.json', 'r') as file:
         ontology_json = json.load(file)
-    with open('ky/example_responses.json', 'r') as file:
+    with open('../examples/response_answer.json', 'r') as file:
         response_json = json.load(file)
     print(ontology_json)
+    print(response_json)
     evaluate_all_metrics(response_json, ontology_json)

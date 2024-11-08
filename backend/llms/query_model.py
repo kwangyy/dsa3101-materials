@@ -1,6 +1,7 @@
 import os
 from dotenv import load_dotenv
-from llm_utils import create_llm_client, process_with_llm
+from llms.llm_utils import create_llm_client, process_with_llm
+import asyncio
 
 load_dotenv()
 
@@ -24,10 +25,13 @@ The query has been provided below:
 {query}
 """
 
-def is_query(input_json):
+async def is_query(input_json):
     client = create_llm_client("meta-llama/Llama-3.1-8B-Instruct", os.getenv("HF_TOKEN"))
-    return process_with_llm(client, input_json, query_prompt, input_key="query")
+    return await process_with_llm(client, input_json, query_prompt, input_key="query")
 
 if __name__ == "__main__":
-    json_response = is_query({"query": "What is the capital of France?"})
-    print(json_response)
+    async def test_query():
+        json_response = await is_query({"query": "What is the capital of France?"})
+        print(json_response)
+    
+    asyncio.run(test_query())

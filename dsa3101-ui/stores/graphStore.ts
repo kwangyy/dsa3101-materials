@@ -9,6 +9,7 @@ interface Graph {
     nodes: Array<{id: string}>;
     links: Array<{source: string; target: string; relationship: string}>;
   } | null;
+  messages: Message[];
   metrics?: {
     accuracy?: number;
     completeness_score?: number;
@@ -64,7 +65,12 @@ export const useGraphStore = create<GraphState>()(
       updateGraph: (id, data) => set((state) => {
         const updatedGraphs = state.graphs.map(graph => {
           if (graph.id === id) {
-            return { ...graph, ...data };
+            return { 
+              ...graph, 
+              ...data,
+              messages: Array.isArray(data.messages) ? data.messages : 
+                       Array.isArray(graph.messages) ? graph.messages : []
+            };
           }
           return graph;
         });
