@@ -1,40 +1,58 @@
 import os 
 from dotenv import load_dotenv
 from huggingface_hub import InferenceClient
-from flask import Flask, request, jsonify
-from flask_cors import CORS
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from pymongo import MongoClient
 from bson import ObjectId
+from pydantic import BaseModel
+from typing import Dict, Any
+import uvicorn
 
 # Local imports 
 from llms.inference_model import infer
 from ontology.ontology_evaluation import evaluate_all_metrics
 
 # MongoDB setup
-client = MongoClient('mongodb://localhost:27017/')
-db = client['dsa3101']
+mongo_client = MongoClient('mongodb://localhost:27017/')
+db = mongo_client['dsa3101']
 collection = db['inference_data']
 
 load_dotenv()
 api_key = os.getenv("HF_TOKEN")
-client = InferenceClient("meta-llama/Llama-3.1-8B-Instruct", api_key=api_key)
+hf_client = InferenceClient("meta-llama/Llama-3.1-8B-Instruct", api_key=api_key)
 
-app = Flask(__name__)
-CORS(app, resources={
-    r"/api/*": {
-        "origins": ["http://localhost:3000"],
-        "methods": ["GET", "POST", "OPTIONS"],
-        "allow_headers": ["Content-Type", "Accept"]
-    }
-})
-@app.route('/api/process-data', methods=['POST'])
-def process_data():
+app = FastAPI()
+
+# CORS middleware
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000"],
+    allow_credentials=True,
+    allow_methods=["GET", "POST", "OPTIONS"],
+    allow_headers=["Content-Type", "Accept"],
+)
+
+# Request/Response models
+class ProcessResponse(BaseModel):
+    status: str
+    graphId: str
+
+class OntologyRequest(BaseModel):
+    graphId: str
+    ontology: Dict[str, Any]
+
+class OntologyResponse(BaseModel):
+    metrics: Dict[str, Any]
+    entityResult: Dict[str, Any]
+
+@app.post("/api/process-data", response_model=ProcessResponse)
+async def process_data(text: Dict[str, Any]):
     try:
-        text = request.json
         print(f"Received text: {text}")
 
-        if not text: 
-            return jsonify({'error': 'No data provided'}), 400
+        if not text:
+            raise HTTPException(status_code=400, detail="No data provided")
         
         evaluated_data = infer(text)['data']
         
@@ -43,57 +61,53 @@ def process_data():
             'data': evaluated_data
         })
 
-        return jsonify({
-            'status': 'success',
-            'graphId': str(result.inserted_id),  
-        })
+        return ProcessResponse(
+            status='success',
+            graphId=str(result.inserted_id)
+        )
         
     except Exception as e:
         print(f"Error processing data: {str(e)}")
-        return jsonify({'error': str(e)}), 500
-    
+        raise HTTPException(status_code=500, detail=str(e))
 
-@app.route('/api/process-ontology', methods=['POST'])
-def process_ontology():
+@app.post("/api/process-ontology", response_model=OntologyResponse)
+async def process_ontology(data: OntologyRequest):
     try:
-        data = request.json
         print("Received request data:", data)
-        
-        graph_id = data.get('graphId')
-        ontology = data.get('ontology')
-
-        if not graph_id:
-            return jsonify({'error': 'Missing graphId'}), 400
-            
-        if not ontology:
-            return jsonify({'error': 'Missing ontology data'}), 400
 
         try:
-            object_id = ObjectId(graph_id)
+            object_id = ObjectId(data.graphId)
             stored_data = collection.find_one({"_id": object_id})
             print(f"Stored data: {stored_data}")
 
         except Exception as e:
             print(f"MongoDB error: {str(e)}")
-            return jsonify({'error': 'Invalid graphId format'}), 400
+            raise HTTPException(status_code=400, detail="Invalid graphId format")
 
         if not stored_data:
-            return jsonify({'error': f'Document not found for graphId: {graph_id}'}), 404
+            raise HTTPException(
+                status_code=404, 
+                detail=f"Document not found for graphId: {data.graphId}"
+            )
 
         if not isinstance(stored_data, dict):
-            return jsonify({'error': 'Stored data is not in the expected format'}), 500
+            raise HTTPException(
+                status_code=500, 
+                detail="Stored data is not in the expected format"
+            )
 
-        metrics = evaluate_all_metrics(stored_data, {"ontology": ontology})
+        metrics = evaluate_all_metrics(stored_data, {"ontology": data.ontology})
         
-        return jsonify({
-            'metrics': metrics,
-            'entityResult': stored_data.get('data', {})
-        })
+        return OntologyResponse(
+            metrics=metrics,
+            entityResult=stored_data.get('data', {})
+        )
         
+    except HTTPException as he:
+        raise he
     except Exception as e:
         print(f"Detailed error in process_ontology: {str(e)}")
-        return jsonify({'error': str(e)}), 500
+        raise HTTPException(status_code=500, detail=str(e))
 
-
-if __name__ == '__main__':
-    app.run(debug=True, port=5000)
+if __name__ == "__main__":
+    uvicorn.run(app, host="0.0.0.0", port=5000)
