@@ -1,0 +1,10 @@
+# Dockerfile-backend
+FROM python:3.10
+WORKDIR /app
+COPY requirements.txt ./
+# Remove pywin32 specifically for Linux environment
+RUN sed -i '/pywin32==306/d' requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
+COPY . .
+EXPOSE 5000
+CMD ["python", "app.py"]

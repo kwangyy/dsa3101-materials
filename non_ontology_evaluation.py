@@ -1,7 +1,7 @@
 import networkx as nx
 import matplotlib.pyplot as plt  # Import matplotlib for plotting
-from ontology_evaluation import evaluate_graph_completeness, evaluate_graph_consistency, evaluate_query_performance, generate_non_ontology_knowledge_graph, ex
-from ontology_evaluation import ontology
+from backend.ontology.ontology_evaluation import evaluate_graph_completeness, evaluate_graph_consistency, evaluate_query_performance, generate_non_ontology_knowledge_graph, ex
+from backend.ontology.ontology_evaluation import ontology
 
 # Non-ontology data
 non_ontology_data = [

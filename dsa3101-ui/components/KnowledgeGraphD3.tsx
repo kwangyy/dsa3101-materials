@@ -77,7 +77,7 @@ const fetchWikipediaData = async (searchTerm: string) => {
 
     // Process results
     const topResults = searchData.query.search;
-    const similarities = topResults.map(result => ({
+    const similarities = topResults.map((result: { title: string; }) => ({
       ...result,
       similarity: computeCosineSimilarity(
         searchTerm.toLowerCase(),
@@ -85,7 +85,7 @@ const fetchWikipediaData = async (searchTerm: string) => {
       )
     }));
 
-    const goodMatches = similarities.filter(result => result.similarity > 0.8);
+    const goodMatches = similarities.filter((result: { similarity: number; }) => result.similarity > 0.8);
     if (!goodMatches.length) {
       wikiCache.set(searchTerm, { title: null, timestamp: now });
       return null;
@@ -139,7 +139,7 @@ const KnowledgeGraphD3: React.FC<KnowledgeGraphProps> = ({ nodes, links, onUploa
     // Store zoom behavior in ref
     zoomRef.current = d3.zoom()
       .scaleExtent([0.1, 4])
-      .on('zoom', (event) => {
+      .on('zoom', (event: { transform: { k: React.SetStateAction<number>; }; }) => {
         g.attr('transform', event.transform);
         setCurrentZoom(event.transform.k);
       });
@@ -224,18 +224,18 @@ const KnowledgeGraphD3: React.FC<KnowledgeGraphProps> = ({ nodes, links, onUploa
 
     // Define and add drag behavior
     const drag = d3.drag<SVGGElement, any>()
-      .on('start', (event) => {
+      .on('start', (event: { active: any; subject: any; }) => {
         if (!event.active) simulation.alphaTarget(0.3).restart();
         const d = event.subject;
         d.fx = d.x;
         d.fy = d.y;
       })
-      .on('drag', (event) => {
+      .on('drag', (event: { subject: any; x: any; y: any; }) => {
         const d = event.subject;
         d.fx = event.x;
         d.fy = event.y;
       })
-      .on('end', (event) => {
+      .on('end', (event: { active: any; subject: any; }) => {
         if (!event.active) simulation.alphaTarget(0);
         const d = event.subject;
         d.fx = null;
