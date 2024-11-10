@@ -1,8 +1,8 @@
 import os
 import asyncio
 from dotenv import load_dotenv
-from llm_utils import create_llm_client, process_with_llm
-from typing import List, Dict
+from llms.llm_utils import create_llm_client, process_with_llm_stream
+from typing import List, Dict, AsyncGenerator
 
 load_dotenv()
 
@@ -18,23 +18,25 @@ The conversation history is formatted as follows:
 
 Please provide a helpful and contextually relevant response that maintains the flow of conversation.
 Keep your responses concise and focused on the topic at hand.
+Return your response in the JSON object {{"response": "<response>"}}.
 """
 
-async def process_conversation_with_llm(formatted_messages: List[Dict[str, str]]) -> Dict[str, str]:
+async def process_conversation_with_llm(formatted_messages: List[Dict[str, str]]) -> AsyncGenerator[str, None]:
     """
     Process conversation messages with LLM.
     
     Args:
         formatted_messages: List of message dictionaries with 'role' and 'content'
         
-    Returns:
-        Dict containing the LLM's response
+    Yields:
+        Chunks of the LLM's response
     """
     try:
         # Convert messages to string format for prompt
         conversation_string = "\n".join([
             f"{msg['role']}: {msg['content']}"
             for msg in formatted_messages
+            if isinstance(msg, dict) and 'role' in msg and 'content' in msg
         ])
         
         # Create input for LLM
@@ -48,24 +50,18 @@ async def process_conversation_with_llm(formatted_messages: List[Dict[str, str]]
             os.getenv("HF_TOKEN")
         )
         
-        # Process with LLM
-        result = await process_with_llm(
-            client, 
-            input_json, 
-            conversation_prompt, 
-            input_key="conversation_history", 
-            json_output=False
-        )
-        return {
-            "response": result,
-            "type": "conversation"
-        }
-        
+        # Process with LLM stream
+        async for chunk in process_with_llm_stream(
+            client,
+            input_json,
+            conversation_prompt,
+            input_key="conversation_history"
+        ):
+            yield chunk
+            
     except Exception as e:
-        return {
-            "response": f"Error processing conversation: {str(e)}",
-            "type": "error"
-        }
+        print(f"Error in process_conversation_with_llm: {str(e)}")
+        yield f"Error: {str(e)}"
 
 if __name__ == "__main__":
     async def test_conversation():
@@ -76,7 +72,7 @@ if __name__ == "__main__":
             {"role": "user", "content": "Can you tell me about this graph?"}
         ]
         
-        result = await process_conversation_with_llm(test_messages)
-        print(result)
+        async for response in process_conversation_with_llm(test_messages):
+            print(response)
     
     asyncio.run(test_conversation())

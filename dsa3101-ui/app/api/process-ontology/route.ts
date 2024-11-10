@@ -11,7 +11,7 @@ export async function POST(req: NextRequest) {
     console.log('Extracted ontology:', actualOntology);
     console.log('Extracted graphId:', graphId);
 
-    const response = await fetch('http://127.0.0.1:5000/api/process-ontology', {
+    const response = await fetch('http://0.0.0.0:5000/api/process/ontology', {
       method: 'POST',
       headers: { 
         'Content-Type': 'application/json',

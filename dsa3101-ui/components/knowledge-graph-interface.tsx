@@ -40,78 +40,96 @@ export function KnowledgeGraphInterface() {
   const handleSend = async () => {
     if (!input.trim() || !selectedGraph) return;
 
-    const userMessage: Message = {
-      role: "user",
-      content: input,
-      timestamp: new Date().toISOString(),
-    };
-    
-    // Create a new graph object with initialized messages
-    const updatedGraph = {
-      ...selectedGraph,
-      messages: selectedGraph.messages ? [...selectedGraph.messages, userMessage] : [userMessage]
-    };
-    
-    updateGraph(selectedGraph.id, updatedGraph);
-    
     try {
-      // Get the last N messages for context (e.g., last 5 messages)
-      const recentMessages = updatedGraph.messages.slice(-5);
-      
-      // Format messages for LLM context
-      const conversationHistory = recentMessages.map(msg => ({
-        role: msg.role,
-        content: msg.content
-      }));
+      const userMessage = {
+        role: "user",
+        content: input,
+        timestamp: new Date().toISOString(),
+      };
 
-      // Send to your API
+      const assistantMessage = {
+        role: "assistant",
+        content: "",
+        timestamp: new Date().toISOString(),
+      };
+
+      let currentContent = "";
+      
+      // Create new messages array and store it
+      const newMessages = [...(selectedGraph.messages || []), userMessage, assistantMessage];
+      
+      // Update graph with initial messages
+      const updatedGraph = {
+        ...selectedGraph,
+        messages: newMessages
+      };
+      updateGraph(selectedGraph.id, updatedGraph);
+
+      setInput('');
+
       const response = await fetch('/api/chat', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           currentMessage: input,
-          conversationHistory: conversationHistory,
+          conversationHistory: selectedGraph.messages || [], // Use original messages for context
           graphId: selectedGraph.id,
           graphContext: {
             nodes: selectedGraph.data?.nodes || [],
             relationships: selectedGraph.data?.links || []
           }
-        })
+        }),
       });
 
-      const result = await response.json();
-      
-      const systemMessage: Message = {
-        role: "assistant",
-        content: result.response,
-        timestamp: new Date().toISOString(),
-        metadata: {
-          queryType: result.type,
-          relatedNodes: result.relatedNodes,
-          graphContext: result.graphContext
+      if (!response.ok) throw new Error('Network response was not ok');
+
+      const reader = response.body?.getReader();
+      const decoder = new TextDecoder();
+
+      let buffer = '';
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        
+        buffer += decoder.decode(value, { stream: true });
+        const lines = buffer.split('\n');
+        buffer = lines.pop() || '';
+        
+        for (const line of lines) {
+          if (line.startsWith('data: ')) {
+            const data = line.slice(6).trim();
+            if (data === '[DONE]') continue;
+            
+            try {
+              const parsed = JSON.parse(data);
+              if (parsed.content) {
+                currentContent += parsed.content;
+                
+                // Use the newMessages array for updates
+                const updatedMessages = newMessages.map((msg, index) => {
+                  if (index === newMessages.length - 1) {
+                    return {
+                      ...msg,
+                      content: currentContent
+                    };
+                  }
+                  return msg;
+                });
+
+                updateGraph(selectedGraph.id, {
+                  ...updatedGraph,
+                  messages: updatedMessages
+                });
+              }
+            } catch (e) {
+              console.error('Error parsing SSE data:', e);
+            }
+          }
         }
-      };
-
-      updateGraph(selectedGraph.id, {
-        ...updatedGraph,
-        messages: [...updatedGraph.messages, systemMessage]
-      });
-
+      }
     } catch (error) {
-      console.error('Chat API Error:', error);
-      const errorMessage: Message = {
-        role: "system",
-        content: "Sorry, I encountered an error processing your request.",
-        timestamp: new Date().toISOString()
-      };
-      
-      updateGraph(selectedGraph.id, {
-        ...updatedGraph,
-        messages: [...updatedGraph.messages, errorMessage]
-      });
+      console.error('Error:', error);
     }
-
-    setInput("");
   };
 
   const handleAddGraph = () => {
@@ -129,6 +147,7 @@ export function KnowledgeGraphInterface() {
       addGraph(newGraph);
       setNewGraphName("");
       setSelectedGraph(newGraph);
+      console.log('New graph created and selected:', newGraph);
     }
   };
 

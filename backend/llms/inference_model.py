@@ -1,7 +1,7 @@
 import os
 import json
 from dotenv import load_dotenv
-from llm_utils import create_llm_client, process_with_llm, process_files
+from llms.llm_utils import create_llm_client, process_with_llm, process_files
 import asyncio
 
 load_dotenv()
