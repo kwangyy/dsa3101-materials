@@ -3,7 +3,9 @@ import { NextRequest, NextResponse } from 'next/server';
 export async function POST(req: NextRequest) {
   try {
     const body = await req.json();
-    console.log('Raw request body:', body);
+    console.log('Process Ontology - Raw request body:', body);
+    console.log('Process Ontology - GraphId:', body.graphId, 'Type:', typeof body.graphId);
+    console.log('Process Ontology - Ontology:', body.ontology);
 
     const { ontology: { ontology: actualOntology } } = body;
     const graphId = body.graphId;

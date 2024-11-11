@@ -40,6 +40,8 @@ export function KnowledgeGraphInterface() {
   const handleSend = async () => {
     if (!input.trim() || !selectedGraph) return;
 
+    console.log('Selected Graph ID:', selectedGraph.id, 'Type:', typeof selectedGraph.id);
+
     try {
       const userMessage = {
         role: "user",
@@ -135,7 +137,7 @@ export function KnowledgeGraphInterface() {
   const handleAddGraph = () => {
     if (newGraphName.trim()) {
       const newGraph: Graph = {
-        id: Date.now(),
+        id: Date.now(),  // Using timestamp as ID
         name: newGraphName.trim(),
         data: null,
         isLoading: false,
@@ -144,10 +146,10 @@ export function KnowledgeGraphInterface() {
           content: "Welcome to the Knowledge Graph interface. How can I assist you?" 
         }]
       };
+      console.log('Creating new graph:', newGraph); // Debug log
       addGraph(newGraph);
       setNewGraphName("");
       setSelectedGraph(newGraph);
-      console.log('New graph created and selected:', newGraph);
     }
   };
 
@@ -164,6 +166,11 @@ export function KnowledgeGraphInterface() {
   }
 
   const handleDataUpload = async (file: File) => {
+    if (!selectedGraph) {
+      alert('Please select or create a graph first');
+      return;
+    }
+
     const reader = new FileReader();
     reader.onload = async (e) => {
       const text = e.target?.result as string;
@@ -171,16 +178,14 @@ export function KnowledgeGraphInterface() {
         const uploadResponse = await fetch('/api/process-data', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ data: text }),
+          body: JSON.stringify({ 
+            data: text,
+            graphId: selectedGraph.id  // Send the existing graph ID
+          }),
         });
         
         const uploadResult = await uploadResponse.json();
         if (uploadResult.error) throw new Error(uploadResult.error);
-        
-        if (!selectedGraph) {
-          alert('Please select or create a graph first');
-          return;
-        }
         
         setTempTextData(uploadResult.graphId);
         setShowOntologySelection(true);
@@ -242,6 +247,33 @@ export function KnowledgeGraphInterface() {
     console.log('Current graphs:', graphs);
     console.log('Selected graph:', selectedGraph);
   }, [graphs, selectedGraph]);
+
+  const handleUpload = async (text: string) => {
+    try {
+      const response = await fetch('/api/process-data', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ text }),
+      });
+
+      const result = await response.json();
+      console.log('Process data response:', result);  // Debug log
+      console.log('Graph ID from response:', result.graphId, 'Type:', typeof result.graphId);  // Debug log
+
+      if (result.graphId) {
+        const newGraph: Graph = {
+          id: parseInt(result.graphId),  // Ensure it's converted to number
+          name: `Graph ${result.graphId}`,
+          data: null,
+          messages: [],
+        };
+        console.log('Creating new graph with ID:', newGraph.id, 'Type:', typeof newGraph.id);  // Debug log
+        addGraph(newGraph);
+      }
+    } catch (error) {
+      console.error('Error processing data:', error);
+    }
+  };
 
   return (
     <div className="flex h-screen max-h-screen">
@@ -396,7 +428,7 @@ export function KnowledgeGraphInterface() {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ 
-                  graphId: tempTextData,
+                  graphId: selectedGraph.id,
                   ontology: JSON.parse(ontologyText),
                 }),
               });

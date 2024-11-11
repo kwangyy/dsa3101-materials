@@ -9,6 +9,7 @@ is_query_prompt = """You are an expert at differentiating queries from text. You
 
 
 Your task is to differentiate if a query is a question that requires the query engine provided to you or not. 
+Examples of questions that do not require the query engine are questions that do not require any specific data from the graph.
 Do not justify your answer. Do not output anything else, except the JSON object.
 If the query is a question that requires the query engine, output the JSON object {{"query_engine": true}}.
 If the query is not a question that requires the query engine, output the JSON object {{"query_engine": false}}.

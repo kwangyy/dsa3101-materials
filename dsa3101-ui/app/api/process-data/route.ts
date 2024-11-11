@@ -5,7 +5,7 @@ export async function POST(req: NextRequest) {
     const body = await req.json();
     console.log('Raw request body:', body);
 
-    const { data } = body;
+    const { data, graphId } = body;
     console.log('Destructured data:', data);
 
     if (!data) {
@@ -19,7 +19,7 @@ export async function POST(req: NextRequest) {
         'Content-Type': 'application/json',
         'Accept': 'application/json',
       },
-      body: JSON.stringify({ data }),
+      body: JSON.stringify({ data, graphId }),
     });
 
     console.log('Response status:', response.status);

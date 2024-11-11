@@ -11,6 +11,7 @@ import asyncio
 import json
 from fastapi.responses import StreamingResponse
 
+
 # Local imports 
 from llms.inference_model import infer
 from llms.query_model import is_query
@@ -115,7 +116,8 @@ async def execute_llama_pipeline(message: str, graph_context: Dict) -> Optional[
         if not cypher_query:
             return None
             
-        query_result = execute_cypher_query(cypher_query)
+        query_result = execute_cypher_query(cypher_query["cypher_query"])
+        print(query_result)
         return {
             "response": query_result,
             "query": cypher_query,
@@ -132,21 +134,67 @@ async def process_data(text: Dict[str, Any]):
         if not text:
             raise HTTPException(status_code=400, detail="No data provided")
         
-        inference_result = await infer(text)
+        graph_id = text.get('graphId')
+        if not graph_id:
+            raise HTTPException(status_code=400, detail="No graphId provided")
+            
+        inference_result = await infer(text.get('data'))
         evaluated_data = inference_result['data']
-        serialized_data = json.dumps(evaluated_data)
 
         with driver.session() as session:
-            result = session.execute_write(
-                lambda tx: tx.run(
-                    """
-                    CREATE (n:InferenceData {data: $data})
-                    RETURN id(n) AS graphId
-                    """, 
-                    data=serialized_data
-                ).single()
-            )
-            graph_id = result["graphId"]
+            # First create all nodes
+            for entity_type, entities in evaluated_data['entities'].items():
+                # Convert snake_case to PascalCase for Neo4j labels
+                label = ''.join(word.capitalize() for word in entity_type.rstrip('s').split('_'))
+                
+                # Create nodes for this entity type
+                session.run(
+                    f"""
+                    UNWIND $entities as entity
+                    MERGE (n:{label} {{name: CASE 
+                        WHEN entity.title IS NOT NULL THEN entity.title 
+                        ELSE entity.name 
+                    END}})
+                    """,
+                    entities=entities
+                )
+
+            # Then create all relationships
+            for rel in evaluated_data['relationships']:
+                # Get the keys that aren't 'type'
+                keys = [k for k in rel.keys() if k != 'type']
+                source_key = keys[0]  # e.g., 'person'
+                target_key = keys[1]  # e.g., 'organization'
+                
+                # Convert snake_case to PascalCase for labels
+                source_label = ''.join(word.capitalize() for word in source_key.split('_'))
+                target_label = ''.join(word.capitalize() for word in target_key.split('_'))
+                
+                session.run(
+                    f"""
+                    MATCH (source:{source_label} {{name: $source_value}})
+                    MATCH (target:{target_label} {{name: $target_value}})
+                    MERGE (source)-[r:{rel['type']}]->(target)
+                    """,
+                    {
+                        'source_value': rel[source_key],
+                        'target_value': rel[target_key]
+                    }
+                )
+
+            # Store the raw data in InferenceData node
+            result = session.run(
+                """
+                CREATE (n:InferenceData)
+                SET n.id = $graph_id, n.data = $data
+                RETURN n.id AS graphId
+                """, 
+                data=json.dumps(evaluated_data),
+                graph_id=int(graph_id)
+            ).single()
+            
+            if not result:
+                raise HTTPException(status_code=404, detail="Failed to create graph")
 
         return ProcessResponse(
             status='success',
@@ -160,41 +208,31 @@ async def process_data(text: Dict[str, Any]):
 @app.post("/api/process/ontology")
 async def process_ontology(request: Dict[str, Any]):
     try:
-        print(f"Received request data: graphId='{request.get('graphId')}' ontology={request.get('ontology')}")
-        
         graph_id = request.get('graphId')
         ontology_data = request.get('ontology')
         
         with driver.session() as session:
             result = session.run(
                 """
-                MATCH (n:InferenceData) 
-                WHERE id(n) = $graph_id
-                RETURN n.data AS data
+                MATCH (n:InferenceData)
+                WHERE n.id = $graph_id
+                SET n.ontology = $ontology
+                RETURN n.data AS data, n.ontology AS ontology
                 """,
-                graph_id=int(graph_id)
+                graph_id=int(graph_id),
+                ontology=json.dumps(ontology_data)
             ).single()
             
             if not result:
-                raise HTTPException(status_code=404, detail="Graph not found")
+                raise HTTPException(status_code=404, detail="Failed to process ontology")
+            print(result)
+            stored_data = json.loads(result["data"]) if result["data"] else {}
             
-            stored_data = json.loads(result["data"])
-            serialized_ontology = json.dumps(ontology_data)
-            session.run(
-                """
-                MATCH (n:InferenceData) 
-                WHERE id(n) = $graph_id
-                SET n.ontology = $ontology
-                """,
-                graph_id=int(graph_id),
-                ontology=serialized_ontology
-            )
-            
-        return {
-            "status": "success",
-            "message": "Ontology processed successfully",
-            "entityResult": stored_data
-        }
+            return {
+                "status": "success",
+                "message": "Ontology processed successfully",
+                "entityResult": stored_data
+            }
 
     except Exception as e:
         print(f"Detailed error in process_ontology: {str(e)}")
@@ -209,27 +247,61 @@ async def process_message(request: Request):
         conversation_history = data['conversationHistory']
         graph_id = data['graphId']
         graph_context = data.get('graphContext', {})
+        
+        print(f"Processing message for graph ID: {graph_id}")  # Debug log
 
-        print(f"Received message: {current_message}")  # Debug log
+        with driver.session() as session:
+            result = session.run(
+                """
+                MATCH (n:InferenceData)
+                WHERE n.id = $graph_id
+                RETURN n.ontology AS ontology, n.data AS data
+                """,
+                graph_id=int(graph_id)
+            ).single()
+            
+            if not result:
+                raise HTTPException(status_code=404, detail=f"No data found for graph ID: {graph_id}")
+
+            if not result["ontology"]:
+                return StreamingResponse(
+                    iter([f"data: {json.dumps({'content': 'Please upload an ontology first.'})}\n\n"]),
+                    media_type='text/event-stream'
+                )
+            
+            try:
+                ontology = json.loads(result["ontology"])
+                print(ontology)
+                assert isinstance(ontology, dict), "Ontology must be a dictionary"
+                assert "entities" in ontology, "Ontology must contain 'entities'"
+                assert "relationships" in ontology, "Ontology must contain 'relationships'"
+                
+                print(f"Valid ontology retrieved for graph ID {graph_id}:")
+                print(json.dumps(ontology, indent=2))
+                
+                graph_context["ontology"] = ontology
+            except json.JSONDecodeError as e:
+                print(f"Failed to parse ontology JSON: {e}")
+                print(f"Raw ontology data: {result['ontology']}")
+                raise
 
         async def generate():
             try:
                 is_query_message = await is_query(current_message)
-                print(f"Query classification result: {is_query_message}")  # Debug log
+                print(f"Query classification result: {is_query_message}")
                 
                 query = is_query_message.get("query_engine", False)
                 if query:
                     formatted_context = {
                         'nodes': [dict(node) for node in graph_context.get('nodes', [])],
-                        'relationships': [dict(rel) for rel in graph_context.get('relationships', [])]
+                        'relationships': [dict(rel) for rel in graph_context.get('relationships', [])],
+                        'ontology': graph_context.get('ontology', {})
                     }
-                    print(f"Formatted context: {formatted_context}")  # Debug log
-                    
+                    print(formatted_context)
                     result = await process_query(
                         message=current_message,
                         graph_context=formatted_context
                     )
-                    print(f"Query result: {result}")  # Debug log
                     
                     if result.get('error'):
                         error_message = {'content': f'Error: {result["error"]}'}
@@ -246,14 +318,14 @@ async def process_message(request: Request):
                     for word in words:
                         yield f"data: {json.dumps({'content': word + ' '})}\n\n"
                 else:
-                    print("Processing as conversation")  # Debug log
+                    print("Processing as conversation")
                     async for chunk in process_conversation_with_llm(conversation_history):
                         yield f"data: {json.dumps({'content': chunk})}\n\n"
                     
                     yield "data: [DONE]\n\n"
                 
             except Exception as e:
-                print(f"Error in generate(): {str(e)}")  # Debug log
+                print(f"Error in generate(): {str(e)}")
                 yield f"data: {json.dumps({'content': f'An error occurred: {str(e)}'})}\n\n"
 
         return StreamingResponse(
@@ -266,7 +338,7 @@ async def process_message(request: Request):
         )
 
     except Exception as e:
-        print(f"Error in process_message: {str(e)}")  # Debug log
+        print(f"Error in process_message: {str(e)}")
         return StreamingResponse(
             iter([f"data: {json.dumps({'content': f'An error occurred: {str(e)}'})}\n\n"]),
             media_type='text/event-stream'
@@ -283,7 +355,24 @@ async def process_query(message: str, graph_context: Dict) -> Dict[str, Any]:
     
     first_result = done.pop().result()
     
-    if first_result and first_result["source"] == "nl2cql":
+    # Format the response if it's a list of dictionaries with a single key
+    if isinstance(first_result.get("response"), list) and first_result["response"]:
+        try:
+            # Get all values from the first key in each dictionary
+            key = list(first_result["response"][0].keys())[0]
+            values = [item[key] for item in first_result["response"]]
+            
+            if len(values) > 1:
+                formatted_response = f"{', '.join(values[:-1])} and {values[-1]}"
+            else:
+                formatted_response = values[0] if values else "No results found"
+                
+            first_result["response"] = formatted_response
+        except (IndexError, KeyError, AttributeError):
+            # If formatting fails, keep original response
+            pass
+    
+    if first_result["response"] != [] and first_result["source"] == "nl2cql":
         for task in pending:
             task.cancel()
         return {
@@ -302,14 +391,13 @@ async def process_query(message: str, graph_context: Dict) -> Dict[str, Any]:
     except asyncio.CancelledError:
         pass
     
-    if not first_result:
+    if first_result == []:
         return {
             "error": "Both query processors failed to generate valid results",
             "response": [],
             "relatedNodes": [],
             "graphContext": graph_context
         }
-    
     return {
         "response": first_result["response"],
         "query": first_result["query"],

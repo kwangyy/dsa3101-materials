@@ -6,7 +6,11 @@ interface Graph {
   name: string;
   isLoading?: boolean;
   data: {
-    nodes: Array<{id: string}>;
+    nodes: Array<{
+      id: string;
+      x?: number;
+      y?: number;
+    }>;
     links: Array<{source: string; target: string; relationship: string}>;
   } | null;
   messages: Message[];
@@ -51,8 +55,9 @@ export const useGraphStore = create<GraphState>()(
         set({ selectedGraph: graph });
       },
       addGraph: (graph) => set((state) => {
-        console.log('Adding graph:', graph);
+        console.log('Store: Adding graph:', graph);
         const newGraphs = Array.isArray(state.graphs) ? [...state.graphs, graph] : [graph];
+        console.log('Store: Updated graphs:', newGraphs);
         return { 
           graphs: newGraphs,
           selectedGraph: graph 
@@ -63,8 +68,11 @@ export const useGraphStore = create<GraphState>()(
         selectedGraph: state.selectedGraph?.id === id ? null : state.selectedGraph
       })),
       updateGraph: (id, data) => set((state) => {
+        const numericId = typeof id === 'string' ? parseInt(id) : id;
+        console.log('Updating graph with ID:', numericId, 'Type:', typeof numericId);
+        
         const updatedGraphs = state.graphs.map(graph => {
-          if (graph.id === id) {
+          if (graph.id === numericId) {
             return { 
               ...graph, 
               ...data,
@@ -76,7 +84,7 @@ export const useGraphStore = create<GraphState>()(
         });
         return {
           graphs: updatedGraphs,
-          selectedGraph: updatedGraphs.find(g => g.id === id) || null
+          selectedGraph: updatedGraphs.find(g => g.id === numericId) || null
         };
       }),
     }),

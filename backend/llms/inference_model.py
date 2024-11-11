@@ -8,15 +8,15 @@ load_dotenv()
 
 inference_prompt = """Your task is to extract entities, as well as define any relationships between them, outputting only a single JSON object for which the format MUST be adhered to, with no other text. The entity types to extract are:
 
-Person/Organization
+Person_Organization
 Role
 Location (Try not to make too many assumptions)
-Product/Service
+Product_Service
 
 The head-tail relationships (if present) to be extracted are:
 Person-Organization "AFFILIATED_WITH"
 Person-Role Association "HAS_ROLE"
-Person-Product/Service "INVOLVED_WITH"
+Person-Product_Service "INVOLVED_WITH"
 Organization-Location "LOCATED_AT"
 
 The JSON has two main sections:
