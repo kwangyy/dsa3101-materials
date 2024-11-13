@@ -1,7 +1,7 @@
 import json
 import os
 from dotenv import load_dotenv
-from llm_utils import create_llm_client, process_with_llm
+from llms.llm_utils import create_llm_client, process_with_llm
 import asyncio
 
 load_dotenv()
@@ -21,7 +21,7 @@ You do not need to use all of the rules in the ontology, only the ones that are 
 With this, it is very important to follow these steps:
 1. For each line in the ontology, check if there is such a relationship present in the text.
 2. If there is a relationship, keep it with the relationship as is. Otherwise, exclude it from the ontology. Do NOT make up a relationship.
-3. Return it in terms of JSON. 
+3. You are to only return the ontology, in terms of JSON.
 
 An example has been given to you as such: 
 {{
@@ -83,7 +83,7 @@ The document is as such:
 {document}
 """
 
-async def infer(document):
+async def generate_ontology(document):
     formatted_input = {'document': document}
     client = create_llm_client("meta-llama/Llama-3.1-8B-Instruct", os.getenv("HF_TOKEN"))
     return await process_with_llm(client, formatted_input, query_prompt, input_key="document")
@@ -93,7 +93,7 @@ if __name__ == "__main__":
         example_response_path = "../examples/example_response.txt"
         with open(example_response_path, "r") as file:
             document = file.read()
-        answer = await infer(document)
+        answer = await generate_ontology(document)
         with open("../examples/ontology_answer.json", "w") as file:
             json.dump(answer, file)
     

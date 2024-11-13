@@ -474,12 +474,13 @@ export function KnowledgeGraphInterface() {
                 return;
               }
 
-              // Set loading state
-              setGraphs(prev => prev.map(g => 
-                g.id === selectedGraph.id 
-                  ? { ...g, isLoading: true, data: null }
-                  : g
-              ));
+              // Update loading state for just the selected graph
+              const updatedGraph = {
+                ...selectedGraph,
+                isLoading: true,
+                data: null
+              };
+              updateGraph(selectedGraph.id, updatedGraph);
 
               const response = await fetch('/api/process-ontology', {
                 method: 'POST',
@@ -495,32 +496,26 @@ export function KnowledgeGraphInterface() {
               
               const graphData = transformGraphData(result.entityResult);
               
-              // Update graphs with new data
-              setGraphs(prev => {
-                const updatedGraphs = prev.map(g => 
-                  g.id === selectedGraph.id 
-                    ? { 
-                        ...g, 
-                        data: graphData,
-                        metrics: result.metrics,
-                        isLoading: false
-                      } 
-                    : g
-                );
-                console.log('Updated graphs:', updatedGraphs);
-                return updatedGraphs;
-              });
+              // Update only the selected graph with new data
+              const finalGraph = {
+                ...selectedGraph,
+                data: graphData,
+                metrics: result.metrics,
+                isLoading: false
+              };
+              updateGraph(selectedGraph.id, finalGraph);
 
               setMetrics(result.metrics);
               setShowOntologySelection(false);
             } catch (error) {
               console.error('Error:', error);
-              // Reset loading state on error
-              setGraphs(prev => prev.map(g => 
-                g.id === selectedGraph?.id 
-                  ? { ...g, isLoading: false }
-                  : g
-              ));
+              // Reset loading state on error for just the selected graph
+              if (selectedGraph) {
+                updateGraph(selectedGraph.id, {
+                  ...selectedGraph,
+                  isLoading: false
+                });
+              }
             }
           }}
         />

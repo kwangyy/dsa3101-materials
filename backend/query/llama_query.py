@@ -13,6 +13,7 @@ You are to assume that all of the items within the query are present, and use th
 You are also to assume that the relationships are as defined in the ontology. Do NOT make any assumptions about the relationships.
 If there are more than two Cypher queries, determine the best one to use and return ONLY that Cypher Query, with no other text.
 Return in JSON format, with the key "cypher_query" and the value as the Cypher Query.
+If there are names, do not return them as lower case. Make sure to return them in title case. e.g. Samuel Davis, not samuel davis.
 
 An example has been provided below:
 Query: What are the names of the people who work at IBM?
@@ -31,7 +32,7 @@ The ontology is as follows:
 async def query_generator(query, ontology):
     formatted_input = {"query": query, "ontology": ontology}
 
-    client = create_llm_client("meta-llama/Llama-3.1-70B-Instruct", os.getenv("HF_TOKEN"))
+    client = create_llm_client("meta-llama/Llama-3.1-8B-Instruct", os.getenv("HF_TOKEN"))
     cypher_query = await process_with_llm(client, formatted_input, llama_query_prompt, input_key=["query", "ontology"])
     print("Query:")
     print(cypher_query)

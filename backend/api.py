@@ -15,8 +15,8 @@ from fastapi.responses import StreamingResponse
 # Local imports 
 from llms.inference_model import infer
 from llms.query_model import is_query
+from llms.ontology_model import generate_ontology
 from llms.conversation_model import process_conversation_with_llm
-from query.nl2cql_query import generate_cypher
 from query.cypher_engine import execute_cypher_query
 from query.llama_query import query_generator
 from ontology.ontology_evaluation import evaluate_all_metrics
@@ -93,22 +93,6 @@ def format_conversation_for_llm(conversation_history: List[Dict[str, str]]) -> L
         })
     
     return formatted_messages
-
-async def execute_nl2cql_pipeline(message: str) -> Optional[Dict[str, Any]]:
-    try:
-        cypher_result = generate_cypher({"prompt": message})
-        if "error" in cypher_result:
-            return None
-            
-        query_result = execute_cypher_query(cypher_result["cypher_query"])
-        return {
-            "response": query_result,
-            "query": cypher_result["cypher_query"],
-            "source": "nl2cql"
-        }
-    except Exception as e:
-        print(f"NL2CQL pipeline error: {str(e)}")
-        return None
 
 async def execute_llama_pipeline(message: str, graph_context: Dict) -> Optional[Dict[str, Any]]:
     try:
@@ -210,8 +194,29 @@ async def process_ontology(request: Dict[str, Any]):
     try:
         graph_id = request.get('graphId')
         ontology_data = request.get('ontology')
-        
+
         with driver.session() as session:
+            # Get the stored data from Neo4j
+            data_result = session.run(
+                """
+                MATCH (n:InferenceData)
+                WHERE n.id = $graph_id
+                RETURN n.data AS data
+                """,
+                graph_id=int(graph_id)
+            ).single()
+        
+            if not data_result:
+                raise HTTPException(status_code=404, detail="No data found for this graph")
+
+            # Parse the Neo4j data
+            stored_data = json.loads(data_result["data"])
+            
+            # Generate or use provided ontology
+            if not ontology_data:
+                ontology_data = await generate_ontology(stored_data)
+            
+            # Store the ontology back in Neo4j
             result = session.run(
                 """
                 MATCH (n:InferenceData)
@@ -224,14 +229,19 @@ async def process_ontology(request: Dict[str, Any]):
             ).single()
             
             if not result:
-                raise HTTPException(status_code=404, detail="Failed to process ontology")
-            print(result)
-            stored_data = json.loads(result["data"]) if result["data"] else {}
+                raise HTTPException(status_code=404, detail="Failed to store ontology")
+
+            # Calculate metrics
+            metrics = evaluate_all_metrics(
+                response_json=stored_data,
+                ontology_json=ontology_data
+            )
             
             return {
                 "status": "success",
                 "message": "Ontology processed successfully",
-                "entityResult": stored_data
+                "entityResult": stored_data,
+                "metrics": metrics
             }
 
     except Exception as e:
@@ -259,7 +269,7 @@ async def process_message(request: Request):
                 """,
                 graph_id=int(graph_id)
             ).single()
-            
+
             if not result:
                 raise HTTPException(status_code=404, detail=f"No data found for graph ID: {graph_id}")
 
@@ -270,14 +280,11 @@ async def process_message(request: Request):
                 )
             
             try:
-                ontology = json.loads(result["ontology"])
-                print(ontology)
+                ontology_json = json.loads(result["ontology"])
+                ontology = ontology_json["ontology"]  # Get the nested ontology object
                 assert isinstance(ontology, dict), "Ontology must be a dictionary"
                 assert "entities" in ontology, "Ontology must contain 'entities'"
                 assert "relationships" in ontology, "Ontology must contain 'relationships'"
-                
-                print(f"Valid ontology retrieved for graph ID {graph_id}:")
-                print(json.dumps(ontology, indent=2))
                 
                 graph_context["ontology"] = ontology
             except json.JSONDecodeError as e:
@@ -297,7 +304,6 @@ async def process_message(request: Request):
                         'relationships': [dict(rel) for rel in graph_context.get('relationships', [])],
                         'ontology': graph_context.get('ontology', {})
                     }
-                    print(formatted_context)
                     result = await process_query(
                         message=current_message,
                         graph_context=formatted_context
@@ -318,7 +324,6 @@ async def process_message(request: Request):
                     for word in words:
                         yield f"data: {json.dumps({'content': word + ' '})}\n\n"
                 else:
-                    print("Processing as conversation")
                     async for chunk in process_conversation_with_llm(conversation_history):
                         yield f"data: {json.dumps({'content': chunk})}\n\n"
                     
@@ -345,66 +350,57 @@ async def process_message(request: Request):
         )
 
 async def process_query(message: str, graph_context: Dict) -> Dict[str, Any]:
-    nl2cql_task = asyncio.create_task(execute_nl2cql_pipeline(message))
-    llama_task = asyncio.create_task(execute_llama_pipeline(message, graph_context))
-    
-    done, pending = await asyncio.wait(
-        {nl2cql_task, llama_task},
-        return_when=asyncio.FIRST_COMPLETED
-    )
-    
-    first_result = done.pop().result()
-    
-    # Format the response if it's a list of dictionaries with a single key
-    if isinstance(first_result.get("response"), list) and first_result["response"]:
-        try:
-            # Get all values from the first key in each dictionary
-            key = list(first_result["response"][0].keys())[0]
-            values = [item[key] for item in first_result["response"]]
-            
-            if len(values) > 1:
-                formatted_response = f"{', '.join(values[:-1])} and {values[-1]}"
-            else:
-                formatted_response = values[0] if values else "No results found"
+    try:
+        result = await execute_llama_pipeline(message, graph_context)
+        
+        if not result:
+            return {
+                "error": "Query processor failed to generate valid results",
+                "response": [],
+                "relatedNodes": [],
+                "graphContext": graph_context
+            }
+        
+        # Format the response if it's a list of dictionaries
+        if isinstance(result.get("response"), list) and result["response"]:
+            try:
+                # Extract values from nested dictionaries
+                values = []
+                for item in result["response"]:
+                    # Handle nested dictionary structure (e.g., {'p': {'name': 'Uma Patel'}})
+                    for key, value in item.items():
+                        if isinstance(value, dict) and 'name' in value:
+                            values.append(value['name'])
+                        elif isinstance(value, str):
+                            values.append(value)
                 
-            first_result["response"] = formatted_response
-        except (IndexError, KeyError, AttributeError):
-            # If formatting fails, keep original response
-            pass
-    
-    if first_result["response"] != [] and first_result["source"] == "nl2cql":
-        for task in pending:
-            task.cancel()
+                if len(values) > 1:
+                    formatted_response = f"{', '.join(values[:-1])} and {values[-1]}"
+                else:
+                    formatted_response = values[0] if values else "No results found"
+                    
+                result["response"] = formatted_response
+            except (IndexError, KeyError, AttributeError) as e:
+                print(f"Error formatting response: {str(e)}")
+                # If formatting fails, keep original response
+                pass
+        
         return {
-            "response": first_result["response"],
-            "query": first_result["query"],
-            "source": "nl2cql",
+            "response": result["response"],
+            "query": result["query"],
+            "source": "llama",
             "relatedNodes": [],
             "graphContext": graph_context
         }
-    
-    try:
-        if pending:
-            second_result = await pending.pop()
-            if second_result:
-                first_result = second_result
-    except asyncio.CancelledError:
-        pass
-    
-    if first_result == []:
+        
+    except Exception as e:
+        print(f"Error in process_query: {str(e)}")
         return {
-            "error": "Both query processors failed to generate valid results",
+            "error": f"Query processing failed: {str(e)}",
             "response": [],
             "relatedNodes": [],
             "graphContext": graph_context
         }
-    return {
-        "response": first_result["response"],
-        "query": first_result["query"],
-        "source": first_result["source"],
-        "relatedNodes": [],
-        "graphContext": graph_context
-    }
 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=5000) 

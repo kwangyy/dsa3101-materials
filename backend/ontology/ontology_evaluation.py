@@ -93,7 +93,7 @@ def evaluate_ner_relationships(response_json, ontology_json):
     invalid_cases = []
     
     # Process relationships from response JSON
-    relationships = response_json['data']['relationships']
+    relationships = response_json['relationships']
     
     for rel in relationships:
         relationship_type = rel['type']
@@ -155,7 +155,7 @@ def evaluate_all_metrics(response_json, ontology_json):
         dict: Combined metrics and detailed results
     """
     # Get relationships from response
-    relationships = response_json['data']['relationships']
+    relationships = response_json['relationships']
     
     # Evaluate completeness
     completeness_score = evaluate_graph_completeness(relationships, ontology_json)

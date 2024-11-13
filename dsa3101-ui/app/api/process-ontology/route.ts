@@ -4,14 +4,6 @@ export async function POST(req: NextRequest) {
   try {
     const body = await req.json();
     console.log('Process Ontology - Raw request body:', body);
-    console.log('Process Ontology - GraphId:', body.graphId, 'Type:', typeof body.graphId);
-    console.log('Process Ontology - Ontology:', body.ontology);
-
-    const { ontology: { ontology: actualOntology } } = body;
-    const graphId = body.graphId;
-
-    console.log('Extracted ontology:', actualOntology);
-    console.log('Extracted graphId:', graphId);
 
     const response = await fetch('http://0.0.0.0:5000/api/process/ontology', {
       method: 'POST',
@@ -20,14 +12,13 @@ export async function POST(req: NextRequest) {
         'Accept': 'application/json',
       },
       body: JSON.stringify({ 
-        graphId, 
-        ontology: actualOntology
+        graphId: body.graphId,
+        ontology: body.ontology
       }),
     });
 
     const result = await response.json();
     console.log('API Response:', result);
-    console.log('Response entityResult:', result.entityResult);
     
     return NextResponse.json(result);
   } catch (error) {
