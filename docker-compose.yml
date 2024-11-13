@@ -1,0 +1,56 @@
+version: '3.8'
+
+services:
+  neo4j:
+    build:
+      context: ./neo4j
+      dockerfile: Dockerfile
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    volumes:
+      - neo4j_data:/data
+      - neo4j_logs:/logs
+    healthcheck:
+      test: ["CMD-SHELL", "wget --no-verbose --tries=1 --spider http://localhost:7474 || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 30s
+      
+  backend:
+    build: 
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    environment:
+      - NEO4J_URI=bolt://neo4j:7687
+      - NEO4J_USER=${NEO4J_USER}
+      - NEO4J_PASSWORD=${NEO4J_PASSWORD}
+      - HF_TOKEN=${HF_TOKEN}
+    depends_on:
+      neo4j:
+        condition: service_healthy
+    volumes:
+      - ./backend:/app:ro
+      - ./.env:/app/.env:ro
+
+  frontend:
+    build: 
+      context: ./dsa3101-ui
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://backend:5000
+    depends_on:
+      - backend
+    volumes:
+      - ./dsa3101-ui:/app
+      - /app/node_modules
+      - /app/.next
+
+volumes:
+  neo4j_data:
+  neo4j_logs: 
