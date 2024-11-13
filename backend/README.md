@@ -2,15 +2,6 @@
 
 A FastAPI-based backend service for processing text data, generating ontologies, and managing a knowledge graph using Neo4j.
 
-## Features
-
-- Text processing and entity extraction
-- Ontology generation and management
-- Knowledge graph creation and querying
-- Conversation handling with LLM integration
-- Real-time streaming responses
-- Neo4j database integration
-
 ## Prerequisites
 
 - Python 3.8+

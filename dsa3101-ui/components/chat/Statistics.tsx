@@ -8,7 +8,11 @@ interface StatisticsProps {
     overall_score?: number;
     valid_count?: number;
     invalid_count?: number;
-    invalid_cases?: string[];
+    invalid_cases?: Array<string | {
+      head: string;
+      relationship: string;
+      tail: string;
+    }>;
   };
   graphData?: {
     nodes: any[];
@@ -68,7 +72,11 @@ export const Statistics: React.FC<StatisticsProps> = ({ metrics, graphData }) =>
         <div className="max-h-20 overflow-y-auto">
           <ul className="space-y-1 text-xs text-red-500">
             {metrics.invalid_cases.map((invalidCase, index) => (
-              <li key={index}>{invalidCase}</li>
+              <li key={index}>
+                {typeof invalidCase === 'object' 
+                  ? `${invalidCase.head} ${invalidCase.relationship} ${invalidCase.tail}`
+                  : String(invalidCase)}
+              </li>
             ))}
           </ul>
         </div>
