@@ -5,7 +5,7 @@ export async function POST(req: NextRequest) {
     const body = await req.json();
     console.log('Process Ontology - Raw request body:', body);
 
-    const response = await fetch('http://0.0.0.0:5000/api/process/ontology', {
+    const response = await fetch('http://backend:5000/api/process/ontology', {
       method: 'POST',
       headers: { 
         'Content-Type': 'application/json',

@@ -4,7 +4,7 @@ export async function POST(req: NextRequest) {
   try {
     const body = await req.json();
     
-    const response = await fetch('http://0.0.0.0:5000/api/query/process_message', {
+    const response = await fetch('http://backend:5000/api/query/process_message', {
       method: 'POST',
       headers: { 
         'Content-Type': 'application/json',

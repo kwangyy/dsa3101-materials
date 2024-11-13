@@ -27,31 +27,6 @@ interface KnowledgeGraphProps {
   isLoading?: boolean;
 }
 
-// Define the drag behavior
-const drag = (simulation: any) => {
-  function dragstarted(event: any) {
-    if (!event.active) simulation.alphaTarget(0.3).restart();
-    event.subject.fx = event.subject.x;
-    event.subject.fy = event.subject.y;
-  }
-
-  function dragged(event: any) {
-    event.subject.fx = event.x;
-    event.subject.fy = event.y;
-  }
-
-  function dragended(event: any) {
-    if (!event.active) simulation.alphaTarget(0);
-    event.subject.fx = null;
-    event.subject.fy = null;
-  }
-
-  return d3.drag()
-    .on("start", dragstarted)
-    .on("drag", dragged)
-    .on("end", dragended);
-};
-
 // Add cache at the top of your component
 const wikiCache = new Map<string, { title: string | null, timestamp: number }>();
 const CACHE_DURATION = 1000 * 60 * 60; // 1 hour cache
@@ -77,7 +52,7 @@ const fetchWikipediaData = async (searchTerm: string) => {
 
     // Process results
     const topResults = searchData.query.search;
-    const similarities = topResults.map(result => ({
+    const similarities = topResults.map((result: any) => ({
       ...result,
       similarity: computeCosineSimilarity(
         searchTerm.toLowerCase(),
