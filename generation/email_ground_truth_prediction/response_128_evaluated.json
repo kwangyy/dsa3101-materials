@@ -1,0 +1,125 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Gina Lopez"
+                },
+                {
+                    "name": "Samuel Davis"
+                },
+                {
+                    "name": "Quinn Parker"
+                },
+                {
+                    "name": "Natalie Wu"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Veeva Systems"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "UX Designer"
+                },
+                {
+                    "title": "Blockchain Developer"
+                },
+                {
+                    "title": "Data Analyst"
+                },
+                {
+                    "title": "Product Marketing Manager"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "IBM Cloud Pak for Data"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Hyperledger Fabric"
+                },
+                {
+                    "name": "IBM Cloud Pak for Data"
+                },
+                {
+                    "name": "Widget X"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Gina Lopez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Samuel Davis",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Quinn Parker",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Natalie Wu",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Gina Lopez",
+                "role": "UX Designer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Samuel Davis",
+                "role": "Blockchain Developer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Quinn Parker",
+                "role": "Data Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Natalie Wu",
+                "role": "Product Marketing Manager"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "IBM Cloud Pak for Data"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Gina Lopez",
+                "product_service": "Hyperledger Fabric"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Hyperledger Fabric"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Natalie Wu",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Veeva Systems",
+                "location": "Veeva Systems"
+            }
+        ]
+    }
+}

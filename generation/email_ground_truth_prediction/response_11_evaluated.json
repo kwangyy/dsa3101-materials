@@ -1,0 +1,154 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Quinn Parker"
+                },
+                {
+                    "name": "Ivy Bennett"
+                },
+                {
+                    "name": "Michael Turner"
+                },
+                {
+                    "name": "Natalie Wu"
+                },
+                {
+                    "name": "Victor Ramos"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Data Analyst"
+                },
+                {
+                    "title": "Data Engineer"
+                },
+                {
+                    "title": "Cloud Security Architect"
+                },
+                {
+                    "title": "Product Marketing Manager"
+                },
+                {
+                    "title": "RPA Developer"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "EST"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Db2 Database"
+                },
+                {
+                    "name": "IBM Cognos Analytics"
+                },
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "IBM Watson Discovery"
+                },
+                {
+                    "name": "RPA"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Quinn Parker",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Ivy Bennett",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Turner",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Natalie Wu",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Quinn Parker",
+                "role": "Data Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Ivy Bennett",
+                "role": "Data Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Turner",
+                "role": "Cloud Security Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Natalie Wu",
+                "role": "Product Marketing Manager"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Victor Ramos",
+                "role": "RPA Developer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Quinn Parker",
+                "product_service": "IBM Db2 Database"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Quinn Parker",
+                "product_service": "IBM Cognos Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "IBM Db2 Database"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Natalie Wu",
+                "product_service": "IBM Watson Discovery"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "RPA"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "EST"
+            }
+        ]
+    }
+}

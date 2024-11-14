@@ -1,0 +1,145 @@
+{
+    "entities": {
+        "persons": [
+            {
+                "name": "Samuel Davis"
+            },
+            {
+                "name": "Victor Ramos"
+            },
+            {
+                "name": "Natalie Wu"
+            },
+            {
+                "name": "Brian Taylor"
+            },
+            {
+                "name": "Paul Hernandez"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "IBM"
+            }
+        ],
+        "roles": [
+            {
+                "title": "Blockchain Developer"
+            },
+            {
+                "title": "RPA Developer"
+            },
+            {
+                "title": "Product Marketing Manager"
+            },
+            {
+                "title": "Senior Data Scientist"
+            },
+            {
+                "title": "Systems Engineer"
+            }
+        ],
+        "products_services": [
+            {
+                "name": "Hyperledger Fabric"
+            },
+            {
+                "name": "IBM Blockchain Platform"
+            },
+            {
+                "name": "IBM Robotic Process Automation"
+            },
+            {
+                "name": "Microsoft Azure"
+            },
+            {
+                "name": "IBM Watson Discovery"
+            },
+            {
+                "name": "IBM Z systems"
+            }
+        ]
+    },
+    "relationships": [
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Samuel Davis",
+            "organization": "IBM"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Victor Ramos",
+            "organization": "IBM"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Natalie Wu",
+            "organization": "IBM"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Brian Taylor",
+            "organization": "IBM"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Paul Hernandez",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Samuel Davis",
+            "role": "Blockchain Developer"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Victor Ramos",
+            "role": "RPA Developer"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Natalie Wu",
+            "role": "Product Marketing Manager"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Brian Taylor",
+            "role": "Senior Data Scientist"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Paul Hernandez",
+            "role": "Systems Engineer"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Samuel Davis",
+            "product_service": "Hyperledger Fabric"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Samuel Davis",
+            "product_service": "IBM Blockchain Platform"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Victor Ramos",
+            "product_service": "IBM Robotic Process Automation"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Brian Taylor",
+            "product_service": "Microsoft Azure"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Natalie Wu",
+            "product_service": "IBM Watson Discovery"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Paul Hernandez",
+            "product_service": "IBM Z systems"
+        }
+    ]
+}

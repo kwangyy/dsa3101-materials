@@ -1,0 +1,164 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Gina Lopez"
+                },
+                {
+                    "name": "Victor Ramos"
+                },
+                {
+                    "name": "David Patel"
+                },
+                {
+                    "name": "Jackie Lin"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Acme Corp"
+                },
+                {
+                    "name": "Elastic"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note Taker"
+                },
+                {
+                    "title": "Project Lead"
+                },
+                {
+                    "title": "UX Designer"
+                },
+                {
+                    "title": "Security Expert"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Cloud Pak for Data"
+                },
+                {
+                    "name": "IBM Robotic Process Automation"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Elastic"
+                },
+                {
+                    "name": "RPA dashboards"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Gina Lopez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "David Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jackie Lin",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Gina Lopez",
+                "role": "Project Lead"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Victor Ramos",
+                "role": "Project Lead"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "David Patel",
+                "role": "UX Designer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jackie Lin",
+                "role": "Security Expert"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Gina Lopez",
+                "product_service": "Cloud Pak for Data"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "IBM Robotic Process Automation"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "David Patel",
+                "product_service": "AWS"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Jackie Lin",
+                "product_service": "Elastic"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Acme Corp",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Elastic",
+                "location": "New York"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Gina Lopez",
+                "product_service": "RPA dashboards"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "RPA dashboards"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "David Patel",
+                "product_service": "RPA dashboards"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Jackie Lin",
+                "product_service": "RPA dashboards"
+            }
+        ]
+    }
+}

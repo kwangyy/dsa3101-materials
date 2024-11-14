@@ -1,0 +1,129 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Lily Garcia"
+                },
+                {
+                    "name": "Samuel Davis"
+                },
+                {
+                    "name": "Brian Taylor"
+                },
+                {
+                    "name": "Oliver James"
+                },
+                {
+                    "name": "Jane Martin"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Alteryx"
+                },
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Microsoft"
+                },
+                {
+                    "name": "Hyperledger"
+                },
+                {
+                    "name": "IBM Watson"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Senior Data Engineer"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Alteryx platform"
+                },
+                {
+                    "name": "IBM Cloud Satellite"
+                },
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "Hyperledger Fabric"
+                },
+                {
+                    "name": "IBM Watson Language Translator"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Lily Garcia",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Samuel Davis",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Brian Taylor",
+                "organization": "Microsoft"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Oliver James",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jane Martin",
+                "organization": "Alteryx"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jane Martin",
+                "role": "Senior Data Engineer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Lily Garcia",
+                "product_service": "Alteryx platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Hyperledger Fabric"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Brian Taylor",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Oliver James",
+                "product_service": "IBM Watson Language Translator"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Alteryx",
+                "location": "New York"
+            }
+        ]
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Yasmine Ali"
+                },
+                {
+                    "name": "Uma Patel"
+                },
+                {
+                    "name": "Abigail Carter"
+                },
+                {
+                    "name": "Xander Williams"
+                },
+                {
+                    "name": "Mark Thompson"
+                },
+                {
+                    "name": "Sarah Johnson"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Illumio"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Notes"
+                },
+                {
+                    "title": "Guest"
+                },
+                {
+                    "title": "Cybersecurity Specialist"
+                },
+                {
+                    "title": "Marketing Specialist"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Planning Analytics"
+                },
+                {
+                    "name": "IBM Cloud Private"
+                },
+                {
+                    "name": "IBM Cognos Analytics"
+                },
+                {
+                    "name": "IBM MobileFirst Platform"
+                },
+                {
+                    "name": "Widget X"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Yasmine Ali",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Uma Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Abigail Carter",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Xander Williams",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Mark Thompson",
+                "organization": "Illumio"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Sarah Johnson",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Yasmine Ali",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Uma Patel",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Abigail Carter",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Xander Williams",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Mark Thompson",
+                "role": "Guest"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Sarah Johnson",
+                "role": "Guest"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Yasmine Ali",
+                "product_service": "IBM Planning Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Uma Patel",
+                "product_service": "IBM Cloud Private"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Abigail Carter",
+                "product_service": "IBM Cognos Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Xander Williams",
+                "product_service": "IBM MobileFirst Platform"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Illumio",
+                "location": "New York"
+            }
+        ]
+    }
+}

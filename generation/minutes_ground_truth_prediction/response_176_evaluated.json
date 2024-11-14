@@ -1,0 +1,128 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Tina Foster"
+                },
+                {
+                    "name": "Zachary Brooks"
+                },
+                {
+                    "name": "Clara Diaz"
+                },
+                {
+                    "name": "Samuel Davis"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "ServiceTitan"
+                },
+                {
+                    "name": "Hyperledger"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note taker"
+                },
+                {
+                    "title": "CEO"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM QRadar SIEM"
+                },
+                {
+                    "name": "IBM Cloud Pak for Integration"
+                },
+                {
+                    "name": "AI ethics research"
+                },
+                {
+                    "name": "Hyperledger Fabric"
+                },
+                {
+                    "name": "Blockchain"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Tina Foster",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Zachary Brooks",
+                "organization": "ServiceTitan"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Clara Diaz",
+                "organization": "Hyperledger"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Samuel Davis",
+                "organization": "Hyperledger"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Tina Foster",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Zachary Brooks",
+                "role": "CEO"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Tina Foster",
+                "product_service": "IBM QRadar SIEM"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Zachary Brooks",
+                "product_service": "IBM Cloud Pak for Integration"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Clara Diaz",
+                "product_service": "AI ethics research"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Hyperledger Fabric"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "ServiceTitan",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Hyperledger",
+                "location": "New York"
+            }
+        ]
+    }
+}

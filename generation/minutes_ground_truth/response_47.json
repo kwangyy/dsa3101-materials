@@ -1,0 +1,177 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Uma Patel"
+    },
+    {
+     "name": "Oliver James"
+    },
+    {
+     "name": "Paul Hernandez"
+    },
+    {
+     "name": "Wendy Chen"
+    },
+    {
+     "name": "John Smith"
+    },
+    {
+     "name": "Emily Davis"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Cloudera"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Senior Solutions Architect"
+    },
+    {
+     "title": "AI Research Scientist"
+    },
+    {
+     "title": "Systems Engineer"
+    },
+    {
+     "title": "AI Solutions Architect"
+    },
+    {
+     "title": "AI Specialist"
+    },
+    {
+     "title": "Data Scientist"
+    }
+   ],
+   "locations": [],
+   "products_services": [
+    {
+     "name": "IBM Cloud Private"
+    },
+    {
+     "name": "IBM Watson Language Translator"
+    },
+    {
+     "name": "IBM Z systems"
+    },
+    {
+     "name": "IBM Maximo Asset Management"
+    },
+    {
+     "name": "Machine Learning"
+    },
+    {
+     "name": "Big Data"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Uma Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Uma Patel",
+    "role": "Senior Solutions Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Uma Patel",
+    "product_service": "IBM Cloud Private"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Oliver James",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Oliver James",
+    "role": "AI Research Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Oliver James",
+    "product_service": "IBM Watson Language Translator"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Paul Hernandez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Paul Hernandez",
+    "role": "Systems Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Paul Hernandez",
+    "product_service": "IBM Z systems"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Wendy Chen",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Wendy Chen",
+    "role": "AI Solutions Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Wendy Chen",
+    "product_service": "IBM Maximo Asset Management"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "Cloudera"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "AI Specialist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Smith",
+    "product_service": "Machine Learning"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Smith",
+    "product_service": "Big Data"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emily Davis",
+    "organization": "Cloudera"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emily Davis",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Emily Davis",
+    "product_service": "Machine Learning"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Emily Davis",
+    "product_service": "Big Data"
+   }
+  ]
+ }
+}

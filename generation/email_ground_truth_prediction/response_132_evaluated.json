@@ -1,0 +1,128 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "David Patel"
+                },
+                {
+                    "name": "Gina Lopez"
+                },
+                {
+                    "name": "Tina Foster"
+                },
+                {
+                    "name": "Henry Zhou"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Cloud Architect"
+                },
+                {
+                    "title": "UX Designer"
+                },
+                {
+                    "title": "IT Support Specialist"
+                },
+                {
+                    "title": "DevOps Engineer"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "AWS"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cloud Pak for Data"
+                },
+                {
+                    "name": "AWS Infrastructure"
+                },
+                {
+                    "name": "IBM QRadar SIEM"
+                },
+                {
+                    "name": "Elastic's search and analytics engine"
+                },
+                {
+                    "name": "IBM Kubernetes Service"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "David Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Gina Lopez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Tina Foster",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Henry Zhou",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "David Patel",
+                "role": "Cloud Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Gina Lopez",
+                "role": "UX Designer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Tina Foster",
+                "role": "IT Support Specialist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Henry Zhou",
+                "role": "DevOps Engineer"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "AWS"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "David Patel",
+                "product_service": "AWS Infrastructure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Gina Lopez",
+                "product_service": "IBM Cloud Pak for Data"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Tina Foster",
+                "product_service": "IBM QRadar SIEM"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Henry Zhou",
+                "product_service": "IBM Kubernetes Service"
+            }
+        ]
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Wendy Chen"
+                },
+                {
+                    "name": "Emma Lee"
+                },
+                {
+                    "name": "Michael Turner"
+                },
+                {
+                    "name": "Zachary Brooks"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Google"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "AI Solutions Architect"
+                },
+                {
+                    "title": "Product Manager"
+                },
+                {
+                    "title": "Cloud Security Architect"
+                },
+                {
+                    "title": "Solutions Engineer"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "Unknown"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Google Cloud AI Platform"
+                },
+                {
+                    "name": "IBM Maximo Asset Management"
+                },
+                {
+                    "name": "IBM Cloud Pak for Integration"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Wendy Chen",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Wendy Chen",
+                "role": "AI Solutions Architect"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Wendy Chen",
+                "product_service": "Google Cloud AI Platform"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emma Lee",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emma Lee",
+                "role": "Product Manager"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Emma Lee",
+                "product_service": "Google Cloud AI Platform"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Turner",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Turner",
+                "role": "Cloud Security Architect"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "IBM Cloud Pak for Integration"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Zachary Brooks",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Zachary Brooks",
+                "role": "Solutions Engineer"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "Unknown"
+            }
+        ]
+    }
+}

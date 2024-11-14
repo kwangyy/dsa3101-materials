@@ -1,0 +1,125 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Rachel Singh"
+                },
+                {
+                    "name": "Ivy Bennett"
+                },
+                {
+                    "name": "Paul Hernandez"
+                },
+                {
+                    "name": "Zachary Brooks"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Software Engineer"
+                },
+                {
+                    "title": "Data Engineer"
+                },
+                {
+                    "title": "Systems Engineer"
+                },
+                {
+                    "title": "Solutions Engineer"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "IBM Cloud"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cloud Functions"
+                },
+                {
+                    "name": "IBM Db2 Database"
+                },
+                {
+                    "name": "IBM Z systems"
+                },
+                {
+                    "name": "IBM Cloud Pak for Integration"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Rachel Singh",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Ivy Bennett",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Paul Hernandez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Zachary Brooks",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Rachel Singh",
+                "role": "Software Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Ivy Bennett",
+                "role": "Data Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Paul Hernandez",
+                "role": "Systems Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Zachary Brooks",
+                "role": "Solutions Engineer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Rachel Singh",
+                "product_service": "IBM Cloud Functions"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "IBM Db2 Database"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Paul Hernandez",
+                "product_service": "IBM Z systems"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Zachary Brooks",
+                "product_service": "IBM Cloud Pak for Integration"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "IBM Cloud"
+            }
+        ]
+    }
+}

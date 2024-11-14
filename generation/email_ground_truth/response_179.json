@@ -1,0 +1,121 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Paul Hernandez"
+    },
+    {
+     "name": "Lily Garcia"
+    },
+    {
+     "name": "Emma Lee"
+    },
+    {
+     "name": "Brian Taylor"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Google"
+    },
+    {
+     "name": "Microsoft"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Systems Engineer"
+    },
+    {
+     "title": "Marketing Analyst"
+    },
+    {
+     "title": "Product Manager"
+    },
+    {
+     "title": "Senior Data Scientist"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Z systems"
+    },
+    {
+     "name": "IBM Cloud Satellite"
+    },
+    {
+     "name": "Google Cloud AI Platform"
+    },
+    {
+     "name": "Microsoft Azure"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Paul Hernandez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Lily Garcia",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Brian Taylor",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Paul Hernandez",
+    "role": "Systems Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Lily Garcia",
+    "role": "Marketing Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Lee",
+    "role": "Product Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Brian Taylor",
+    "role": "Senior Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Paul Hernandez",
+    "product_service": "IBM Z systems"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Lily Garcia",
+    "product_service": "IBM Cloud Satellite"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Emma Lee",
+    "product_service": "Google Cloud AI Platform"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Brian Taylor",
+    "product_service": "Microsoft Azure"
+   }
+  ]
+ }
+}

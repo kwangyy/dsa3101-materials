@@ -1,0 +1,168 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time:**  
+19-Feb-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**  
+- Ivy Bennett  
+- Paul Hernandez  
+- Victor Ramos  
+- Brian Taylor (Notes)  
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+- Project updates  
+- Cross-functional collaboration  
+
+**Discussion Points:**  
+- Ivy updated on ETL pipeline progress for IBM Db2.
+- Paul highlighted maintenance activities for IBM Z systems.
+- Victor discussed improvements in RPA bots.
+- Brian shared insights from the latest Azure data science models.  
+- Discussed opportunities for collaboration between Data Management and Automation Departments.
+
+**Next Steps:**  
+- Ivy to finalize ETL pipeline by 25-Feb-2023.  
+- Paul to provide system health report by 23-Feb-2023.  
+- Victor to enhance bot algorithms by 1-Mar-2023.  
+- Brian to integrate Azure models with ETL output by 28-Feb-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+**Date and Time:**  
+01-Mar-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**  
+- Ivy Bennett  
+- Paul Hernandez  
+- Victor Ramos (Notes)  
+- Brian Taylor  
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+- Strategy discussion  
+- Problem-solving session  
+
+**Discussion Points:**  
+- Ivy suggested ways to optimize ETL pipeline processing time.
+- Paul reported on issues with IBM Z systems affecting performance.
+- Victor proposed a new bot to streamline data extraction processes.
+- Brian discussed potential applications of Azure Machine Learning to address system performance issues.
+- Identified bottlenecks and potential solutions, such as enhancing current infrastructure and implementing more efficient algorithms.
+
+**Next Steps:**  
+- Ivy to research pipeline optimization techniques by 10-Mar-2023.  
+- Paul to investigate IBM Z system issues and report back by 7-Mar-2023.  
+- Victor to develop a prototype for the new bot by 15-Mar-2023.  
+- Brian to prepare a detailed application proposal for Azure ML by 12-Mar-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+**Date and Time:**  
+15-Mar-2023, 9:00 AM - 11:00 AM
+
+**Attendees:**  
+- Ivy Bennett  
+- Paul Hernandez (Notes)  
+- Victor Ramos  
+- Brian Taylor  
+- John Smith (Nutanix Representative)  
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+- Project updates  
+- Cross-functional collaboration  
+- External partnership with Nutanix  
+
+**Discussion Points:**  
+- Ivy presented the completed ETL pipeline improvements.
+- Paul reported resolved issues with IBM Z systems and ongoing maintenance.
+- Victor discussed success in prototype development for new RPA bots.
+- Brian shared comprehensive analysis from Azure Machine Learning applications.
+- John Smith from Nutanix discussed potential hybrid and multi-cloud solutions to enhance infrastructure.  
+- Explored integration possibilities between IBM systems and Nutanix's infrastructure for better scalability and performance.
+
+**Next Steps:**  
+- Ivy to integrate new ETL optimizations by 22-Mar-2023.  
+- Paul to implement new maintenance strategies by 20-Mar-2023.  
+- Victor to finalize RPA bot and start testing by 25-Mar-2023.  
+- Brian to collaborate with Nutanix on a pilot program by 30-Mar-2023.  
+- John Smith to provide technical specifications for integration by 18-Mar-2023.
+
+---
+
+### Meeting Minutes 4 (Moderate)
+**Date and Time:**  
+28-Mar-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**  
+- Ivy Bennett  
+- Paul Hernandez  
+- Victor Ramos  
+- Brian Taylor (Notes)  
+- Sarah White (Data Analyst, Guest)
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+- Progress review  
+- Cross-functional assistance  
+
+**Discussion Points:**  
+- Ivy reviewed the ETL integration status and upcoming deadlines.
+- Paul updated on the IBM Z system's current health and efficiency metrics.
+- Victor shared testing results from the new RPA bot.
+- Brian provided insights on Azure model performance post-integration.
+- Sarah White gave a brief analysis of data trends relevant to all departments.
+- Discussed collaborative efforts to align data management with automation goals.
+
+**Next Steps:**  
+- Ivy to monitor ETL system post-integration and report any issues by 5-Apr-2023.  
+- Paul to provide a detailed efficiency report by 3-Apr-2023.  
+- Victor to address any bot errors found during testing by 7-Apr-2023.  
+- Brian to adjust Azure models based on new data trends by 10-Apr-2023.  
+- Sarah to provide further data analysis reports by 8-Apr-2023.
+
+---
+
+### Meeting Minutes 5 (Simple)
+**Date and Time:**  
+05-Apr-2023, 9:30 AM - 10:00 AM
+
+**Attendees:**  
+- Ivy Bennett  
+- Paul Hernandez  
+- Victor Ramos  
+- Brian Taylor (Notes)  
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+- Follow-up on project progress  
+- Next steps  
+
+**Discussion Points:**  
+- Ivy updated on the performance of the integrated ETL system.
+- Paul discussed the latest efficiency metrics and improvements in IBM Z systems.
+- Victor shared feedback from RPA bot users.
+- Brian provided updates on Azure model adjustments.
+- Discussed cross-departmental support needs and potential areas for further collaboration.
+
+**Next Steps:**  
+- Ivy to continue monitoring ETL system and update at the next meeting on 12-Apr-2023.  
+- Paul to finalize and submit efficiency report by 7-Apr-2023.  
+- Victor to prepare a training session for users on the new RPA bot by 15-Apr-2023.  
+- Brian to refine Azure models based on user feedback by 13-Apr-2023.
+
+---
+
+### JSON Representation

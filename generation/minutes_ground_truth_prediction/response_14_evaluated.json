@@ -1,0 +1,144 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Yasmine Ali"
+                },
+                {
+                    "name": "Victor Ramos"
+                },
+                {
+                    "name": "Uma Patel"
+                },
+                {
+                    "name": "Clara Diaz"
+                },
+                {
+                    "name": "John Smith"
+                },
+                {
+                    "name": "Rachel Green"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Zscaler"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Cloud Security Specialist"
+                }
+            ],
+            "locations": [],
+            "products_services": [
+                {
+                    "name": "predictive analytics and RPA integration"
+                },
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "IBM Cloud Private"
+                },
+                {
+                    "name": "IBM AI OpenScale"
+                },
+                {
+                    "name": "predictive models"
+                },
+                {
+                    "name": "RPA bots"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Yasmine Ali",
+                "organization": "Zscaler"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "Zscaler"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Uma Patel",
+                "organization": "Zscaler"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Clara Diaz",
+                "organization": "Zscaler"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "Zscaler"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Rachel Green",
+                "organization": "Zscaler"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Yasmine Ali",
+                "role": "Cloud Security Specialist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Victor Ramos",
+                "role": "Cloud Security Specialist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Uma Patel",
+                "role": "Cloud Security Specialist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Clara Diaz",
+                "role": "Cloud Security Specialist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "John Smith",
+                "role": "Cloud Security Specialist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Rachel Green",
+                "role": "Cloud Security Specialist"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Yasmine Ali",
+                "product_service": "predictive analytics and RPA integration"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "predictive analytics and RPA integration"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Uma Patel",
+                "product_service": "predictive analytics and RPA integration"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Clara Diaz",
+                "product_service": "predictive analytics and RPA integration"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Zscaler",
+                "location": ""
+            }
+        ]
+    }
+}

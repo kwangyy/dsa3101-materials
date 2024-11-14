@@ -1,0 +1,170 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Yasmine Ali"
+                },
+                {
+                    "name": "Kevin O'Reilly"
+                },
+                {
+                    "name": "Emma Lee"
+                },
+                {
+                    "name": "Clara Diaz"
+                },
+                {
+                    "name": "Victor Ramos"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Data Scientist"
+                },
+                {
+                    "title": "Machine Learning Engineer"
+                },
+                {
+                    "title": "Product Manager"
+                },
+                {
+                    "title": "AI Policy Researcher"
+                },
+                {
+                    "title": "Robotics Process Automation Developer"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "Research & Analytics Department"
+                },
+                {
+                    "name": "AI Research Department"
+                },
+                {
+                    "name": "IT Department"
+                },
+                {
+                    "name": "Ethics Department"
+                },
+                {
+                    "name": "Automation Department"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Watson Studio"
+                },
+                {
+                    "name": "Google Cloud AI Platform"
+                },
+                {
+                    "name": "IBM Robotic Process Automation"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Yasmine Ali",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Yasmine Ali",
+                "role": "Data Scientist"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Yasmine Ali",
+                "product_service": "Google Cloud AI Platform"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Kevin O'Reilly",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Kevin O'Reilly",
+                "role": "Machine Learning Engineer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Kevin O'Reilly",
+                "product_service": "IBM Watson Studio"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emma Lee",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emma Lee",
+                "role": "Product Manager"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Emma Lee",
+                "product_service": "Google Cloud AI Platform"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Clara Diaz",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Clara Diaz",
+                "role": "AI Policy Researcher"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "Research & Analytics Department"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "AI Research Department"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "IT Department"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "Ethics Department"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "Automation Department"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Victor Ramos",
+                "role": "Robotics Process Automation Developer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "IBM Robotic Process Automation"
+            }
+        ]
+    }
+}

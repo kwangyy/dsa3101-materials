@@ -1,0 +1,142 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Abigail Carter"
+                },
+                {
+                    "name": "Benji Martinez"
+                },
+                {
+                    "name": "David Patel"
+                },
+                {
+                    "name": "Kevin O'Reilly"
+                },
+                {
+                    "name": "John Doe"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Cognex"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Automation Specialist"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "IBM Watson Studio"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cloud Object Storage"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "IBM Watson Studio"
+                },
+                {
+                    "name": "Cognex machine vision systems"
+                },
+                {
+                    "name": "Widget X"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Abigail Carter",
+                "organization": "IBM Watson Studio"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Benji Martinez",
+                "organization": "IBM Watson Studio"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "David Patel",
+                "organization": "IBM Watson Studio"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Kevin O'Reilly",
+                "organization": "IBM Watson Studio"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Doe",
+                "organization": "Cognex"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Abigail Carter",
+                "role": "Automation Specialist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Benji Martinez",
+                "role": "Automation Specialist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "David Patel",
+                "role": "Automation Specialist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Kevin O'Reilly",
+                "role": "Automation Specialist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "John Doe",
+                "role": "Automation Specialist"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM Watson Studio",
+                "location": "IBM Watson Studio"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Cognex",
+                "location": "Cognex"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Abigail Carter",
+                "product_service": "IBM Cloud Object Storage"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Benji Martinez",
+                "product_service": "IBM Cloud Object Storage"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "David Patel",
+                "product_service": "AWS"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Kevin O'Reilly",
+                "product_service": "IBM Watson Studio"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "John Doe",
+                "product_service": "Cognex machine vision systems"
+            }
+        ]
+    }
+}

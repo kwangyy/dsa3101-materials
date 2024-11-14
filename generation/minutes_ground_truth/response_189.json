@@ -1,0 +1,150 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Uma Patel"
+    },
+    {
+     "name": "Clara Diaz"
+    },
+    {
+     "name": "Kevin O'Reilly"
+    },
+    {
+     "name": "Xander Williams"
+    },
+    {
+     "name": "John Smith"
+    },
+    {
+     "name": "Jane Doe"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Cloudera"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Senior Solutions Architect"
+    },
+    {
+     "title": "AI Policy Researcher"
+    },
+    {
+     "title": "Machine Learning Engineer"
+    },
+    {
+     "title": "Mobile App Developer"
+    },
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "Project Manager"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Private"
+    },
+    {
+     "name": "IBM AI OpenScale"
+    },
+    {
+     "name": "IBM Watson Studio"
+    },
+    {
+     "name": "IBM MobileFirst Platform"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Uma Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Uma Patel",
+    "role": "Senior Solutions Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Uma Patel",
+    "product_service": "IBM Cloud Private"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Clara Diaz",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Clara Diaz",
+    "role": "AI Policy Researcher"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Clara Diaz",
+    "product_service": "IBM AI OpenScale"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Kevin O'Reilly",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Kevin O'Reilly",
+    "role": "Machine Learning Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Kevin O'Reilly",
+    "product_service": "IBM Watson Studio"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Xander Williams",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Xander Williams",
+    "role": "Mobile App Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Xander Williams",
+    "product_service": "IBM MobileFirst Platform"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "Cloudera"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Doe",
+    "organization": "Cloudera"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Doe",
+    "role": "Project Manager"
+   }
+  ]
+ }
+}

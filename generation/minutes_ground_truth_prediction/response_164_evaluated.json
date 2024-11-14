@@ -1,0 +1,131 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Quinn Parker"
+                },
+                {
+                    "name": "Oliver James"
+                },
+                {
+                    "name": "Ivy Bennett"
+                },
+                {
+                    "name": "Emma Lee"
+                },
+                {
+                    "name": "John Smith"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Google"
+                },
+                {
+                    "name": "Nutanix"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note taker"
+                },
+                {
+                    "title": "Product Manager"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cognos Analytics"
+                },
+                {
+                    "name": "IBM Watson Language Translator"
+                },
+                {
+                    "name": "Google Cloud AI Platform"
+                },
+                {
+                    "name": "IBM Db2"
+                },
+                {
+                    "name": "Nutanix multi-cloud solutions"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Quinn Parker",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Oliver James",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Ivy Bennett",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emma Lee",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "Nutanix"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Quinn Parker",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emma Lee",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "John Smith",
+                "role": "Product Manager"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Quinn Parker",
+                "product_service": "IBM Cognos Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Oliver James",
+                "product_service": "IBM Watson Language Translator"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "IBM Db2"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Nutanix",
+                "location": "New York"
+            }
+        ]
+    }
+}

@@ -1,0 +1,170 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Abigail Carter"
+    },
+    {
+     "name": "Derek Hill"
+    },
+    {
+     "name": "Jackie Lin"
+    },
+    {
+     "name": "Alice Smith"
+    },
+    {
+     "name": "John Doe"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Databricks"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Business Intelligence Analyst"
+    },
+    {
+     "title": "QA Engineer"
+    },
+    {
+     "title": "Cybersecurity Analyst"
+    },
+    {
+     "title": "Chief Data Officer"
+    },
+    {
+     "title": "Data Engineer"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM Aspera"
+    },
+    {
+     "name": "IBM Security Guardium"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "Symantec Endpoint Security"
+    },
+    {
+     "name": "Apache Spark"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM Aspera"
+    },
+    {
+     "name": "IBM Security Guardium"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "Symantec Endpoint Security"
+    },
+    {
+     "name": "Databricks"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Abigail Carter",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Abigail Carter",
+    "role": "Business Intelligence Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Abigail Carter",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Derek Hill",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Derek Hill",
+    "role": "QA Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Derek Hill",
+    "product_service": "IBM Aspera"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jackie Lin",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jackie Lin",
+    "role": "Cybersecurity Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jackie Lin",
+    "product_service": "IBM Security Guardium"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Alice Smith",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Alice Smith",
+    "role": "Chief Data Officer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Symantec Endpoint Security"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Doe",
+    "organization": "Databricks"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Doe",
+    "role": "Data Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Doe",
+    "product_service": "Apache Spark"
+   }
+  ]
+ }
+}

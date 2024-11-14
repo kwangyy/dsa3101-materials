@@ -1,0 +1,142 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Abigail Carter"
+                },
+                {
+                    "name": "Henry Zhou"
+                },
+                {
+                    "name": "Rachel Singh"
+                },
+                {
+                    "name": "Lily Garcia"
+                },
+                {
+                    "name": "John Smith"
+                },
+                {
+                    "name": "Michael Green"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Veeva Systems"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note taker"
+                },
+                {
+                    "title": "Cloud Solutions Consultant"
+                }
+            ],
+            "locations": [],
+            "products_services": [
+                {
+                    "name": "IBM Cognos Analytics"
+                },
+                {
+                    "name": "IBM Kubernetes Service"
+                },
+                {
+                    "name": "IBM Cloud Functions"
+                },
+                {
+                    "name": "IBM Cloud Satellite"
+                },
+                {
+                    "name": "Veeva Systems Cloud Solutions"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Abigail Carter",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Henry Zhou",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Rachel Singh",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Lily Garcia",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "Veeva Systems"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Green",
+                "organization": "External Consultant"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Abigail Carter",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Henry Zhou",
+                "role": "Cloud Solutions Consultant"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Rachel Singh",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Lily Garcia",
+                "role": "Note taker"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Abigail Carter",
+                "product_service": "IBM Cognos Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Henry Zhou",
+                "product_service": "IBM Kubernetes Service"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Rachel Singh",
+                "product_service": "IBM Cloud Functions"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Lily Garcia",
+                "product_service": "IBM Cloud Satellite"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": ""
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Veeva Systems",
+                "location": ""
+            }
+        ]
+    }
+}

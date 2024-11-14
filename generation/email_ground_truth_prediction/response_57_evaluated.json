@@ -1,0 +1,124 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Xander Williams"
+                },
+                {
+                    "name": "Gina Lopez"
+                },
+                {
+                    "name": "David Patel"
+                },
+                {
+                    "name": "Carol Nguyen"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Mobile App Developer"
+                },
+                {
+                    "title": "UX Designer"
+                },
+                {
+                    "title": "Cloud Architect"
+                },
+                {
+                    "title": "Junior Data Scientist"
+                }
+            ],
+            "locations": [],
+            "products_services": [
+                {
+                    "name": "Mobile App"
+                },
+                {
+                    "name": "IBM MobileFirst Platform"
+                },
+                {
+                    "name": "AWS infrastructure"
+                },
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "IBM Cloud Pak for Data"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Xander Williams",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Gina Lopez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "David Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Carol Nguyen",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Xander Williams",
+                "role": "Mobile App Developer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Gina Lopez",
+                "role": "UX Designer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "David Patel",
+                "role": "Cloud Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Carol Nguyen",
+                "role": "Junior Data Scientist"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": ""
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Xander Williams",
+                "product_service": "Mobile App"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Gina Lopez",
+                "product_service": "IBM Cloud Pak for Data"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "David Patel",
+                "product_service": "AWS infrastructure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Carol Nguyen",
+                "product_service": "Microsoft Azure"
+            }
+        ]
+    }
+}

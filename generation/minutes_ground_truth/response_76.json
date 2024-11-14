@@ -1,0 +1,234 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Brian Taylor"
+    },
+    {
+     "name": "Ivy Bennett"
+    },
+    {
+     "name": "Zachary Brooks"
+    },
+    {
+     "name": "Kevin O'Reilly"
+    },
+    {
+     "name": "Mary Scott"
+    },
+    {
+     "name": "Jane Doe"
+    },
+    {
+     "name": "John Smith"
+    },
+    {
+     "name": "Emily White"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Snowflake"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Senior Data Scientist"
+    },
+    {
+     "title": "Data Engineer"
+    },
+    {
+     "title": "Solutions Engineer"
+    },
+    {
+     "title": "Machine Learning Engineer"
+    },
+    {
+     "title": "External Consultant"
+    },
+    {
+     "title": "Data Analyst"
+    },
+    {
+     "title": "Project Manager"
+    },
+    {
+     "title": "External Partner"
+    }
+   ],
+   "locations": [
+    {
+     "name": "R&D Department"
+    },
+    {
+     "name": "Data Management Department"
+    },
+    {
+     "name": "Customer Success Department"
+    },
+    {
+     "name": "AI Research Department"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Db2 Database"
+    },
+    {
+     "name": "IBM Cloud Pak for Integration"
+    },
+    {
+     "name": "IBM Watson Studio"
+    },
+    {
+     "name": "Snowflake"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Brian Taylor",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Brian Taylor",
+    "role": "Senior Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Brian Taylor",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Brian Taylor",
+    "location": "R&D Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Ivy Bennett",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Ivy Bennett",
+    "role": "Data Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Ivy Bennett",
+    "product_service": "IBM Db2 Database"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Ivy Bennett",
+    "location": "Data Management Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Zachary Brooks",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Zachary Brooks",
+    "role": "Solutions Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Zachary Brooks",
+    "product_service": "IBM Cloud Pak for Integration"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Zachary Brooks",
+    "location": "Customer Success Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Kevin O'Reilly",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Kevin O'Reilly",
+    "role": "Machine Learning Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Kevin O'Reilly",
+    "product_service": "IBM Watson Studio"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Kevin O'Reilly",
+    "location": "AI Research Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Mary Scott",
+    "organization": "Snowflake"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Mary Scott",
+    "role": "External Consultant"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Mary Scott",
+    "product_service": "Snowflake"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Doe",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Doe",
+    "role": "Data Analyst"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Jane Doe",
+    "location": "Data Management Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "Snowflake"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "External Partner"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Smith",
+    "product_service": "Snowflake"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emily White",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emily White",
+    "role": "Project Manager"
+   }
+  ]
+ }
+}

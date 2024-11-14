@@ -1,0 +1,119 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Henry Zhou"
+                },
+                {
+                    "name": "Gina Lopez"
+                },
+                {
+                    "name": "Uma Patel"
+                },
+                {
+                    "name": "Xander Williams"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note Taker"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "Unknown"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Kubernetes Service"
+                },
+                {
+                    "name": "IBM Cloud Pak for Data"
+                },
+                {
+                    "name": "IBM Cloud Private"
+                },
+                {
+                    "name": "IBM MobileFirst Platform"
+                },
+                {
+                    "name": "Illumio"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Henry Zhou",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Gina Lopez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Uma Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Xander Williams",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Henry Zhou",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Gina Lopez",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Xander Williams",
+                "role": "Note Taker"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Henry Zhou",
+                "product_service": "IBM Kubernetes Service"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Gina Lopez",
+                "product_service": "IBM Cloud Pak for Data"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Uma Patel",
+                "product_service": "IBM Cloud Private"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Xander Williams",
+                "product_service": "IBM MobileFirst Platform"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Illumio",
+                "location": "Unknown"
+            }
+        ]
+    }
+}

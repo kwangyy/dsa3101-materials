@@ -1,0 +1,177 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Natalie Wu"
+                },
+                {
+                    "name": "Zachary Brooks"
+                },
+                {
+                    "name": "Michael Turner"
+                },
+                {
+                    "name": "Lily Garcia"
+                },
+                {
+                    "name": "Robert Lee"
+                },
+                {
+                    "name": "John Green"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Alteryx"
+                },
+                {
+                    "name": "Microsoft"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note-taker"
+                },
+                {
+                    "title": "Data Scientist"
+                },
+                {
+                    "title": "Business Analyst"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Watson Discovery"
+                },
+                {
+                    "name": "IBM Cloud Pak for Integration"
+                },
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "IBM Cloud Satellite"
+                },
+                {
+                    "name": "Alteryx"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Natalie Wu",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Zachary Brooks",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Turner",
+                "organization": "Microsoft"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Lily Garcia",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Robert Lee",
+                "organization": "Alteryx"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Green",
+                "organization": "Alteryx"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Natalie Wu",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Zachary Brooks",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Turner",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Lily Garcia",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Robert Lee",
+                "role": "Data Scientist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "John Green",
+                "role": "Business Analyst"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Microsoft",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Alteryx",
+                "location": "New York"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Natalie Wu",
+                "product_service": "IBM Watson Discovery"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Zachary Brooks",
+                "product_service": "IBM Cloud Pak for Integration"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Lily Garcia",
+                "product_service": "IBM Cloud Satellite"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Robert Lee",
+                "product_service": "Alteryx"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "John Green",
+                "product_service": "Alteryx"
+            }
+        ]
+    }
+}

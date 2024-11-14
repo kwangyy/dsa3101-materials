@@ -1,0 +1,154 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Jackie Lin"
+    },
+    {
+     "name": "Gina Lopez"
+    },
+    {
+     "name": "Michael Turner"
+    },
+    {
+     "name": "David Patel"
+    },
+    {
+     "name": "Jane Kim"
+    },
+    {
+     "name": "Alex Grant"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Splunk"
+    },
+    {
+     "name": "Microsoft"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Cybersecurity Analyst"
+    },
+    {
+     "title": "UX Designer"
+    },
+    {
+     "title": "Cloud Security Architect"
+    },
+    {
+     "title": "Cloud Architect"
+    },
+    {
+     "title": "Data Analyst"
+    },
+    {
+     "title": "Cloud Engineer"
+    }
+   ],
+   "locations": [],
+   "products_services": [
+    {
+     "name": "IBM Security Guardium"
+    },
+    {
+     "name": "IBM Cloud Pak for Data"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "Amazon Web Services (AWS)"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jackie Lin",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Gina Lopez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Turner",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "David Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Kim",
+    "organization": "Splunk"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Alex Grant",
+    "organization": "Microsoft"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jackie Lin",
+    "role": "Cybersecurity Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Gina Lopez",
+    "role": "UX Designer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Turner",
+    "role": "Cloud Security Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "David Patel",
+    "role": "Cloud Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Kim",
+    "role": "Data Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Alex Grant",
+    "role": "Cloud Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jackie Lin",
+    "product_service": "IBM Security Guardium"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Gina Lopez",
+    "product_service": "IBM Cloud Pak for Data"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Turner",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "David Patel",
+    "product_service": "Amazon Web Services (AWS)"
+   }
+  ]
+ }
+}

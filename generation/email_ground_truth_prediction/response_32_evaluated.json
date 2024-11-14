@@ -1,0 +1,125 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "David Patel"
+                },
+                {
+                    "name": "Rachel Singh"
+                },
+                {
+                    "name": "Michael Turner"
+                },
+                {
+                    "name": "Yasmine Ali"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Cloud Architect"
+                },
+                {
+                    "title": "Software Engineer"
+                },
+                {
+                    "title": "Cloud Security Architect"
+                },
+                {
+                    "title": "Data Scientist"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cloud Functions"
+                },
+                {
+                    "name": "Amazon Web Services (AWS)"
+                },
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "IBM Planning Analytics"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "David Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Rachel Singh",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Turner",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Yasmine Ali",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "David Patel",
+                "role": "Cloud Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Rachel Singh",
+                "role": "Software Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Turner",
+                "role": "Cloud Security Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Yasmine Ali",
+                "role": "Data Scientist"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "David Patel",
+                "product_service": "Amazon Web Services (AWS)"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Rachel Singh",
+                "product_service": "IBM Cloud Functions"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Yasmine Ali",
+                "product_service": "IBM Planning Analytics"
+            }
+        ]
+    }
+}

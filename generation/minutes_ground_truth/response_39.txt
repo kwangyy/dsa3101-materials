@@ -1,0 +1,163 @@
+### Meeting Minutes 1: Simple
+#### Date: 05-Jan-2023
+#### Time: 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Michael Turner (Note-taker)
+- Abigail Carter
+- Henry Zhou
+- Carol Nguyen
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Collaboration proposals for improving data security on Microsoft Azure.
+2. Market analysis overview.
+
+**Discussion Points:**
+- Michael proposed new security protocols for Microsoft Azure.
+- Abigail presented recent dashboard updates and market trends.
+- Henry discussed potential automation improvements.
+- Carol shared preliminary data analysis results.
+
+**Next Steps:**
+- Michael to draft detailed security protocol proposal by 12-Jan-2023.
+- Abigail to finalize market trend report by 10-Jan-2023.
+- Henry to work on automation scripts for CI/CD pipelines by 15-Jan-2023.
+- Carol to continue data analysis and report findings by 20-Jan-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+#### Date: 20-Jan-2023
+#### Time: 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Michael Turner
+- Abigail Carter
+- Henry Zhou
+- Carol Nguyen
+- External: John Smith (Illumio, Zero-trust Specialist)
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Review of proposed security protocols for Microsoft Azure.
+2. Integrating Illumio's zero-trust segmentation into current systems.
+3. Market analysis feedback.
+
+**Discussion Points:**
+- Michael reviewed the security protocols he drafted.
+- John from Illumio presented their zero-trust segmentation solutions.
+- Abigail shared feedback from the market analysis report.
+- Henry discussed how the integration could affect the CI/CD pipelines.
+
+**Next Steps:**
+- Michael and John to collaborate on a pilot project for zero-trust integration by 28-Jan-2023.
+- Abigail to update the market analysis report with new insights by 25-Jan-2023.
+- Henry to prepare a compatibility report for CI/CD pipelines by 01-Feb-2023.
+- Carol to assist in the data collection process for the pilot project by 05-Feb-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+#### Date: 05-Feb-2023
+#### Time: 9:00 AM - 11:00 AM
+
+**Attendees:**
+- Michael Turner
+- Abigail Carter
+- Henry Zhou
+- Carol Nguyen
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Follow-up on zero-trust segmentation pilot project.
+2. In-depth discussion of market analysis trends and next steps.
+3. Data collection for ongoing projects.
+4. Problem-solving session for pipeline automation issues.
+
+**Discussion Points:**
+- Michael and John presented initial results of the zero-trust segmentation pilot.
+- Abigail elaborated on market trends, focusing on competitor analysis.
+- Carol shared data collection techniques and preliminary results.
+- Henry identified specific challenges in pipeline automation and proposed solutions.
+  - Suggestion: Cross-departmental collaboration for resolving data bottlenecks.
+  - Potential challenge: Resource allocation.
+
+**Next Steps:**
+- Michael to finalize the pilot report and submit to the leadership team by 12-Feb-2023.
+- Abigail to integrate competitor analysis into the final market report by 10-Feb-2023.
+- Carol to compile a comprehensive data report by 15-Feb-2023.
+- Henry to implement proposed automation solutions and review progress by 20-Feb-2023.
+
+---
+
+### Meeting Minutes 4: Moderate
+#### Date: 15-Feb-2023
+#### Time: 1:00 PM - 2:00 PM
+
+**Attendees:**
+- Michael Turner
+- Abigail Carter
+- Henry Zhou
+- Carol Nguyen
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Review of data report.
+2. Discuss market trends and competitor strategies.
+3. Plan for next quarter's projects.
+
+**Discussion Points:**
+- Carol presented the comprehensive data report.
+- Abigail discussed market trends, including competitor strategies.
+- Michael proposed new security measures based on recent findings.
+- Henry shared updates on pipeline automation progress.
+
+**Next Steps:**
+- Michael to draft security measures proposal by 20-Feb-2023.
+- Abigail to finalize and distribute the market trends report by 18-Feb-2023.
+- Henry to continue refining pipeline automation, next review on 01-Mar-2023.
+- Carol to assist Abigail in data verification by 17-Feb-2023.
+
+---
+
+### Meeting Minutes 5: Simple
+#### Date: 28-Feb-2023
+#### Time: 11:00 AM - 11:30 AM
+
+**Attendees:**
+- Michael Turner
+- Abigail Carter
+- Henry Zhou
+- Carol Nguyen
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Quick updates on ongoing projects.
+2. Brief discussion on upcoming collaboration with external teams.
+
+**Discussion Points:**
+- Michael provided updates on the security measures proposal.
+- Abigail shared progress on the final market trends report.
+- Henry reported minor issues in pipeline automation, being addressed.
+- Carol discussed upcoming data requirements for new projects.
+
+**Next Steps:**
+- Michael to finalize and present the security measures proposal by 05-Mar-2023.
+- Abigail to distribute the final market trends report by 03-Mar-2023.
+- Henry to resolve pipeline issues and report back by 07-Mar-2023.
+- Carol to prepare initial data sets for new projects by 10-Mar-2023.
+
+---
+
+### JSON Relationships

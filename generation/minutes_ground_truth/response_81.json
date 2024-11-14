@@ -1,0 +1,143 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Ivy Bennett"
+    },
+    {
+     "name": "Quinn Parker"
+    },
+    {
+     "name": "Derek Hill"
+    },
+    {
+     "name": "Lily Garcia"
+    },
+    {
+     "name": "Sarah Lee"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Splunk"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Data Engineer"
+    },
+    {
+     "title": "Data Analyst"
+    },
+    {
+     "title": "QA Engineer"
+    },
+    {
+     "title": "Marketing Analyst"
+    },
+    {
+     "title": "Machine Data Analysis Specialist"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Db2 Database"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM Aspera"
+    },
+    {
+     "name": "IBM Cloud Satellite"
+    },
+    {
+     "name": "Machine Data Analysis"
+    }
+   ],
+   "locations": []
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Ivy Bennett",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Ivy Bennett",
+    "role": "Data Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Ivy Bennett",
+    "product_service": "IBM Db2 Database"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Quinn Parker",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Quinn Parker",
+    "role": "Data Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Quinn Parker",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Derek Hill",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Derek Hill",
+    "role": "QA Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Derek Hill",
+    "product_service": "IBM Aspera"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Lily Garcia",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Lily Garcia",
+    "role": "Marketing Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Lily Garcia",
+    "product_service": "IBM Cloud Satellite"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah Lee",
+    "organization": "Splunk"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah Lee",
+    "role": "Machine Data Analysis Specialist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Sarah Lee",
+    "product_service": "Machine Data Analysis"
+   }
+  ]
+ }
+}

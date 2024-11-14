@@ -1,0 +1,125 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Gina Lopez"
+                },
+                {
+                    "name": "Ivy Bennett"
+                },
+                {
+                    "name": "Carol Nguyen"
+                },
+                {
+                    "name": "Wendy Chen"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "UX Designer"
+                },
+                {
+                    "title": "Data Engineer"
+                },
+                {
+                    "title": "Junior Data Scientist"
+                },
+                {
+                    "title": "AI Solutions Architect"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "IBM Cloud Pak for Data"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cloud Pak for Data"
+                },
+                {
+                    "name": "IBM Db2 Database"
+                },
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "IBM Maximo Asset Management"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Gina Lopez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Ivy Bennett",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Carol Nguyen",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Wendy Chen",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Gina Lopez",
+                "role": "UX Designer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Ivy Bennett",
+                "role": "Data Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Carol Nguyen",
+                "role": "Junior Data Scientist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Wendy Chen",
+                "role": "AI Solutions Architect"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "IBM Cloud Pak for Data"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Gina Lopez",
+                "product_service": "IBM Cloud Pak for Data"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "IBM Db2 Database"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Carol Nguyen",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Wendy Chen",
+                "product_service": "IBM Maximo Asset Management"
+            }
+        ]
+    }
+}

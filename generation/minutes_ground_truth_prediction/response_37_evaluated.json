@@ -1,0 +1,149 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Rachel Singh"
+                },
+                {
+                    "name": "Yasmine Ali"
+                },
+                {
+                    "name": "Xander Williams"
+                },
+                {
+                    "name": "Lily Garcia"
+                },
+                {
+                    "name": "John Smith"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Acme Corp"
+                },
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Alteryx"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note Taker"
+                },
+                {
+                    "title": "CEO"
+                },
+                {
+                    "title": "Senior Analyst"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "IBM Cloud Functions"
+                },
+                {
+                    "name": "IBM MobileFirst Platform"
+                },
+                {
+                    "name": "IBM Cloud Satellite"
+                },
+                {
+                    "name": "Alteryx platform"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Rachel Singh",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Yasmine Ali",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Xander Williams",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Lily Garcia",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "Alteryx"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Rachel Singh",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Yasmine Ali",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Xander Williams",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Lily Garcia",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "John Smith",
+                "role": "Senior Analyst"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Rachel Singh",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Yasmine Ali",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Xander Williams",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Lily Garcia",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Alteryx",
+                "location": "New York"
+            }
+        ]
+    }
+}

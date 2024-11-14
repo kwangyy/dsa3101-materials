@@ -1,0 +1,142 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Abigail Carter"
+    },
+    {
+     "name": "Zachary Brooks"
+    },
+    {
+     "name": "Victor Ramos"
+    },
+    {
+     "name": "Jackie Lin"
+    },
+    {
+     "name": "Mark Thompson"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Elastic"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Business Intelligence Analyst"
+    },
+    {
+     "title": "Solutions Engineer"
+    },
+    {
+     "title": "RPA Developer"
+    },
+    {
+     "title": "Cybersecurity Analyst"
+    },
+    {
+     "title": "Technical Lead"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM Cloud Pak for Integration"
+    },
+    {
+     "name": "IBM Robotic Process Automation"
+    },
+    {
+     "name": "IBM Security Guardium"
+    },
+    {
+     "name": "Elastic Search"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Abigail Carter",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Abigail Carter",
+    "role": "Business Intelligence Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Abigail Carter",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Zachary Brooks",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Zachary Brooks",
+    "role": "Solutions Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Zachary Brooks",
+    "product_service": "IBM Cloud Pak for Integration"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Victor Ramos",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Victor Ramos",
+    "role": "RPA Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Victor Ramos",
+    "product_service": "IBM Robotic Process Automation"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jackie Lin",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jackie Lin",
+    "role": "Cybersecurity Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jackie Lin",
+    "product_service": "IBM Security Guardium"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Mark Thompson",
+    "organization": "Elastic"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Mark Thompson",
+    "role": "Technical Lead"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Mark Thompson",
+    "product_service": "Elastic Search"
+   }
+  ]
+ }
+}

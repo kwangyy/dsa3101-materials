@@ -1,0 +1,159 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Ivy Bennett"
+    },
+    {
+     "name": "Derek Hill"
+    },
+    {
+     "name": "Jackie Lin"
+    },
+    {
+     "name": "Clara Diaz"
+    },
+    {
+     "name": "Mark Spencer"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Alteryx"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Data Engineer"
+    },
+    {
+     "title": "QA Engineer"
+    },
+    {
+     "title": "Cybersecurity Analyst"
+    },
+    {
+     "title": "AI Policy Researcher"
+    },
+    {
+     "title": "Alteryx Representative"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Db2 Database"
+    },
+    {
+     "name": "IBM Aspera"
+    },
+    {
+     "name": "IBM Security Guardium"
+    },
+    {
+     "name": "IBM AI OpenScale"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Service Integration"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Ivy Bennett",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Ivy Bennett",
+    "role": "Data Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Ivy Bennett",
+    "product_service": "Service Integration"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Ivy Bennett",
+    "location": "IBM Db2 Database"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Derek Hill",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Derek Hill",
+    "role": "QA Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Derek Hill",
+    "product_service": "Service Integration"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Derek Hill",
+    "location": "IBM Aspera"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jackie Lin",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jackie Lin",
+    "role": "Cybersecurity Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jackie Lin",
+    "product_service": "Service Integration"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Jackie Lin",
+    "location": "IBM Security Guardium"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Clara Diaz",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Clara Diaz",
+    "role": "AI Policy Researcher"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Clara Diaz",
+    "product_service": "Service Integration"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Clara Diaz",
+    "location": "IBM AI OpenScale"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Mark Spencer",
+    "organization": "Alteryx"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Mark Spencer",
+    "role": "Alteryx Representative"
+   }
+  ]
+ }
+}

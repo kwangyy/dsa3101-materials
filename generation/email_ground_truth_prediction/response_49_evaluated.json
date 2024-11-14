@@ -1,0 +1,130 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Emma Lee"
+                },
+                {
+                    "name": "Quinn Parker"
+                },
+                {
+                    "name": "Victor Ramos"
+                },
+                {
+                    "name": "Jackie Lin"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Product Manager"
+                },
+                {
+                    "title": "RPA Developer"
+                },
+                {
+                    "title": "Data Analyst"
+                },
+                {
+                    "title": "Cybersecurity Analyst"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Robotic Process Automation (RPA)"
+                },
+                {
+                    "name": "Google Cloud AI Platform"
+                },
+                {
+                    "name": "Nutanix"
+                },
+                {
+                    "name": "IBM Security Guardium"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emma Lee",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Quinn Parker",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jackie Lin",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emma Lee",
+                "role": "Product Manager"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Quinn Parker",
+                "role": "Data Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Victor Ramos",
+                "role": "RPA Developer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jackie Lin",
+                "role": "Cybersecurity Analyst"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "IBM"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Emma Lee",
+                "product_service": "IBM Robotic Process Automation (RPA)"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Emma Lee",
+                "product_service": "Google Cloud AI Platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "IBM Robotic Process Automation (RPA)"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Quinn Parker",
+                "product_service": "Google Cloud AI Platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Jackie Lin",
+                "product_service": "IBM Security Guardium"
+            }
+        ]
+    }
+}

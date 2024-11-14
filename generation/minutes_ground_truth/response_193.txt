@@ -1,0 +1,149 @@
+### Meeting Minutes 1 (Simple)
+
+**Date and Time:**  
+25-Aug-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**  
+- Zachary Brooks (Note Taker)
+- Victor Ramos
+- Brian Taylor
+- Yasmine Ali  
+- Absentees: None
+
+**Agenda:**
+1. Service Integration Feedback
+
+**Discussion Points:**
+- Zachary Brooks raised concerns about the integration speed of IBM Cloud Pak for Integration.
+- Victor Ramos mentioned that the RPA bots need to be optimized to handle higher loads.
+- Brian Taylor emphasized the need for more predictive analytics to foresee potential integration issues.
+- Yasmine Ali suggested using IBM Planning Analytics for better forecast models.
+
+**Next Steps:**
+- Zachary Brooks to investigate integration speed issues by 01-Sep-2023.
+- Victor Ramos to optimize RPA bots by 03-Sep-2023.
+- Brian Taylor and Yasmine Ali to collaborate on predictive analytics models by 05-Sep-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+
+**Date and Time:**  
+01-Sep-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**  
+- Zachary Brooks
+- Victor Ramos (Note Taker)
+- Brian Taylor
+- Yasmine Ali  
+- Absentees: None
+
+**Agenda:**
+1. Review of feedback on previous integration issues
+2. Update on predictive analytics models
+
+**Discussion Points:**
+- Zachary Brooks provided updates on the integration speed, mentioning slight improvements but further optimizations required.
+- Victor Ramos discussed the initial success in optimizing RPA bots but highlighted the need for more rigorous testing.
+- Brian Taylor presented preliminary results from the predictive analytics models and shared concerns about data quality.
+- Yasmine Ali suggested collaboration with the data engineering team to improve data quality.
+
+**Next Steps:**
+- Zachary Brooks to continue optimizing integration speeds with a detailed report by 10-Sep-2023.
+- Victor Ramos to schedule rigorous testing of RPA bots by 08-Sep-2023.
+- Brian Taylor and Yasmine Ali to coordinate with the data engineering team to enhance data quality by 12-Sep-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+
+**Date and Time:**  
+15-Sep-2023, 2:00 PM - 4:00 PM
+
+**Attendees:**  
+- Zachary Brooks
+- Victor Ramos
+- Brian Taylor
+- Yasmine Ali (Note Taker)
+- External Attendees:  
+  - James Watson (DigitalOcean - Cloud Solutions Architect)
+
+**Agenda:**
+1. Comprehensive review of service integration
+2. Collaboration opportunities with DigitalOcean
+3. Problem-solving for predictive analytics and RPA optimization
+
+**Discussion Points:**
+- Zachary Brooks presented a detailed analysis of ongoing integration improvements, pointing out specific bottlenecks.
+- Victor Ramos shared extensive test results of RPA bot optimizations, highlighting a few remaining issues.
+- Brian Taylor discussed advanced predictive models and noted the importance of accurate data collection.
+- Yasmine Ali proposed solutions for improving data collection, involving cross-departmental efforts.
+- James Watson from DigitalOcean suggested potential collaborations for cloud computing solutions tailored to SMBs and developers.
+
+**Next Steps:**
+- Zachary Brooks to address identified bottlenecks with a targeted approach by 20-Sep-2023.
+- Victor Ramos to resolve remaining RPA issues with an additional testing phase by 22-Sep-2023.
+- Brian Taylor and Yasmine Ali to implement improved data collection techniques by 25-Sep-2023.
+- Follow-up meeting with DigitalOcean for collaboration opportunities scheduled for 28-Sep-2023.
+
+---
+
+### Meeting Minutes 4 (Moderate)
+
+**Date and Time:**  
+20-Sep-2023, 3:00 PM - 4:00 PM
+
+**Attendees:**  
+- Zachary Brooks
+- Victor Ramos
+- Brian Taylor (Note Taker)
+- Yasmine Ali  
+- Absentees: None
+
+**Agenda:**
+1. Final feedback on RPA and predictive models
+2. Preparation for DigitalOcean collaboration
+
+**Discussion Points:**
+- Zachary Brooks confirmed that the major bottlenecks were resolved and shared the latest metrics.
+- Victor Ramos reported the final optimization results for RPA bots, confirming their reliability.
+- Brian Taylor and Yasmine Ali discussed the successful implementation of improved data collection techniques.
+- Preparation strategies for the upcoming DigitalOcean meeting were reviewed.
+
+**Next Steps:**
+- Zachary Brooks to prepare a summary report of resolved integration issues by 23-Sep-2023.
+- Victor Ramos to finalize RPA testing documentation by 25-Sep-2023.
+- Brian Taylor and Yasmine Ali to prepare a detailed presentation for the DigitalOcean meeting by 27-Sep-2023.
+
+---
+
+### Meeting Minutes 5 (Simple)
+
+**Date and Time:**  
+28-Sep-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**  
+- Zachary Brooks
+- Victor Ramos
+- Brian Taylor
+- Yasmine Ali  
+- James Watson (DigitalOcean - Cloud Solutions Architect) (Note Taker)
+- Absentees: None
+
+**Agenda:**
+1. Review of collaborative opportunities with DigitalOcean
+
+**Discussion Points:**
+- Zachary Brooks discussed potential integration of DigitalOcean solutions with IBM Cloud Pak.
+- Victor Ramos highlighted the compatibility of DigitalOcean solutions with IBM's RPA tools.
+- Brian Taylor emphasized the potential for improved analytics with DigitalOcean's cloud offerings.
+- Yasmine Ali suggested exploring predictive models that leverage DigitalOcean's infrastructure.
+
+**Next Steps:**
+- Zachary Brooks to draft a collaborative proposal with DigitalOcean by 05-Oct-2023.
+- Victor Ramos to prepare a technical feasibility report by 07-Oct-2023.
+- Brian Taylor and Yasmine Ali to draft potential analytics use cases by 10-Oct-2023.
+
+---
+
+### JSON Data

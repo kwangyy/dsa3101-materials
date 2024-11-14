@@ -1,0 +1,234 @@
+### Meeting Minutes
+
+#### 1. Simple Meeting Minutes
+
+**Date and Time:**  
+05-Jul-2023  
+Start: 10:00 AM  
+End: 10:30 AM
+
+**Attendees:**  
+- Wendy Chen (Note Taker)  
+- Tina Foster  
+- Kevin O'Reilly  
+- Emma Lee
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+1. Request for feedback on IBM Maximo Asset Management AI solutions.  
+2. Discussion of product development updates.  
+3. Any immediate concerns or issues.
+
+**Discussion Points:**  
+- **IBM Maximo Asset Management AI Solutions:**
+  - Wendy requested feedback on current AI solution designs.
+  - Kevin suggested enhancing the machine learning models for better accuracy.
+
+- **Product Development Updates:**
+  - Emma provided updates on the Google Cloud AI Platform strategy.
+  - Tina discussed challenges with IBM QRadar SIEM implementations and potential solutions.
+
+**Next Steps:**  
+- Wendy to integrate feedback and present an updated design by 12-Jul-2023.
+- Kevin to investigate model improvements and report findings in the next meeting.
+- Tina to work on resolving IBM QRadar SIEM issues and update progress in the next meeting.
+
+---
+
+#### 2. Moderate Meeting Minutes
+
+**Date and Time:**  
+12-Jul-2023  
+Start: 02:00 PM  
+End: 03:00 PM
+
+**Attendees:**  
+- Wendy Chen  
+- Tina Foster  
+- Kevin O'Reilly (Note Taker)  
+- Emma Lee
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+1. Update on feedback integration for IBM Maximo Asset Management.  
+2. Review of IBM Watson Studio model improvements.  
+3. Product strategy for Google Cloud AI Platform.  
+4. Cross-departmental support for IBM QRadar SIEM implementation.
+
+**Discussion Points:**  
+- **IBM Maximo Asset Management Feedback Integration:**
+  - Wendy presented the updated designs incorporating feedback.
+  - Positive response from all attendees; minor tweaks suggested.
+
+- **IBM Watson Studio Model Improvements:**
+  - Kevin discussed potential improvements and their expected impact.
+  - Emma recommended aligning improvements with product strategy for better coherence.
+
+- **Google Cloud AI Platform Strategy:**
+  - Emma updated the team on strategic decisions and upcoming milestones.
+  - Discussion on how AI solutions can be better integrated with cloud services.
+
+- **IBM QRadar SIEM Implementation Support:**
+  - Tina explained current challenges and requested additional support.
+  - Wendy and Kevin offered assistance in data analysis and system integration.
+
+**Next Steps:**  
+- Wendy to finalize IBM Maximo Asset Management designs by 19-Jul-2023.
+- Kevin to begin model improvements and provide a progress update by 26-Jul-2023.
+- Emma to integrate AI solutions feedback into the Google Cloud AI Platform strategy by 19-Jul-2023.
+- Tina to coordinate with Wendy and Kevin for support and update by next meeting.
+
+---
+
+#### 3. Detailed Meeting Minutes
+
+**Date and Time:**  
+19-Jul-2023  
+Start: 01:00 PM  
+End: 02:30 PM
+
+**Attendees:**  
+- Wendy Chen  
+- Tina Foster  
+- Kevin O'Reilly  
+- Emma Lee (Note Taker)  
+- External: John Smith (C3.ai, AI Specialist)
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+1. Final review of IBM Maximo Asset Management design updates.  
+2. In-depth discussion on machine learning model improvements.  
+3. Integration of AI solutions with Google Cloud AI Platform.  
+4. Collaboration with C3.ai for industrial-scale AI solutions.  
+5. IBM QRadar SIEM implementation status and next steps.
+
+**Discussion Points:**  
+- **IBM Maximo Asset Management:**
+  - Wendy presented final design updates.
+  - Approved by all; ready for deployment.
+
+- **Machine Learning Model Improvements:**
+  - Kevin detailed the specific improvements and expected performance gains.
+  - John Smith from C3.ai provided insights on industry best practices.
+
+- **Google Cloud AI Platform Integration:**
+  - Emma shared how the feedback was integrated and upcoming integration steps.
+  - Discussion on collaboration opportunities with C3.ai for enhanced capabilities.
+
+- **Collaboration with C3.ai:**
+  - John Smith discussed potential areas of collaboration in energy and defense sectors.
+  - Agreement to explore joint projects.
+
+- **IBM QRadar SIEM Implementation:**
+  - Tina provided a status update and highlighted remaining challenges.
+  - Discussion on resource allocation and priority tasks.
+
+**Next Steps:**  
+- Wendy to oversee deployment of IBM Maximo Asset Management by 26-Jul-2023.
+- Kevin to continue with model improvements, next review on 02-Aug-2023.
+- Emma to coordinate integration steps with Google Cloud AI and initiate collaboration with C3.ai by 02-Aug-2023.
+- Tina to resolve remaining IBM QRadar SIEM issues with additional resources and provide an update by next meeting.
+
+---
+
+#### 4. Moderate Meeting Minutes
+
+**Date and Time:**  
+26-Jul-2023  
+Start: 03:00 PM  
+End: 04:00 PM
+
+**Attendees:**  
+- Wendy Chen (Note Taker)  
+- Tina Foster  
+- Kevin O'Reilly  
+- Emma Lee
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+1. Progress update on IBM Maximo Asset Management deployment.  
+2. Status of model improvements for IBM Watson Studio.  
+3. Initial steps for collaboration with C3.ai.  
+4. IBM QRadar SIEM issues resolution status.
+
+**Discussion Points:**  
+- **IBM Maximo Asset Management Deployment:**
+  - Wendy reported successful deployment.
+  - Minor issues identified; quick resolution planned.
+
+- **IBM Watson Studio Model Improvements:**
+  - Kevin provided progress updates, significant performance improvements noted.
+  - Discussion on further enhancements and data requirements.
+
+- **Collaboration with C3.ai:**
+  - Emma shared initial steps and potential joint projects identified.
+  - Agreement to have a detailed discussion with C3.ai in the next meeting.
+
+- **IBM QRadar SIEM Issues:**
+  - Tina updated the team on progress and remaining challenges.
+  - Wendy and Kevin provided additional support and resources.
+
+**Next Steps:**  
+- Wendy to address minor deployment issues by 02-Aug-2023.
+- Kevin to complete further model enhancements by 09-Aug-2023.
+- Emma to arrange a detailed discussion with C3.ai by 09-Aug-2023.
+- Tina to resolve remaining IBM QRadar SIEM issues and update next meeting.
+
+---
+
+#### 5. Simple Meeting Minutes
+
+**Date and Time:**  
+02-Aug-2023  
+Start: 11:00 AM  
+End: 11:30 AM
+
+**Attendees:**  
+- Wendy Chen  
+- Tina Foster (Note Taker)  
+- Kevin O'Reilly  
+- Emma Lee
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+1. Addressing minor issues in IBM Maximo Asset Management deployment.  
+2. Update on IBM Watson Studio model enhancements.  
+3. Planning detailed discussion with C3.ai.  
+4. Final resolution of IBM QRadar SIEM issues.
+
+**Discussion Points:**  
+- **IBM Maximo Asset Management Deployment:**
+  - Wendy reported that all minor issues were addressed.
+  - Deployment now fully stable.
+
+- **IBM Watson Studio Model Enhancements:**
+  - Kevin shared final updates, all targets met.
+  - Discussion on potential future improvements.
+
+- **Discussion with C3.ai:**
+  - Emma confirmed detailed discussion arranged for 09-Aug-2023.
+  - Preparation steps discussed.
+
+- **IBM QRadar SIEM Issues:**
+  - Tina reported final resolution of all issues.
+  - Thanks to cross-departmental support.
+
+**Next Steps:**  
+- Wendy to monitor IBM Maximo Asset Management for stability.
+- Kevin to begin planning for future model improvements.
+- Emma to lead the detailed discussion with C3.ai.
+- Tina to compile a final report on IBM QRadar SIEM implementation by 09-Aug-2023.
+
+---
+
+### Synthetic Minutes Data in JSON Format

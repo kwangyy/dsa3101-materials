@@ -1,0 +1,112 @@
+### Meeting Minutes 1
+
+**Date and Time**: 01-JAN-2023, 09:00 AM - 09:30 AM  
+**Attendees**: Gina Lopez, Victor Ramos, David Patel, Jackie Lin  
+**Note Taker**: David Patel  
+**Absentees**: None
+
+**Agenda**:
+- Simple greetings
+- Discuss inter-department collaboration
+
+**Discussion Points**:
+- Each attendee provided a brief introduction and their current projects.
+- Identified potential collaboration between Cloud Pak for Data and IBM Robotic Process Automation.
+- Discussed the need for better threat detection in the newly developed bots.
+  
+**Next Steps**:
+- Gina Lopez to explore UX improvements for RPA dashboards by 15-JAN-2023.
+- Jackie Lin to provide security threat detection requirements to Victor Ramos by 10-JAN-2023.
+
+---
+
+### Meeting Minutes 2
+
+**Date and Time**: 10-FEB-2023, 11:00 AM - 12:00 PM  
+**Attendees**: Gina Lopez, Victor Ramos, David Patel  
+**Note Taker**: Gina Lopez  
+**Absentees**: Jackie Lin
+
+**Agenda**:
+- Project updates
+- Strategy discussions for improved collaboration
+
+**Discussion Points**:
+- Victor Ramos updated on current RPA projects and challenges faced.
+- David Patel suggested integrating AWS services for better performance and reliability.
+- Gina Lopez provided insights on user feedback from Cloud Pak for Data.
+
+**Next Steps**:
+- David Patel to draft a proposal for AWS integration by 25-FEB-2023.
+- Victor Ramos to coordinate with Jackie Lin to ensure security measures by 20-FEB-2023.
+
+---
+
+### Meeting Minutes 3
+
+**Date and Time**: 05-MAR-2023, 02:00 PM - 03:30 PM  
+**Attendees**: Gina Lopez, Victor Ramos, David Patel, Jackie Lin  
+**Note Taker**: Jackie Lin  
+**Absentees**: None
+
+**Agenda**:
+- Review of previous meeting actions
+- Discussion on inter-department project Roadmap
+
+**Discussion Points**:
+- Reviewed progress on AWS integration and security enhancements.
+- Potential challenges with data synchronization between Cloud Pak for Data and RPA systems.
+- Jackie Lin suggested involving Elastic for better data analytics and threat detection.
+
+**Next Steps**:
+- Gina Lopez to work with Elastic team for a demo by 20-MAR-2023.
+- Victor Ramos to finalize bot security protocols with Jackie Lin by 15-MAR-2023.
+- David Patel to continue AWS integration and report back by 30-MAR-2023.
+
+---
+
+### Meeting Minutes 4
+
+**Date and Time**: 15-MAY-2023, 01:00 PM - 02:00 PM  
+**Attendees**: Gina Lopez, Victor Ramos, Jackie Lin  
+**Note Taker**: Victor Ramos  
+**Absentees**: David Patel
+
+**Agenda**:
+- Project updates
+- Strategy for next quarter
+
+**Discussion Points**:
+- Updated on the collaboration with Elastic, highlighting key benefits.
+- Jackie Lin reported improvements in threat detection efficiency.
+- Discussed the potential of expanding RPA bots to other departments.
+
+**Next Steps**:
+- Gina Lopez to prepare a user experience report for the expanded bots by 01-JUN-2023.
+- Victor Ramos to begin the initial phase of bot deployment to other departments by 10-JUN-2023.
+- Jackie Lin to continue monitoring and reporting on security measures monthly.
+
+---
+
+### Meeting Minutes 5
+
+**Date and Time**: 20-JUL-2023, 09:30 AM - 11:00 AM  
+**Attendees**: Gina Lopez, Victor Ramos, David Patel, Jackie Lin  
+**Note Taker**: Jackie Lin  
+**Absentees**: None
+
+**Agenda**:
+- Final review of inter-department projects
+- Discussion on future collaboration opportunities
+
+**Discussion Points**:
+- Finalized AWS integration and security measures; reported by David Patel.
+- Gina Lopez showcased improved UX designs for RPA dashboards.
+- Discussed the potential for future collaborations with external entities like Elastic.
+
+**Next Steps**:
+- Jackie Lin to document the overall security improvement by 01-AUG-2023.
+- Victor Ramos to collect feedback from initial bot deployment by 15-AUG-2023.
+- Gina Lopez to prepare a presentation on UX improvements for the next executive meeting by 10-AUG-2023.
+
+---

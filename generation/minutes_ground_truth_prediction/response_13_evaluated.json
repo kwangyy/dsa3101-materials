@@ -1,0 +1,124 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Natalie Wu"
+                },
+                {
+                    "name": "Henry Zhou"
+                },
+                {
+                    "name": "Abigail Carter"
+                },
+                {
+                    "name": "Zachary Brooks"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note taker"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "Unknown"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Watson Discovery"
+                },
+                {
+                    "name": "CI/CD pipeline automation"
+                },
+                {
+                    "name": "IBM Cloud Pak"
+                },
+                {
+                    "name": "IBM Cloud Pak for Integration"
+                },
+                {
+                    "name": "Nutanix"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Natalie Wu",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Henry Zhou",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Abigail Carter",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Zachary Brooks",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Natalie Wu",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Henry Zhou",
+                "role": "Unknown"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Abigail Carter",
+                "role": "Unknown"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Zachary Brooks",
+                "role": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "Unknown"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Natalie Wu",
+                "product_service": "IBM Watson Discovery"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Henry Zhou",
+                "product_service": "CI/CD pipeline automation"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Abigail Carter",
+                "product_service": "IBM Cloud Pak"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Zachary Brooks",
+                "product_service": "IBM Cloud Pak for Integration"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Nutanix",
+                "location": "Unknown"
+            }
+        ]
+    }
+}

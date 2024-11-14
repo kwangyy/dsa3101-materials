@@ -1,0 +1,142 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Zachary Brooks"
+    },
+    {
+     "name": "Yasmine Ali"
+    },
+    {
+     "name": "Xander Williams"
+    },
+    {
+     "name": "Franklin Moore"
+    },
+    {
+     "name": "Jane Smith"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Databricks"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Solutions Engineer"
+    },
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "Mobile App Developer"
+    },
+    {
+     "title": "Senior Software Engineer"
+    },
+    {
+     "title": "Data Engineering Lead"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Pak for Integration"
+    },
+    {
+     "name": "IBM Planning Analytics"
+    },
+    {
+     "name": "IBM MobileFirst Platform"
+    },
+    {
+     "name": "IBM Watson Assistant"
+    },
+    {
+     "name": "Apache Spark"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Zachary Brooks",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Yasmine Ali",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Xander Williams",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Franklin Moore",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Smith",
+    "organization": "Databricks"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Zachary Brooks",
+    "role": "Solutions Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Yasmine Ali",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Xander Williams",
+    "role": "Mobile App Developer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Franklin Moore",
+    "role": "Senior Software Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Smith",
+    "role": "Data Engineering Lead"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Zachary Brooks",
+    "product_service": "IBM Cloud Pak for Integration"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Yasmine Ali",
+    "product_service": "IBM Planning Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Xander Williams",
+    "product_service": "IBM MobileFirst Platform"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Franklin Moore",
+    "product_service": "IBM Watson Assistant"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jane Smith",
+    "product_service": "Apache Spark"
+   }
+  ]
+ }
+}

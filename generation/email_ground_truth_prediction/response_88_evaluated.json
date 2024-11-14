@@ -1,0 +1,122 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Victor Ramos"
+                },
+                {
+                    "name": "Xander Williams"
+                },
+                {
+                    "name": "Abigail Carter"
+                },
+                {
+                    "name": "Quinn Parker"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "RPA Developer"
+                },
+                {
+                    "title": "Mobile App Developer"
+                },
+                {
+                    "title": "Business Intelligence Analyst"
+                },
+                {
+                    "title": "Data Analyst"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Robotic Process Automation"
+                },
+                {
+                    "name": "IBM MobileFirst Platform"
+                },
+                {
+                    "name": "IBM Cognos Analytics"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Xander Williams",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Abigail Carter",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Quinn Parker",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Victor Ramos",
+                "role": "RPA Developer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Xander Williams",
+                "role": "Mobile App Developer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Abigail Carter",
+                "role": "Business Intelligence Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Quinn Parker",
+                "role": "Data Analyst"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "IBM"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "IBM Robotic Process Automation"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Xander Williams",
+                "product_service": "IBM MobileFirst Platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Abigail Carter",
+                "product_service": "IBM Cognos Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Quinn Parker",
+                "product_service": "IBM Cognos Analytics"
+            }
+        ]
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Lily Garcia"
+                },
+                {
+                    "name": "Yasmine Ali"
+                },
+                {
+                    "name": "Oliver James"
+                },
+                {
+                    "name": "Michael Turner"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Alteryx"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Marketing Analyst, Business Strategy Department"
+                },
+                {
+                    "title": "Data Scientist, Research & Analytics Department"
+                },
+                {
+                    "title": "AI Research Scientist, Research & Development Department"
+                },
+                {
+                    "title": "Cloud Security Architect, Cybersecurity Department"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "Unknown"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cloud Satellite"
+                },
+                {
+                    "name": "IBM Planning Analytics"
+                },
+                {
+                    "name": "IBM Watson Language Translator"
+                },
+                {
+                    "name": "Alteryx"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Lily Garcia",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Yasmine Ali",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Oliver James",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Turner",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Lily Garcia",
+                "role": "Marketing Analyst, Business Strategy Department"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Yasmine Ali",
+                "role": "Data Scientist, Research & Analytics Department"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Oliver James",
+                "role": "AI Research Scientist, Research & Development Department"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Turner",
+                "role": "Cloud Security Architect, Cybersecurity Department"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Lily Garcia",
+                "product_service": "IBM Cloud Satellite"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Yasmine Ali",
+                "product_service": "IBM Planning Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Oliver James",
+                "product_service": "IBM Watson Language Translator"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "Unknown"
+            }
+        ]
+    }
+}

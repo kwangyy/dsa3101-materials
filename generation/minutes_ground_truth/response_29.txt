@@ -1,0 +1,150 @@
+### Meeting Minutes 1 - Simple
+**Date and Time:** 15-Aug-2023, 09:00 - 09:30
+
+**Attendees:**
+- Ivy Bennett (Note-taker)
+- Rachel Singh
+- Xander Williams
+
+**Absentees:**
+- Abigail Carter
+
+**Agenda:**
+- Project updates
+- Client interactions
+
+**Discussion Points:**
+- Ivy Bennett provided an update on the ETL pipeline project for IBM Db2 Database. Project is on track but needs additional resources.
+- Rachel Singh shared progress on backend development for IBM Cloud Functions. Discussed need for integration with other teams.
+- Xander Williams highlighted ongoing work on the MobileFirst Platform app. Facing minor challenges that need collaboration.
+
+**Next Steps:**
+- Ivy to draft a resource allocation request by 18-Aug-2023.
+- Rachel to schedule a meeting with the integration team by 20-Aug-2023.
+- Xander to prepare a detailed report on app challenges by 22-Aug-2023.
+
+---
+
+### Meeting Minutes 2 - Moderate
+**Date and Time:** 22-Aug-2023, 10:00 - 11:00
+
+**Attendees:**
+- Ivy Bennett
+- Rachel Singh (Note-taker)
+- Xander Williams
+- Abigail Carter
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Review of previous action items
+- New client requirements
+- Collaboration with Cloudera
+
+**Discussion Points:**
+- Ivy Bennett reviewed the resource allocation request. Approved and resources allocated.
+- Rachel Singh discussed new client requirements for enhanced backend capabilities. Team agrees on feasibility.
+- Abigail Carter presented analytics dashboard updates for IBM Cognos Analytics.
+- Xander Williams proposed a collaborative approach with Cloudera for machine learning capabilities in the MobileFirst Platform app.
+
+**Next Steps:**
+- Ivy to coordinate with the HR team for onboarding new resources by 25-Aug-2023.
+- Rachel to draft a proposal for new backend capabilities by 27-Aug-2023.
+- Abigail to finalize dashboard updates by 30-Aug-2023.
+- Xander to arrange a meeting with Cloudera by 01-Sep-2023.
+
+---
+
+### Meeting Minutes 3 - Detailed
+**Date and Time:** 05-Sep-2023, 09:00 - 11:30
+
+**Attendees:**
+- Ivy Bennett
+- Rachel Singh
+- Xander Williams (Note-taker)
+- Abigail Carter
+- External Attendee: James Liu (Cloudera, Solutions Architect)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Final review of previous projects
+- Integration with Cloudera’s platform
+- Strategy for upcoming quarter
+
+**Discussion Points:**
+- Ivy Bennett confirmed that the new resources are onboarded and integrated into the team.
+- Rachel Singh shared a comprehensive update on the backend capabilities proposal. Received feedback from the team and James Liu.
+- Abigail Carter provided a detailed analysis of the current dashboards and proposed enhancements.
+- James Liu discussed potential integration points between IBM’s platforms and Cloudera’s machine learning capabilities. Highlighted opportunities and challenges.
+- Xander Williams led a brainstorming session on the strategy for the upcoming quarter. Emphasis on inter-departmental collaboration and leveraging external platforms.
+
+**Next Steps:**
+- Ivy to monitor new resource performance and report by 15-Sep-2023.
+- Rachel to incorporate feedback and finalize the backend proposal by 12-Sep-2023.
+- Abigail to implement dashboard enhancements by 20-Sep-2023.
+- Xander to draft a quarterly strategy document by 25-Sep-2023.
+- James Liu to follow up with a technical integration plan by 18-Sep-2023.
+
+---
+
+### Meeting Minutes 4 - Simple
+**Date and Time:** 12-Sep-2023, 14:00 - 14:30
+
+**Attendees:**
+- Ivy Bennett
+- Rachel Singh (Note-taker)
+- Xander Williams
+
+**Absentees:**
+- Abigail Carter
+
+**Agenda:**
+- Progress check
+- Upcoming deadlines
+
+**Discussion Points:**
+- Ivy Bennett shared updates on ETL pipeline progress. Minor delays but manageable.
+- Rachel Singh highlighted backend development progress and upcoming integration tests.
+- Xander Williams reported that app development is on track, minor bugs identified.
+
+**Next Steps:**
+- Ivy to address ETL pipeline delays and update team by 15-Sep-2023.
+- Rachel to prepare for integration tests by 17-Sep-2023.
+- Xander to resolve app bugs and submit a report by 19-Sep-2023.
+
+---
+
+### Meeting Minutes 5 - Moderate
+**Date and Time:** 20-Sep-2023, 11:00 - 12:00
+
+**Attendees:**
+- Ivy Bennett
+- Rachel Singh
+- Xander Williams (Note-taker)
+- Abigail Carter
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Finalizing quarterly strategy
+- Reviewing integration with Cloudera
+
+**Discussion Points:**
+- Ivy Bennett reviewed the performance of new resources. Positive feedback.
+- Rachel Singh shared successful results of integration tests.
+- Abigail Carter discussed dashboard enhancements. Positive client feedback received.
+- Xander Williams provided updates on the quarterly strategy document. Team provided inputs.
+
+**Next Steps:**
+- Ivy to continue resource performance monitoring and provide a report by 30-Sep-2023.
+- Rachel to finalize integration documentation by 25-Sep-2023.
+- Abigail to compile client feedback and share a summary by 28-Sep-2023.
+- Xander to finalize and circulate the quarterly strategy document by 30-Sep-2023.
+
+---
+
+### JSON Data

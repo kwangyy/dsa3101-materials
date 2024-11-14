@@ -1,0 +1,105 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Kevin O'Reilly"
+                },
+                {
+                    "name": "Rachel Singh"
+                },
+                {
+                    "name": "Paul Hernandez"
+                },
+                {
+                    "name": "Jackie Lin"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Machine Learning Engineer"
+                },
+                {
+                    "title": "Software Engineer"
+                },
+                {
+                    "title": "Systems Engineer"
+                },
+                {
+                    "title": "Cybersecurity Analyst"
+                }
+            ],
+            "locations": [],
+            "products_services": [
+                {
+                    "name": "IBM Watson Studio"
+                },
+                {
+                    "name": "IBM Cloud Functions"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Kevin O'Reilly",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Rachel Singh",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Paul Hernandez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jackie Lin",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Kevin O'Reilly",
+                "role": "Machine Learning Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Rachel Singh",
+                "role": "Software Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Paul Hernandez",
+                "role": "Systems Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jackie Lin",
+                "role": "Cybersecurity Analyst"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Kevin O'Reilly",
+                "product_service": "IBM Watson Studio"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Rachel Singh",
+                "product_service": "IBM Cloud Functions"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": ""
+            }
+        ]
+    }
+}

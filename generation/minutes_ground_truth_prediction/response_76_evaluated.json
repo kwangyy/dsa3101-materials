@@ -1,0 +1,173 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Brian Taylor"
+                },
+                {
+                    "name": "Ivy Bennett"
+                },
+                {
+                    "name": "Zachary Brooks"
+                },
+                {
+                    "name": "Kevin O'Reilly"
+                },
+                {
+                    "name": "Mary Scott"
+                },
+                {
+                    "name": "Jane Doe"
+                },
+                {
+                    "name": "John Smith"
+                },
+                {
+                    "name": "Emily White"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Snowflake"
+                },
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note taker"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "Unknown"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "IBM Db2 Database"
+                },
+                {
+                    "name": "IBM Cloud Pak for Integration"
+                },
+                {
+                    "name": "IBM Watson Studio"
+                },
+                {
+                    "name": "ETL pipeline"
+                },
+                {
+                    "name": "Machine learning models"
+                },
+                {
+                    "name": "Snowflake\u2019s data warehousing capabilities"
+                },
+                {
+                    "name": "Advanced analytics"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Brian Taylor",
+                "organization": "Unknown"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Ivy Bennett",
+                "organization": "Unknown"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Zachary Brooks",
+                "organization": "Unknown"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Kevin O'Reilly",
+                "organization": "Unknown"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Mary Scott",
+                "organization": "Snowflake"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jane Doe",
+                "organization": "Data Management Department"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "Snowflake"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emily White",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Brian Taylor",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Ivy Bennett",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Zachary Brooks",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Kevin O'Reilly",
+                "role": "Note taker"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Brian Taylor",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "IBM Db2 Database"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Zachary Brooks",
+                "product_service": "IBM Cloud Pak for Integration"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Kevin O'Reilly",
+                "product_service": "IBM Watson Studio"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Snowflake",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Data Management Department",
+                "location": "Unknown"
+            }
+        ]
+    }
+}

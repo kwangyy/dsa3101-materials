@@ -1,0 +1,133 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Natalie Wu"
+                },
+                {
+                    "name": "Clara Diaz"
+                },
+                {
+                    "name": "Uma Patel"
+                },
+                {
+                    "name": "Ivy Bennett"
+                },
+                {
+                    "name": "Jake Miller"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Notes"
+                },
+                {
+                    "title": "CEO"
+                },
+                {
+                    "title": "Data Analyst"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "Unknown"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Watson Discovery"
+                },
+                {
+                    "name": "IBM AI OpenScale"
+                },
+                {
+                    "name": "Alteryx"
+                },
+                {
+                    "name": "IBM Cloud Private"
+                },
+                {
+                    "name": "Widget X"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Natalie Wu",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Clara Diaz",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Uma Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Ivy Bennett",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jake Miller",
+                "organization": "Alteryx"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Natalie Wu",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Clara Diaz",
+                "role": "CEO"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Uma Patel",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Ivy Bennett",
+                "role": "Data Analyst"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Natalie Wu",
+                "product_service": "IBM Watson Discovery"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Clara Diaz",
+                "product_service": "IBM AI OpenScale"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Uma Patel",
+                "product_service": "IBM Cloud Private"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "Alteryx"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "Unknown"
+            }
+        ]
+    }
+}

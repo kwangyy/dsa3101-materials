@@ -1,0 +1,133 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Quinn Parker"
+                },
+                {
+                    "name": "Uma Patel"
+                },
+                {
+                    "name": "Victor Ramos"
+                },
+                {
+                    "name": "Oliver James"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Data Analyst"
+                },
+                {
+                    "title": "Senior Solutions Architect"
+                },
+                {
+                    "title": "RPA Developer"
+                },
+                {
+                    "title": "AI Research Scientist"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cognos Analytics"
+                },
+                {
+                    "name": "IBM Cloud Private"
+                },
+                {
+                    "name": "Databricks"
+                },
+                {
+                    "name": "IBM Watson Language Translator"
+                },
+                {
+                    "name": "RPA bots"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Quinn Parker",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Uma Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Oliver James",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Quinn Parker",
+                "role": "Data Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Uma Patel",
+                "role": "Senior Solutions Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Victor Ramos",
+                "role": "RPA Developer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Oliver James",
+                "role": "AI Research Scientist"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "IBM"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Quinn Parker",
+                "product_service": "IBM Cognos Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Quinn Parker",
+                "product_service": "IBM Cloud Private"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Uma Patel",
+                "product_service": "Databricks"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Oliver James",
+                "product_service": "IBM Watson Language Translator"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "RPA bots"
+            }
+        ]
+    }
+}

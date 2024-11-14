@@ -1,0 +1,134 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Wendy Chen"
+    },
+    {
+     "name": "David Patel"
+    },
+    {
+     "name": "Victor Ramos"
+    },
+    {
+     "name": "Lily Garcia"
+    },
+    {
+     "name": "Jane Smith"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "DigitalOcean"
+    }
+   ],
+   "roles": [
+    {
+     "title": "AI Solutions Architect"
+    },
+    {
+     "title": "Cloud Architect"
+    },
+    {
+     "title": "RPA Developer"
+    },
+    {
+     "title": "Marketing Analyst"
+    },
+    {
+     "title": "Client Relations"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Amazon Web Services (AWS)"
+    },
+    {
+     "name": "IBM Maximo Asset Management"
+    },
+    {
+     "name": "IBM Robotic Process Automation"
+    },
+    {
+     "name": "IBM Cloud Satellite"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Wendy Chen",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "David Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Victor Ramos",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Lily Garcia",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Smith",
+    "organization": "DigitalOcean"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Wendy Chen",
+    "role": "AI Solutions Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "David Patel",
+    "role": "Cloud Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Victor Ramos",
+    "role": "RPA Developer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Lily Garcia",
+    "role": "Marketing Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Smith",
+    "role": "Client Relations"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Wendy Chen",
+    "product_service": "IBM Maximo Asset Management"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "David Patel",
+    "product_service": "Amazon Web Services (AWS)"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Victor Ramos",
+    "product_service": "IBM Robotic Process Automation"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Lily Garcia",
+    "product_service": "IBM Cloud Satellite"
+   }
+  ]
+ }
+}

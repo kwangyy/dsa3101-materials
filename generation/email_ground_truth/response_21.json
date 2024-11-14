@@ -1,0 +1,116 @@
+{
+    "entities": {
+        "persons": [
+            {
+                "name": "Jackie Lin"
+            },
+            {
+                "name": "Uma Patel"
+            },
+            {
+                "name": "Henry Zhou"
+            },
+            {
+                "name": "Gina Lopez"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "IBM"
+            },
+            {
+                "name": "Zscaler"
+            }
+        ],
+        "roles": [
+            {
+                "title": "Cybersecurity Analyst"
+            },
+            {
+                "title": "Senior Solutions Architect"
+            },
+            {
+                "title": "DevOps Engineer"
+            },
+            {
+                "title": "UX Designer"
+            }
+        ],
+        "products_services": [
+            {
+                "name": "IBM Cloud Pak for Data"
+            },
+            {
+                "name": "Zscaler"
+            },
+            {
+                "name": "IBM Kubernetes Service"
+            },
+            {
+                "name": "IBM Cloud Private"
+            }
+        ]
+    },
+    "relationships": [
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Jackie Lin",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Jackie Lin",
+            "role": "Cybersecurity Analyst"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Uma Patel",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Uma Patel",
+            "role": "Senior Solutions Architect"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Henry Zhou",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Henry Zhou",
+            "role": "DevOps Engineer"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Gina Lopez",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Gina Lopez",
+            "role": "UX Designer"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Jackie Lin",
+            "product_service": "IBM Cloud Pak for Data"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "organization": "Zscaler",
+            "product_service": "Zscaler"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Henry Zhou",
+            "product_service": "IBM Kubernetes Service"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Uma Patel",
+            "product_service": "IBM Cloud Private"
+        }
+    ]
+}

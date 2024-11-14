@@ -1,0 +1,200 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Yasmine Ali"
+    },
+    {
+     "name": "Uma Patel"
+    },
+    {
+     "name": "Abigail Carter"
+    },
+    {
+     "name": "Xander Williams"
+    },
+    {
+     "name": "Mark Thompson"
+    },
+    {
+     "name": "Sarah Johnson"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Illumio"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "Senior Solutions Architect"
+    },
+    {
+     "title": "Business Intelligence Analyst"
+    },
+    {
+     "title": "Mobile App Developer"
+    },
+    {
+     "title": "Cybersecurity Specialist"
+    },
+    {
+     "title": "Marketing Specialist"
+    }
+   ],
+   "locations": [
+    {
+     "name": "Research & Analytics Department"
+    },
+    {
+     "name": "Solutions Engineering Department"
+    },
+    {
+     "name": "Data Analytics Department"
+    },
+    {
+     "name": "Digital Solutions Department"
+    },
+    {
+     "name": "IBM Marketing Department"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Planning Analytics"
+    },
+    {
+     "name": "IBM Cloud Private"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM MobileFirst Platform"
+    },
+    {
+     "name": "Zero-trust segmentation"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Yasmine Ali",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Yasmine Ali",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Yasmine Ali",
+    "product_service": "IBM Planning Analytics"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Research & Analytics Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Uma Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Uma Patel",
+    "role": "Senior Solutions Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Uma Patel",
+    "product_service": "IBM Cloud Private"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Solutions Engineering Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Abigail Carter",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Abigail Carter",
+    "role": "Business Intelligence Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Abigail Carter",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Data Analytics Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Xander Williams",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Xander Williams",
+    "role": "Mobile App Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Xander Williams",
+    "product_service": "IBM MobileFirst Platform"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Digital Solutions Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Mark Thompson",
+    "organization": "Illumio"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Mark Thompson",
+    "role": "Cybersecurity Specialist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Mark Thompson",
+    "product_service": "Zero-trust segmentation"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah Johnson",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah Johnson",
+    "role": "Marketing Specialist"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Marketing Department"
+   }
+  ]
+ }
+}

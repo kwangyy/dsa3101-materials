@@ -1,0 +1,146 @@
+### Meeting Minutes 1
+**Date and Time:** 12-Feb-2023, 10:00 AM - 10:30 AM
+
+**Attendees:** 
+- Carol Nguyen
+- Jackie Lin
+- Xander Williams
+- Henry Zhou (Note-taker)
+- Absentees: None
+
+**Agenda:**
+- Project updates
+- Cross-functional collaboration opportunities
+- Planning next steps
+
+**Discussion Points:**
+- Carol provided an update on the data analytics for Microsoft Azure, emphasizing the need for more comprehensive threat detection.
+- Jackie discussed recent findings in threat detection and suggested integrating some of the data insights provided by Carol.
+- Xander shared progress on the mobile application and requested API access from the Security Department for better integration with security features.
+- Henry updated the team on the CI/CD pipeline automation and mentioned the possibility of using the data analytics in the DevOps process.
+
+**Next Steps:**
+- Carol to provide detailed data analytics to Jackie by 15-Feb-2023.
+- Jackie to coordinate with Xander on API access by 17-Feb-2023.
+- Henry to assess how data analytics can be integrated into the CI/CD pipeline by 20-Feb-2023.
+
+---
+
+### Meeting Minutes 2
+**Date and Time:** 20-Feb-2023, 3:00 PM - 4:00 PM
+
+**Attendees:** 
+- Carol Nguyen
+- Jackie Lin
+- Xander Williams
+- Henry Zhou
+- Absentees: None
+
+**Agenda:**
+- Review of integration progress
+- Discussing challenges in current projects
+- Exploring solutions
+
+**Discussion Points:**
+- Carol reported successful data analysis implementation in the threat detection system.
+- Jackie noted some challenges with API integration and proposed a meeting with the backend team.
+- Xander highlighted issues with the mobile app's security features and requested more detailed threat data.
+- Henry mentioned delays in the CI/CD pipeline and proposed using Illumio for zero-trust segmentation.
+
+**Next Steps:**
+- Carol to generate a detailed threat report by 25-Feb-2023.
+- Jackie to arrange a meeting with the backend team by 22-Feb-2023.
+- Xander to test the mobile app with the new threat data by 28-Feb-2023.
+- Henry to start implementing Illumio for zero-trust segmentation by 01-Mar-2023.
+
+---
+
+### Meeting Minutes 3
+**Date and Time:** 05-Mar-2023, 9:00 AM - 10:30 AM
+
+**Attendees:** 
+- Carol Nguyen
+- Jackie Lin
+- Xander Williams
+- Henry Zhou
+- John Smith (Illumio Representative)
+- Absentees: None
+
+**Agenda:**
+- Detailed project updates
+- External collaboration with Illumio
+- Timeline adjustments
+
+**Discussion Points:**
+- Carol shared an in-depth analysis on data trends and how they impact threat detection.
+- Jackie discussed integrating Illumio's zero-trust segmentation into the current system with input from John Smith.
+- Xander provided insights on app development and requested additional security features from Illumio.
+- Henry updated the team on CI/CD pipeline progress and planned timeline adjustments for zero-trust implementation.
+
+**Next Steps:**
+- Carol to finalize data trend analysis by 10-Mar-2023.
+- Jackie and John Smith to collaborate on the integration plan by 15-Mar-2023.
+- Xander to outline additional security features needed from Illumio by 12-Mar-2023.
+- Henry to adjust the timeline and share the revised plan by 14-Mar-2023.
+
+---
+
+### Meeting Minutes 4
+**Date and Time:** 15-Mar-2023, 2:00 PM - 3:30 PM
+
+**Attendees:** 
+- Carol Nguyen
+- Jackie Lin
+- Xander Williams
+- Henry Zhou
+- Absentees: None
+
+**Agenda:**
+- Cross-functional integration check-in
+- Addressing new challenges
+- Finalizing project milestones
+
+**Discussion Points:**
+- Carol reviewed the data analytics progress and its impact on the overall project.
+- Jackie reported on the successful initial integration with Illumio and highlighted some new challenges.
+- Xander detailed the mobile app security improvements and discussed user feedback.
+- Henry emphasized the need for clear communication and regular updates to keep the timeline on track.
+
+**Next Steps:**
+- Carol to continue monitoring data analytics and report any discrepancies by 18-Mar-2023.
+- Jackie to resolve new integration challenges by 20-Mar-2023.
+- Xander to incorporate user feedback and finalize security improvements by 22-Mar-2023.
+- Henry to organize a bi-weekly update meeting starting 24-Mar-2023.
+
+---
+
+### Meeting Minutes 5
+**Date and Time:** 30-Mar-2023, 11:00 AM - 12:30 PM
+
+**Attendees:** 
+- Carol Nguyen
+- Jackie Lin
+- Xander Williams
+- Henry Zhou
+- Absentees: None
+
+**Agenda:**
+- Final project review
+- Discussing last-minute adjustments
+- Confirming project completion and next steps
+
+**Discussion Points:**
+- Carol summarized the overall success and challenges faced in data analytics for the project.
+- Jackie provided an update on the integration status with Illumio and pending tasks.
+- Xander shared the final state of the mobile app, including user acceptance test results.
+- Henry discussed the deployment strategy and risk mitigation plans.
+
+**Next Steps:**
+- Carol to compile a final report on data analytics by 02-Apr-2023.
+- Jackie to complete the final integration tasks by 03-Apr-2023.
+- Xander to address any remaining user feedback by 04-Apr-2023.
+- Henry to prepare the deployment plan and schedule a final review meeting on 05-Apr-2023.
+
+---
+
+### JSON Data

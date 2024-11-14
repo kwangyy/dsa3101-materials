@@ -1,0 +1,160 @@
+### Meeting Minutes 1: Simple
+**Date and Time:**
+- 05-Jan-2023
+- 09:00 AM - 09:30 AM
+
+**Attendees:**
+- Tina Foster (Notes)
+- Natalie Wu
+- Xander Williams
+- Abigail Carter
+
+**Agenda:**
+- Project updates
+- Follow-up on action items
+
+**Discussion Points:**
+- Tina provided an update on the progress of the QRadar SIEM implementation.
+- Natalie discussed the latest campaigns for promoting IBM Watson Discovery.
+- Xander gave a quick overview of the current status of the mobile applications.
+- Abigail shared recent enhancements in Cognos Analytics reporting.
+
+**Next Steps:**
+- Tina to complete the next phase of QRadar SIEM implementation by 15-Jan-2023.
+- Natalie to launch the new marketing campaign by 20-Jan-2023.
+- Xander to release the next app update by 25-Jan-2023.
+- Abigail to finalize the new dashboards by 30-Jan-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+**Date and Time:**
+- 15-Feb-2023
+- 02:00 PM - 03:00 PM
+
+**Attendees:**
+- Tina Foster
+- Natalie Wu (Notes)
+- Xander Williams
+- Abigail Carter
+- Guest: John Stevens, Business Development Manager at Veeva Systems
+
+**Agenda:**
+- Project updates
+- Cross-departmental collaboration
+- Veeva Systems partnership opportunities
+
+**Discussion Points:**
+- Tina reported on the QRadar SIEM project, highlighting upcoming challenges.
+- Natalie reviewed current promotional efforts and potential market gaps.
+- Xander discussed user feedback and issues affecting mobile app performance.
+- Abigail presented data insights to improve product targeting.
+- John Stevens introduced potential collaboration opportunities with Veeva Systems.
+
+**Next Steps:**
+- Tina to address identified challenges in the SIEM project by 28-Feb-2023.
+- Natalie to work with Abigail on refining the marketing strategy using data insights by 05-Mar-2023.
+- Xander to implement user feedback and improve app performance by 12-Mar-2023.
+- John to schedule a follow-up meeting to discuss collaboration details by 10-Mar-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+**Date and Time:**
+- 01-Mar-2023
+- 10:00 AM - 11:30 AM
+
+**Attendees:**
+- Tina Foster
+- Natalie Wu
+- Xander Williams
+- Abigail Carter (Notes)
+- Guest: Sarah Lee, Senior Account Manager at Veeva Systems
+
+**Agenda:**
+- Detailed project updates
+- Strategies for improved collaboration
+- Discuss potential issues and solutions
+- Future steps and responsibilities
+
+**Discussion Points:**
+- Tina detailed progress and technical hurdles in the QRadar SIEM project, proposing solutions.
+- Natalie outlined marketing metrics and planned adaptations to the Watson Discovery campaigns.
+- Xander shared a comprehensive review of user experiences and feedback, suggesting technical enhancements.
+- Abigail presented actionable insights from recent data analysis to improve cross-departmental efforts.
+- Sarah Lee discussed Veeva Systems' collaboration model and how it can integrate with current IBM projects.
+
+**Next Steps:**
+- Tina to finalize technical fixes and report progress by 15-Mar-2023.
+- Natalie to adjust marketing strategies based on Abigail’s insights by 22-Mar-2023.
+- Xander to implement and test suggested enhancements by 29-Mar-2023.
+- Abigail to create a detailed cross-departmental action plan by 05-Apr-2023.
+- Sarah to prepare a detailed proposal for collaboration by 15-Apr-2023.
+
+---
+
+### Meeting Minutes 4: Moderate
+**Date and Time:**
+- 20-Apr-2023
+- 03:00 PM - 04:00 PM
+
+**Attendees:**
+- Tina Foster (Notes)
+- Natalie Wu
+- Xander Williams
+- Abigail Carter
+
+**Agenda:**
+- Review progress on current projects
+- Discuss resource allocation
+- Plan next quarter's objectives
+
+**Discussion Points:**
+- Tina reviewed current status and upcoming milestones for the QRadar SIEM project.
+- Natalie emphasized the need for additional resources to expand marketing efforts.
+- Xander discussed upcoming app features and required testing resources.
+- Abigail shared findings from recent data analysis, suggesting resource reallocation for optimal efficiency.
+
+**Next Steps:**
+- Tina to ensure upcoming QRadar milestones are met by 30-Apr-2023.
+- Natalie to submit a resource request by 05-May-2023.
+- Xander to outline testing requirements and timeline by 10-May-2023.
+- Abigail to provide a detailed resource reallocation plan by 15-May-2023.
+
+---
+
+### Meeting Minutes 5: Detailed
+**Date and Time:**
+- 10-May-2023
+- 01:00 PM - 02:30 PM
+
+**Attendees:**
+- Tina Foster
+- Natalie Wu (Notes)
+- Xander Williams
+- Abigail Carter
+- Guest: Mark Johnson, Director of Technical Operations, IBM
+
+**Agenda:**
+- Comprehensive project updates
+- Resource needs and allocations
+- Strategic planning for next quarter
+- In-depth review of cross-departmental initiatives
+
+**Discussion Points:**
+- Tina provided an exhaustive report on the QRadar SIEM project, including completed milestones, ongoing tasks, and future challenges.
+- Natalie outlined marketing performance and strategic adjustments needed to maximize client engagement.
+- Xander reviewed detailed feedback from app users, including critical bugs and feature requests.
+- Abigail presented an in-depth analysis of recent data, highlighting areas for improvement and potential resource reallocations.
+- Mark Johnson discussed overarching technical strategies and the importance of inter-departmental collaboration.
+
+**Next Steps:**
+- Tina to prepare a technical briefing for the next meeting by 20-May-2023.
+- Natalie to develop a revised marketing strategy incorporating recent data by 25-May-2023.
+- Xander to prioritize and address critical user feedback by 30-May-2023.
+- Abigail to finalize a resource optimization plan by 05-Jun-2023.
+- Mark to organize a cross-departmental strategy session by 10-Jun-2023.
+
+---
+
+### JSON Data

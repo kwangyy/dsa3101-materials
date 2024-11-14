@@ -1,0 +1,192 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time:** 01-Jan-2023, 09:00 - 09:30  
+**Attendees:**  
+- Yasmine Ali (Note Taker)
+- Oliver James
+- Brian Taylor  
+**Absentees:**  
+- Alice Smith  
+
+**Agenda:**  
+- Review current project status
+- Discuss upcoming strategic partnership with HashiCorp
+
+**Discussion Points:**  
+- **Project Status:**  
+  - Yasmine: Predictive models are performing well; minor adjustments needed.
+  - Oliver: Progress on NLP for Watson Translator is on schedule.
+  - Brian: Azure-related tasks are progressing as planned.
+
+- **Strategic Partnership:**  
+  - Opportunity to integrate HashiCorp's infrastructure automation with IBM products.
+  - Potential benefits for multi-cloud environments.
+
+**Next Steps:**  
+- Yasmine to tweak predictive models by 07-Jan-2023.
+- Oliver to prepare a demo of NLP capabilities for next meeting by 10-Jan-2023.
+- Brian to research integration possibilities with HashiCorp by 12-Jan-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+**Date and Time:** 15-Jan-2023, 10:00 - 11:00  
+**Attendees:**  
+- Alice Smith (Note Taker)
+- Yasmine Ali
+- Oliver James
+- Brian Taylor  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Progress review of Azure and Symantec Endpoint Security
+- Discuss strategic partnership with HashiCorp
+- Plan team management improvements
+
+**Discussion Points:**  
+- **Project Progress:**  
+  - Azure development is advancing; new features to be rolled out soon.
+  - Symantec Endpoint Security has shown promising results in recent tests.
+
+- **Strategic Partnership:**  
+  - Alice: Emphasized the importance of strategic alignment with HashiCorp.
+  - Yasmine: Suggested a pilot project to test integration capabilities.
+  - Brian: Identified potential areas for collaboration in multi-cloud environments.
+
+- **Team Management:**  
+  - Need for better communication between departments.
+  - Proposal to hold weekly sync meetings.
+
+**Next Steps:**  
+- Yasmine to start pilot project with HashiCorp by 20-Jan-2023.
+- Oliver to create a communication plan by 22-Jan-2023.
+- Alice to oversee the implementation of weekly sync meetings starting 01-Feb-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+**Date and Time:** 01-Feb-2023, 14:00 - 15:30  
+**Attendees:**  
+- Alice Smith (Note Taker)
+- Yasmine Ali
+- Oliver James
+- Brian Taylor  
+- External: Mark Thompson (HashiCorp, VP of Strategic Partnerships)  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Update on existing projects
+- Detailed discussion on HashiCorp partnership
+- Team management and resource allocation
+
+**Discussion Points:**  
+- **Project Update:**  
+  - **Azure Development:**  
+    - Brian: Completed milestones; next focus on scalability.
+  - **Symantec Endpoint Security:**  
+    - Alice: Deployment strategy finalized; need for resource allocation.
+
+- **HashiCorp Partnership:**  
+  - Mark: Presented HashiCorp's capabilities and how it can benefit IBM.
+  - Yasmine: Proposed integration for predictive models.
+  - Oliver: Discussed potential for NLP enhancements using HashiCorp's automation tools.
+  - Brian: Suggested joint training sessions for both teams.
+
+- **Team Management:**  
+  - Alice: Emphasis on cross-functional teamwork.
+  - Yasmine: Highlighted the need for additional data scientists.
+  - Oliver: Proposed a mentoring program for junior team members.
+
+**Next Steps:**  
+- Yasmine to draft integration plan by 10-Feb-2023.
+- Oliver to outline NLP enhancements by 12-Feb-2023.
+- Brian to coordinate joint training sessions by 15-Feb-2023.
+- Alice to finalize resource allocation by 20-Feb-2023.
+
+---
+
+### Meeting Minutes 4 (Moderate)
+**Date and Time:** 15-Feb-2023, 11:00 - 12:00  
+**Attendees:**  
+- Alice Smith (Note Taker)
+- Yasmine Ali
+- Oliver James
+- Brian Taylor  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Review progress of ongoing projects
+- Assess initial results of HashiCorp pilot project
+- Discuss future strategic partnerships
+
+**Discussion Points:**  
+- **Ongoing Projects:**  
+  - Yasmine: Predictive models integration nearly complete.
+  - Oliver: NLP enhancements are in the final testing phase.
+  - Brian: Azure scalability project is on track.
+
+- **HashiCorp Pilot:**  
+  - Initial results are promising; enhanced automation in multi-cloud environments.
+  - Discussion on expanding pilot to larger scale.
+
+- **Future Partnerships:**  
+  - Alice: Identified potential partners in cybersecurity and AI sectors.
+  - Yasmine: Suggested exploring opportunities with cloud service providers.
+
+**Next Steps:**  
+- Yasmine to complete integration by 20-Feb-2023.
+- Oliver to finalize NLP testing by 25-Feb-2023.
+- Brian to draft a report on HashiCorp pilot results by 28-Feb-2023.
+- Alice to research potential partners by 05-Mar-2023.
+
+---
+
+### Meeting Minutes 5 (Detailed)
+**Date and Time:** 01-Mar-2023, 09:00 - 10:30  
+**Attendees:**  
+- Alice Smith (Note Taker)
+- Yasmine Ali
+- Oliver James
+- Brian Taylor  
+- External: Emma Johnson (HashiCorp, Director of Engineering)  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Final review of current projects
+- Comprehensive discussion on HashiCorp integration outcomes
+- Long-term strategic planning
+
+**Discussion Points:**  
+- **Project Final Review:**  
+  - **Azure Development:**  
+    - Brian: Final features implemented; ready for deployment.
+  - **Symantec Endpoint Security:**  
+    - Alice: Security updates rolled out successfully; user feedback positive.
+
+- **HashiCorp Integration Outcomes:**  
+  - Emma: Detailed HashiCorp’s contributions and future possibilities.
+  - Yasmine: Presented data on improved model performance.
+  - Oliver: Showed enhanced NLP capabilities.
+  - Brian: Discussed benefits of joint training sessions and knowledge sharing.
+
+- **Long-term Strategic Planning:**  
+  - Alice: Focus on strengthening partnerships and exploring new technologies.
+  - Yasmine: Suggested setting up a dedicated team for partnership projects.
+  - Oliver: Recommended continuous training and skill development for team members.
+
+**Next Steps:**  
+- Yasmine to lead new team for partnership projects by 15-Mar-2023.
+- Oliver to design training modules by 20-Mar-2023.
+- Brian to compile comprehensive report on integration outcomes by 25-Mar-2023.
+- Alice to draft long-term strategy document by 01-Apr-2023.
+
+---
+
+### JSON Data

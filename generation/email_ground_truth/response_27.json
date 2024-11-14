@@ -1,0 +1,118 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Carol Nguyen"
+                },
+                {
+                    "name": "Victor Ramos"
+                },
+                {
+                    "name": "Xander Williams"
+                },
+                {
+                    "name": "Gina Lopez"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Microsoft"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Junior Data Scientist"
+                },
+                {
+                    "title": "RPA Developer"
+                },
+                {
+                    "title": "Mobile App Developer"
+                },
+                {
+                    "title": "UX Designer"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "IBM Robotic Process Automation"
+                },
+                {
+                    "name": "IBM MobileFirst Platform"
+                },
+                {
+                    "name": "IBM Cloud Pak for Data"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Carol Nguyen",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Carol Nguyen",
+                "role": "Junior Data Scientist"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Carol Nguyen",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Victor Ramos",
+                "role": "RPA Developer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "IBM Robotic Process Automation"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Xander Williams",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Xander Williams",
+                "role": "Mobile App Developer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Xander Williams",
+                "product_service": "IBM MobileFirst Platform"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Gina Lopez",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Gina Lopez",
+                "role": "UX Designer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Gina Lopez",
+                "product_service": "IBM Cloud Pak for Data"
+            }
+        ]
+    }
+}

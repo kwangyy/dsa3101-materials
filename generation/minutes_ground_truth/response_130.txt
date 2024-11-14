@@ -1,0 +1,161 @@
+### Meeting Minutes 1 - Simple
+
+**Date and Time**: 01-Sep-2023, 09:00 AM - 09:30 AM  
+**Attendees**:  
+- Victor Ramos (Note-taker)
+- Quinn Parker
+- Natalie Wu
+
+**Absentees**:  
+- Brian Taylor  
+
+**Agenda**:  
+- Project updates
+- Collaboration proposal
+
+**Discussion Points**:  
+- **Victor Ramos** updated on the development of new bots for internal process automation.
+  - Challenge: Requires more data to fine-tune bots.
+- **Quinn Parker** provided insights on current data analytics trends.
+  - Suggested collaboration to collect relevant data for RPA.
+- **Natalie Wu** discussed recent marketing efforts for IBM Watson Discovery.
+  - Proposed joint webinar with RPA and Data Science departments.
+
+**Next Steps**:  
+- Victor to reach out to Quinn for data requirements by 05-Sep-2023.
+- Natalie to draft webinar proposal by 10-Sep-2023.
+
+---
+
+### Meeting Minutes 2 - Moderate
+
+**Date and Time**: 08-Sep-2023, 10:00 AM - 11:00 AM  
+**Attendees**:  
+- Quinn Parker (Note-taker)
+- Brian Taylor
+- Natalie Wu
+
+**Absentees**:  
+- Victor Ramos
+
+**Agenda**:  
+- Strategy discussion
+- External collaboration
+
+**Discussion Points**:  
+- **Brian Taylor** updated on R&D projects using Microsoft Azure.
+  - Potential collaboration with Cloudera for machine learning models.
+- **Quinn Parker** emphasized the need for more sophisticated data analytics tools.
+  - Suggested looking into Cloudera’s offerings.
+- **Natalie Wu** proposed marketing strategies to promote the collaboration with Cloudera.
+  - Challenge: Ensuring alignment between internal and external teams.
+
+**Next Steps**:  
+- Brian to connect with Cloudera team by 12-Sep-2023.
+- Quinn to explore Cloudera tools and report back by 15-Sep-2023.
+- Natalie to draft marketing plan by 20-Sep-2023.
+
+---
+
+### Meeting Minutes 3 - Detailed
+
+**Date and Time**: 15-Sep-2023, 02:00 PM - 03:30 PM  
+**Attendees**:  
+- Victor Ramos
+- Quinn Parker
+- Brian Taylor (Note-taker)
+- Natalie Wu
+- Special Guest: Jane Smith (Cloudera, ML Specialist)
+
+**Absentees**:  
+None
+
+**Agenda**:  
+- Project updates
+- Deep dive into RPA and ML collaboration
+- Marketing strategies for new initiatives
+
+**Discussion Points**:  
+- **Victor Ramos** provided an update on the RPA project.
+  - Decision: Include ML models for more intelligent bot behavior.
+- **Quinn Parker** discussed analytics requirements to support the RPA project.
+  - Action: Collect additional data from internal systems.
+- **Jane Smith (Cloudera)** presented ML capabilities and how they could integrate with IBM’s existing systems.
+  - Proposed solution: Use Cloudera’s ML models in RPA.
+- **Natalie Wu** shared the marketing strategies for IBM Watson Discovery and the new RPA-ML initiative.
+  - Challenge: Synchronizing launch dates with R&D and Cloudera.
+
+**Next Steps**:  
+- Victor to start integration of ML models into RPA by 22-Sep-2023.
+- Quinn to finalize data collection requirements by 18-Sep-2023.
+- Brian to coordinate with Cloudera for technical integration by 25-Sep-2023.
+- Natalie to create a comprehensive marketing plan by 30-Sep-2023.
+
+---
+
+### Meeting Minutes 4 - Moderate
+
+**Date and Time**: 25-Sep-2023, 11:00 AM - 12:00 PM  
+**Attendees**:  
+- Victor Ramos (Note-taker)
+- Quinn Parker
+- Brian Taylor
+- Natalie Wu
+
+**Absentees**:  
+None
+
+**Agenda**:  
+- Follow-up on ongoing projects
+- Review of Cloudera collaboration
+
+**Discussion Points**:  
+- **Victor Ramos** shared progress on ML integration in RPA.
+  - Issues: Encountering some data compatibility problems.
+- **Quinn Parker** provided an update on data collection.
+  - Action: Need to refine data analytics models.
+- **Brian Taylor** discussed technical challenges with Cloudera integration.
+  - Proposed solutions: Technical workshops with Cloudera team.
+- **Natalie Wu** reviewed the marketing plan progress.
+  - Challenge: Aligning technical timelines with marketing goals.
+
+**Next Steps**:  
+- Victor and Brian to schedule technical workshops with Cloudera by 01-Oct-2023.
+- Quinn to refine data models by 05-Oct-2023.
+- Natalie to adjust the marketing timeline based on technical progress by 10-Oct-2023.
+
+---
+
+### Meeting Minutes 5 - Simple
+
+**Date and Time**: 01-Oct-2023, 09:00 AM - 09:30 AM  
+**Attendees**:  
+- Victor Ramos
+- Quinn Parker (Note-taker)
+- Brian Taylor
+- Natalie Wu
+
+**Absentees**:  
+None
+
+**Agenda**:  
+- Quick project updates
+- Review action items
+
+**Discussion Points**:  
+- **Victor Ramos** updated on resolving data compatibility issues.
+  - Status: Issues mostly resolved.
+- **Quinn Parker** shared that data models have been refined.
+  - Status: Ready for integration.
+- **Brian Taylor** confirmed that technical workshops with Cloudera are scheduled.
+  - Status: Workshops to begin next week.
+- **Natalie Wu** adjusted the marketing timeline.
+  - Status: Marketing plan aligned with technical progress.
+
+**Next Steps**:  
+- Victor to finalize ML model integration by 10-Oct-2023.
+- Quinn to support integration process by 08-Oct-2023.
+- Brian to lead workshops with Cloudera starting 03-Oct-2023.
+- Natalie to finalize marketing materials by 15-Oct-2023.
+
+---

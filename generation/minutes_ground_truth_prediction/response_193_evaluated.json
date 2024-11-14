@@ -1,0 +1,137 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Zachary Brooks"
+                },
+                {
+                    "name": "Victor Ramos"
+                },
+                {
+                    "name": "Brian Taylor"
+                },
+                {
+                    "name": "Yasmine Ali"
+                },
+                {
+                    "name": "James Watson"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note Taker"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "DigitalOcean"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cloud Pak"
+                },
+                {
+                    "name": "RPA bots"
+                },
+                {
+                    "name": "Predictive analytics"
+                },
+                {
+                    "name": "IBM Planning Analytics"
+                },
+                {
+                    "name": "DigitalOcean cloud solutions"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Zachary Brooks",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Brian Taylor",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Yasmine Ali",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "James Watson",
+                "organization": "DigitalOcean"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Zachary Brooks",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Victor Ramos",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Brian Taylor",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Yasmine Ali",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "James Watson",
+                "role": "Note Taker"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Zachary Brooks",
+                "product_service": "IBM Cloud Pak"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "RPA bots"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Brian Taylor",
+                "product_service": "Predictive analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Yasmine Ali",
+                "product_service": "IBM Planning Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "James Watson",
+                "product_service": "DigitalOcean cloud solutions"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "DigitalOcean"
+            }
+        ]
+    }
+}

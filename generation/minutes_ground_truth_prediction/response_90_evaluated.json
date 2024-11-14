@@ -1,0 +1,177 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Paul Hernandez"
+                },
+                {
+                    "name": "Abigail Carter"
+                },
+                {
+                    "name": "Samuel Davis"
+                },
+                {
+                    "name": "David Patel"
+                },
+                {
+                    "name": "Michael Johnson"
+                },
+                {
+                    "name": "John Smith"
+                },
+                {
+                    "name": "Emily Thompson"
+                },
+                {
+                    "name": "Jack Lee"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Notes Taker"
+                },
+                {
+                    "title": "Project Manager"
+                },
+                {
+                    "title": "Data Engineer"
+                },
+                {
+                    "title": "External Consultant"
+                },
+                {
+                    "title": "Marketing Manager"
+                },
+                {
+                    "title": "Account Manager"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "IBM Z systems"
+                },
+                {
+                    "name": "IBM Cognos Analytics"
+                },
+                {
+                    "name": "Databricks"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "IBM Cloud Services"
+                },
+                {
+                    "name": "Blockchain"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Paul Hernandez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Abigail Carter",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Samuel Davis",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "David Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Johnson",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emily Thompson",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jack Lee",
+                "organization": "AWS"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Paul Hernandez",
+                "role": "Notes Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Johnson",
+                "role": "Project Manager"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "John Smith",
+                "role": "External Consultant"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emily Thompson",
+                "role": "Marketing Manager"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jack Lee",
+                "role": "Account Manager"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Paul Hernandez",
+                "product_service": "IBM Z systems"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Abigail Carter",
+                "product_service": "IBM Cognos Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Databricks"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "David Patel",
+                "product_service": "AWS"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            }
+        ]
+    }
+}

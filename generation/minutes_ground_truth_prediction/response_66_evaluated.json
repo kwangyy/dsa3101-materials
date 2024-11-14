@@ -1,0 +1,167 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Alice Smith"
+                },
+                {
+                    "name": "Jackie Lin"
+                },
+                {
+                    "name": "Zachary Brooks"
+                },
+                {
+                    "name": "Franklin Moore"
+                },
+                {
+                    "name": "David Johnson"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Acme Corp"
+                },
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Microsoft"
+                },
+                {
+                    "name": "Symantec"
+                },
+                {
+                    "name": "Cloudera"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Chief Data Officer"
+                },
+                {
+                    "title": "Cybersecurity Analyst"
+                },
+                {
+                    "title": "Solutions Engineer"
+                },
+                {
+                    "title": "Senior Software Engineer"
+                },
+                {
+                    "title": "Data Engineer"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Security Guardium"
+                },
+                {
+                    "name": "IBM Cloud Pak for Integration"
+                },
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "Symantec Endpoint Security"
+                },
+                {
+                    "name": "IBM Watson Assistant"
+                },
+                {
+                    "name": "Cloudera\u2019s platform"
+                },
+                {
+                    "name": "IBM Cloud Pak"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Alice Smith",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jackie Lin",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Zachary Brooks",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Franklin Moore",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "David Johnson",
+                "organization": "Cloudera"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Alice Smith",
+                "role": "Chief Data Officer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jackie Lin",
+                "role": "Cybersecurity Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Zachary Brooks",
+                "role": "Solutions Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Franklin Moore",
+                "role": "Senior Software Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "David Johnson",
+                "role": "Data Engineer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Alice Smith",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Jackie Lin",
+                "product_service": "IBM Security Guardium"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Zachary Brooks",
+                "product_service": "IBM Cloud Pak for Integration"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Franklin Moore",
+                "product_service": "IBM Watson Assistant"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Acme Corp",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Cloudera",
+                "location": "New York"
+            }
+        ]
+    }
+}

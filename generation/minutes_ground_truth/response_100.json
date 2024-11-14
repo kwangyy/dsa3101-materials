@@ -1,0 +1,158 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Brian Taylor"
+    },
+    {
+     "name": "Wendy Chen"
+    },
+    {
+     "name": "Alice Smith"
+    },
+    {
+     "name": "Franklin Moore"
+    },
+    {
+     "name": "John Doe"
+    },
+    {
+     "name": "Emily Clark"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Snowflake"
+    },
+    {
+     "name": "Acme Corp"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Senior Data Scientist"
+    },
+    {
+     "title": "AI Solutions Architect"
+    },
+    {
+     "title": "Chief Data Officer"
+    },
+    {
+     "title": "Senior Software Engineer"
+    },
+    {
+     "title": "Data Architect"
+    },
+    {
+     "title": "Data Analyst"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Maximo"
+    },
+    {
+     "name": "Symantec Endpoint Security"
+    },
+    {
+     "name": "IBM Watson Assistant"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Brian Taylor",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Wendy Chen",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Alice Smith",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Franklin Moore",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Doe",
+    "organization": "Snowflake"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emily Clark",
+    "organization": "Acme Corp"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Brian Taylor",
+    "role": "Senior Data Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Wendy Chen",
+    "role": "AI Solutions Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Alice Smith",
+    "role": "Chief Data Officer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Franklin Moore",
+    "role": "Senior Software Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Doe",
+    "role": "Data Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emily Clark",
+    "role": "Data Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Brian Taylor",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Wendy Chen",
+    "product_service": "IBM Maximo"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Symantec Endpoint Security"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Franklin Moore",
+    "product_service": "IBM Watson Assistant"
+   }
+  ]
+ }
+}

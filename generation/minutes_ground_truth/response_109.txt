@@ -1,0 +1,173 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:**
+- 01-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Emma Lee
+- Jackie Lin
+- Alice Smith
+- Clara Diaz
+- Note Taker: Clara Diaz
+- Absentees: None
+
+**Agenda:**
+- Project updates
+- Follow-up on assigned tasks
+- Team management
+
+**Discussion Points:**
+- **Project Updates:**
+  - Emma provided an update on Google Cloud AI Platform.
+  - Jackie shared the latest threat detections for IBM Security Guardium.
+  - Alice discussed progress on Microsoft Azure integration.
+- **Follow-up on Assigned Tasks:**
+  - Emma followed up on Clara’s research task on AI ethics.
+  - Alice reminded Jackie to update the threat detection algorithm by next week.
+
+**Next Steps:**
+- Emma to finalize the product strategy for Google Cloud AI Platform by 10-Jan-2023.
+- Jackie to complete the threat detection update by 08-Jan-2023.
+- Clara to present a summary of AI ethics research by 09-Jan-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+
+**Date and Time:**
+- 15-Jan-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Emma Lee
+- Jackie Lin
+- Alice Smith
+- Clara Diaz
+- Note Taker: Jackie Lin
+- Absentees: None
+
+**Agenda:**
+- Strategy discussion for upcoming projects
+- Cross-department collaboration
+- Feedback on recent changes
+
+**Discussion Points:**
+- **Strategy Discussion:**
+  - Alice proposed integrating Databricks with Microsoft Azure for better data processing.
+  - Emma suggested using Google Cloud AI to enhance Databricks functionality.
+- **Cross-Department Collaboration:**
+  - Clara suggested more frequent updates between the AI Policy Research and Product Management teams.
+  - Jackie emphasized the need for tighter security protocols when collaborating with external entities like Databricks.
+- **Feedback on Recent Changes:**
+  - Positive feedback was received on the recent update to the IBM AI OpenScale.
+
+**Next Steps:**
+- Alice to draft a proposal for integrating Databricks by 20-Jan-2023.
+- Emma to coordinate with Google Cloud AI team for potential enhancements by 25-Jan-2023.
+- Clara to organize a bi-weekly update meeting between teams starting 18-Jan-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+
+**Date and Time:**
+- 01-Feb-2023, 9:00 AM - 10:30 AM
+
+**Attendees:**
+- Emma Lee
+- Jackie Lin
+- Alice Smith
+- Clara Diaz
+- External Attendees: John Miller (Databricks, Data Engineer)
+- Note Taker: Alice Smith
+- Absentees: None
+
+**Agenda:**
+- Detailed project review
+- Addressing security concerns
+- Actionable items for cross-department collaboration
+
+**Discussion Points:**
+- **Detailed Project Review:**
+  - Emma provided an in-depth analysis of the Google Cloud AI Platform’s recent performance metrics.
+  - John Miller shared insights on leveraging Apache Spark for improving data efficiency in Microsoft Azure.
+- **Addressing Security Concerns:**
+  - Jackie highlighted potential vulnerabilities in the current IBM Security Guardium setup.
+  - Emma suggested a collaborative security review involving both IBM and Databricks.
+- **Actionable Items for Cross-Department Collaboration:**
+  - Clara discussed ethical considerations and the need for compliance with AI policies.
+  - Alice suggested creating a shared knowledge base for easier information exchange.
+
+**Next Steps:**
+- Emma to schedule a security review meeting with Databricks by 05-Feb-2023.
+- Jackie to conduct a vulnerability assessment and report by 10-Feb-2023.
+- Clara to prepare a compliance checklist and share with all teams by 07-Feb-2023.
+- Alice to initiate the creation of a shared knowledge base by 15-Feb-2023.
+
+---
+
+### Meeting Minutes 4: Simple
+
+**Date and Time:**
+- 10-Feb-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**
+- Emma Lee
+- Jackie Lin
+- Clara Diaz
+- Note Taker: Emma Lee
+- Absentees: Alice Smith
+
+**Agenda:**
+- Brief project updates
+- Immediate task follow-ups
+
+**Discussion Points:**
+- **Brief Project Updates:**
+  - Clara shared updates on the AI ethics research.
+  - Jackie provided a quick status on the threat detection improvements.
+- **Immediate Task Follow-ups:**
+  - Emma reminded Clara of the compliance checklist due next week.
+
+**Next Steps:**
+- Clara to finalize and distribute the compliance checklist by 15-Feb-2023.
+- Jackie to complete the threat detection improvements by 12-Feb-2023.
+
+---
+
+### Meeting Minutes 5: Moderate
+
+**Date and Time:**
+- 20-Feb-2023, 3:00 PM - 4:00 PM
+
+**Attendees:**
+- Emma Lee
+- Jackie Lin
+- Alice Smith
+- Clara Diaz
+- Note Taker: Emma Lee
+- Absentees: None
+
+**Agenda:**
+- Review of past month’s progress
+- Next quarter planning
+- Addressing any blockers
+
+**Discussion Points:**
+- **Review of Past Month’s Progress:**
+  - Emma reviewed the achievements in Google Cloud AI Platform.
+  - Alice discussed the progress on integrating Databricks with Microsoft Azure.
+- **Next Quarter Planning:**
+  - Clara suggested focusing on ethical implications in upcoming AI projects.
+  - Jackie emphasized the importance of robust security measures for new projects.
+- **Addressing Any Blockers:**
+  - Identified a need for more resources in the AI Policy Research department.
+
+**Next Steps:**
+- Emma to draft the next quarter plan and share by 25-Feb-2023.
+- Alice to present the integration status with Databricks in the next meeting by 28-Feb-2023.
+- Clara to hire two new researchers by 01-Mar-2023.
+- Jackie to develop a security protocol for new projects by 27-Feb-2023.
+
+---
+
+### JSON Data Representation

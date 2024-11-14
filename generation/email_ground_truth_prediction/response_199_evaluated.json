@@ -1,0 +1,96 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Natalie Wu"
+                },
+                {
+                    "name": "Michael Turner"
+                },
+                {
+                    "name": "Franklin Moore"
+                },
+                {
+                    "name": "Paul Hernandez"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Product Marketing Manager"
+                },
+                {
+                    "title": "Cloud Security Architect"
+                },
+                {
+                    "title": "Senior Software Engineer"
+                },
+                {
+                    "title": "Systems Engineer"
+                }
+            ],
+            "locations": [],
+            "products_services": [
+                {
+                    "name": "IBM Watson Discovery"
+                },
+                {
+                    "name": "IBM Watson Assistant"
+                },
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "IBM Z systems"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Natalie Wu",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Natalie Wu",
+                "role": "Product Marketing Manager"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Turner",
+                "role": "Cloud Security Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Franklin Moore",
+                "role": "Senior Software Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Paul Hernandez",
+                "role": "Systems Engineer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "IBM Watson Discovery"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Franklin Moore",
+                "product_service": "IBM Watson Assistant"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": ""
+            }
+        ]
+    }
+}

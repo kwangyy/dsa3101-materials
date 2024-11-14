@@ -1,0 +1,122 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Natalie Wu"
+    },
+    {
+     "name": "Uma Patel"
+    },
+    {
+     "name": "Zachary Brooks"
+    },
+    {
+     "name": "Tina Foster"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Product Marketing Manager"
+    },
+    {
+     "title": "Senior Solutions Architect"
+    },
+    {
+     "title": "Solutions Engineer"
+    },
+    {
+     "title": "IT Support Specialist"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Watson Discovery"
+    },
+    {
+     "name": "IBM Cloud Private"
+    },
+    {
+     "name": "IBM QRadar SIEM"
+    }
+   ],
+   "locations": [
+    {
+     "name": "ET"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Natalie Wu",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Uma Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Zachary Brooks",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Tina Foster",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Natalie Wu",
+    "role": "Product Marketing Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Uma Patel",
+    "role": "Senior Solutions Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Zachary Brooks",
+    "role": "Solutions Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Tina Foster",
+    "role": "IT Support Specialist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Natalie Wu",
+    "product_service": "IBM Watson Discovery"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Uma Patel",
+    "product_service": "IBM Cloud Private"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Tina Foster",
+    "product_service": "IBM QRadar SIEM"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Zachary Brooks",
+    "product_service": "IBM Cloud Private"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "ET"
+   }
+  ]
+ }
+}

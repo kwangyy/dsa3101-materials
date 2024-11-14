@@ -1,0 +1,154 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Tina Foster"
+                },
+                {
+                    "name": "David Patel"
+                },
+                {
+                    "name": "Samuel Davis"
+                },
+                {
+                    "name": "Gina Lopez"
+                },
+                {
+                    "name": "Laura Kim"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "C3.ai"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "IT Support Specialist"
+                },
+                {
+                    "title": "Cloud Architect"
+                },
+                {
+                    "title": "Blockchain Developer"
+                },
+                {
+                    "title": "UX Designer"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM QRadar SIEM"
+                },
+                {
+                    "name": "Amazon Web Services (AWS)"
+                },
+                {
+                    "name": "Hyperledger Fabric"
+                },
+                {
+                    "name": "IBM Blockchain Platform"
+                },
+                {
+                    "name": "IBM Cloud Pak for Data"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Tina Foster",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "David Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Samuel Davis",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Gina Lopez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Laura Kim",
+                "organization": "C3.ai"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Tina Foster",
+                "role": "IT Support Specialist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "David Patel",
+                "role": "Cloud Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Samuel Davis",
+                "role": "Blockchain Developer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Gina Lopez",
+                "role": "UX Designer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Tina Foster",
+                "product_service": "IBM QRadar SIEM"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "David Patel",
+                "product_service": "Amazon Web Services (AWS)"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Hyperledger Fabric"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "IBM Blockchain Platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Gina Lopez",
+                "product_service": "IBM Cloud Pak for Data"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "organization": "IBM",
+                "product_service": "IBM QRadar SIEM"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "organization": "IBM",
+                "product_service": "Amazon Web Services (AWS)"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "organization": "IBM",
+                "product_service": "IBM Blockchain Platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "organization": "IBM",
+                "product_service": "IBM Cloud Pak for Data"
+            }
+        ]
+    }
+}

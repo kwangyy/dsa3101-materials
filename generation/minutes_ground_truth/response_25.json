@@ -1,0 +1,184 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Michael Turner"
+    },
+    {
+     "name": "Samuel Davis"
+    },
+    {
+     "name": "Yasmine Ali"
+    },
+    {
+     "name": "Kevin O'Reilly"
+    },
+    {
+     "name": "Nathan Kim"
+    },
+    {
+     "name": "Julie Martinez"
+    },
+    {
+     "name": "David Lee"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Splunk"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Cloud Security Architect"
+    },
+    {
+     "title": "Blockchain Developer"
+    },
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "Machine Learning Engineer"
+    },
+    {
+     "title": "IT Operations Specialist"
+    },
+    {
+     "title": "Machine Learning Specialist"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Headquarters"
+    },
+    {
+     "name": "Splunk Headquarters"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "Hyperledger Fabric"
+    },
+    {
+     "name": "IBM Blockchain Platform"
+    },
+    {
+     "name": "IBM Planning Analytics"
+    },
+    {
+     "name": "IBM Watson Studio"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Turner",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Samuel Davis",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Yasmine Ali",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Kevin O'Reilly",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Nathan Kim",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Julie Martinez",
+    "organization": "Splunk"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "David Lee",
+    "organization": "Splunk"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Turner",
+    "role": "Cloud Security Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Samuel Davis",
+    "role": "Blockchain Developer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Yasmine Ali",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Kevin O'Reilly",
+    "role": "Machine Learning Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Julie Martinez",
+    "role": "IT Operations Specialist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "David Lee",
+    "role": "Machine Learning Specialist"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Headquarters"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "Splunk",
+    "location": "Splunk Headquarters"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Turner",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "Hyperledger Fabric"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "IBM Blockchain Platform"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Yasmine Ali",
+    "product_service": "IBM Planning Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Kevin O'Reilly",
+    "product_service": "IBM Watson Studio"
+   }
+  ]
+ }
+}

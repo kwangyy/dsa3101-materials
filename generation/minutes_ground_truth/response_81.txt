@@ -1,0 +1,145 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time:**
+- 12-Oct-2023
+- Start: 10:00 AM
+- End: 10:30 AM
+
+**Attendees:**
+- Ivy Bennett (Note-taker)
+- Quinn Parker
+- Derek Hill
+- Lily Garcia
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Follow-up on recent market analysis.
+- Review of customer trends.
+
+**Discussion Points:**
+- Quinn Parker presented recent analytics insights on customer usage of IBM Cognos Analytics.
+- Lily Garcia shared market trends indicating a shift towards cloud-based solutions.
+
+**Next Steps:**
+- Quinn Parker to prepare a detailed report on customer usage patterns by 19-Oct-2023.
+- Lily Garcia to conduct further analysis on cloud market trends by 26-Oct-2023.
+
+### Meeting Minutes 2 (Moderate)
+**Date and Time:**
+- 15-Oct-2023
+- Start: 2:00 PM
+- End: 3:00 PM
+
+**Attendees:**
+- Ivy Bennett
+- Quinn Parker
+- Derek Hill (Note-taker)
+- Lily Garcia
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Discuss potential collaboration with Splunk.
+- Review ongoing project updates.
+
+**Discussion Points:**
+- Ivy Bennett introduced the possibility of integrating Splunk's machine data analysis with IBM Db2 Database to enhance analytics capabilities.
+- Derek Hill discussed QA challenges faced in the testing phase of IBM Aspera and requested additional support from the Data Science team.
+
+**Next Steps:**
+- Ivy Bennett to set up a meeting with Splunk representatives by 22-Oct-2023.
+- Derek Hill to create a list of QA challenges and share with Quinn Parker by 18-Oct-2023.
+
+### Meeting Minutes 3 (Detailed)
+**Date and Time:**
+- 20-Oct-2023
+- Start: 11:00 AM
+- End: 12:30 PM
+
+**Attendees:**
+- Ivy Bennett (Note-taker)
+- Quinn Parker
+- Derek Hill
+- Lily Garcia
+
+**Absentees:**
+- None
+
+**Agenda:**
+- In-depth review of ETL pipeline performance.
+- Analysis of customer feedback for IBM Cloud Satellite.
+- Strategy for upcoming marketing campaign.
+
+**Discussion Points:**
+- Ivy Bennett provided an overview of recent improvements in ETL pipeline performance, highlighting reduced data processing time.
+- Quinn Parker shared detailed analytics on customer feedback, pointing out areas needing improvement in IBM Cloud Satellite.
+- Lily Garcia discussed the strategy for an upcoming marketing campaign targeting cloud-native enterprises.
+- Derek Hill suggested running additional QA tests to ensure new marketing features are bug-free.
+
+**Next Steps:**
+- Ivy Bennett to continue optimizing ETL pipelines and report progress by 30-Oct-2023.
+- Quinn Parker to segment customer feedback data and provide actionable insights by 28-Oct-2023.
+- Lily Garcia to draft initial marketing campaign materials and share with the team by 25-Oct-2023.
+- Derek Hill to coordinate with the marketing team for QA testing of new features by 27-Oct-2023.
+
+### Meeting Minutes 4 (Simple)
+**Date and Time:**
+- 22-Oct-2023
+- Start: 9:00 AM
+- End: 9:30 AM
+
+**Attendees:**
+- Ivy Bennett
+- Quinn Parker (Note-taker)
+- Derek Hill
+- Lily Garcia
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Brief review of recent projects.
+
+**Discussion Points:**
+- Quinn Parker provided a summary of the recent analytics report.
+- Derek Hill mentioned minor bugs found during testing.
+
+**Next Steps:**
+- Quinn Parker to update the analytics report based on new data by 29-Oct-2023.
+- Derek Hill to resolve minor bugs and retest by 24-Oct-2023.
+
+### Meeting Minutes 5 (Moderate)
+**Date and Time:**
+- 25-Oct-2023
+- Start: 4:00 PM
+- End: 5:00 PM
+
+**Attendees:**
+- Ivy Bennett
+- Quinn Parker
+- Derek Hill
+- Lily Garcia (Note-taker)
+- External Attendee: Sarah Lee from Splunk (Machine Data Analysis Specialist)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Finalize collaboration details with Splunk.
+- Review upcoming project timelines.
+
+**Discussion Points:**
+- Sarah Lee presented how Splunk's machine data analysis can integrate with IBM's existing systems.
+- Ivy Bennett discussed the technical feasibility and resource allocation needed for the integration.
+- Derek Hill reviewed the testing timeline for the new features.
+- Lily Garcia highlighted potential marketing benefits of the collaboration with Splunk.
+
+**Next Steps:**
+- Ivy Bennett to draft a collaboration plan with Splunk and share with team by 01-Nov-2023.
+- Sarah Lee to provide additional technical documentation to support integration by 28-Oct-2023.
+- Derek Hill to update the testing schedule to include Splunk integration by 30-Oct-2023.
+- Lily Garcia to plan a joint marketing announcement with Splunk by 05-Nov-2023.
+
+### Synthetic Data in JSON Format

@@ -1,0 +1,115 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Yasmine Ali"
+    },
+    {
+     "name": "Henry Zhou"
+    },
+    {
+     "name": "Paul Hernandez"
+    },
+    {
+     "name": "Quinn Parker"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "DevOps Engineer"
+    },
+    {
+     "title": "Systems Engineer"
+    },
+    {
+     "title": "Data Analyst"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Planning Analytics"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM Kubernetes Service"
+    },
+    {
+     "name": "IBM Z systems"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Yasmine Ali",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Henry Zhou",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Paul Hernandez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Quinn Parker",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Yasmine Ali",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Henry Zhou",
+    "role": "DevOps Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Paul Hernandez",
+    "role": "Systems Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Quinn Parker",
+    "role": "Data Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Yasmine Ali",
+    "product_service": "IBM Planning Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Quinn Parker",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Henry Zhou",
+    "product_service": "IBM Kubernetes Service"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Paul Hernandez",
+    "product_service": "IBM Z systems"
+   }
+  ]
+ }
+}

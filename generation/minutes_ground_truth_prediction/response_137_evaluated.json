@@ -1,0 +1,171 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Alice Smith"
+                },
+                {
+                    "name": "Tina Foster"
+                },
+                {
+                    "name": "Clara Diaz"
+                },
+                {
+                    "name": "Samuel Davis"
+                },
+                {
+                    "name": "John Brown"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Acme Corp"
+                },
+                {
+                    "name": "Cloudera"
+                },
+                {
+                    "name": "Symantec"
+                },
+                {
+                    "name": "Microsoft"
+                },
+                {
+                    "name": "Hyperledger"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note Taker"
+                },
+                {
+                    "title": "AI Specialist"
+                },
+                {
+                    "title": "CEO"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "QRadar SIEM"
+                },
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "Symantec Endpoint Security"
+                },
+                {
+                    "name": "Hyperledger Fabric"
+                },
+                {
+                    "name": "Cloudera's data platform"
+                },
+                {
+                    "name": "Cloudera's AI platform"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Alice Smith",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Tina Foster",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Clara Diaz",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Samuel Davis",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Brown",
+                "organization": "Cloudera"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Alice Smith",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Tina Foster",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Samuel Davis",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "John Brown",
+                "role": "AI Specialist"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Alice Smith",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Tina Foster",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Clara Diaz",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Acme Corp",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Cloudera",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Symantec",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Microsoft",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Hyperledger",
+                "location": "New York"
+            }
+        ]
+    }
+}

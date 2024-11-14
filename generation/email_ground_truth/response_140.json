@@ -1,0 +1,123 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Emma Lee"
+    },
+    {
+     "name": "Franklin Moore"
+    },
+    {
+     "name": "Uma Patel"
+    },
+    {
+     "name": "Samuel Davis"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Product Manager"
+    },
+    {
+     "title": "Senior Software Engineer"
+    },
+    {
+     "title": "Senior Solutions Architect"
+    },
+    {
+     "title": "Blockchain Developer"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Google Cloud AI Platform"
+    },
+    {
+     "name": "IBM Watson Assistant"
+    },
+    {
+     "name": "IBM Cloud Private"
+    },
+    {
+     "name": "IBM Blockchain Platform"
+    },
+    {
+     "name": "Hyperledger Fabric"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Lee",
+    "role": "Product Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Emma Lee",
+    "product_service": "Google Cloud AI Platform"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Franklin Moore",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Franklin Moore",
+    "role": "Senior Software Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Franklin Moore",
+    "product_service": "IBM Watson Assistant"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Uma Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Uma Patel",
+    "role": "Senior Solutions Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Uma Patel",
+    "product_service": "IBM Cloud Private"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Samuel Davis",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Samuel Davis",
+    "role": "Blockchain Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "IBM Blockchain Platform"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "Hyperledger Fabric"
+   }
+  ]
+ }
+}

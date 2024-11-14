@@ -1,0 +1,140 @@
+### Meeting Minutes 1 (Simple)
+Date and Time: 01-OCT-2023, 10:00 AM - 10:30 AM
+
+Attendees:
+- Wendy Chen (Notes)
+- Yasmine Ali
+- Tina Foster
+
+Absentees:
+- Michael Turner
+
+Agenda:
+- Project update on IBM Maximo Asset Management
+- Client interaction feedback
+- AI model improvements
+
+Discussion Points:
+- Wendy shared progress on IBM Maximo Asset Management.
+- Yasmine provided feedback from client interactions concerning predictive models for IBM Planning Analytics.
+- Tina discussed support issues and common queries from clients using IBM QRadar SIEM.
+
+Next Steps:
+- Wendy to refine AI models and submit updates by 05-OCT-2023.
+- Yasmine to gather additional client feedback and present at next meeting on 08-OCT-2023.
+- Tina to create a FAQ document for common client issues by 07-OCT-2023.
+
+### Meeting Minutes 2 (Moderate)
+Date and Time: 15-OCT-2023, 2:00 PM - 3:00 PM
+
+Attendees:
+- Wendy Chen
+- Yasmine Ali
+- Tina Foster
+- Michael Turner (Notes)
+
+Absentees:
+- None
+
+Agenda:
+- Data security in AI solutions
+- Cross-departmental collaboration on IBM Maximo Asset Management
+- Nutanix partnership update
+
+Discussion Points:
+- Michael discussed the importance of integrating strong security protocols in AI solutions.
+- Wendy and Tina talked about collaborating on enhancing IBM Maximo Asset Management features.
+- Yasmine shared insights from the Nutanix partnership, emphasizing multi-cloud data integration.
+
+Next Steps:
+- Michael to draft security guidelines for AI solutions by 20-OCT-2023.
+- Wendy and Tina to organize a workshop on IBM Maximo features by 25-OCT-2023.
+- Yasmine to prepare a detailed report on Nutanix partnership benefits by 22-OCT-2023.
+
+### Meeting Minutes 3 (Detailed)
+Date and Time: 05-NOV-2023, 9:00 AM - 10:30 AM
+
+Attendees:
+- Wendy Chen
+- Yasmine Ali
+- Tina Foster
+- Michael Turner
+- External: John Smith (Nutanix, Client Relations Manager)
+
+Absentees:
+- None
+
+Agenda:
+- Review of Q4 performance metrics
+- Nutanix partnership: next steps
+- New AI project proposals
+- Client issue resolution workflow
+
+Discussion Points:
+- Wendy reviewed Q4 performance metrics, highlighting key accomplishments.
+- John Smith from Nutanix provided an update on joint projects and future collaboration plans.
+- Yasmine proposed two new AI projects focused on predictive maintenance and data analytics.
+- Tina detailed the current client issue resolution workflow, noting areas for improvement.
+- Michael suggested enhancing security measures for client data, particularly for hybrid cloud solutions.
+
+Next Steps:
+- Wendy to prepare a detailed performance report by 10-NOV-2023.
+- Yasmine and John to draft a plan for new joint projects by 15-NOV-2023.
+- Tina to revise and distribute an updated issue resolution workflow by 12-NOV-2023.
+- Michael to propose advanced security protocols by 20-NOV-2023.
+
+### Meeting Minutes 4 (Moderate)
+Date and Time: 12-DEC-2023, 11:00 AM - 12:00 PM
+
+Attendees:
+- Wendy Chen
+- Yasmine Ali (Notes)
+- Tina Foster
+- Michael Turner
+
+Absentees:
+- None
+
+Agenda:
+- Project timelines for Q1 2024
+- AI solution updates
+- Client feedback on IBM Planning Analytics
+
+Discussion Points:
+- Wendy outlined project timelines for Q1 2024.
+- Yasmine shared recent updates and improvements to AI solutions.
+- Tina reported on client feedback regarding IBM Planning Analytics, highlighting common issues and solutions.
+- Michael stressed the importance of cloud security in upcoming projects.
+
+Next Steps:
+- Wendy to finalize Q1 timelines and distribute by 18-DEC-2023.
+- Yasmine to incorporate feedback into AI solutions by 20-DEC-2023.
+- Tina to develop a client feedback response strategy by 22-DEC-2023.
+- Michael to review security protocols for new projects by 25-DEC-2023.
+
+### Meeting Minutes 5 (Simple)
+Date and Time: 20-DEC-2023, 3:00 PM - 3:30 PM
+
+Attendees:
+- Wendy Chen
+- Yasmine Ali (Notes)
+
+Absentees:
+- Tina Foster
+- Michael Turner
+
+Agenda:
+- Year-end review
+- Setting goals for 2024
+
+Discussion Points:
+- Wendy and Yasmine discussed key achievements of 2023.
+- Identified areas for improvement and set preliminary goals for 2024.
+
+Next Steps:
+- Wendy to draft a detailed 2024 goals document by 05-JAN-2024.
+- Yasmine to analyze 2023 performance data and submit a report by 07-JAN-2024.
+
+---
+
+### JSON Format

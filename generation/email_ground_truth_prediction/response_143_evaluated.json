@@ -1,0 +1,138 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Natalie Wu"
+                },
+                {
+                    "name": "Uma Patel"
+                },
+                {
+                    "name": "Samuel Davis"
+                },
+                {
+                    "name": "Clara Diaz"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Product Marketing Manager"
+                },
+                {
+                    "title": "Senior Solutions Architect"
+                },
+                {
+                    "title": "Blockchain Developer"
+                },
+                {
+                    "title": "AI Policy Researcher"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Watson Discovery"
+                },
+                {
+                    "name": "IBM Blockchain Platform"
+                },
+                {
+                    "name": "Hyperledger Fabric"
+                },
+                {
+                    "name": "IBM Cloud Private"
+                },
+                {
+                    "name": "IBM AI OpenScale"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Natalie Wu",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Uma Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Samuel Davis",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Clara Diaz",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Natalie Wu",
+                "role": "Product Marketing Manager"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Uma Patel",
+                "role": "Senior Solutions Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Samuel Davis",
+                "role": "Blockchain Developer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Clara Diaz",
+                "role": "AI Policy Researcher"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "IBM"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Natalie Wu",
+                "product_service": "IBM Watson Discovery"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Natalie Wu",
+                "product_service": "IBM Blockchain Platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Uma Patel",
+                "product_service": "IBM Watson Discovery"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Uma Patel",
+                "product_service": "IBM Cloud Private"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Hyperledger Fabric"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Clara Diaz",
+                "product_service": "IBM AI OpenScale"
+            }
+        ]
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "David Patel"
+                },
+                {
+                    "name": "Paul Hernandez"
+                },
+                {
+                    "name": "Kevin O'Reilly"
+                },
+                {
+                    "name": "Rachel Singh"
+                },
+                {
+                    "name": "John Smith"
+                },
+                {
+                    "name": "Emma Taylor"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Splunk"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note-taker"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "IBM Z"
+                },
+                {
+                    "name": "IBM Watson"
+                },
+                {
+                    "name": "IBM Cloud Functions"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Splunk tools"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "David Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Paul Hernandez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Kevin O'Reilly",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Rachel Singh",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "Splunk"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emma Taylor",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Kevin O'Reilly",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Rachel Singh",
+                "role": "Note-taker"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "David Patel",
+                "product_service": "AWS"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Paul Hernandez",
+                "product_service": "IBM Z"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Kevin O'Reilly",
+                "product_service": "IBM Watson"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Rachel Singh",
+                "product_service": "IBM Cloud Functions"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Splunk",
+                "location": "New York"
+            }
+        ]
+    }
+}

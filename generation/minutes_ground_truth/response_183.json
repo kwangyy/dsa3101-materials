@@ -1,0 +1,172 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Gina Lopez"
+    },
+    {
+     "name": "Uma Patel"
+    },
+    {
+     "name": "Victor Ramos"
+    },
+    {
+     "name": "Benji Martinez"
+    },
+    {
+     "name": "John Smith"
+    },
+    {
+     "name": "Laura Chen"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "HashiCorp"
+    }
+   ],
+   "roles": [
+    {
+     "title": "UX Designer"
+    },
+    {
+     "title": "Senior Solutions Architect"
+    },
+    {
+     "title": "Robotics Process Automation (RPA) Developer"
+    },
+    {
+     "title": "IT Operations Manager"
+    },
+    {
+     "title": "Infrastructure Automation Specialist"
+    },
+    {
+     "title": "Senior Marketing Manager"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Cloud Pak for Data"
+    },
+    {
+     "name": "IBM Cloud Private"
+    },
+    {
+     "name": "IBM Robotic Process Automation"
+    },
+    {
+     "name": "IBM Cloud Object Storage"
+    },
+    {
+     "name": "multi-cloud environments"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Pak for Data"
+    },
+    {
+     "name": "IBM Cloud Private"
+    },
+    {
+     "name": "IBM Robotic Process Automation"
+    },
+    {
+     "name": "IBM Cloud Object Storage"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Gina Lopez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Gina Lopez",
+    "role": "UX Designer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Gina Lopez",
+    "product_service": "IBM Cloud Pak for Data"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Uma Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Uma Patel",
+    "role": "Senior Solutions Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Uma Patel",
+    "product_service": "IBM Cloud Private"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Victor Ramos",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Victor Ramos",
+    "role": "Robotics Process Automation (RPA) Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Victor Ramos",
+    "product_service": "IBM Robotic Process Automation"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Benji Martinez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Benji Martinez",
+    "role": "IT Operations Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Benji Martinez",
+    "product_service": "IBM Cloud Object Storage"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "HashiCorp"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "Infrastructure Automation Specialist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Smith",
+    "product_service": "multi-cloud environments"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Laura Chen",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Laura Chen",
+    "role": "Senior Marketing Manager"
+   }
+  ]
+ }
+}

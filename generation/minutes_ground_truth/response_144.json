@@ -1,0 +1,184 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Rachel Singh"
+    },
+    {
+     "name": "Zachary Brooks"
+    },
+    {
+     "name": "Alice Smith"
+    },
+    {
+     "name": "Abigail Carter"
+    },
+    {
+     "name": "John Doe"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Cognex"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Software Engineer"
+    },
+    {
+     "title": "Solutions Engineer"
+    },
+    {
+     "title": "Chief Data Officer"
+    },
+    {
+     "title": "Business Intelligence Analyst"
+    },
+    {
+     "title": "Machine Vision Systems Specialist"
+    }
+   ],
+   "locations": [
+    {
+     "name": "Cloud Solutions Department"
+    },
+    {
+     "name": "Customer Success Department"
+    },
+    {
+     "name": "R&D Department"
+    },
+    {
+     "name": "Data Analytics Department"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Functions"
+    },
+    {
+     "name": "IBM Cloud Pak for Integration"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "Symantec Endpoint Security"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "Machine Vision Systems"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Singh",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Zachary Brooks",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Alice Smith",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Abigail Carter",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Doe",
+    "organization": "Cognex"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Singh",
+    "role": "Software Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Zachary Brooks",
+    "role": "Solutions Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Alice Smith",
+    "role": "Chief Data Officer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Abigail Carter",
+    "role": "Business Intelligence Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Doe",
+    "role": "Machine Vision Systems Specialist"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Cloud Solutions Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Customer Success Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "R&D Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Data Analytics Department"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Rachel Singh",
+    "product_service": "IBM Cloud Functions"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Zachary Brooks",
+    "product_service": "IBM Cloud Pak for Integration"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Symantec Endpoint Security"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Abigail Carter",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Doe",
+    "product_service": "Machine Vision Systems"
+   }
+  ]
+ }
+}

@@ -1,0 +1,176 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Derek Hill"
+    },
+    {
+     "name": "Wendy Chen"
+    },
+    {
+     "name": "Victor Ramos"
+    },
+    {
+     "name": "Jackie Lin"
+    },
+    {
+     "name": "John Doe"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "ServiceTitan"
+    }
+   ],
+   "roles": [
+    {
+     "title": "QA Engineer"
+    },
+    {
+     "title": "AI Solutions Architect"
+    },
+    {
+     "title": "RPA Developer"
+    },
+    {
+     "title": "Cybersecurity Analyst"
+    },
+    {
+     "title": "Project Manager"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Aspera"
+    },
+    {
+     "name": "IBM Maximo"
+    },
+    {
+     "name": "IBM Security Guardium"
+    },
+    {
+     "name": "IBM Robotic Process Automation"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "software testing"
+    },
+    {
+     "name": "AI solutions"
+    },
+    {
+     "name": "bots development"
+    },
+    {
+     "name": "threat detection"
+    },
+    {
+     "name": "client automation"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Derek Hill",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Wendy Chen",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Victor Ramos",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jackie Lin",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Doe",
+    "organization": "ServiceTitan"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Derek Hill",
+    "role": "QA Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Wendy Chen",
+    "role": "AI Solutions Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Victor Ramos",
+    "role": "RPA Developer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jackie Lin",
+    "role": "Cybersecurity Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Doe",
+    "role": "Project Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Derek Hill",
+    "product_service": "software testing"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Wendy Chen",
+    "product_service": "AI solutions"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Victor Ramos",
+    "product_service": "bots development"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jackie Lin",
+    "product_service": "threat detection"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Victor Ramos",
+    "product_service": "client automation"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Aspera"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Maximo"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Security Guardium"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Robotic Process Automation"
+   }
+  ]
+ }
+}

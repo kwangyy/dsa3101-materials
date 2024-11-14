@@ -1,0 +1,118 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Samuel Davis"
+    },
+    {
+     "name": "Uma Patel"
+    },
+    {
+     "name": "Kevin O'Reilly"
+    },
+    {
+     "name": "Natalie Wu"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Blockchain Developer"
+    },
+    {
+     "title": "Senior Solutions Architect"
+    },
+    {
+     "title": "Machine Learning Engineer"
+    },
+    {
+     "title": "Product Marketing Manager"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Hyperledger Fabric"
+    },
+    {
+     "name": "IBM Blockchain Platform"
+    },
+    {
+     "name": "IBM Watson Studio"
+    },
+    {
+     "name": "IBM Cloud Private"
+    },
+    {
+     "name": "IBM Watson Discovery"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Samuel Davis",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Samuel Davis",
+    "role": "Blockchain Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "Hyperledger Fabric"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Uma Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Uma Patel",
+    "role": "Senior Solutions Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Uma Patel",
+    "product_service": "IBM Cloud Private"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Kevin O'Reilly",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Kevin O'Reilly",
+    "role": "Machine Learning Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Kevin O'Reilly",
+    "product_service": "IBM Watson Studio"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Natalie Wu",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Natalie Wu",
+    "role": "Product Marketing Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Natalie Wu",
+    "product_service": "IBM Watson Discovery"
+   }
+  ]
+ }
+}

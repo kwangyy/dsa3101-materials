@@ -1,0 +1,149 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Oliver James"
+                },
+                {
+                    "name": "Emma Lee"
+                },
+                {
+                    "name": "Benji Martinez"
+                },
+                {
+                    "name": "Paul Hernandez"
+                },
+                {
+                    "name": "John Doe"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Splunk"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "AI Research Scientist"
+                },
+                {
+                    "title": "Product Manager"
+                },
+                {
+                    "title": "IT Operations Manager"
+                },
+                {
+                    "title": "Systems Engineer"
+                },
+                {
+                    "title": "CEO"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Watson Language Translator"
+                },
+                {
+                    "name": "Google Cloud AI Platform"
+                },
+                {
+                    "name": "IBM Cloud Object Storage"
+                },
+                {
+                    "name": "Natural Language Processing"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Oliver James",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Oliver James",
+                "role": "AI Research Scientist"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emma Lee",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emma Lee",
+                "role": "Product Manager"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Benji Martinez",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Benji Martinez",
+                "role": "IT Operations Manager"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Paul Hernandez",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Paul Hernandez",
+                "role": "Systems Engineer"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Doe",
+                "organization": "Splunk"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "John Doe",
+                "role": "CEO"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Oliver James",
+                "product_service": "IBM Watson Language Translator"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Oliver James",
+                "product_service": "Google Cloud AI Platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Benji Martinez",
+                "product_service": "IBM Cloud Object Storage"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Paul Hernandez",
+                "product_service": "Natural Language Processing"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "John Doe",
+                "product_service": "Natural Language Processing"
+            }
+        ]
+    }
+}

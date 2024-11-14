@@ -1,0 +1,122 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Michael Turner"
+    },
+    {
+     "name": "Zachary Brooks"
+    },
+    {
+     "name": "Benji Martinez"
+    },
+    {
+     "name": "Jackie Lin"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Splunk"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Cloud Security Architect"
+    },
+    {
+     "title": "Solutions Engineer"
+    },
+    {
+     "title": "IT Operations Manager"
+    },
+    {
+     "title": "Cybersecurity Analyst"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Cloud Pak for Integration"
+    },
+    {
+     "name": "IBM Cloud Object Storage"
+    },
+    {
+     "name": "IBM Security Guardium"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Turner",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Turner",
+    "role": "Cloud Security Architect"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Zachary Brooks",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Zachary Brooks",
+    "role": "Solutions Engineer"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Benji Martinez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Benji Martinez",
+    "role": "IT Operations Manager"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jackie Lin",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jackie Lin",
+    "role": "Cybersecurity Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Turner",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Zachary Brooks",
+    "product_service": "IBM Cloud Pak for Integration"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Benji Martinez",
+    "product_service": "IBM Cloud Object Storage"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jackie Lin",
+    "product_service": "IBM Security Guardium"
+   },
+   {
+    "type": "PARTNER_WITH",
+    "organization": "Splunk"
+   }
+  ]
+ }
+}

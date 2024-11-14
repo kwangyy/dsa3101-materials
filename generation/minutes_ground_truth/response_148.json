@@ -1,0 +1,134 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Benji Martinez"
+    },
+    {
+     "name": "Abigail Carter"
+    },
+    {
+     "name": "Michael Turner"
+    },
+    {
+     "name": "Ivy Bennett"
+    },
+    {
+     "name": "Jane Doe"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Splunk"
+    }
+   ],
+   "roles": [
+    {
+     "title": "IT Operations Manager"
+    },
+    {
+     "title": "Business Intelligence Analyst"
+    },
+    {
+     "title": "Cloud Security Architect"
+    },
+    {
+     "title": "Data Engineer"
+    },
+    {
+     "title": "IT Operations Specialist"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Object Storage"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Db2 Database"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Benji Martinez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Benji Martinez",
+    "role": "IT Operations Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Benji Martinez",
+    "product_service": "IBM Cloud Object Storage"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Abigail Carter",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Abigail Carter",
+    "role": "Business Intelligence Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Abigail Carter",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Turner",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Turner",
+    "role": "Cloud Security Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Turner",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Ivy Bennett",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Ivy Bennett",
+    "role": "Data Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Ivy Bennett",
+    "product_service": "IBM Db2 Database"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Doe",
+    "organization": "Splunk"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Doe",
+    "role": "IT Operations Specialist"
+   }
+  ]
+ }
+}

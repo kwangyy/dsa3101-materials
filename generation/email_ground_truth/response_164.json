@@ -1,0 +1,115 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Carol Nguyen"
+    },
+    {
+     "name": "Michael Turner"
+    },
+    {
+     "name": "Gina Lopez"
+    },
+    {
+     "name": "Victor Ramos"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Microsoft"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Junior Data Scientist"
+    },
+    {
+     "title": "Cloud Security Architect"
+    },
+    {
+     "title": "UX Designer"
+    },
+    {
+     "title": "RPA Developer"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Cloud Pak for Data"
+    },
+    {
+     "name": "IBM Robotic Process Automation"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Carol Nguyen",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Carol Nguyen",
+    "role": "Junior Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Carol Nguyen",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Turner",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Turner",
+    "role": "Cloud Security Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Turner",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Gina Lopez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Gina Lopez",
+    "role": "UX Designer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Gina Lopez",
+    "product_service": "IBM Cloud Pak for Data"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Victor Ramos",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Victor Ramos",
+    "role": "RPA Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Victor Ramos",
+    "product_service": "IBM Robotic Process Automation"
+   }
+  ]
+ }
+}

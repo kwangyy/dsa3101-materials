@@ -1,0 +1,143 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Lily Garcia"
+    },
+    {
+     "name": "David Patel"
+    },
+    {
+     "name": "Benji Martinez"
+    },
+    {
+     "name": "Carol Nguyen"
+    },
+    {
+     "name": "John Doe"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Snowflake"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Marketing Analyst"
+    },
+    {
+     "title": "Cloud Architect"
+    },
+    {
+     "title": "IT Operations Manager"
+    },
+    {
+     "title": "Junior Data Scientist"
+    },
+    {
+     "title": "Data Solutions Specialist"
+    }
+   ],
+   "locations": [],
+   "products_services": [
+    {
+     "name": "IBM Cloud Satellite"
+    },
+    {
+     "name": "Amazon Web Services (AWS)"
+    },
+    {
+     "name": "IBM Cloud Object Storage"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "Snowflake"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Lily Garcia",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "David Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Benji Martinez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Carol Nguyen",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Doe",
+    "organization": "Snowflake"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Lily Garcia",
+    "role": "Marketing Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "David Patel",
+    "role": "Cloud Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Benji Martinez",
+    "role": "IT Operations Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Carol Nguyen",
+    "role": "Junior Data Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Doe",
+    "role": "Data Solutions Specialist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Lily Garcia",
+    "product_service": "IBM Cloud Satellite"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "David Patel",
+    "product_service": "Amazon Web Services (AWS)"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Benji Martinez",
+    "product_service": "IBM Cloud Object Storage"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Carol Nguyen",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Doe",
+    "product_service": "Snowflake"
+   }
+  ]
+ }
+}

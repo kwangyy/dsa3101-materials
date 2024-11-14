@@ -1,0 +1,196 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Zachary Brooks"
+    },
+    {
+     "name": "David Patel"
+    },
+    {
+     "name": "Rachel Singh"
+    },
+    {
+     "name": "Alice Smith"
+    },
+    {
+     "name": "John Miller"
+    },
+    {
+     "name": "Sarah White"
+    },
+    {
+     "name": "Michael Brown"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Cognex"
+    },
+    {
+     "name": "Symantec"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Solutions Engineer"
+    },
+    {
+     "title": "Cloud Architect"
+    },
+    {
+     "title": "Software Engineer"
+    },
+    {
+     "title": "Chief Data Officer"
+    },
+    {
+     "title": "Machine Vision Systems Expert"
+    },
+    {
+     "title": "Tech Consultant"
+    },
+    {
+     "title": "AWS Solutions Architect"
+    }
+   ],
+   "locations": [],
+   "products_services": [
+    {
+     "name": "IBM Cloud Pak for Integration"
+    },
+    {
+     "name": "IBM Cloud Functions"
+    },
+    {
+     "name": "AWS"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "Symantec Endpoint Security"
+    },
+    {
+     "name": "Cognex Machine Vision Systems"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Zachary Brooks",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "David Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Singh",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Alice Smith",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Miller",
+    "organization": "Cognex"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah White",
+    "organization": "Symantec"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Brown",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Zachary Brooks",
+    "role": "Solutions Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "David Patel",
+    "role": "Cloud Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Singh",
+    "role": "Software Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Alice Smith",
+    "role": "Chief Data Officer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Miller",
+    "role": "Machine Vision Systems Expert"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah White",
+    "role": "Tech Consultant"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Brown",
+    "role": "AWS Solutions Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Zachary Brooks",
+    "product_service": "IBM Cloud Pak for Integration"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "David Patel",
+    "product_service": "AWS"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Rachel Singh",
+    "product_service": "IBM Cloud Functions"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Symantec Endpoint Security"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Miller",
+    "product_service": "Cognex Machine Vision Systems"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Sarah White",
+    "product_service": "Symantec Endpoint Security"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Brown",
+    "product_service": "AWS"
+   }
+  ]
+ }
+}

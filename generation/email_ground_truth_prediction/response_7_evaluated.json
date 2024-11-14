@@ -1,0 +1,146 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Lily Garcia"
+                },
+                {
+                    "name": "Uma Patel"
+                },
+                {
+                    "name": "Kevin O'Reilly"
+                },
+                {
+                    "name": "Paul Hernandez"
+                },
+                {
+                    "name": "Ivy Bennett"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Marketing Analyst"
+                },
+                {
+                    "title": "Senior Solutions Architect"
+                },
+                {
+                    "title": "Machine Learning Engineer"
+                },
+                {
+                    "title": "Systems Engineer"
+                },
+                {
+                    "title": "Data Engineer"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cloud Satellite"
+                },
+                {
+                    "name": "IBM Watson Studio"
+                },
+                {
+                    "name": "IBM Db2 Database"
+                },
+                {
+                    "name": "IBM Z systems"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Lily Garcia",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Uma Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Kevin O'Reilly",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Paul Hernandez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Ivy Bennett",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Lily Garcia",
+                "role": "Marketing Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Uma Patel",
+                "role": "Senior Solutions Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Kevin O'Reilly",
+                "role": "Machine Learning Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Paul Hernandez",
+                "role": "Systems Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Ivy Bennett",
+                "role": "Data Engineer"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "IBM"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Lily Garcia",
+                "product_service": "IBM Cloud Satellite"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Uma Patel",
+                "product_service": "IBM Cloud Satellite"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Kevin O'Reilly",
+                "product_service": "IBM Watson Studio"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Paul Hernandez",
+                "product_service": "IBM Z systems"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "IBM Db2 Database"
+            }
+        ]
+    }
+}

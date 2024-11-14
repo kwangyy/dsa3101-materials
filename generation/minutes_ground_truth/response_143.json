@@ -1,0 +1,151 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Jackie Lin"
+    },
+    {
+     "name": "Carol Nguyen"
+    },
+    {
+     "name": "Benji Martinez"
+    },
+    {
+     "name": "Wendy Chen"
+    },
+    {
+     "name": "Alex Johnson"
+    },
+    {
+     "name": "Sarah Lee"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "C3.ai"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Cybersecurity Analyst"
+    },
+    {
+     "title": "Junior Data Scientist"
+    },
+    {
+     "title": "IT Operations Manager"
+    },
+    {
+     "title": "AI Solutions Architect"
+    },
+    {
+     "title": "Senior Solutions Architect"
+    },
+    {
+     "title": "Marketing Manager"
+    }
+   ],
+   "locations": [],
+   "products_services": [
+    {
+     "name": "IBM Security Guardium"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Cloud Object Storage"
+    },
+    {
+     "name": "IBM Maximo Asset Management"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jackie Lin",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jackie Lin",
+    "role": "Cybersecurity Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jackie Lin",
+    "product_service": "IBM Security Guardium"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Carol Nguyen",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Carol Nguyen",
+    "role": "Junior Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Carol Nguyen",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Benji Martinez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Benji Martinez",
+    "role": "IT Operations Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Benji Martinez",
+    "product_service": "IBM Cloud Object Storage"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Wendy Chen",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Wendy Chen",
+    "role": "AI Solutions Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Wendy Chen",
+    "product_service": "IBM Maximo Asset Management"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Alex Johnson",
+    "organization": "C3.ai"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Alex Johnson",
+    "role": "Senior Solutions Architect"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah Lee",
+    "role": "Marketing Manager"
+   }
+  ]
+ }
+}

@@ -1,0 +1,117 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Gina Lopez"
+                },
+                {
+                    "name": "Clara Diaz"
+                },
+                {
+                    "name": "Jackie Lin"
+                },
+                {
+                    "name": "Lily Garcia"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "UX Designer"
+                },
+                {
+                    "title": "AI Policy Researcher"
+                },
+                {
+                    "title": "Cybersecurity Analyst"
+                },
+                {
+                    "title": "Marketing Analyst"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cloud Pak for Data"
+                },
+                {
+                    "name": "IBM Security Guardium"
+                },
+                {
+                    "name": "IBM Cloud Satellite"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Gina Lopez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Clara Diaz",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jackie Lin",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Lily Garcia",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Gina Lopez",
+                "role": "UX Designer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Clara Diaz",
+                "role": "AI Policy Researcher"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jackie Lin",
+                "role": "Cybersecurity Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Lily Garcia",
+                "role": "Marketing Analyst"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Gina Lopez",
+                "product_service": "IBM Cloud Pak for Data"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Jackie Lin",
+                "product_service": "IBM Security Guardium"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Lily Garcia",
+                "product_service": "IBM Cloud Satellite"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "IBM"
+            }
+        ]
+    }
+}

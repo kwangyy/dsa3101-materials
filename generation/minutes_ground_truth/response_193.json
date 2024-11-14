@@ -1,0 +1,143 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Zachary Brooks"
+    },
+    {
+     "name": "Victor Ramos"
+    },
+    {
+     "name": "Brian Taylor"
+    },
+    {
+     "name": "Yasmine Ali"
+    },
+    {
+     "name": "James Watson"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "DigitalOcean"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Solutions Engineer"
+    },
+    {
+     "title": "RPA Developer"
+    },
+    {
+     "title": "Senior Data Scientist"
+    },
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "Cloud Solutions Architect"
+    }
+   ],
+   "locations": [],
+   "products_services": [
+    {
+     "name": "IBM Cloud Pak for Integration"
+    },
+    {
+     "name": "IBM Robotic Process Automation"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Planning Analytics"
+    },
+    {
+     "name": "Cloud Solutions for SMBs"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Zachary Brooks",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Zachary Brooks",
+    "role": "Solutions Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Zachary Brooks",
+    "product_service": "IBM Cloud Pak for Integration"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Victor Ramos",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Victor Ramos",
+    "role": "RPA Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Victor Ramos",
+    "product_service": "IBM Robotic Process Automation"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Brian Taylor",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Brian Taylor",
+    "role": "Senior Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Brian Taylor",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Yasmine Ali",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Yasmine Ali",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Yasmine Ali",
+    "product_service": "IBM Planning Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "James Watson",
+    "organization": "DigitalOcean"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "James Watson",
+    "role": "Cloud Solutions Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "James Watson",
+    "product_service": "Cloud Solutions for SMBs"
+   }
+  ]
+ }
+}

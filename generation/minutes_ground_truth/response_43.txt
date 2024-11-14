@@ -1,0 +1,139 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time:** 05-Feb-2023, 10:00 AM - 10:30 AM
+**Attendees:**
+- Natalie Wu (took notes)
+- Lily Garcia
+- Zachary Brooks
+
+**Absentees:**
+- Jackie Lin
+
+**Agenda:**
+- Project updates
+- Discussion on new marketing strategies
+
+**Discussion Points:**
+- **Project Updates:** 
+  - Natalie provided updates on IBM Watson Discovery promotions.
+  - Lily discussed customer trend analysis for IBM Cloud Satellite.
+- **New Marketing Strategies:**
+  - Proposed a new ad campaign targeting enterprise clients.
+  - Discussion on leveraging social media for marketing IBM Cloud Pak for Integration.
+
+**Next Steps:**
+- Natalie to draft the new ad campaign by 10-Feb-2023.
+- Lily to provide detailed customer trend reports by 12-Feb-2023.
+
+### Meeting Minutes 2 (Moderate)
+**Date and Time:** 15-Mar-2023, 2:00 PM - 3:00 PM
+**Attendees:**
+- Natalie Wu
+- Lily Garcia
+- Zachary Brooks
+- Jackie Lin (took notes)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Project updates
+- Innovation initiatives for Q2
+
+**Discussion Points:**
+- **Project Updates:**
+  - Zachary shared recent implementations for IBM Cloud Pak for Integration.
+  - Natalie updated on client feedback for IBM Watson Discovery promotions.
+- **Innovation Initiatives:**
+  - Discussion on collaborating with C3.ai for integrating AI solutions.
+  - Jackie proposed advanced threat detection methods for IBM Security Guardium.
+  - Brainstorming session on potential improvements in customer engagement.
+
+**Next Steps:**
+- Zachary to coordinate with C3.ai team by 20-Mar-2023.
+- Jackie to prepare a proposal for new threat detection methods by 22-Mar-2023.
+- Natalie to summarize client feedback for internal review by 18-Mar-2023.
+
+### Meeting Minutes 3 (Detailed)
+**Date and Time:** 28-Apr-2023, 9:00 AM - 11:00 AM
+**Attendees:**
+- Natalie Wu
+- Lily Garcia (took notes)
+- Zachary Brooks
+- Jackie Lin
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Detailed project updates
+- Cross-department collaboration
+- External partnerships
+
+**Discussion Points:**
+- **Project Updates:**
+  - Detailed discussion on the performance of IBM Watson Discovery promotions.
+  - Lily presented data insights on IBM Cloud Satellite customer trends.
+  - Zachary shared technical challenges faced in recent deployments.
+- **Cross-Department Collaboration:**
+  - Discussed cybersecurity measures to be integrated into marketing campaigns.
+  - Jackie suggested regular training sessions on threat detection for marketing and customer success teams.
+- **External Partnerships:**
+  - Natalie brought up potential collaboration with C3.ai for advanced analytics.
+  - Proposal to involve C3.ai for a joint webinar targeting enterprise clients.
+
+**Next Steps:**
+- Natalie to finalize collaboration details with C3.ai by 05-May-2023.
+- Lily to prepare a comprehensive report on customer trends by 03-May-2023.
+- Zachary to address technical issues and update team by 01-May-2023.
+- Jackie to organize first training session by 10-May-2023.
+
+### Meeting Minutes 4 (Moderate)
+**Date and Time:** 10-May-2023, 1:00 PM - 2:00 PM
+**Attendees:**
+- Natalie Wu (took notes)
+- Lily Garcia
+- Zachary Brooks
+
+**Absentees:**
+- Jackie Lin
+
+**Agenda:**
+- Project updates
+- Strategy discussion for H2
+
+**Discussion Points:**
+- **Project Updates:**
+  - Natalie updated on progress with IBM Watson Discovery.
+  - Zachary shared feedback from recent customer success implementations.
+- **Strategy for H2:**
+  - Discussed marketing plans and budget allocations.
+  - Brainstormed new ways to promote IBM Cloud Satellite.
+
+**Next Steps:**
+- Natalie to draft a strategy document for H2 by 15-May-2023.
+- Zachary to provide detailed customer feedback reports by 12-May-2023.
+
+### Meeting Minutes 5 (Simple)
+**Date and Time:** 22-Jun-2023, 11:00 AM - 11:30 AM
+**Attendees:**
+- Natalie Wu
+- Lily Garcia (took notes)
+- Zachary Brooks
+
+**Absentees:**
+- Jackie Lin
+
+**Agenda:**
+- Quick project updates
+- Review of recent marketing campaign
+
+**Discussion Points:**
+- **Project Updates:**
+  - Quick updates on ongoing projects.
+  - Natalie shared success metrics from the recent ad campaign.
+- **Review of Marketing Campaign:**
+  - Discussion on what worked and areas for improvement.
+
+**Next Steps:**
+- Natalie to compile a post-campaign analysis report by 25-Jun-2023.
+- Lily to assist with data visualization for the report by 24-Jun-2023.

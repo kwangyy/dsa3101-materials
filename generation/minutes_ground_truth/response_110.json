@@ -1,0 +1,159 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Rachel Singh"
+    },
+    {
+     "name": "Yasmine Ali"
+    },
+    {
+     "name": "Michael Turner"
+    },
+    {
+     "name": "Zachary Brooks"
+    },
+    {
+     "name": "John Doe"
+    },
+    {
+     "name": "Jane Smith"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Databricks"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Software Engineer"
+    },
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "Cloud Security Architect"
+    },
+    {
+     "title": "Solutions Engineer"
+    },
+    {
+     "title": "Solutions Architect"
+    },
+    {
+     "title": "Head of Marketing"
+    }
+   ],
+   "locations": [],
+   "products_services": [
+    {
+     "name": "IBM Cloud Functions"
+    },
+    {
+     "name": "IBM Planning Analytics"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Cloud Pak for Integration"
+    },
+    {
+     "name": "Databricks AI Platform"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Singh",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Yasmine Ali",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Turner",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Zachary Brooks",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Doe",
+    "organization": "Databricks"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Smith",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Singh",
+    "role": "Software Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Yasmine Ali",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Turner",
+    "role": "Cloud Security Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Zachary Brooks",
+    "role": "Solutions Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Doe",
+    "role": "Solutions Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Smith",
+    "role": "Head of Marketing"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Rachel Singh",
+    "product_service": "IBM Cloud Functions"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Yasmine Ali",
+    "product_service": "IBM Planning Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Turner",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Zachary Brooks",
+    "product_service": "IBM Cloud Pak for Integration"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Doe",
+    "product_service": "Databricks AI Platform"
+   }
+  ]
+ }
+}

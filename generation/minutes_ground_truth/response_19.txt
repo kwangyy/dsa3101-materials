@@ -1,0 +1,132 @@
+### Meeting Minutes 1 - Simple Complexity
+
+**Date and Time:** 10-Jan-2023, 10:00 AM - 10:30 AM  
+**Attendees:** Michael Turner, Samuel Davis, Derek Hill, Alice Smith  
+**Absentees:** None  
+**Note Taker:** Alice Smith  
+
+**Agenda:**
+- Greeting and project updates
+
+**Discussion Points:**
+- Michael Turner provided an update on the new security protocols for Microsoft Azure.
+- Samuel Davis shared progress on the Hyperledger Fabric for IBM Blockchain Platform.
+- Derek Hill discussed recent testing results for IBM Aspera.
+- Alice Smith presented an overview of ongoing projects in the R&D Department.
+
+**Next Steps:**
+- Michael to finalize security protocols by 20-Jan-2023.
+- Samuel to prepare a detailed report on Hyperledger Fabric by 25-Jan-2023.
+- Derek to re-test IBM Aspera after receiving the new patches by 30-Jan-2023.
+- Alice to schedule the next project update meeting by 05-Feb-2023.
+
+---
+
+### Meeting Minutes 2 - Moderate Complexity
+
+**Date and Time:** 15-Feb-2023, 2:00 PM - 3:00 PM  
+**Attendees:** Michael Turner, Samuel Davis, Derek Hill, Alice Smith  
+**Absentees:** None  
+**Note Taker:** Derek Hill  
+
+**Agenda:**
+- Project updates
+- Strategy discussions for Q2
+
+**Discussion Points:**
+- Michael Turner discussed challenges in implementing new security protocols and suggested potential collaboration with Splunk for monitoring purposes.
+- Samuel Davis highlighted issues faced in integrating Hyperledger Fabric and proposed a joint session with the Innovation Department.
+- Derek Hill provided an update on test cases for IBM Aspera and suggested improvements for automated testing.
+- Alice Smith presented a strategic roadmap for Q2, emphasizing the need for cross-departmental collaboration.
+
+**Next Steps:**
+- Michael to arrange a meeting with Splunk by 20-Feb-2023.
+- Samuel to schedule a joint session with the Innovation Department by 25-Feb-2023.
+- Derek to develop an automated testing improvement plan by 01-Mar-2023.
+- Alice to distribute the Q2 strategic roadmap document by 28-Feb-2023.
+
+---
+
+### Meeting Minutes 3 - Detailed Complexity
+
+**Date and Time:** 01-Apr-2023, 11:00 AM - 12:30 PM  
+**Attendees:** Michael Turner, Samuel Davis, Derek Hill, Alice Smith  
+**Absentees:** None  
+**Additional Attendees:** John Green (Splunk, IT Operations Specialist)  
+**Note Taker:** Michael Turner  
+
+**Agenda:**
+- Greeting and introductions
+- Detailed project updates
+- Problem-solving session
+- External collaboration discussions
+
+**Discussion Points:**
+- Michael Turner introduced John Green from Splunk and discussed the potential for collaboration on IT operations monitoring.
+- Samuel Davis provided a comprehensive update on the Hyperledger Fabric, outlining current successes and persistent challenges.
+- Derek Hill presented detailed test results for IBM Aspera, highlighting areas needing immediate attention.
+- Alice Smith discussed the integration of Microsoft Azure and Symantec Endpoint Security, stressing the importance of securing data workflows.
+- John Green from Splunk shared insights into advanced monitoring solutions and suggested tailored approaches for IBM's needs.
+
+**Next Steps:**
+- Michael to set up a follow-up meeting with Splunk by 10-Apr-2023.
+- Samuel to draft a proposal for enhancing Hyperledger Fabric integration by 15-Apr-2023.
+- Derek to prioritize and address critical testing issues by 20-Apr-2023.
+- Alice to coordinate a cross-departmental workshop on data security by 25-Apr-2023.
+- John Green to send an initial proposal for monitoring solutions by 12-Apr-2023.
+
+---
+
+### Meeting Minutes 4 - Simple Complexity
+
+**Date and Time:** 10-May-2023, 9:00 AM - 9:30 AM  
+**Attendees:** Michael Turner, Samuel Davis, Derek Hill, Alice Smith  
+**Absentees:** None  
+**Note Taker:** Samuel Davis  
+
+**Agenda:**
+- Project updates
+- Planning for upcoming product launch
+
+**Discussion Points:**
+- Michael Turner shared progress on the implementation of security protocols for Microsoft Azure.
+- Samuel Davis discussed the nearing completion of Hyperledger Fabric enhancements.
+- Derek Hill provided an update on final testing phases for IBM Aspera.
+- Alice Smith reviewed the upcoming product launch timeline and key deliverables.
+
+**Next Steps:**
+- Michael to complete protocol implementation by 20-May-2023.
+- Samuel to finalize Hyperledger Fabric enhancements by 25-May-2023.
+- Derek to finish final testing by 30-May-2023.
+- Alice to prepare a product launch plan by 15-May-2023.
+
+---
+
+### Meeting Minutes 5 - Moderate Complexity
+
+**Date and Time:** 20-Jun-2023, 1:00 PM - 2:00 PM  
+**Attendees:** Michael Turner, Samuel Davis, Derek Hill, Alice Smith  
+**Absentees:** None  
+**Note Taker:** Michael Turner  
+
+**Agenda:**
+- Project updates
+- Strategy discussions for Q3
+- External collaboration opportunities
+
+**Discussion Points:**
+- Michael Turner provided an update on security protocol enhancements and discussed potential future integrations.
+- Samuel Davis highlighted recent progress in Blockchain development and the need for additional resources.
+- Derek Hill discussed the success of recent testing phases and suggested potential improvements.
+- Alice Smith outlined Q3 strategy focusing on data security and inter-departmental collaboration.
+- Discussed collaboration opportunities with external entities like Splunk for enhanced data monitoring.
+
+**Next Steps:**
+- Michael to explore future integrations and present findings by 30-Jun-2023.
+- Samuel to identify additional resource needs and submit a request by 05-Jul-2023.
+- Derek to develop a proposal for testing improvements by 10-Jul-2023.
+- Alice to schedule a follow-up strategy meeting by 15-Jul-2023.
+
+---
+
+### JSON Representation

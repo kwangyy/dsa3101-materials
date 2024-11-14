@@ -1,0 +1,155 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Wendy Chen"
+                },
+                {
+                    "name": "David Patel"
+                },
+                {
+                    "name": "Victor Ramos"
+                },
+                {
+                    "name": "Lily Garcia"
+                },
+                {
+                    "name": "Jane Smith"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "DigitalOcean"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "AI Solutions Architect"
+                },
+                {
+                    "title": "RPA Developer"
+                },
+                {
+                    "title": "Marketing Analyst"
+                },
+                {
+                    "title": "Client Relations"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "Unknown"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Robotic Process Automation"
+                },
+                {
+                    "name": "IBM Maximo Asset Management"
+                },
+                {
+                    "name": "IBM Cloud Satellite"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "RPA Bots"
+                },
+                {
+                    "name": "AI Integration"
+                },
+                {
+                    "name": "Cloud Solutions"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Wendy Chen",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "David Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Lily Garcia",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jane Smith",
+                "organization": "DigitalOcean"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Wendy Chen",
+                "role": "AI Solutions Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Victor Ramos",
+                "role": "RPA Developer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Lily Garcia",
+                "role": "Marketing Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jane Smith",
+                "role": "Client Relations"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "DigitalOcean",
+                "location": "Unknown"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Wendy Chen",
+                "product_service": "AI Integration"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "RPA Bots"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Lily Garcia",
+                "product_service": "IBM Cloud Satellite"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Jane Smith",
+                "product_service": "Cloud Solutions"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "David Patel",
+                "product_service": "AWS"
+            }
+        ]
+    }
+}

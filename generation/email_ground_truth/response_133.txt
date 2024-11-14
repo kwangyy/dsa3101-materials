@@ -1,0 +1,94 @@
+### Email Thread
+
+#### Email 1: From Paul Hernandez to Abigail Carter
+
+**Subject:** Collaboration on IBM Cognos Analytics Dashboard Update
+
+**Hi Abigail,**
+
+I hope this email finds you well.
+
+I wanted to discuss the upcoming dashboard update for IBM Cognos Analytics. We have received several requests from our clients for more detailed insights into their IBM Z systems infrastructure. It would be beneficial to integrate some of this data into the Cognos dashboards.
+
+Would you be available for a brief meeting later this week to go over the requirements and see how we can implement these changes efficiently?
+
+Best regards,
+**Paul Hernandez**
+Systems Engineer, IT Support Department
+IBM
+
+---
+
+#### Email 2: From Abigail Carter to Paul Hernandez
+
+**Subject:** Re: Collaboration on IBM Cognos Analytics Dashboard Update
+
+**Hi Paul,**
+
+Thank you for reaching out. Integrating IBM Z systems data into the Cognos dashboards sounds like a fantastic idea. I can certainly make time for a meeting this Friday at 2 PM.
+
+I'll also loop in Ivy Bennett since we might need her expertise on ETL pipelines and data integration from the IBM Db2 Database.
+
+Looking forward to our discussion.
+
+Best,
+**Abigail Carter**
+Business Intelligence Analyst, Data Analytics Department
+IBM
+
+---
+
+#### Email 3: From Ivy Bennett to Paul Hernandez and Abigail Carter
+
+**Subject:** Re: Collaboration on IBM Cognos Analytics Dashboard Update
+
+**Hi Paul and Abigail,**
+
+Thanks for including me in this conversation. Friday at 2 PM works for me as well.
+
+I agree that integrating data from IBM Z systems into the Cognos dashboards can provide more value to our clients. I’ll review the current ETL pipelines and see what adjustments might be needed to support this integration.
+
+Let's touch base on Friday.
+
+Regards,
+**Ivy Bennett**
+Data Engineer, Data Management Department
+IBM
+
+---
+
+#### Email 4: From Tina Foster to Paul Hernandez, Abigail Carter, and Ivy Bennett
+
+**Subject:** Re: Collaboration on IBM Cognos Analytics Dashboard Update
+
+**Hi Team,**
+
+Just a quick note to let you know that I might have some valuable input regarding the client-side implementation, especially since many of our customers use IBM QRadar SIEM in conjunction with IBM Z systems.
+
+I'd love to join the meeting on Friday if that's alright.
+
+Thanks,
+**Tina Foster**
+IT Support Specialist, Technical Services Department
+IBM
+
+---
+
+#### Email 5: From Paul Hernandez to Tina Foster, Abigail Carter, and Ivy Bennett
+
+**Subject:** Re: Collaboration on IBM Cognos Analytics Dashboard Update
+
+**Hi Tina,**
+
+Absolutely, your input would be greatly appreciated. The more perspectives we have, the better we can serve our clients.
+
+See you all on Friday at 2 PM.
+
+Best,
+**Paul Hernandez**
+Systems Engineer, IT Support Department
+IBM
+
+---
+
+### JSON Object

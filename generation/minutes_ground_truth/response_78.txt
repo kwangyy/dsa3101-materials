@@ -1,0 +1,196 @@
+### Meeting Minutes 1 (Simple)
+
+**Date and Time:** 10-Jul-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Kevin O'Reilly (Notes)
+- Derek Hill
+- Xander Williams
+- Emma Lee
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Introduction of new project
+2. Assigning roles and responsibilities
+
+**Discussion Points:**
+- **Introduction of New Project:**
+  - Emma Lee introduced the new project aimed at improving collaboration tools within IBM.
+  - Discussed the need for a more integrated platform across departments.
+
+- **Assigning Roles and Responsibilities:**
+  - Kevin O'Reilly will focus on the AI aspect.
+  - Derek Hill will handle quality assurance.
+  - Xander Williams will develop the mobile app interface.
+  - Emma Lee will manage the overall strategy and coordination.
+
+**Next Steps:**
+- Kevin to start initial model development by 17-Jul-2023.
+- Derek to prepare test plans by 24-Jul-2023.
+- Xander to have a basic UI prototype ready by 31-Jul-2023.
+- Emma to organize the next meeting on 07-Aug-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+
+**Date and Time:** 20-Aug-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Kevin O'Reilly
+- Derek Hill (Notes)
+- Xander Williams
+- Emma Lee
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Review of Project Progress
+2. Collaboration with Illumio
+3. Upcoming Deadlines
+
+**Discussion Points:**
+- **Review of Project Progress:**
+  - Kevin shared updates on AI model development; initial results are promising.
+  - Derek reported successful testing of initial versions.
+
+- **Collaboration with Illumio:**
+  - Emma discussed potential partnership with Illumio for cybersecurity integration.
+  - Xander and Kevin to evaluate technical requirements.
+
+- **Upcoming Deadlines:**
+  - Need to finalize phase one by end of September.
+
+**Next Steps:**
+- Kevin and Xander to meet Illumio's team by 25-Aug-2023.
+- Derek to update test plans by 28-Aug-2023.
+- Emma to draft collaboration proposal by 01-Sep-2023.
+
+---
+
+### Meeting Minutes 3 (Moderate)
+
+**Date and Time:** 15-Sep-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**
+- Kevin O'Reilly
+- Derek Hill
+- Xander Williams (Notes)
+- Emma Lee
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Finalizing Phase One
+2. Integration Challenges
+3. Team Workload Management
+
+**Discussion Points:**
+- **Finalizing Phase One:**
+  - Emma highlighted the nearing end of phase one; tasks need to be wrapped up.
+
+- **Integration Challenges:**
+  - Kevin mentioned challenges with AI model integration.
+  - Xander noted issues with app compatibility.
+
+- **Team Workload Management:**
+  - Derek suggested redistributing some tasks to balance workload.
+  - Emma agreed and assigned some QA tasks to a new QA intern.
+
+**Next Steps:**
+- Kevin to resolve AI model issues by 20-Sep-2023.
+- Xander to fix app compatibility by 25-Sep-2023.
+- Derek to coordinate with the new QA intern by 22-Sep-2023.
+- Emma to schedule a review meeting on 30-Sep-2023.
+
+---
+
+### Meeting Minutes 4 (Detailed)
+
+**Date and Time:** 01-Oct-2023, 9:00 AM - 10:30 AM
+
+**Attendees:**
+- Kevin O'Reilly
+- Derek Hill
+- Xander Williams
+- Emma Lee (Notes)
+- Jane Doe - Illumio - Cybersecurity Specialist
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Review of Recent Progress
+2. Illumio Integration Updates
+3. Product Launch Strategy
+
+**Discussion Points:**
+- **Review of Recent Progress:**
+  - Kevin shared recent AI model improvements.
+  - Derek reported on testing results; 90% success rate.
+
+- **Illumio Integration Updates:**
+  - Jane Doe discussed the integration of Illumio’s cybersecurity solutions.
+  - Xander and Kevin provided technical feedback.
+
+- **Product Launch Strategy:**
+  - Emma outlined the launch strategy for the upgraded collaboration tool.
+  - Discussed marketing approaches and potential challenges.
+
+**Next Steps:**
+- Kevin to finalize AI model by 15-Oct-2023.
+- Derek to complete full QA cycle by 20-Oct-2023.
+- Xander to integrate cybersecurity features by 25-Oct-2023.
+- Jane to provide cybersecurity documentation by 10-Oct-2023.
+- Emma to finalize marketing materials by 30-Oct-2023.
+
+---
+
+### Meeting Minutes 5 (Detailed)
+
+**Date and Time:** 25-Oct-2023, 3:00 PM - 4:30 PM
+
+**Attendees:**
+- Kevin O'Reilly (Notes)
+- Derek Hill
+- Xander Williams
+- Emma Lee
+- Jane Doe - Illumio - Cybersecurity Specialist
+- John Smith - IBM - Sales Director
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Pre-launch Review
+2. Sales Strategy
+3. Post-launch Support Plan
+
+**Discussion Points:**
+- **Pre-launch Review:**
+  - Emma reviewed the final checklist for product launch.
+  - Kevin confirmed AI models are fully integrated.
+
+- **Sales Strategy:**
+  - John Smith discussed sales strategies and potential client targets.
+  - Xander and Derek provided insights on technical presentations.
+
+- **Post-launch Support Plan:**
+  - Jane Doe explained post-launch cybersecurity monitoring.
+  - Emma discussed a dedicated support team for client queries.
+
+**Next Steps:**
+- Kevin to monitor AI model performance post-launch.
+- Derek to oversee continuous QA post-launch.
+- Xander to assist in technical client presentations.
+- Jane to set up post-launch cybersecurity protocols.
+- John to finalize the sales pipeline by 01-Nov-2023.
+- Emma to coordinate a post-launch meeting by 10-Nov-2023.
+
+---
+
+### JSON Data

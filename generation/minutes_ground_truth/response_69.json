@@ -1,0 +1,123 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Rachel Singh"
+    },
+    {
+     "name": "Gina Lopez"
+    },
+    {
+     "name": "Zachary Brooks"
+    },
+    {
+     "name": "Jackie Lin"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "ServiceTitan"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Software Engineer"
+    },
+    {
+     "title": "UX Designer"
+    },
+    {
+     "title": "Solutions Engineer"
+    },
+    {
+     "title": "Cybersecurity Analyst"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Functions"
+    },
+    {
+     "name": "IBM Cloud Pak for Data"
+    },
+    {
+     "name": "IBM Cloud Pak for Integration"
+    },
+    {
+     "name": "IBM Security Guardium"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Singh",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Singh",
+    "role": "Software Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Rachel Singh",
+    "product_service": "IBM Cloud Functions"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Gina Lopez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Gina Lopez",
+    "role": "UX Designer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Gina Lopez",
+    "product_service": "IBM Cloud Pak for Data"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Zachary Brooks",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Zachary Brooks",
+    "role": "Solutions Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Zachary Brooks",
+    "product_service": "IBM Cloud Pak for Integration"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jackie Lin",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jackie Lin",
+    "role": "Cybersecurity Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jackie Lin",
+    "product_service": "IBM Security Guardium"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "ServiceTitan",
+    "organization": "ServiceTitan"
+   }
+  ]
+ }
+}

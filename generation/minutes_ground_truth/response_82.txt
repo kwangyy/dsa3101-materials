@@ -1,0 +1,163 @@
+### Meeting Minutes 1 (Simple)
+
+**Date and Time:** 10-Aug-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Samuel Davis (Notes Taker)
+- Lily Garcia
+- Clara Diaz
+- Kevin O'Reilly
+- David Kim (AI Ethics Team Lead, IBM)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Team Greetings
+- Quick Updates on Current Projects
+
+**Discussion Points:**
+- Samuel Davis provided a brief update on the Hyperledger Fabric developments.
+- Lily Garcia shared insights on current customer trends for IBM Cloud Satellite.
+- Clara Diaz discussed recent research findings on AI ethics.
+- Kevin O'Reilly highlighted progress in machine learning models for IBM Watson Studio.
+
+**Next Steps:**
+- Samuel to finalize the next sprint tasks by 15-Aug-2023.
+- Lily to prepare a customer trends report by 20-Aug-2023.
+- Clara to submit a detailed AI ethics report by 25-Aug-2023.
+- Kevin to integrate new machine learning models by 30-Aug-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+
+**Date and Time:** 15-Sep-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Samuel Davis
+- Lily Garcia (Notes Taker)
+- Clara Diaz
+- Kevin O'Reilly
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Innovation Initiatives
+- Cross-department Collaboration
+
+**Discussion Points:**
+- Samuel Davis suggested exploring Blockchain integration with AI projects.
+- Lily Garcia emphasized the need for marketing strategies that align with technological innovations.
+- Clara Diaz proposed establishing ethical guidelines for new AI applications.
+- Kevin O'Reilly discussed the potential for utilizing machine learning in Blockchain analytics.
+
+**Next Steps:**
+- Samuel and Kevin to collaborate on a pilot project for Blockchain and AI integration by 30-Sep-2023.
+- Lily to develop a marketing strategy for the new initiatives by 05-Oct-2023.
+- Clara to draft ethical guidelines for the project by 10-Oct-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+
+**Date and Time:** 01-Oct-2023, 11:00 AM - 12:30 PM
+
+**Attendees:**
+- Samuel Davis
+- Lily Garcia
+- Clara Diaz (Notes Taker)
+- Kevin O'Reilly
+- Nathan Brown (Elastic, Data Analytics Lead)
+- Emma Stone (IBM Blockchain Manager)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- In-depth Project Updates
+- External Collaboration with Elastic
+- Future Strategic Directions
+
+**Discussion Points:**
+- Samuel Davis gave an update on the Hyperledger Fabric integration with Elastic's search and analytics engine.
+- Lily Garcia provided insights on customer feedback related to IBM Cloud Satellite.
+- Clara Diaz discussed her recent AI ethics research and its implications for ongoing projects.
+- Kevin O'Reilly presented advancements in machine learning models for IBM Watson Studio, suggesting collaboration opportunities with Elastic.
+- Nathan Brown from Elastic expressed interest in collaborating on the Blockchain project, providing real-time analytics capabilities.
+- Emma Stone proposed potential funding avenues for the collaborative projects.
+
+**Next Steps:**
+- Samuel and Nathan to finalize integration plans and begin implementation by 15-Oct-2023.
+- Lily to incorporate customer feedback into the new marketing strategy by 20-Oct-2023.
+- Clara to refine AI ethics research findings and present a comprehensive report by 25-Oct-2023.
+- Kevin and Emma to explore funding options and submit proposals by 31-Oct-2023.
+
+---
+
+### Meeting Minutes 4 (Simple)
+
+**Date and Time:** 05-Nov-2023, 9:00 AM - 9:30 AM
+
+**Attendees:**
+- Samuel Davis
+- Lily Garcia
+- Clara Diaz
+- Kevin O'Reilly (Notes Taker)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Greetings
+- Quick Project Status Check
+
+**Discussion Points:**
+- Samuel Davis mentioned the current status of the Blockchain development.
+- Lily Garcia shared preliminary analysis of new customer trends.
+- Clara Diaz briefly discussed ongoing AI ethics research.
+- Kevin O'Reilly provided a quick update on machine learning model performance.
+
+**Next Steps:**
+- Samuel to review and update project documentation by 10-Nov-2023.
+- Lily to complete customer trends analysis by 15-Nov-2023.
+- Clara to share initial research findings by 20-Nov-2023.
+- Kevin to optimize the machine learning models by 25-Nov-2023.
+
+---
+
+### Meeting Minutes 5 (Moderate)
+
+**Date and Time:** 20-Nov-2023, 3:00 PM - 4:00 PM
+
+**Attendees:**
+- Samuel Davis
+- Lily Garcia
+- Clara Diaz (Notes Taker)
+- Kevin O'Reilly
+- Olivia Martinez (Cloud Solutions Architect, IBM)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Innovation Initiative Review
+- Departmental Synergies
+
+**Discussion Points:**
+- Samuel Davis reviewed the progress of current Blockchain projects.
+- Lily Garcia discussed new marketing strategies based on recent trends.
+- Clara Diaz emphasized the importance of ethical considerations in new projects.
+- Kevin O'Reilly highlighted potential machine learning applications in Blockchain projects.
+- Olivia Martinez proposed cloud solutions that could enhance project efficiencies.
+
+**Next Steps:**
+- Samuel to prepare a detailed project review report by 25-Nov-2023.
+- Lily to refine the marketing strategies and present them by 30-Nov-2023.
+- Clara to finalize ethical guidelines for new projects by 05-Dec-2023.
+- Kevin and Olivia to explore cloud solutions and present their findings by 10-Dec-2023.
+
+---
+
+### JSON Relationships

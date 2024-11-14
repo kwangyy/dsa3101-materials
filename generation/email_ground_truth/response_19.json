@@ -1,0 +1,137 @@
+{
+    "entities": {
+        "persons": [
+            {
+                "name": "Zachary Brooks"
+            },
+            {
+                "name": "Benji Martinez"
+            },
+            {
+                "name": "Natalie Wu"
+            },
+            {
+                "name": "Wendy Chen"
+            },
+            {
+                "name": "Emma Lee"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "IBM"
+            }
+        ],
+        "roles": [
+            {
+                "title": "Solutions Engineer"
+            },
+            {
+                "title": "IT Operations Manager"
+            },
+            {
+                "title": "Product Marketing Manager"
+            },
+            {
+                "title": "AI Solutions Architect"
+            },
+            {
+                "title": "Product Manager"
+            }
+        ],
+        "products_services": [
+            {
+                "name": "IBM Cloud Pak for Integration"
+            },
+            {
+                "name": "IBM Cloud Object Storage"
+            },
+            {
+                "name": "IBM Watson Discovery"
+            },
+            {
+                "name": "IBM Maximo Asset Management"
+            },
+            {
+                "name": "Google Cloud AI Platform"
+            }
+        ]
+    },
+    "relationships": [
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Zachary Brooks",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Zachary Brooks",
+            "role": "Solutions Engineer"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Zachary Brooks",
+            "product_service": "IBM Cloud Pak for Integration"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Benji Martinez",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Benji Martinez",
+            "role": "IT Operations Manager"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Benji Martinez",
+            "product_service": "IBM Cloud Object Storage"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Natalie Wu",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Natalie Wu",
+            "role": "Product Marketing Manager"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Natalie Wu",
+            "product_service": "IBM Watson Discovery"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Wendy Chen",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Wendy Chen",
+            "role": "AI Solutions Architect"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Wendy Chen",
+            "product_service": "IBM Maximo Asset Management"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Emma Lee",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Emma Lee",
+            "role": "Product Manager"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Emma Lee",
+            "product_service": "Google Cloud AI Platform"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time**: 02-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees**:
+- Jackie Lin
+- Gina Lopez
+- Michael Turner
+- David Patel
+
+**Absentees**:
+- None
+
+**Note Taker**:
+- David Patel
+
+**Agenda**:
+- Project updates on IBM Security Guardium and IBM Cloud Pak for Data.
+- User interface design review for IBM Cloud Pak for Data.
+
+**Discussion Points**:
+- Jackie Lin provided an update on the latest threat detection progress for IBM Security Guardium.
+- Gina Lopez presented the current state of the user interface design for IBM Cloud Pak for Data.
+- Michael Turner and David Patel discussed the integration of security protocols for AWS and Azure.
+
+**Next Steps**:
+- Gina Lopez to finalize the UI designs by 10-Jan-2023.
+- Michael Turner to review security protocols with external consultants by 15-Jan-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+**Date and Time**: 15-Feb-2023, 02:00 PM - 03:00 PM
+
+**Attendees**:
+- Jackie Lin
+- Gina Lopez
+- Michael Turner
+
+**Absentees**:
+- David Patel (on vacation)
+
+**Note Taker**:
+- Michael Turner
+
+**Agenda**:
+- Strategy discussion for upcoming product updates.
+- Addressing cybersecurity concerns in IBM Security Guardium.
+- Design enhancements for IBM Cloud Pak for Data.
+
+**Discussion Points**:
+- Jackie Lin highlighted recent threats detected and proposed improvements for threat detection algorithms.
+- Gina Lopez suggested enhancements for the user interface based on user feedback.
+- Michael Turner discussed the integration of new security protocols for IBM Cloud Pak for Data.
+
+**Next Steps**:
+- Jackie Lin to implement the proposed threat detection improvements by 28-Feb-2023.
+- Gina Lopez to prototype UI enhancements by 01-Mar-2023.
+- Michael Turner to test new security protocols and report back by 05-Mar-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+**Date and Time**: 01-Mar-2023, 09:00 AM - 10:30 AM
+
+**Attendees**:
+- Jackie Lin
+- Gina Lopez
+- Michael Turner
+- David Patel
+- Jane Kim (Splunk, Data Analyst)
+
+**Absentees**:
+- None
+
+**Note Taker**:
+- Gina Lopez
+
+**Agenda**:
+- Collaborative efforts with Splunk for data analysis and monitoring.
+- Review of current cloud security architecture.
+- Discussion on cross-departmental support for IBM Cloud Pak for Data.
+
+**Discussion Points**:
+- Jane Kim introduced Splunk's capabilities in machine data analysis and how it can benefit IBM Security Guardium.
+- Jackie Lin and Michael Turner discussed how to integrate Splunk's services with IBM Security Guardium and Azure security protocols.
+- David Patel shared insights on AWS infrastructure support.
+- Gina Lopez reviewed feedback from users and proposed additional features for IBM Cloud Pak for Data.
+
+**Next Steps**:
+- Jackie Lin and Jane Kim to develop a joint data analysis plan by 15-Mar-2023.
+- Michael Turner to draft an integration plan for Splunk services by 20-Mar-2023.
+- David Patel to assist with AWS infrastructure improvements by 25-Mar-2023.
+- Gina Lopez to gather more user feedback and present at next meeting on 30-Mar-2023.
+
+---
+
+### Meeting Minutes 4 (Moderate)
+**Date and Time**: 10-Apr-2023, 11:00 AM - 12:00 PM
+
+**Attendees**:
+- Jackie Lin
+- Gina Lopez
+- Michael Turner
+- David Patel
+
+**Absentees**:
+- None
+
+**Note Taker**:
+- Jackie Lin
+
+**Agenda**:
+- Review of recent project milestones.
+- Discussion on resource allocation.
+- Update on collaboration with external partners.
+
+**Discussion Points**:
+- Gina Lopez shared the completion status of recent design tasks.
+- Michael Turner provided updates on new security protocols tested.
+- David Patel talked about the optimization of AWS infrastructure.
+- Jackie Lin reviewed the success of recent threat detection improvements and discussed collaboration with external partners.
+
+**Next Steps**:
+- Gina Lopez to begin next phase of UI development by 20-Apr-2023.
+- Michael Turner to finalize security protocol documentation by 25-Apr-2023.
+- David Patel to optimize AWS infrastructure further by 30-Apr-2023.
+- Jackie Lin to coordinate with external partners for next steps by 05-May-2023.
+
+---
+
+### Meeting Minutes 5 (Detailed)
+**Date and Time**: 20-May-2023, 02:30 PM - 04:00 PM
+
+**Attendees**:
+- Jackie Lin
+- Gina Lopez
+- Michael Turner
+- David Patel
+- Jane Kim (Splunk, Data Analyst)
+- Alex Grant (Microsoft, Cloud Engineer)
+
+**Absentees**:
+- None
+
+**Note Taker**:
+- David Patel
+
+**Agenda**:
+- Comprehensive review of product development status.
+- Detailed analysis of user feedback.
+- Discuss future collaborations with Splunk and Microsoft.
+
+**Discussion Points**:
+- Jackie Lin and Jane Kim discussed further improvements using Splunk's analytics for IBM Security Guardium.
+- Gina Lopez presented a detailed analysis of user feedback and how it can be incorporated into IBM Cloud Pak for Data.
+- Michael Turner and Alex Grant discussed cross-platform security enhancements for Azure and AWS.
+- David Patel presented the current state of AWS infrastructure and proposed future improvements.
+
+**Next Steps**:
+- Jackie Lin and Jane Kim to finalize data analysis integration by 01-Jun-2023.
+- Gina Lopez to begin implementing user feedback by 05-Jun-2023.
+- Michael Turner to collaborate with Alex Grant on security enhancements by 10-Jun-2023.
+- David Patel to propose a new AWS infrastructure improvement plan by 15-Jun-2023.
+
+---
+
+### JSON Data

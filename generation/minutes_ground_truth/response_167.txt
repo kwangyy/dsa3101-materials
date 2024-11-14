@@ -1,0 +1,170 @@
+### Simple Meeting Minutes
+
+**Date and Time:** 01-Sep-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**  
+- Rachel Singh (Note Taker)  
+- Clara Diaz  
+- Benji Martinez  
+
+**Absentees:**  
+- Oliver James  
+
+**Agenda:**  
+1. Feedback on current backend development  
+2. AI ethics considerations  
+3. Infrastructure updates  
+
+**Discussion Points:**  
+- Rachel Singh presented the current progress on backend development for IBM Cloud Functions.  
+- Clara Diaz discussed the importance of AI ethics in the project and presented new research findings.  
+- Benji Martinez provided updates on infrastructure improvements for IBM Cloud Object Storage.  
+
+**Next Steps:**  
+- Rachel Singh to implement the suggested backend changes by 10-Sep-2023.  
+- Clara Diaz to circulate the AI ethics report by 05-Sep-2023.  
+- Benji Martinez to finalize infrastructure updates by 15-Sep-2023.  
+
+---
+
+### Moderate Meeting Minutes
+
+**Date and Time:** 15-Sep-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**  
+- Rachel Singh  
+- Clara Diaz (Note Taker)  
+- Benji Martinez  
+- Oliver James  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+1. Project updates  
+2. Strategy discussion for next quarter  
+3. Collaboration with C3.ai  
+
+**Discussion Points:**  
+- Rachel Singh provided updates on backend development and discussed potential issues.  
+- Clara Diaz shared insights on AI ethics for the upcoming project phases.  
+- Benji Martinez detailed the latest infrastructure enhancements.  
+- Oliver James discussed recent advancements in NLP for IBM Watson Language Translator.  
+- Discussion on potential collaboration with C3.ai for industrial-scale AI solutions.  
+
+**Next Steps:**  
+- Rachel Singh to prepare a detailed report on backend issues by 20-Sep-2023.  
+- Clara Diaz to integrate AI ethics recommendations into the project plan by 25-Sep-2023.  
+- Benji Martinez to schedule a meeting with the C3.ai team by 30-Sep-2023.  
+- Oliver James to present a detailed NLP research report by 18-Sep-2023.  
+
+---
+
+### Detailed Meeting Minutes
+
+**Date and Time:** 01-Oct-2023, 2:00 PM - 3:30 PM
+
+**Attendees:**  
+- Rachel Singh (Note Taker)  
+- Clara Diaz  
+- Benji Martinez  
+- Oliver James  
+- External: Jane Doe (AI Research Specialist, C3.ai)  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+1. Feedback on previous development phases  
+2. AI ethics and regulatory compliance  
+3. Infrastructure scalability  
+4. NLP advancements  
+5. Collaboration plans with C3.ai  
+
+**Discussion Points:**  
+- Rachel Singh provided detailed feedback on backend development, including bug reports and performance metrics.  
+- Clara Diaz discussed AI ethics and new regulatory compliance requirements, emphasizing their impact on future projects.  
+- Benji Martinez talked about infrastructure scalability and the need for updated hardware.  
+- Oliver James presented new findings in NLP for IBM Watson Language Translator, highlighting potential integration points.  
+- Jane Doe from C3.ai discussed potential areas of collaboration, especially in the energy sector.  
+
+**Next Steps:**  
+- Rachel Singh to address backend development bugs by 10-Oct-2023.  
+- Clara Diaz to complete the regulatory compliance checklist by 15-Oct-2023.  
+- Benji Martinez to draft a proposal for infrastructure upgrades by 20-Oct-2023.  
+- Oliver James to work on integrating new NLP advancements by 25-Oct-2023.  
+- Jane Doe to arrange a follow-up meeting for collaboration details by 05-Oct-2023.  
+
+---
+
+### Moderate Meeting Minutes
+
+**Date and Time:** 15-Oct-2023, 9:00 AM - 10:00 AM
+
+**Attendees:**  
+- Rachel Singh  
+- Clara Diaz  
+- Benji Martinez (Note Taker)  
+- Oliver James  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+1. Development feedback  
+2. Ethical considerations for AI  
+3. Infrastructure requirements  
+4. External collaboration update  
+
+**Discussion Points:**  
+- Rachel Singh discussed feedback on backend development progress.  
+- Clara Diaz emphasized ethical considerations for AI and upcoming policy changes.  
+- Benji Martinez addressed immediate infrastructure requirements.  
+- Oliver James gave an update on the potential collaboration with C3.ai.  
+
+**Next Steps:**  
+- Rachel Singh to compile development feedback into a report by 22-Oct-2023.  
+- Clara Diaz to review and update AI ethics guidelines by 20-Oct-2023.  
+- Benji Martinez to order necessary infrastructure components by 18-Oct-2023.  
+- Oliver James to finalize collaboration details with C3.ai by 30-Oct-2023.  
+
+---
+
+### Detailed Meeting Minutes
+
+**Date and Time:** 01-Nov-2023, 3:00 PM - 4:30 PM
+
+**Attendees:**  
+- Rachel Singh  
+- Clara Diaz  
+- Benji Martinez  
+- Oliver James (Note Taker)  
+- External: John Smith (Project Manager, C3.ai)  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+1. Feedback integration from previous meeting  
+2. AI ethics integration  
+3. Infrastructure upgrades  
+4. NLP project status  
+5. Finalizing collaboration with C3.ai  
+
+**Discussion Points:**  
+- Rachel Singh provided an update on how feedback was integrated into backend development.  
+- Clara Diaz discussed AI ethics integration into the development process, mentioning specific regulatory compliance.  
+- Benji Martinez reviewed the status of ongoing infrastructure upgrades.  
+- Oliver James presented the current status of the NLP project and potential for further research.  
+- John Smith from C3.ai discussed final steps in formalizing the collaboration, focusing on energy sector initiatives.  
+
+**Next Steps:**  
+- Rachel Singh to submit the integrated backend development report by 05-Nov-2023.  
+- Clara Diaz to complete the final AI ethics documentation by 08-Nov-2023.  
+- Benji Martinez to ensure infrastructure upgrades are completed by 12-Nov-2023.  
+- Oliver James to continue research and prepare a presentation for the next meeting by 15-Nov-2023.  
+- John Smith to finalize the collaboration agreement by 10-Nov-2023.  
+
+---
+
+### JSON Data

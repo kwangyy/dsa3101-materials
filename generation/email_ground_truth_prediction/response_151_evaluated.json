@@ -1,0 +1,126 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Jackie Lin"
+                },
+                {
+                    "name": "Michael Turner"
+                },
+                {
+                    "name": "Zachary Brooks"
+                },
+                {
+                    "name": "Benji Martinez"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM Security Guardium"
+                },
+                {
+                    "name": "IBM Cybersecurity"
+                },
+                {
+                    "name": "IBM Customer Success"
+                },
+                {
+                    "name": "IBM Infrastructure"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Cybersecurity Analyst"
+                },
+                {
+                    "title": "Cloud Security Architect"
+                },
+                {
+                    "title": "Solutions Engineer"
+                },
+                {
+                    "title": "IT Operations Manager"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "Azure"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Splunk"
+                },
+                {
+                    "name": "IBM Cloud Pak for Integration"
+                },
+                {
+                    "name": "IBM Cloud Object Storage"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jackie Lin",
+                "organization": "IBM Security Guardium"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Turner",
+                "organization": "IBM Cybersecurity"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Zachary Brooks",
+                "organization": "IBM Customer Success"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Benji Martinez",
+                "organization": "IBM Infrastructure"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jackie Lin",
+                "role": "Cybersecurity Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Turner",
+                "role": "Cloud Security Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Zachary Brooks",
+                "role": "Solutions Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Benji Martinez",
+                "role": "IT Operations Manager"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM Security Guardium",
+                "location": "Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "Splunk"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Zachary Brooks",
+                "product_service": "IBM Cloud Pak for Integration"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Benji Martinez",
+                "product_service": "IBM Cloud Object Storage"
+            }
+        ]
+    }
+}

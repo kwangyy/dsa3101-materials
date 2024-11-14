@@ -1,0 +1,118 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Uma Patel"
+    },
+    {
+     "name": "Samuel Davis"
+    },
+    {
+     "name": "Yasmine Ali"
+    },
+    {
+     "name": "Derek Hill"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Senior Solutions Architect"
+    },
+    {
+     "title": "Blockchain Developer"
+    },
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "QA Engineer"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Private"
+    },
+    {
+     "name": "Hyperledger Fabric"
+    },
+    {
+     "name": "IBM Planning Analytics"
+    },
+    {
+     "name": "IBM Aspera"
+    },
+    {
+     "name": "IBM Blockchain Platform"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Uma Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Uma Patel",
+    "role": "Senior Solutions Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Uma Patel",
+    "product_service": "IBM Cloud Private"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Samuel Davis",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Samuel Davis",
+    "role": "Blockchain Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "Hyperledger Fabric"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Yasmine Ali",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Yasmine Ali",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Yasmine Ali",
+    "product_service": "IBM Planning Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Derek Hill",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Derek Hill",
+    "role": "QA Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Derek Hill",
+    "product_service": "IBM Aspera"
+   }
+  ]
+ }
+}

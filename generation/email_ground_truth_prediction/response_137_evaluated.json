@@ -1,0 +1,133 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Samuel Davis"
+                },
+                {
+                    "name": "Emma Lee"
+                },
+                {
+                    "name": "Uma Patel"
+                },
+                {
+                    "name": "Carol Nguyen"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Blockchain Developer"
+                },
+                {
+                    "title": "Product Manager"
+                },
+                {
+                    "title": "Senior Solutions Architect"
+                },
+                {
+                    "title": "Junior Data Scientist"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Hyperledger Fabric"
+                },
+                {
+                    "name": "IBM Blockchain Platform"
+                },
+                {
+                    "name": "Google Cloud AI Platform"
+                },
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "IBM Cloud Private"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Samuel Davis",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emma Lee",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Uma Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Carol Nguyen",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Samuel Davis",
+                "role": "Blockchain Developer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emma Lee",
+                "role": "Product Manager"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Uma Patel",
+                "role": "Senior Solutions Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Carol Nguyen",
+                "role": "Junior Data Scientist"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "IBM"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Hyperledger Fabric"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "IBM Blockchain Platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Emma Lee",
+                "product_service": "Google Cloud AI Platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Uma Patel",
+                "product_service": "IBM Cloud Private"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Carol Nguyen",
+                "product_service": "Microsoft Azure"
+            }
+        ]
+    }
+}

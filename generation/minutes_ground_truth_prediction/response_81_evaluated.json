@@ -1,0 +1,130 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Ivy Bennett"
+                },
+                {
+                    "name": "Quinn Parker"
+                },
+                {
+                    "name": "Derek Hill"
+                },
+                {
+                    "name": "Lily Garcia"
+                },
+                {
+                    "name": "Sarah Lee"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Splunk"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note-taker"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cognos Analytics"
+                },
+                {
+                    "name": "IBM Db2 Database"
+                },
+                {
+                    "name": "IBM Aspera"
+                },
+                {
+                    "name": "IBM Cloud Satellite"
+                },
+                {
+                    "name": "Machine Data Analysis"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Ivy Bennett",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Quinn Parker",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Derek Hill",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Lily Garcia",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Sarah Lee",
+                "organization": "Splunk"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Ivy Bennett",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Quinn Parker",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Derek Hill",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Lily Garcia",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Quinn Parker",
+                "role": "CEO"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Quinn Parker",
+                "product_service": "IBM Cognos Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Lily Garcia",
+                "product_service": "IBM Cloud Satellite"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Splunk",
+                "location": "New York"
+            }
+        ]
+    }
+}

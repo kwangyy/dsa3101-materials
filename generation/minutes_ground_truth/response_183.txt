@@ -1,0 +1,169 @@
+### Meeting Minutes 1 - Simple
+
+**Date and Time:** 05-Jan-2023, 10:00 AM - 10:30 AM  
+**Attendees:**  
+- Gina Lopez  
+- Uma Patel  
+- Victor Ramos  
+- Benji Martinez (Note Taker)
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+- Discuss meeting scheduling for cross-functional collaboration  
+
+**Discussion Points:**  
+- **Meeting Frequency:** Weekly meetings were proposed to improve coordination among departments.
+- **Preferred Days:** Mondays or Thursdays were suggested as the most convenient days.
+- **Time Slots:** Morning slots (9 AM - 11 AM) were generally agreed to be the best time for everyone.
+
+**Next Steps:**  
+- **Action:** Benji to send a Doodle poll to finalize the day and time.  
+- **Deadline:** 07-Jan-2023  
+
+---
+
+### Meeting Minutes 2 - Moderate
+
+**Date and Time:** 19-Jan-2023, 2:00 PM - 3:00 PM  
+**Attendees:**  
+- Gina Lopez  
+- Uma Patel (Note Taker)  
+- Victor Ramos  
+
+**Absentees:**  
+- Benji Martinez
+
+**Agenda:**  
+- Review last meeting’s action items
+- Discuss project updates
+- Define collaboration points between UX and RPA teams
+
+**Discussion Points:**  
+- **Previous Action Items:** Benji sent out the Doodle poll, and Monday at 10 AM was finalized for weekly meetings.
+- **Project Updates:**  
+  - **Gina:** Currently enhancing the user interface for IBM Cloud Pak for Data.
+  - **Victor:** Developing new bots for RPA to improve data entry processes.
+- **Collaboration Points:**  
+  - **Gina and Victor:** Agreed to set up a weekly sub-meeting to align UX designs with RPA functionalities.
+
+**Next Steps:**  
+- **Action:** Uma to invite Benji to next week's sub-meeting on collaboration points.  
+- **Deadline:** 21-Jan-2023  
+
+---
+
+### Meeting Minutes 3 - Detailed
+
+**Date and Time:** 02-Feb-2023, 9:00 AM - 10:30 AM  
+**Attendees:**  
+- Gina Lopez  
+- Uma Patel  
+- Victor Ramos (Note Taker)  
+- Benji Martinez  
+- Additional Attendee: John Smith, HashiCorp - Infrastructure Automation Specialist  
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+- Discuss project updates
+- Plan integration of HashiCorp’s infrastructure automation with IBM Cloud
+- Define cross-functional goals
+
+**Discussion Points:**  
+- **Project Updates:**  
+  - **Gina:** Completed the initial design for IBM Cloud Pak for Data.
+  - **Victor:** Beta testing for the new bots is underway.
+  - **Benji:** Reviewed the infrastructure requirements for the upcoming product launch.
+- **Integration with HashiCorp:**  
+  - **John Smith:** Explained the benefits of using HashiCorp’s tools for multi-cloud environments.
+  - **Benji:** Discussed potential challenges in integrating existing infrastructure with HashiCorp solutions.
+  - **Uma:** Proposed a phased integration approach to minimize disruptions.
+- **Cross-functional Goals:**  
+  - **Objective:** Improve team efficiency by 20% by the end of Q1.
+  - **Strategies:** Regular updates, shared documentation, and collaborative tools.
+
+**Next Steps:**  
+- **Action:** Uma to draft a phased integration plan with HashiCorp.
+- **Deadline:** 09-Feb-2023  
+- **Action:** Gina to share the initial UI designs with Victor and John for review.
+- **Deadline:** 05-Feb-2023  
+
+---
+
+### Meeting Minutes 4 - Simple
+
+**Date and Time:** 15-Mar-2023, 11:00 AM - 11:30 AM  
+**Attendees:**  
+- Gina Lopez (Note Taker)  
+- Uma Patel  
+- Victor Ramos  
+- Benji Martinez  
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+- Discuss the upcoming quarterly review
+- Finalize schedules for next quarter’s meetings
+
+**Discussion Points:**  
+- **Quarterly Review:**  
+  - Scheduled for 29-Mar-2023.
+  - Each department to prepare a brief update on progress and challenges.
+- **Next Quarter Meetings:**  
+  - Agreed to continue with the same schedule (Mondays at 10 AM).
+
+**Next Steps:**  
+- **Action:** Benji to send a calendar invite for the quarterly review.
+- **Deadline:** 20-Mar-2023  
+- **Action:** All attendees to prepare their departmental updates.
+- **Deadline:** 27-Mar-2023  
+
+---
+
+### Meeting Minutes 5 - Detailed
+
+**Date and Time:** 30-Mar-2023, 1:00 PM - 2:30 PM  
+**Attendees:**  
+- Gina Lopez  
+- Uma Patel  
+- Victor Ramos  
+- Benji Martinez  
+- Additional Attendee: Laura Chen, IBM Marketing - Senior Marketing Manager  
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+- Discuss marketing strategy for new product launch
+- Review integration progress with HashiCorp
+- Define KPIs for Q2
+
+**Discussion Points:**  
+- **Marketing Strategy:**  
+  - **Laura Chen:** Presented the marketing plan for the new product.
+  - **Gina:** Provided insights on UI/UX aspects to highlight in the campaign.
+  - **Victor:** Suggested including demos of new RPA bots in marketing materials.
+- **Integration Progress with HashiCorp:**  
+  - **Uma:** Shared the status of the phased integration plan.
+  - **Benji:** Reported minor issues but overall positive progress.
+  - **John Smith (HashiCorp):** Sent a follow-up email confirming the smooth transition.
+- **KPIs for Q2:**  
+  - **Gina:** Increase user engagement by 15%.
+  - **Victor:** Automate 10 more processes using RPA.
+  - **Uma:** Deploy hybrid cloud solutions to 5 new clients.
+
+**Next Steps:**  
+- **Action:** Laura to finalize the marketing materials and share with the team.
+- **Deadline:** 10-Apr-2023  
+- **Action:** Benji to resolve integration issues and report back.
+- **Deadline:** 05-Apr-2023  
+- **Action:** Uma to document the deployment process for hybrid cloud solutions.
+- **Deadline:** 15-Apr-2023  
+
+---
+
+### JSON Data

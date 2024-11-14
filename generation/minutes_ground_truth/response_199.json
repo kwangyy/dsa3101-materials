@@ -1,0 +1,132 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Benji Martinez"
+    },
+    {
+     "name": "Oliver James"
+    },
+    {
+     "name": "Alice Smith"
+    },
+    {
+     "name": "Michael Turner"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Cognex"
+    }
+   ],
+   "roles": [
+    {
+     "title": "IT Operations Manager"
+    },
+    {
+     "title": "AI Research Scientist"
+    },
+    {
+     "title": "Chief Data Officer"
+    },
+    {
+     "title": "Cloud Security Architect"
+    }
+   ],
+   "locations": [],
+   "products_services": [
+    {
+     "name": "IBM Cloud Object Storage"
+    },
+    {
+     "name": "IBM Watson Language Translator"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "Symantec Endpoint Security"
+    },
+    {
+     "name": "Machine vision systems"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Benji Martinez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Oliver James",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Alice Smith",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Turner",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Benji Martinez",
+    "role": "IT Operations Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Oliver James",
+    "role": "AI Research Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Alice Smith",
+    "role": "Chief Data Officer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Turner",
+    "role": "Cloud Security Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Benji Martinez",
+    "product_service": "IBM Cloud Object Storage"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Oliver James",
+    "product_service": "IBM Watson Language Translator"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Symantec Endpoint Security"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Turner",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "organization": "Cognex",
+    "product_service": "Machine vision systems"
+   }
+  ]
+ }
+}

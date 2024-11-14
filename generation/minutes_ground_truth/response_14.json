@@ -1,0 +1,151 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Yasmine Ali"
+    },
+    {
+     "name": "Victor Ramos"
+    },
+    {
+     "name": "Uma Patel"
+    },
+    {
+     "name": "Clara Diaz"
+    },
+    {
+     "name": "John Smith"
+    },
+    {
+     "name": "Rachel Green"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Zscaler"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "RPA Developer"
+    },
+    {
+     "title": "Senior Solutions Architect"
+    },
+    {
+     "title": "AI Policy Researcher"
+    },
+    {
+     "title": "Cloud Security Specialist"
+    },
+    {
+     "title": "Marketing Specialist"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Planning Analytics"
+    },
+    {
+     "name": "IBM Robotic Process Automation"
+    },
+    {
+     "name": "IBM Cloud Private"
+    },
+    {
+     "name": "IBM AI OpenScale"
+    }
+   ],
+   "locations": []
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Yasmine Ali",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Victor Ramos",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Uma Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Clara Diaz",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "Zscaler"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Green",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Yasmine Ali",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Victor Ramos",
+    "role": "RPA Developer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Uma Patel",
+    "role": "Senior Solutions Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Clara Diaz",
+    "role": "AI Policy Researcher"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "Cloud Security Specialist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Green",
+    "role": "Marketing Specialist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Yasmine Ali",
+    "product_service": "IBM Planning Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Victor Ramos",
+    "product_service": "IBM Robotic Process Automation"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Uma Patel",
+    "product_service": "IBM Cloud Private"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Clara Diaz",
+    "product_service": "IBM AI OpenScale"
+   }
+  ]
+ }
+}

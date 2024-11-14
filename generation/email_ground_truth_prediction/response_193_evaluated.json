@@ -1,0 +1,125 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Henry Zhou"
+                },
+                {
+                    "name": "Uma Patel"
+                },
+                {
+                    "name": "Emma Lee"
+                },
+                {
+                    "name": "David Patel"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "DevOps Engineer"
+                },
+                {
+                    "title": "Senior Solutions Architect"
+                },
+                {
+                    "title": "Product Manager"
+                },
+                {
+                    "title": "Cloud Architect"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "IBM Kubernetes Service"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cloud Private"
+                },
+                {
+                    "name": "Google Cloud AI Platform"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "CI/CD pipelines"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Henry Zhou",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Henry Zhou",
+                "role": "DevOps Engineer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Henry Zhou",
+                "product_service": "CI/CD pipelines"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "IBM Kubernetes Service"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Uma Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Uma Patel",
+                "role": "Senior Solutions Architect"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Uma Patel",
+                "product_service": "IBM Cloud Private"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emma Lee",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emma Lee",
+                "role": "Product Manager"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Emma Lee",
+                "product_service": "Google Cloud AI Platform"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "David Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "David Patel",
+                "role": "Cloud Architect"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "David Patel",
+                "product_service": "AWS"
+            }
+        ]
+    }
+}

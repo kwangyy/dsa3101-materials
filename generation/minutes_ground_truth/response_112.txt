@@ -1,0 +1,164 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:** 05-Jan-2023, 10:00 AM - 10:30 AM  
+**Attendees:**  
+- Alice Smith (Note taker)  
+- Kevin O'Reilly  
+- Abigail Carter  
+- Franklin Moore
+
+**Absentees:** None
+
+**Agenda:**
+- Team Management
+- Project Updates
+
+**Discussion Points:**
+- Alice Smith provided a brief overview of the team's performance and emphasized the need for regular updates.
+- Kevin O'Reilly shared progress on the new machine learning model for IBM Watson Studio.
+- Abigail Carter discussed improvements in reporting and dashboard features for IBM Cognos Analytics.
+- Franklin Moore highlighted the development milestones achieved for IBM Watson Assistant.
+
+**Next Steps:**
+- Kevin to finalize the model by 20-Jan-2023.
+- Abigail to prepare a comprehensive dashboard report by 15-Jan-2023.
+- Franklin to update the API documentation by 25-Jan-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+
+**Date and Time:** 15-Feb-2023, 2:00 PM - 3:00 PM  
+**Attendees:**  
+- Alice Smith  
+- Kevin O'Reilly  
+- Abigail Carter  
+- Franklin Moore (Note taker)
+
+**Absentees:** None
+
+**Agenda:**
+- Team Management
+- Client Interactions with Veeva Systems
+- Cross-department Collaboration
+
+**Discussion Points:**
+- Alice Smith addressed the team on the importance of meeting client expectations.
+- Kevin O'Reilly discussed integrating Veeva Systems' data into IBM Watson Studio models.
+- Abigail Carter mentioned the necessity of creating custom reports for Veeva Systems.
+- Franklin Moore talked about the API requirements from Veeva Systems and potential challenges.
+- Alice suggested collaboration with the Sales team for better client interaction.
+
+**Next Steps:**
+- Kevin to coordinate with the Veeva Systems team by 28-Feb-2023.
+- Abigail to draft custom reports by 20-Feb-2023.
+- Franklin to align API functionalities with Veeva Systems requirements by 25-Feb-2023.
+- Alice to set up a meeting with the Sales team by 18-Feb-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+
+**Date and Time:** 03-Mar-2023, 9:00 AM - 10:30 AM  
+**Attendees:**  
+- Alice Smith  
+- Kevin O'Reilly  
+- Abigail Carter  
+- Franklin Moore  
+- John Doe (Veeva Systems, Senior Account Manager)  
+- Richard Roe (Veeva Systems, Data Integration Specialist)
+
+**Absentees:** None
+
+**Agenda:**
+- Team Management
+- Client Interactions with Veeva Systems
+- Technical Integration and Requirements
+
+**Discussion Points:**
+- Alice Smith emphasized the strategic importance of the Veeva Systems partnership.
+- Kevin O'Reilly detailed the machine learning integration process with Veeva Systems' cloud solutions.
+- John Doe provided insights into Veeva Systems' specific needs and expectations.
+- Abigail Carter highlighted the challenges in customizing dashboards for Veeva Systems.
+- Richard Roe discussed technical specifications and data integration techniques.
+- Franklin Moore outlined the development process and potential roadblocks for API integration.
+- Alice suggested forming a sub-team focused solely on Veeva Systems' integration.
+
+**Next Steps:**
+- Kevin and Richard to collaborate on data integration by 20-Mar-2023.
+- Abigail to finalize dashboard customizations by 15-Mar-2023.
+- Franklin to resolve API issues and prepare a demo by 18-Mar-2023.
+- Alice to review progress and report to the executive team by 25-Mar-2023.
+
+---
+
+### Meeting Minutes 4: Moderate
+
+**Date and Time:** 12-Apr-2023, 11:00 AM - 12:00 PM  
+**Attendees:**  
+- Alice Smith  
+- Kevin O'Reilly  
+- Abigail Carter (Note taker)  
+- Franklin Moore
+
+**Absentees:** None
+
+**Agenda:**
+- Team Management
+- Project Updates
+- Client Feedback
+
+**Discussion Points:**
+- Alice Smith discussed team performance metrics and areas for improvement.
+- Kevin O'Reilly shared updates on the machine learning model deployment.
+- Abigail Carter talked about the latest client feedback on IBM Cognos Analytics dashboards.
+- Franklin Moore mentioned API performance improvements for IBM Watson Assistant.
+- Alice highlighted the importance of client feedback and incorporating it into updates.
+
+**Next Steps:**
+- Kevin to deploy the updated model by 20-Apr-2023.
+- Abigail to address client feedback and update the dashboards by 18-Apr-2023.
+- Franklin to monitor API performance and report by 22-Apr-2023.
+- Alice to follow up on client feedback and schedule a review meeting by 25-Apr-2023.
+
+---
+
+### Meeting Minutes 5: Detailed
+
+**Date and Time:** 20-May-2023, 1:00 PM - 2:30 PM  
+**Attendees:**  
+- Alice Smith  
+- Kevin O'Reilly  
+- Abigail Carter  
+- Franklin Moore  
+- Mary Johnson (IBM, Marketing Director)  
+- Peter White (IBM, Senior Data Scientist)
+
+**Absentees:** None
+
+**Agenda:**
+- Team Management
+- Strategic Planning
+- Client Interaction Strategies
+- Interdepartmental Collaboration
+
+**Discussion Points:**
+- Alice Smith opened the meeting with a strategic overview and future plans.
+- Kevin O'Reilly discussed advancements in AI models and potential for new client acquisition.
+- Abigail Carter presented a detailed analysis of client usage patterns for IBM Cognos Analytics.
+- Franklin Moore proposed improvements in API scalability for IBM Watson Assistant.
+- Mary Johnson shared insights on marketing strategies and how they align with technical deliverables.
+- Peter White talked about data science projects that could leverage AI and BI tools more effectively.
+- Alice suggested regular meetings with the Marketing and Sales teams to ensure alignment.
+
+**Next Steps:**
+- Kevin to present the AI advancements to the Sales team by 01-Jun-2023.
+- Abigail to refine client analysis reports by 25-May-2023.
+- Franklin to draft a proposal for API scalability improvements by 28-May-2023.
+- Mary to coordinate a marketing strategy session by 30-May-2023.
+- Peter to identify data science projects suitable for cross-departmental collaboration by 05-Jun-2023.
+- Alice to schedule regular interdepartmental meetings starting from 10-Jun-2023.
+
+---
+
+### JSON Representation

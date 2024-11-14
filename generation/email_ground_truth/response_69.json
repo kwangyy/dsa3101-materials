@@ -1,0 +1,130 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Victor Ramos"
+                },
+                {
+                    "name": "Carol Nguyen"
+                },
+                {
+                    "name": "Samuel Davis"
+                },
+                {
+                    "name": "Natalie Wu"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Microsoft"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "RPA Developer"
+                },
+                {
+                    "title": "Junior Data Scientist"
+                },
+                {
+                    "title": "Blockchain Developer"
+                },
+                {
+                    "title": "Product Marketing Manager"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Robotic Process Automation"
+                },
+                {
+                    "name": "Hyperledger Fabric"
+                },
+                {
+                    "name": "IBM Blockchain Platform"
+                },
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "IBM Watson Discovery"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Carol Nguyen",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Samuel Davis",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Natalie Wu",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Victor Ramos",
+                "role": "RPA Developer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Carol Nguyen",
+                "role": "Junior Data Scientist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Samuel Davis",
+                "role": "Blockchain Developer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Natalie Wu",
+                "role": "Product Marketing Manager"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "IBM Robotic Process Automation"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Hyperledger Fabric"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "IBM Blockchain Platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Carol Nguyen",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Natalie Wu",
+                "product_service": "IBM Watson Discovery"
+            },
+            {
+                "type": "PARTNERED_WITH",
+                "organization": "Microsoft"
+            }
+        ]
+    }
+}

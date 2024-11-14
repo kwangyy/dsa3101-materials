@@ -1,0 +1,151 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Benji Martinez"
+                },
+                {
+                    "name": "Oliver James"
+                },
+                {
+                    "name": "Michael Turner"
+                },
+                {
+                    "name": "Alice Smith"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Microsoft"
+                },
+                {
+                    "name": "Symantec"
+                },
+                {
+                    "name": "Cognex"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Notes"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "IBM Cloud Object Storage"
+                },
+                {
+                    "name": "IBM Watson Language Translator"
+                },
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "Symantec Endpoint Security"
+                },
+                {
+                    "name": "Cognex machine vision systems"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Benji Martinez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Oliver James",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Turner",
+                "organization": "Microsoft"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Alice Smith",
+                "organization": "Symantec"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Alice Smith",
+                "organization": "Cognex"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Benji Martinez",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Oliver James",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Turner",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Alice Smith",
+                "role": "Notes"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Benji Martinez",
+                "product_service": "IBM Cloud Object Storage"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Oliver James",
+                "product_service": "IBM Watson Language Translator"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Alice Smith",
+                "product_service": "Symantec Endpoint Security"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Microsoft",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Symantec",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Cognex",
+                "location": "New York"
+            }
+        ]
+    }
+}

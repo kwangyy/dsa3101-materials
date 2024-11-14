@@ -1,0 +1,112 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Michael Turner"
+    },
+    {
+     "name": "Carol Nguyen"
+    },
+    {
+     "name": "Natalie Wu"
+    },
+    {
+     "name": "Ivy Bennett"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Cloud Security Architect"
+    },
+    {
+     "title": "Junior Data Scientist"
+    },
+    {
+     "title": "Product Marketing Manager"
+    },
+    {
+     "title": "Data Engineer"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Watson Discovery"
+    },
+    {
+     "name": "IBM Db2 Database"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Turner",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Turner",
+    "role": "Cloud Security Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Turner",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Carol Nguyen",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Carol Nguyen",
+    "role": "Junior Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Carol Nguyen",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Natalie Wu",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Natalie Wu",
+    "role": "Product Marketing Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Natalie Wu",
+    "product_service": "IBM Watson Discovery"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Ivy Bennett",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Ivy Bennett",
+    "role": "Data Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Ivy Bennett",
+    "product_service": "IBM Db2 Database"
+   }
+  ]
+ }
+}

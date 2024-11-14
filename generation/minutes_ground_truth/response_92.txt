@@ -1,0 +1,147 @@
+### Meeting Minutes 1: Simple
+**Date and Time**: 15-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees**:
+- Rachel Singh (Took notes)
+- Kevin O'Reilly
+- Oliver James
+
+**Absentees**:
+- Paul Hernandez
+
+**Agenda**:
+- Project updates
+- Client interactions
+
+**Discussion Points**:
+- Rachel Singh updated on the backend development for IBM Cloud Functions.
+- Kevin O'Reilly discussed recent model updates for IBM Watson Studio.
+- Oliver James briefed on NLP advancements for IBM Watson Language Translator.
+
+**Next Steps**:
+- Rachel to complete backend integration by 22-Jan-2023.
+- Kevin to refine model accuracy by 29-Jan-2023.
+- Oliver to finalize NLP improvements by 31-Jan-2023.
+
+### Meeting Minutes 2: Simple
+**Date and Time**: 18-Feb-2023, 11:00 AM - 11:30 AM
+
+**Attendees**:
+- Paul Hernandez (Took notes)
+- Rachel Singh
+- Oliver James
+
+**Absentees**:
+- Kevin O'Reilly
+
+**Agenda**:
+- Project updates
+- Client interactions
+
+**Discussion Points**:
+- Paul Hernandez updated on system maintenance for IBM Z systems.
+- Rachel Singh shared progress on backend development for IBM Cloud Functions.
+- Oliver James discussed NLP model accuracy improvements.
+
+**Next Steps**:
+- Paul to schedule a system maintenance check by 25-Feb-2023.
+- Rachel to complete backend module by 28-Feb-2023.
+- Oliver to deploy the new NLP model by 02-Mar-2023.
+
+### Meeting Minutes 3: Moderate
+**Date and Time**: 10-Mar-2023, 2:00 PM - 3:00 PM
+
+**Attendees**:
+- Kevin O'Reilly (Took notes)
+- Oliver James
+- Paul Hernandez
+- Rachel Singh
+
+**Absentees**:
+- None
+
+**Agenda**:
+- Project updates
+- Client interactions
+- Integration with Cloudera's platform
+
+**Discussion Points**:
+- Kevin O'Reilly presented recent ML model developments for IBM Watson Studio.
+- Oliver James discussed NLP model enhancements and how they could benefit from Cloudera's platform.
+- Paul Hernandez updated on system infrastructure health for IBM Z systems.
+- Rachel Singh shared the status of backend development.
+
+**Next Steps**:
+- Kevin to perform compatibility testing with Cloudera's platform by 17-Mar-2023.
+- Oliver to collaborate with Cloudera on NLP model improvements, deadline 25-Mar-2023.
+- Paul to conduct a comprehensive system audit by 20-Mar-2023.
+- Rachel to complete the backend testing phase by 22-Mar-2023.
+
+### Meeting Minutes 4: Detailed
+**Date and Time**: 05-Apr-2023, 9:00 AM - 11:00 AM
+
+**Attendees**:
+- Rachel Singh (Took notes)
+- Kevin O'Reilly
+- Oliver James
+- Paul Hernandez
+
+**Additional Attendees**:
+- Jane Roberts, Cloudera, Data Platform Specialist
+
+**Absentees**:
+- None
+
+**Agenda**:
+- Detailed project updates
+- Client feedback and interactions
+- Partnership opportunities with Cloudera
+
+**Discussion Points**:
+- Rachel Singh discussed backend scalability issues and potential solutions.
+- Kevin O'Reilly highlighted the need for better model training data.
+- Oliver James proposed new NLP features and required resources.
+- Paul Hernandez discussed system performance issues and how to resolve them.
+- Jane Roberts introduced Cloudera's platform advantages and how it can be integrated with IBM’s solutions.
+
+**Next Steps**:
+- Rachel to work with Jane Roberts on backend integration, deadline 15-Apr-2023.
+- Kevin to source additional training data by 12-Apr-2023.
+- Oliver to prepare a proposal for new NLP features by 20-Apr-2023.
+- Paul to implement performance monitoring tools by 10-Apr-2023.
+
+### Meeting Minutes 5: Detailed
+**Date and Time**: 20-May-2023, 1:00 PM - 3:00 PM
+
+**Attendees**:
+- Paul Hernandez (Took notes)
+- Kevin O'Reilly
+- Oliver James
+- Rachel Singh
+
+**Additional Attendees**:
+- Michael Brown, External Client, Project Manager
+- Linda White, External Client, Technical Lead
+
+**Absentees**:
+- None
+
+**Agenda**:
+- Comprehensive project updates
+- In-depth client interactions and feedback
+- Technical challenges and proposed solutions
+
+**Discussion Points**:
+- Paul Hernandez discussed ongoing infrastructure updates and their impact on system performance.
+- Kevin O'Reilly shared insights on recent model improvements and future plans.
+- Oliver James presented advancements in NLP and the anticipated client benefits.
+- Rachel Singh highlighted backend development milestones achieved and upcoming challenges.
+- Michael Brown and Linda White provided client feedback, emphasizing the need for better integration and faster deployment.
+
+**Next Steps**:
+- Paul to address infrastructure issues by 25-May-2023.
+- Kevin to initiate model deployment phase by 30-May-2023.
+- Oliver to conduct a client-focused demo of NLP features by 27-May-2023.
+- Rachel to resolve backend bottlenecks by 28-May-2023.
+
+### JSON Data

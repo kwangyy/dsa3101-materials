@@ -1,0 +1,119 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Jackie Lin"
+                },
+                {
+                    "name": "Xander Williams"
+                },
+                {
+                    "name": "Emma Lee"
+                },
+                {
+                    "name": "Paul Hernandez"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Google"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Cybersecurity Analyst"
+                },
+                {
+                    "title": "Mobile App Developer"
+                },
+                {
+                    "title": "Product Manager"
+                },
+                {
+                    "title": "Systems Engineer"
+                }
+            ],
+            "locations": [],
+            "products_services": [
+                {
+                    "name": "IBM Security Guardium"
+                },
+                {
+                    "name": "IBM MobileFirst Platform"
+                },
+                {
+                    "name": "Google Cloud AI Platform"
+                },
+                {
+                    "name": "IBM Z systems"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jackie Lin",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Xander Williams",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emma Lee",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Paul Hernandez",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jackie Lin",
+                "role": "Cybersecurity Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Xander Williams",
+                "role": "Mobile App Developer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emma Lee",
+                "role": "Product Manager"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Paul Hernandez",
+                "role": "Systems Engineer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Jackie Lin",
+                "product_service": "IBM Security Guardium"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Xander Williams",
+                "product_service": "IBM MobileFirst Platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Emma Lee",
+                "product_service": "Google Cloud AI Platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Paul Hernandez",
+                "product_service": "IBM Z systems"
+            }
+        ]
+    }
+}

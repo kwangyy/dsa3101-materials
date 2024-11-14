@@ -1,0 +1,172 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:**  
+15-Mar-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**  
+- Ivy Bennett (Note-taker)  
+- Derek Hill  
+- Jackie Lin  
+- Clara Diaz  
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+1. Review client feedback on recent service integration  
+2. Discuss next steps for improving data security  
+
+**Discussion Points:**  
+- Ivy presented the recent client feedback:
+  - Positive remarks on data accuracy
+  - Concerns over data security
+- Jackie discussed potential security improvements:
+  - Implementation of additional threat detection measures
+- Clara highlighted the ethical implications:
+  - Need to ensure that any security measures comply with AI ethics guidelines  
+
+**Next Steps:**  
+- Jackie to draft a security improvement plan by 20-Mar-2023  
+- Ivy to review the security plan and provide feedback by 23-Mar-2023  
+- Clara to ensure the plan aligns with AI ethics guidelines by 25-Mar-2023  
+
+---
+
+### Meeting Minutes 2: Moderate
+
+**Date and Time:**  
+28-Mar-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**  
+- Ivy Bennett  
+- Derek Hill (Note-taker)  
+- Jackie Lin  
+- Clara Diaz  
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+1. Service integration with Alteryx  
+2. QA testing updates  
+3. AI policy implications  
+
+**Discussion Points:**  
+- Ivy detailed the integration progress with Alteryx:
+  - Initial setup completed, data pipelines established  
+- Derek provided QA updates:
+  - No major issues found in initial tests  
+- Clara raised policy concerns:
+  - Need for transparent AI use in data integrations  
+
+**Next Steps:**  
+- Ivy to finalize integration steps with Alteryx by 05-Apr-2023  
+- Derek to conduct comprehensive QA testing by 10-Apr-2023  
+- Clara to document policy compliance by 12-Apr-2023  
+
+---
+
+### Meeting Minutes 3: Detailed
+
+**Date and Time:**  
+12-Apr-2023, 11:00 AM - 12:30 PM
+
+**Attendees:**  
+- Ivy Bennett  
+- Derek Hill  
+- Jackie Lin (Note-taker)  
+- Clara Diaz  
+- Mark Spencer (Alteryx Representative)
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+1. Deep dive into service integration with Alteryx  
+2. Cybersecurity measures  
+3. AI ethics in integration  
+
+**Discussion Points:**  
+- Ivy gave a comprehensive overview of the integration:
+  - Data pipelines are operational
+  - Challenges faced in real-time data processing
+- Mark Spencer from Alteryx provided additional insights:
+  - Suggested optimization techniques for better performance
+- Jackie discussed advanced security measures:
+  - Real-time threat detection and prevention  
+- Clara emphasized the need for compliance:
+  - Ensuring ethical use of AI in all integration steps  
+
+**Next Steps:**  
+- Ivy to implement Alteryx's optimization techniques by 19-Apr-2023  
+- Jackie to enhance security protocols by 25-Apr-2023  
+- Clara to review the integration for AI ethics compliance by 28-Apr-2023  
+
+---
+
+### Meeting Minutes 4: Simple
+
+**Date and Time:**  
+20-Apr-2023, 9:00 AM - 9:30 AM
+
+**Attendees:**  
+- Ivy Bennett (Note-taker)  
+- Derek Hill  
+- Jackie Lin  
+
+**Absentees:**  
+- Clara Diaz  
+
+**Agenda:**  
+1. Quick update on client feedback post-integration  
+2. QA check-in  
+
+**Discussion Points:**  
+- Ivy shared recent client feedback:
+  - Improvement in data processing speed
+  - No current security concerns
+- Derek confirmed:
+  - All QA tests passed  
+
+**Next Steps:**  
+- Ivy to document client feedback and circulate by 22-Apr-2023  
+- Derek to prepare a final QA report by 23-Apr-2023  
+
+---
+
+### Meeting Minutes 5: Moderate
+
+**Date and Time:**  
+05-May-2023, 1:00 PM - 2:00 PM
+
+**Attendees:**  
+- Ivy Bennett  
+- Derek Hill  
+- Jackie Lin  
+- Clara Diaz (Note-taker)  
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+1. Final review of Alteryx integration  
+2. Discuss any remaining issues  
+3. Plan future client interactions  
+
+**Discussion Points:**  
+- Ivy confirmed the successful integration with Alteryx:
+  - All pipelines functioning efficiently
+- Derek noted minor QA issues:
+  - Few bugs identified, quick fixes needed
+- Jackie and Clara discussed potential areas of improvement:
+  - Continuous monitoring for security
+  - Ensuring ongoing policy compliance  
+
+**Next Steps:**  
+- Derek to resolve identified bugs by 10-May-2023  
+- Jackie to set up continuous monitoring tools by 12-May-2023  
+- Clara to update policy documentation by 15-May-2023  
+
+---
+
+### Relationships Data in JSON Format

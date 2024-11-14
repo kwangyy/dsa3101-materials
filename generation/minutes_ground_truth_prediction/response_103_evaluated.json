@@ -1,0 +1,143 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Benji Martinez"
+                },
+                {
+                    "name": "Derek Hill"
+                },
+                {
+                    "name": "Victor Ramos"
+                },
+                {
+                    "name": "Wendy Chen"
+                },
+                {
+                    "name": "John Smith"
+                },
+                {
+                    "name": "Emily Johnson"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Elastic"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note-taker"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cloud Object Storage"
+                },
+                {
+                    "name": "IBM Aspera"
+                },
+                {
+                    "name": "IBM Maximo"
+                },
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "Real-time analytics"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Benji Martinez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Derek Hill",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Wendy Chen",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "Elastic"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emily Johnson",
+                "organization": "Elastic"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Benji Martinez",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Derek Hill",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Victor Ramos",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Wendy Chen",
+                "role": "Note-taker"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Benji Martinez",
+                "product_service": "IBM Cloud Object Storage"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Derek Hill",
+                "product_service": "IBM Aspera"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "IBM Maximo"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Wendy Chen",
+                "product_service": "IBM Maximo"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Elastic",
+                "location": "New York"
+            }
+        ]
+    }
+}

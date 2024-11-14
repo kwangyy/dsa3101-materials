@@ -1,0 +1,198 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:**  
+01-Feb-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**  
+- Gina Lopez (Note taker)
+- Zachary Brooks
+- Benji Martinez
+- Rachel Singh
+
+**Absentees:**  
+None
+
+**Agenda:**
+- Welcome and Introduction
+- Project Updates
+- Assigning New Tasks
+
+**Discussion Points:**
+- **Welcome and Introduction:**  
+  Gina Lopez opened the meeting with a brief welcome and introduction.
+  
+- **Project Updates:**  
+  - Gina Lopez provided updates on the user interface design for IBM Cloud Pak for Data.
+  - Zachary Brooks discussed the recent implementations of IBM Cloud Pak for Integration.
+  - Rachel Singh reported progress on backend development for IBM Cloud Functions.
+  - Benji Martinez updated the team on the infrastructure stability of IBM Cloud Object Storage.
+
+- **Assigning New Tasks:**  
+  - Discussed assigning new tasks based on the progress report.
+
+**Next Steps:**
+- Gina to complete the next phase of the UI design by 15-Feb-2023.
+- Zachary to finish the current integration implementation by 10-Feb-2023.
+- Rachel to finalize backend development tasks by 20-Feb-2023.
+- Benji to ensure infrastructure updates are completed by 12-Feb-2023.
+
+### Meeting Minutes 2: Moderate
+
+**Date and Time:**  
+15-Feb-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**  
+- Gina Lopez (Note taker)
+- Zachary Brooks
+- Benji Martinez
+- Rachel Singh
+- John Smith (Illumio, Cybersecurity Consultant)
+
+**Absentees:**  
+None
+
+**Agenda:**
+- Security Assessment
+- Project Collaboration with Illumio
+- Infrastructure Improvement
+
+**Discussion Points:**
+- **Security Assessment:**  
+  - John Smith provided insights on zero-trust segmentation and cybersecurity solutions by Illumio.
+  - Discussed potential vulnerabilities in IBM Cloud Pak for Data and IBM Cloud Object Storage.
+
+- **Project Collaboration with Illumio:**  
+  - Agreed to pilot Illumio’s zero-trust segmentation in selected environments.
+  - Gina and Benji to coordinate the pilot phase with John.
+
+- **Infrastructure Improvement:**  
+  - Benji Martinez presented a plan to improve system stability and reduce downtimes.
+  - Rachel Singh and Zachary Brooks offered support in backend development and integration.
+
+**Next Steps:**
+- John Smith to provide a detailed cybersecurity assessment report by 22-Feb-2023.
+- Gina and Benji to start the pilot phase with Illumio by 01-Mar-2023.
+- Benji to implement initial infrastructure improvements by 28-Feb-2023.
+- Rachel and Zachary to assist in backend and integration tasks during the improvement phase.
+
+### Meeting Minutes 3: Detailed
+
+**Date and Time:**  
+01-Mar-2023, 9:00 AM - 11:00 AM
+
+**Attendees:**  
+- Gina Lopez (Note taker)
+- Zachary Brooks
+- Benji Martinez
+- Rachel Singh
+- John Smith (Illumio, Cybersecurity Consultant)
+- Karen Davis (Product Manager, IBM)
+
+**Absentees:**  
+None
+
+**Agenda:**
+- Comprehensive Security Strategy
+- Detailed Project Updates
+- Cross-Departmental Collaboration
+- Upcoming Product Launch
+
+**Discussion Points:**
+- **Comprehensive Security Strategy:**  
+  - John Smith presented a comprehensive cybersecurity strategy for IBM’s products.
+  - Discussed integrating zero-trust segmentation into IBM Cloud Pak for Data and IBM Cloud Pak for Integration.
+  - Agreed to collaborate with Illumio for ongoing cybersecurity training and audits.
+
+- **Detailed Project Updates:**  
+  - Gina Lopez provided an in-depth update on the new UI features for IBM Cloud Pak for Data.
+  - Zachary Brooks detailed recent customer feedback and upcoming integration challenges.
+  - Rachel Singh discussed critical backend developments and resolved issues.
+  - Benji Martinez reviewed the current infrastructure performance and upcoming enhancements.
+
+- **Cross-Departmental Collaboration:**  
+  - Karen Davis emphasized the importance of cross-departmental collaboration for the upcoming product launch.
+  - Discussed how each team can support the launch efforts effectively.
+
+- **Upcoming Product Launch:**  
+  - Detailed planning for the product launch scheduled for 01-May-2023.
+  - Established a task force to oversee the launch preparations.
+
+**Next Steps:**
+- John Smith to deliver ongoing cybersecurity training and quarterly audits.
+- Gina to finalize the UI for IBM Cloud Pak for Data by 15-Mar-2023.
+- Zachary to address integration challenges by 20-Mar-2023.
+- Rachel to complete critical backend developments by 25-Mar-2023.
+- Benji to implement infrastructure enhancements by 30-Mar-2023.
+- Karen to lead the task force for the product launch, first meeting on 05-Mar-2023.
+
+### Meeting Minutes 4: Simple
+
+**Date and Time:**  
+20-Mar-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**  
+- Gina Lopez (Note taker)
+- Zachary Brooks
+- Benji Martinez
+- Rachel Singh
+
+**Absentees:**  
+None
+
+**Agenda:**
+- Quick Project Updates
+- Addressing Immediate Concerns
+
+**Discussion Points:**
+- **Quick Project Updates:**  
+  - Brief updates from each team member on their current tasks and progress.
+
+- **Addressing Immediate Concerns:**  
+  - Discussed immediate concerns regarding the upcoming deadlines.
+  - Gina raised concerns about potential delays in UI design.
+  - Zachary and Rachel offered assistance to expedite the process.
+
+**Next Steps:**
+- Gina to collaborate with Zachary and Rachel to meet the UI design deadline by 25-Mar-2023.
+- Benji to support infrastructure needs as required.
+
+### Meeting Minutes 5: Moderate
+
+**Date and Time:**  
+05-Apr-2023, 3:00 PM - 4:00 PM
+
+**Attendees:**  
+- Gina Lopez (Note taker)
+- Zachary Brooks
+- Benji Martinez
+- Rachel Singh
+- John Smith (Illumio, Cybersecurity Consultant)
+
+**Absentees:**  
+None
+
+**Agenda:**
+- Cybersecurity Pilot Phase Review
+- Project Progress Check
+- Preparing for Product Launch
+
+**Discussion Points:**
+- **Cybersecurity Pilot Phase Review:**  
+  - John Smith reviewed the results of the cybersecurity pilot phase.
+  - Discussed the effectiveness of zero-trust segmentation and areas for improvement.
+
+- **Project Progress Check:**  
+  - Each member provided a status update on their respective projects.
+  - Addressed any blockers and proposed solutions.
+
+- **Preparing for Product Launch:**  
+  - Reviewed the checklist for the product launch on 01-May-2023.
+  - Identified remaining tasks and assigned responsibilities.
+
+**Next Steps:**
+- John Smith to implement suggested improvements by 20-Apr-2023.
+- Gina to finalize UI tweaks by 15-Apr-2023.
+- Zachary and Rachel to ensure integration and backend readiness by 25-Apr-2023.
+- Benji to confirm infrastructure stability by 30-Apr-2023.
+
+### JSON Data

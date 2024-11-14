@@ -1,0 +1,158 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Quinn Parker"
+                },
+                {
+                    "name": "Jackie Lin"
+                },
+                {
+                    "name": "Rachel Singh"
+                },
+                {
+                    "name": "Uma Patel"
+                },
+                {
+                    "name": "Maria Chen"
+                },
+                {
+                    "name": "Jason Kim"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "DigitalOcean"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note Taker"
+                },
+                {
+                    "title": "Cloud Engineer"
+                },
+                {
+                    "title": "Senior Marketing Manager"
+                },
+                {
+                    "title": "CEO"
+                },
+                {
+                    "title": "DigitalOcean Cloud Engineer"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cognos Analytics"
+                },
+                {
+                    "name": "IBM Cloud Functions"
+                },
+                {
+                    "name": "IBM Cloud services"
+                },
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "Hybrid cloud solutions"
+                },
+                {
+                    "name": "Cloud computing services"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Quinn Parker",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jackie Lin",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Rachel Singh",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Uma Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Maria Chen",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jason Kim",
+                "organization": "DigitalOcean"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Uma Patel",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jason Kim",
+                "role": "Cloud Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Maria Chen",
+                "role": "Senior Marketing Manager"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Quinn Parker",
+                "role": "CEO"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Quinn Parker",
+                "product_service": "IBM Cognos Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Jackie Lin",
+                "product_service": "IBM Cloud Functions"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Rachel Singh",
+                "product_service": "IBM Cloud services"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Uma Patel",
+                "product_service": "Hybrid cloud solutions"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Jason Kim",
+                "product_service": "Cloud computing services"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            }
+        ]
+    }
+}

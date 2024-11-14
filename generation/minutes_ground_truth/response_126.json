@@ -1,0 +1,156 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Quinn Parker"
+    },
+    {
+     "name": "Natalie Wu"
+    },
+    {
+     "name": "Kevin O'Reilly"
+    },
+    {
+     "name": "Derek Hill"
+    },
+    {
+     "name": "Sarah Johnson"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Nutanix"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Data Analyst"
+    },
+    {
+     "title": "Product Marketing Manager"
+    },
+    {
+     "title": "Machine Learning Engineer"
+    },
+    {
+     "title": "QA Engineer"
+    },
+    {
+     "title": "Partnership Manager"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM Watson Discovery"
+    },
+    {
+     "name": "IBM Watson Studio"
+    },
+    {
+     "name": "IBM Aspera"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM Watson Discovery"
+    },
+    {
+     "name": "IBM Watson Studio"
+    },
+    {
+     "name": "IBM Aspera"
+    },
+    {
+     "name": "Hybrid and multi-cloud computing infrastructure for enterprise IT environments"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Quinn Parker",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Quinn Parker",
+    "role": "Data Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Quinn Parker",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Natalie Wu",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Natalie Wu",
+    "role": "Product Marketing Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Natalie Wu",
+    "product_service": "IBM Watson Discovery"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Kevin O'Reilly",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Kevin O'Reilly",
+    "role": "Machine Learning Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Kevin O'Reilly",
+    "product_service": "IBM Watson Studio"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Derek Hill",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Derek Hill",
+    "role": "QA Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Derek Hill",
+    "product_service": "IBM Aspera"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah Johnson",
+    "organization": "Nutanix"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah Johnson",
+    "role": "Partnership Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Sarah Johnson",
+    "product_service": "Hybrid and multi-cloud computing infrastructure for enterprise IT environments"
+   }
+  ]
+ }
+}

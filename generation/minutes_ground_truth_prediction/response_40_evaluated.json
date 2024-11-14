@@ -1,0 +1,174 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Xander Williams"
+                },
+                {
+                    "name": "Tina Foster"
+                },
+                {
+                    "name": "Brian Taylor"
+                },
+                {
+                    "name": "Quinn Parker"
+                },
+                {
+                    "name": "John Smith"
+                },
+                {
+                    "name": "Lisa Green"
+                },
+                {
+                    "name": "Amanda Brown"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "ServiceTitan"
+                },
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note taker"
+                },
+                {
+                    "title": "Product Manager"
+                },
+                {
+                    "title": "Consultant"
+                },
+                {
+                    "title": "Project Manager"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "MobileFirst Platform"
+                },
+                {
+                    "name": "QRadar SIEM"
+                },
+                {
+                    "name": "Widget X"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Xander Williams",
+                "organization": "ServiceTitan"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Tina Foster",
+                "organization": "ServiceTitan"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Brian Taylor",
+                "organization": "ServiceTitan"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Quinn Parker",
+                "organization": "ServiceTitan"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "ServiceTitan"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Lisa Green",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Amanda Brown",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Xander Williams",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Tina Foster",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "John Smith",
+                "role": "Product Manager"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Lisa Green",
+                "role": "Consultant"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Amanda Brown",
+                "role": "Project Manager"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "ServiceTitan",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Xander Williams",
+                "product_service": "MobileFirst Platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Tina Foster",
+                "product_service": "QRadar SIEM"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Brian Taylor",
+                "product_service": "QRadar SIEM"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Quinn Parker",
+                "product_service": "MobileFirst Platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "John Smith",
+                "product_service": "MobileFirst Platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Lisa Green",
+                "product_service": "MobileFirst Platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Amanda Brown",
+                "product_service": "MobileFirst Platform"
+            }
+        ]
+    }
+}

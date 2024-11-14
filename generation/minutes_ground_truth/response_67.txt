@@ -1,0 +1,180 @@
+### Meeting Minutes 1 - Simple
+
+**Date and Time**: 10-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees**:
+- Zachary Brooks
+- David Patel
+- Rachel Singh (Note-taker)
+- Alice Smith
+
+**Absentees**:
+- None
+
+**Agenda**:
+- Project updates
+- Cross-functional collaboration
+
+**Discussion Points**:
+- **Project Updates**:
+  - Zachary Brooks provided an update on the implementation of IBM Cloud Pak for Integration.
+  - Rachel Singh reported on backend development progress for IBM Cloud Functions.
+  - David Patel discussed the current state of AWS infrastructure architecture.
+- **Cross-Functional Collaboration**:
+  - Emphasis on the need for frequent communication between departments.
+  - Alice Smith highlighted the necessity for synchronized efforts to meet project deadlines.
+
+**Next Steps**:
+- Zachary Brooks to continue with implementation, update by 20-Jan-2023.
+- Rachel Singh to complete backend development milestone by 15-Jan-2023.
+- David Patel to finalize AWS architecture plan by 18-Jan-2023.
+- Alice Smith to organize a follow-up meeting on 25-Jan-2023.
+
+---
+
+### Meeting Minutes 2 - Moderate
+
+**Date and Time**: 20-Feb-2023, 2:00 PM - 3:00 PM
+
+**Attendees**:
+- Zachary Brooks
+- David Patel
+- Rachel Singh
+- Alice Smith (Note-taker)
+- External Attendee: John Miller, Cognex - Machine Vision Systems Expert
+
+**Absentees**:
+- None
+
+**Agenda**:
+- Project status updates
+- Integrating Cognex solutions for automation
+
+**Discussion Points**:
+- **Project Status Updates**:
+  - Zachary Brooks discussed the progress of integrating IBM Cloud Pak for Integration with current systems.
+  - Rachel Singh provided updates on challenges faced in backend development for IBM Cloud Functions.
+  - David Patel mentioned the newly established AWS infrastructure features.
+- **Integrating Cognex Solutions**:
+  - John Miller presented the benefits of using Cognex machine vision systems in manufacturing automation.
+  - Discussions on potential challenges and how to mitigate them.
+  - Alice Smith emphasized the importance of seamless integration with existing solutions like Microsoft Azure.
+
+**Next Steps**:
+- Zachary Brooks to explore integration strategies with Cognex solutions, update by 28-Feb-2023.
+- Rachel Singh to address backend challenges, report progress by 25-Feb-2023.
+- David Patel to review AWS features for compatibility with Cognex systems by 01-Mar-2023.
+- Alice Smith to coordinate with Cognex for further meetings and updates by 05-Mar-2023.
+
+---
+
+### Meeting Minutes 3 - Detailed
+
+**Date and Time**: 15-Mar-2023, 9:00 AM - 11:00 AM
+
+**Attendees**:
+- Zachary Brooks
+- David Patel
+- Rachel Singh
+- Alice Smith
+- External Attendee: Sarah White, Tech Consultant for Symantec Endpoint Security
+
+**Absentees**:
+- None
+
+**Agenda**:
+- Comprehensive project reviews
+- Security enhancement discussions
+- Cross-departmental coordination
+
+**Discussion Points**:
+- **Comprehensive Project Reviews**:
+  - Detailed presentation by Zachary Brooks on the current status of IBM Cloud Pak for Integration.
+  - Rachel Singh demonstrated new backend functionalities for IBM Cloud Functions.
+  - David Patel detailed the AWS infrastructure updates and upcoming tasks.
+- **Security Enhancements**:
+  - Sarah White introduced new security protocols for Symantec Endpoint Security.
+  - Alice Smith discussed the implications of these protocols on current projects and data safety.
+- **Cross-Departmental Coordination**:
+  - Emphasis on improving communication channels and regular updates.
+  - Identification of overlapping tasks and strategies to streamline efforts.
+
+**Next Steps**:
+- Zachary Brooks to implement new features in the integration process, update by 25-Mar-2023.
+- Rachel Singh to refine backend functionalities, report on 20-Mar-2023.
+- David Patel to ensure AWS infrastructure aligns with new security protocols by 30-Mar-2023.
+- Alice Smith to schedule security training for the team by 05-Apr-2023.
+- Sarah White to provide additional security resources and guidelines by 28-Mar-2023.
+
+---
+
+### Meeting Minutes 4 - Simple
+
+**Date and Time**: 01-Apr-2023, 11:00 AM - 11:30 AM
+
+**Attendees**:
+- Zachary Brooks
+- David Patel
+- Rachel Singh (Note-taker)
+- Alice Smith
+
+**Absentees**:
+- None
+
+**Agenda**:
+- Brief project updates
+- Coordination on upcoming milestones
+
+**Discussion Points**:
+- **Project Updates**:
+  - Zachary Brooks gave a quick update on the progress of IBM Cloud Pak for Integration.
+  - Rachel Singh reported minimal issues in backend development for IBM Cloud Functions.
+  - David Patel discussed minor adjustments needed for the AWS infrastructure.
+- **Coordination on Upcoming Milestones**:
+  - Agreement on closer monitoring of progress.
+  - Alice Smith stressed the importance of sticking to the timeline.
+
+**Next Steps**:
+- Zachary Brooks to finalize the current phase of the integration project, update by 10-Apr-2023.
+- Rachel Singh to complete the backend module by 08-Apr-2023.
+- David Patel to make necessary adjustments to AWS by 12-Apr-2023.
+- Alice Smith to check progress and organize a follow-up meeting on 15-Apr-2023.
+
+---
+
+### Meeting Minutes 5 - Moderate
+
+**Date and Time**: 10-May-2023, 3:00 PM - 4:00 PM
+
+**Attendees**:
+- Zachary Brooks
+- David Patel
+- Rachel Singh (Note-taker)
+- Alice Smith
+- External Attendee: Michael Brown, AWS Solutions Architect
+
+**Absentees**:
+- None
+
+**Agenda**:
+- Project status
+- Collaboration with AWS
+
+**Discussion Points**:
+- **Project Status**:
+  - Zachary Brooks highlighted the completion of recent milestones for IBM Cloud Pak for Integration.
+  - Rachel Singh discussed advancements in backend development and upcoming tasks.
+  - David Patel shared insights on AWS infrastructure's performance.
+- **Collaboration with AWS**:
+  - Michael Brown from AWS discussed potential improvements and support options for better integration.
+  - Emphasis on leveraging AWS resources to enhance project efficiency.
+
+**Next Steps**:
+- Zachary Brooks to align integration strategies with AWS recommendations, update by 20-May-2023.
+- Rachel Singh to continue development and incorporate new AWS features, report on 18-May-2023.
+- David Patel to collaborate with Michael Brown for further AWS support, update by 22-May-2023.
+- Alice Smith to organize a review meeting with AWS team on 25-May-2023.
+
+---
+
+### JSON Relationships Data

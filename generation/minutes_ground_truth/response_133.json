@@ -1,0 +1,142 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "David Patel"
+    },
+    {
+     "name": "Yasmine Ali"
+    },
+    {
+     "name": "Lily Garcia"
+    },
+    {
+     "name": "Benji Martinez"
+    },
+    {
+     "name": "John Doe"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Zscaler"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Cloud Architect"
+    },
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "Marketing Analyst"
+    },
+    {
+     "title": "IT Operations Manager"
+    },
+    {
+     "title": "Zscaler Representative"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Amazon Web Services (AWS)"
+    },
+    {
+     "name": "IBM Planning Analytics"
+    },
+    {
+     "name": "IBM Cloud Satellite"
+    },
+    {
+     "name": "IBM Cloud Object Storage"
+    },
+    {
+     "name": "Zscaler Security Solutions"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "David Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Yasmine Ali",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Lily Garcia",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Benji Martinez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Doe",
+    "organization": "Zscaler"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "David Patel",
+    "role": "Cloud Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Yasmine Ali",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Lily Garcia",
+    "role": "Marketing Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Benji Martinez",
+    "role": "IT Operations Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Doe",
+    "role": "Zscaler Representative"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "David Patel",
+    "product_service": "Amazon Web Services (AWS)"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Yasmine Ali",
+    "product_service": "IBM Planning Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Lily Garcia",
+    "product_service": "IBM Cloud Satellite"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Benji Martinez",
+    "product_service": "IBM Cloud Object Storage"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Doe",
+    "product_service": "Zscaler Security Solutions"
+   }
+  ]
+ }
+}

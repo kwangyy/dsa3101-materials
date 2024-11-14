@@ -1,0 +1,151 @@
+### Meeting Minutes 1: Simple Meeting
+**Date and Time:** 15-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Brian Taylor
+- Ivy Bennett
+- Zachary Brooks (Note taker)
+- Kevin O'Reilly
+
+**Agenda:**
+- Project updates
+- Client interactions
+
+**Discussion Points:**
+- Brian Taylor provided an update on the integration of Microsoft Azure services with the current R&D projects.
+- Ivy Bennett discussed the progress of building ETL pipelines for IBM Db2 Database.
+- Zachary Brooks shared recent client interactions concerning IBM Cloud Pak for Integration.
+- Kevin O'Reilly mentioned ongoing developments of machine learning models for IBM Watson Studio.
+
+**Next Steps:**
+- Brian to finalize Azure integration by 30-Jan-2023.
+- Ivy to complete ETL pipeline setup by 25-Jan-2023.
+- Zachary to follow up with clients and gather feedback by 20-Jan-2023.
+- Kevin to present a detailed report on machine learning models by 01-Feb-2023.
+
+---
+
+### Meeting Minutes 2: Simple Meeting
+**Date and Time:** 22-Jan-2023, 2:00 PM - 2:30 PM
+
+**Attendees:**
+- Brian Taylor
+- Ivy Bennett
+- Kevin O'Reilly
+- Zachary Brooks (Absentee, sick leave)
+
+**Agenda:**
+- Project updates
+- Cross-department collaboration
+
+**Discussion Points:**
+- Brian updated on the latest features in the Azure integration.
+- Ivy discussed potential challenges in ETL pipeline performance.
+- Kevin presented initial results of new machine learning models.
+
+**Next Steps:**
+- Brian to address integration challenges by 29-Jan-2023.
+- Ivy to optimize ETL pipelines by 27-Jan-2023.
+- Kevin to refine the models and re-evaluate by 05-Feb-2023.
+
+---
+
+### Meeting Minutes 3: Moderate Meeting
+**Date and Time:** 01-Feb-2023, 9:00 AM - 10:00 AM
+
+**Attendees:**
+- Brian Taylor
+- Ivy Bennett (Note taker)
+- Zachary Brooks
+- Kevin O'Reilly
+- Mary Scott (External Consultant from Snowflake)
+
+**Agenda:**
+- Project updates
+- Client interactions
+- Data warehousing collaboration with Snowflake
+
+**Discussion Points:**
+- Brian Taylor discussed milestones achieved in Azure integration.
+- Ivy Bennett presented issues encountered in ETL pipeline performance and asked for suggestions.
+- Zachary Brooks shared recent feedback from key clients about IBM Cloud Pak for Integration.
+- Kevin O'Reilly highlighted advancements in machine learning models.
+- Mary Scott introduced Snowflake’s capabilities in managing complex data sets.
+
+**Next Steps:**
+- Brian to troubleshoot Azure-related issues and update by 10-Feb-2023.
+- Ivy to implement Mary’s suggestions and improve ETL pipeline by 08-Feb-2023.
+- Zachary to arrange a client meeting for deeper feedback by 07-Feb-2023.
+- Kevin to collaborate with Snowflake on improving data models and present by 15-Feb-2023.
+
+---
+
+### Meeting Minutes 4: Detailed Meeting
+**Date and Time:** 10-Feb-2023, 3:00 PM - 4:30 PM
+
+**Attendees:**
+- Brian Taylor
+- Ivy Bennett
+- Zachary Brooks
+- Kevin O'Reilly
+- Mary Scott (External Consultant from Snowflake)
+- Jane Doe (Data Analyst from Data Management Department)
+
+**Agenda:**
+- Detailed project updates
+- Client interactions and feedback
+- Data warehousing strategies
+- Cross-departmental support
+
+**Discussion Points:**
+- Brian Taylor explained the final stages of Azure integration, including testing and deployment.
+- Ivy Bennett discussed ongoing optimizations in ETL pipelines and requested additional resources.
+- Zachary Brooks shared comprehensive client feedback and identified recurring issues.
+- Kevin O'Reilly reported new findings in the machine learning models, emphasizing a need for better data preprocessing.
+- Mary Scott provided insights into Snowflake’s data warehousing capabilities and suggested a potential integration roadmap.
+- Jane Doe suggested using advanced analytics to improve pipeline performance and offered assistance.
+
+**Next Steps:**
+- Brian to complete testing and deployment by 20-Feb-2023.
+- Ivy to use additional resources to optimize ETL performance by 15-Feb-2023.
+- Zachary to develop a plan to address client issues by 18-Feb-2023.
+- Kevin and Mary to start integrating Snowflake with current data models by 28-Feb-2023.
+- Jane to develop advanced analytics methods and collaborate with Ivy by 25-Feb-2023.
+
+---
+
+### Meeting Minutes 5: Detailed Meeting
+**Date and Time:** 20-Feb-2023, 10:00 AM - 11:30 AM
+
+**Attendees:**
+- Brian Taylor (Note taker)
+- Ivy Bennett
+- Zachary Brooks
+- Kevin O'Reilly
+- John Smith (External Partner, Snowflake)
+- Emily White (Project Manager, IBM)
+
+**Agenda:**
+- Extensive project updates
+- Detailed client interactions and response strategies
+- Collaborative strategies with external partners
+- Future milestones and deadlines
+
+**Discussion Points:**
+- Brian Taylor discussed the final deployment of Azure integration and its initial outcomes.
+- Ivy Bennett shared ETL pipeline performance metrics and highlighted areas for improvement.
+- Zachary Brooks presented a comprehensive client response strategy based on recent feedback.
+- Kevin O'Reilly elaborated on improved machine learning models and their impact on project outcomes.
+- John Smith introduced Snowflake’s latest tools for data warehousing and analytics.
+- Emily White discussed upcoming project milestones and how to align team efforts to meet deadlines.
+
+**Next Steps:**
+- Brian to monitor Azure integration performance and report by 01-Mar-2023.
+- Ivy to implement further optimizations and share results by 28-Feb-2023.
+- Zachary to execute the client response strategy and gather further feedback by 05-Mar-2023.
+- Kevin to continue refining models and collaborate with John on Snowflake integration by 15-Mar-2023.
+- Emily to coordinate with all teams to ensure milestone alignment and progress.
+
+---
+
+### JSON Data:

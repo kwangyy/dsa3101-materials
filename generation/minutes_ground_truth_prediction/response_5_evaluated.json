@@ -1,0 +1,134 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Henry Zhou"
+                },
+                {
+                    "name": "Tina Foster"
+                },
+                {
+                    "name": "Emma Lee"
+                },
+                {
+                    "name": "Samuel Davis"
+                },
+                {
+                    "name": "John Smith"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Notes"
+                }
+            ],
+            "locations": [],
+            "products_services": [
+                {
+                    "name": "IBM Kubernetes Service"
+                },
+                {
+                    "name": "IBM QRadar SIEM"
+                },
+                {
+                    "name": "Google Cloud AI Platform"
+                },
+                {
+                    "name": "Hyperledger Fabric"
+                },
+                {
+                    "name": "Cloudera"
+                },
+                {
+                    "name": "CI/CD pipeline automation"
+                },
+                {
+                    "name": "Widget X"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Henry Zhou",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Tina Foster",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emma Lee",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Samuel Davis",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "Cloudera"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Henry Zhou",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Tina Foster",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emma Lee",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Samuel Davis",
+                "role": "Notes"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Henry Zhou",
+                "product_service": "IBM Kubernetes Service"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Tina Foster",
+                "product_service": "IBM QRadar SIEM"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Emma Lee",
+                "product_service": "Google Cloud AI Platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Hyperledger Fabric"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": ""
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Cloudera",
+                "location": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,150 @@
+### Meeting 1: Simple Complexity
+
+**Date and Time:** 10-Mar-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Brian Taylor
+- Henry Zhou
+- Yasmine Ali (Note taker)
+- Victor Ramos
+
+**Agenda:**
+1. Introductions
+2. Meeting scheduling
+3. Inter-department collaboration proposals
+
+**Discussion Points:**
+- **Introductions:** Brief introductions of each attendee and their roles.
+- **Meeting Scheduling:** Discussed suitable times for weekly inter-department meetings.
+- **Collaboration Proposals:** Initial brainstorming of potential collaboration between Data Science and DevOps.
+
+**Next Steps:**
+- **Brian Taylor:** Set up a shared calendar for weekly meetings by 15-Mar-2023.
+- **Henry Zhou and Yasmine Ali:** Develop initial collaboration ideas and present them in the next meeting.
+
+---
+
+### Meeting 2: Moderate Complexity
+
+**Date and Time:** 17-Mar-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Brian Taylor
+- Henry Zhou
+- Yasmine Ali
+- Victor Ramos (Note taker)
+
+**Agenda:**
+1. Review of previous meeting
+2. Detailed discussion on collaboration proposals
+3. Next steps and responsibilities
+
+**Discussion Points:**
+- **Review of Previous Meeting:** Recap of initial ideas.
+- **Detailed Collaboration Proposals:**
+  - **Brian Taylor:** Suggested joint projects involving predictive modeling and automated data pipelines.
+  - **Henry Zhou:** Proposed creating a CI/CD pipeline for new predictive models.
+  - **Yasmine Ali:** Highlighted the potential benefits for Planning Analytics.
+  - **Victor Ramos:** Discussed incorporating RPA for repetitive tasks.
+- **Challenges:** Identified the need for additional data security measures.
+
+**Next Steps:**
+- **Brian Taylor:** Draft a detailed project plan by 24-Mar-2023.
+- **Henry Zhou:** Begin developing the CI/CD pipeline blueprint by 31-Mar-2023.
+- **Yasmine Ali and Victor Ramos:** Collaborate on integrating RPA into the project, to be reviewed in the next meeting.
+
+---
+
+### Meeting 3: Simple Complexity
+
+**Date and Time:** 24-Mar-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**
+- Brian Taylor
+- Henry Zhou (Note taker)
+- Yasmine Ali
+- Victor Ramos
+
+**Agenda:**
+1. Review of collaboration project plan
+2. Assigning initial tasks
+
+**Discussion Points:**
+- **Review Project Plan:** Discussed the draft project plan provided by Brian.
+- **Assigning Tasks:** Initial tasks were divided among team members.
+- **Brian Taylor:** Finalize data sets to be used.
+- **Henry Zhou:** Set up initial CI/CD pipeline framework.
+
+**Next Steps:**
+- **Brian Taylor:** Finalize data sets by 27-Mar-2023.
+- **Henry Zhou:** Complete CI/CD pipeline framework by 31-Mar-2023.
+- **Yasmine Ali and Victor Ramos:** Prepare initial models and RPA tasks for review.
+
+---
+
+### Meeting 4: Detailed Complexity
+
+**Date and Time:** 07-Apr-2023, 2:00 PM - 4:00 PM
+
+**Attendees:**
+- Brian Taylor
+- Henry Zhou
+- Yasmine Ali
+- Victor Ramos
+- External Attendee: Michael Smith, Snowflake (Data Warehousing Specialist) (Note taker)
+
+**Agenda:**
+1. Status updates on tasks
+2. Collaboration with Snowflake
+3. Detailed project roadmap
+4. Identifying and mitigating risks
+
+**Discussion Points:**
+- **Status Updates:** Reviewed progress on assigned tasks.
+  - **Brian Taylor:** Data sets finalized.
+  - **Henry Zhou:** CI/CD pipeline framework set up.
+  - **Yasmine Ali:** Initial predictive models built.
+  - **Victor Ramos:** Initial RPA tasks developed.
+- **Collaboration with Snowflake:** Michael Smith outlined how Snowflake can assist with data warehousing needs.
+- **Project Roadmap:** Detailed timeline and milestones discussed.
+- **Risk Mitigation:** Identified data security and compliance as primary concerns.
+
+**Next Steps:**
+- **Brian Taylor and Michael Smith:** Collaborate on data warehousing integration by 14-Apr-2023.
+- **Henry Zhou:** Develop advanced CI/CD features by 21-Apr-2023.
+- **Yasmine Ali and Victor Ramos:** Refine models and RPA tasks, to be reviewed in the next meeting.
+
+---
+
+### Meeting 5: Moderate Complexity
+
+**Date and Time:** 21-Apr-2023, 1:00 PM - 2:00 PM
+
+**Attendees:**
+- Brian Taylor (Note taker)
+- Henry Zhou
+- Yasmine Ali
+- Victor Ramos
+
+**Agenda:**
+1. Review of collaboration progress
+2. Feedback and adjustments
+3. Next steps
+
+**Discussion Points:**
+- **Collaboration Progress:** Discussed the current status of the project.
+  - **Brian Taylor and Michael Smith:** Successful data warehousing integration.
+  - **Henry Zhou:** Advanced CI/CD features in place.
+  - **Yasmine Ali:** Predictive models showing promising results.
+  - **Victor Ramos:** Efficient RPA tasks developed.
+- **Feedback:** Positive feedback on integration and suggestions for minor adjustments.
+- **Adjustments:** Minor tweaks to the CI/CD pipeline and model parameters.
+
+**Next Steps:**
+- **Brian Taylor:** Implement feedback adjustments by 28-Apr-2023.
+- **Henry Zhou:** Finalize CI/CD pipeline by 05-May-2023.
+- **Yasmine Ali and Victor Ramos:** Prepare final report on model and RPA outcomes by 12-May-2023.
+
+---
+
+### JSON Data

@@ -1,0 +1,192 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Uma Patel"
+    },
+    {
+     "name": "Derek Hill"
+    },
+    {
+     "name": "Michael Turner"
+    },
+    {
+     "name": "Quinn Parker"
+    },
+    {
+     "name": "Sarah Johnson"
+    },
+    {
+     "name": "John Doe"
+    },
+    {
+     "name": "Jane Smith"
+    },
+    {
+     "name": "Bob Lee"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Illumio"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Senior Solutions Architect"
+    },
+    {
+     "title": "QA Engineer"
+    },
+    {
+     "title": "Cloud Security Architect"
+    },
+    {
+     "title": "Data Analyst"
+    },
+    {
+     "title": "Cybersecurity Specialist"
+    },
+    {
+     "title": "Senior Product Manager"
+    },
+    {
+     "title": "Senior Data Scientist"
+    },
+    {
+     "title": "Infrastructure Engineer"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Cloud Private"
+    },
+    {
+     "name": "IBM Aspera"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Zero-trust segmentation"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Uma Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Derek Hill",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Turner",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Quinn Parker",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah Johnson",
+    "organization": "Illumio"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Doe",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Smith",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Bob Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Uma Patel",
+    "role": "Senior Solutions Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Derek Hill",
+    "role": "QA Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Turner",
+    "role": "Cloud Security Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Quinn Parker",
+    "role": "Data Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah Johnson",
+    "role": "Cybersecurity Specialist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Doe",
+    "role": "Senior Product Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Smith",
+    "role": "Senior Data Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Bob Lee",
+    "role": "Infrastructure Engineer"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Cloud Private"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Aspera"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Microsoft Azure"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Cognos Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Sarah Johnson",
+    "product_service": "Zero-trust segmentation"
+   }
+  ]
+ }
+}

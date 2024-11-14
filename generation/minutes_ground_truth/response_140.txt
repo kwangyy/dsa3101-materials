@@ -1,0 +1,186 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:**
+- 15-Aug-2023
+- Start: 10:00 AM
+- End: 10:30 AM
+
+**Attendees:**
+- Natalie Wu (Notes)
+- Emma Lee
+- Lily Garcia
+
+**Absentees:**
+- Wendy Chen
+
+**Agenda:**
+- Project updates
+- Follow-ups on previous action items
+
+**Discussion Points:**
+- **Project Updates:**
+  - Natalie updated the team on the progress of promoting IBM Watson Discovery to enterprise clients.
+  - Emma discussed new features being developed for Google Cloud AI Platform.
+  - Lily shared insights on customer trends for IBM Cloud Satellite.
+- **Follow-ups:**
+  - Natalie confirmed that she would reach out to three more enterprise clients by the end of the week.
+  - Emma mentioned that the integration with Google Cloud AI Platform is on track and will be completed by next month.
+  - Lily will continue analyzing customer trends and provide a more detailed report in the next meeting.
+
+**Next Steps:**
+- Natalie to contact three more enterprise clients by 18-Aug-2023.
+- Emma to update the team on the integration progress by 15-Sep-2023.
+- Lily to deliver a detailed report on customer trends by 30-Aug-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+
+**Date and Time:**
+- 22-Aug-2023
+- Start: 2:00 PM
+- End: 3:00 PM
+
+**Attendees:**
+- Natalie Wu
+- Emma Lee (Notes)
+- Wendy Chen
+
+**Absentees:**
+- Lily Garcia
+
+**Agenda:**
+- Project development updates
+- Coordination with external entities
+
+**Discussion Points:**
+- **Project Development Updates:**
+  - Natalie shared marketing strategies for IBM Watson Discovery.
+  - Emma provided an update on the development of new features for Google Cloud AI Platform.
+  - Wendy discussed current design challenges for AI solutions in IBM Maximo Asset Management.
+- **Coordination with External Entities:**
+  - Emma proposed a collaboration with Splunk for better monitoring and data analysis for Google Cloud AI Platform.
+  - Wendy suggested that their team could leverage Splunk's expertise to enhance AI solutions for IBM Maximo Asset Management.
+
+**Next Steps:**
+- Natalie to finalize the marketing strategy by 31-Aug-2023.
+- Emma to set up a meeting with Splunk by 25-Aug-2023.
+- Wendy to coordinate with Splunk on AI solutions by 10-Sep-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+
+**Date and Time:**
+- 29-Aug-2023
+- Start: 9:00 AM
+- End: 10:30 AM
+
+**Attendees:**
+- Natalie Wu
+- Emma Lee
+- Lily Garcia (Notes)
+- Wendy Chen
+
+**Absentees:**
+- None
+
+**Agenda:**
+- In-depth project updates
+- Strategy discussions
+- Problem-solving sessions
+
+**Discussion Points:**
+- **In-depth Project Updates:**
+  - Natalie detailed the current outreach efforts and new strategies for promoting IBM Watson Discovery.
+  - Emma discussed the timeline and milestones for new feature development in Google Cloud AI Platform.
+  - Lily presented a comprehensive analysis of customer trends for IBM Cloud Satellite.
+  - Wendy highlighted challenges and progress in designing AI solutions for IBM Maximo Asset Management.
+- **Strategy Discussions:**
+  - Natalie and Emma discussed ways to collaborate on cross-promotional strategies for IBM Watson Discovery and Google Cloud AI Platform.
+  - Lily suggested leveraging customer trend data to inform marketing strategies.
+- **Problem-solving Sessions:**
+  - Wendy raised the issue of limited data integration capabilities in IBM Maximo Asset Management.
+  - Emma proposed working with the IT department to enhance data integration functionalities.
+  - Natalie suggested involving external consultants for specialized expertise.
+
+**Next Steps:**
+- Natalie to implement new outreach strategies by 15-Sep-2023.
+- Emma to finalize the development timeline by 10-Sep-2023.
+- Lily to provide ongoing trend analysis and quarterly reports.
+- Wendy to initiate coordination with IT department and external consultants by 05-Sep-2023.
+
+---
+
+### Meeting Minutes 4: Moderate
+
+**Date and Time:**
+- 05-Sep-2023
+- Start: 11:00 AM
+- End: 12:00 PM
+
+**Attendees:**
+- Natalie Wu
+- Emma Lee
+- Wendy Chen (Notes)
+
+**Absentees:**
+- Lily Garcia
+
+**Agenda:**
+- Project updates
+- External collaboration
+
+**Discussion Points:**
+- **Project Updates:**
+  - Natalie reported on the recent promotional campaigns for IBM Watson Discovery.
+  - Emma updated the team on the new feature set for Google Cloud AI Platform.
+  - Wendy provided insights into ongoing design improvements for IBM Maximo Asset Management.
+- **External Collaboration:**
+  - Emma confirmed the meeting with Splunk is scheduled for 10-Sep-2023.
+  - Wendy highlighted potential areas where Splunk's expertise could be beneficial.
+
+**Next Steps:**
+- Natalie to continue promotional campaigns and report progress by 20-Sep-2023.
+- Emma to provide a post-meeting update with Splunk by 15-Sep-2023.
+- Wendy to document potential enhancements with Splunk and draft a proposal by 25-Sep-2023.
+
+---
+
+### Meeting Minutes 5: Simple
+
+**Date and Time:**
+- 12-Sep-2023
+- Start: 1:00 PM
+- End: 1:30 PM
+
+**Attendees:**
+- Natalie Wu
+- Lily Garcia (Notes)
+- Wendy Chen
+
+**Absentees:**
+- Emma Lee
+
+**Agenda:**
+- Follow-up on action items
+- Brief project updates
+
+**Discussion Points:**
+- **Follow-up on Action Items:**
+  - Natalie confirmed contacting enterprise clients as planned.
+  - Lily provided a preliminary report on customer trends for IBM Cloud Satellite.
+  - Wendy shared updates on the collaboration with IT department.
+- **Brief Project Updates:**
+  - Natalie highlighted upcoming campaigns.
+  - Lily discussed next steps for her analysis.
+  - Wendy mentioned the initial outcomes of IT integration discussions.
+
+**Next Steps:**
+- Natalie to launch new campaigns by 30-Sep-2023.
+- Lily to complete detailed report by 25-Sep-2023.
+- Wendy to finalize integration plans with IT department by 20-Sep-2023.
+
+---
+
+### JSON Representation

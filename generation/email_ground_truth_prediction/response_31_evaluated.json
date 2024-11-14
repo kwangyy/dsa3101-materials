@@ -1,0 +1,117 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Clara Diaz"
+                },
+                {
+                    "name": "Henry Zhou"
+                },
+                {
+                    "name": "Benji Martinez"
+                },
+                {
+                    "name": "Derek Hill"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "AI Policy Researcher"
+                },
+                {
+                    "title": "DevOps Engineer"
+                },
+                {
+                    "title": "IT Operations Manager"
+                },
+                {
+                    "title": "QA Engineer"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "main conference room"
+                },
+                {
+                    "name": "5th floor"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Kubernetes Service"
+                },
+                {
+                    "name": "IBM Cloud Object Storage"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Clara Diaz",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Henry Zhou",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Benji Martinez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Derek Hill",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Clara Diaz",
+                "role": "AI Policy Researcher"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Henry Zhou",
+                "role": "DevOps Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Benji Martinez",
+                "role": "IT Operations Manager"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Derek Hill",
+                "role": "QA Engineer"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "main conference room"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "5th floor"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Henry Zhou",
+                "product_service": "IBM Kubernetes Service"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Benji Martinez",
+                "product_service": "IBM Cloud Object Storage"
+            }
+        ]
+    }
+}

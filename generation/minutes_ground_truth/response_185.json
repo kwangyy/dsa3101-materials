@@ -1,0 +1,156 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Paul Hernandez"
+    },
+    {
+     "name": "Samuel Davis"
+    },
+    {
+     "name": "Yasmine Ali"
+    },
+    {
+     "name": "Rachel Singh"
+    },
+    {
+     "name": "John Smith"
+    },
+    {
+     "name": "Emma Johnson"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "ServiceTitan"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Systems Engineer"
+    },
+    {
+     "title": "Blockchain Developer"
+    },
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "Software Engineer"
+    },
+    {
+     "title": "External Consultant"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Z systems infrastructure"
+    },
+    {
+     "name": "Hyperledger Fabric for IBM Blockchain Platform"
+    },
+    {
+     "name": "Predictive models for IBM Planning Analytics"
+    },
+    {
+     "name": "Backend development for IBM Cloud Functions"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Z systems infrastructure"
+    },
+    {
+     "name": "Hyperledger Fabric"
+    },
+    {
+     "name": "IBM Planning Analytics"
+    },
+    {
+     "name": "IBM Cloud Functions"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Paul Hernandez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Samuel Davis",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Yasmine Ali",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Singh",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "ServiceTitan"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Johnson",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Paul Hernandez",
+    "role": "Systems Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Samuel Davis",
+    "role": "Blockchain Developer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Yasmine Ali",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Singh",
+    "role": "Software Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Johnson",
+    "role": "External Consultant"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Paul Hernandez",
+    "product_service": "IBM Z systems infrastructure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "Hyperledger Fabric"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Yasmine Ali",
+    "product_service": "IBM Planning Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Rachel Singh",
+    "product_service": "IBM Cloud Functions"
+   }
+  ]
+ }
+}

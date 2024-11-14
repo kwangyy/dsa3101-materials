@@ -1,0 +1,140 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Michael Turner"
+                },
+                {
+                    "name": "Ivy Bennett"
+                },
+                {
+                    "name": "Abigail Carter"
+                },
+                {
+                    "name": "Henry Zhou"
+                },
+                {
+                    "name": "John Smith"
+                },
+                {
+                    "name": "Jane Doe"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Splunk"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note taker"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Cognos Analytics"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "Splunk"
+                },
+                {
+                    "name": "Widget X"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Turner",
+                "organization": "Splunk"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Ivy Bennett",
+                "organization": "Splunk"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Abigail Carter",
+                "organization": "Splunk"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Henry Zhou",
+                "organization": "Splunk"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "Splunk"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jane Doe",
+                "organization": "Splunk"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Turner",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Ivy Bennett",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Abigail Carter",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Henry Zhou",
+                "role": "Note taker"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "Cognos Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Abigail Carter",
+                "product_service": "Kubernetes"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Henry Zhou",
+                "product_service": "Splunk"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Splunk",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Acme Corp",
+                "location": "New York"
+            }
+        ]
+    }
+}

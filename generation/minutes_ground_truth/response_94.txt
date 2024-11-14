@@ -1,0 +1,184 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time:**  
+22-Mar-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**  
+- Derek Hill
+- Emma Lee
+- Zachary Brooks
+- Uma Patel (Notes)
+- Absentees: None
+
+**Agenda:**
+1. Project updates
+2. Collaboration proposals
+
+**Discussion Points:**
+- **Project Updates:**
+  - Derek: Testing new features for IBM Aspera; found a few critical bugs.
+  - Emma: New strategy for Google Cloud AI Platform; customer feedback integrated.
+  - Zachary: Implementing a new integration for IBM Cloud Pak for Integration.
+  - Uma: Designing architecture for IBM Cloud Private.
+
+- **Collaboration Proposals:**
+  - Derek suggested increased communication between QA and Solutions Engineering to catch issues earlier.
+  - Emma proposed a joint session with Google Cloud team to discuss potential integrations.
+
+**Next Steps:**
+- Derek to share bug report by 24-Mar-2023.
+- Emma to schedule a meeting with the Google Cloud team by 29-Mar-2023.
+- Zachary to provide a demo of the new integration on 31-Mar-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+**Date and Time:**  
+05-Apr-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**  
+- Derek Hill
+- Emma Lee
+- Zachary Brooks
+- Uma Patel
+- Guest: Lisa Green (Nutanix, Senior Cloud Architect)
+- Absentees: None
+
+**Agenda:**
+1. Project updates
+2. Collaboration with Nutanix
+3. Strategy discussions
+
+**Discussion Points:**
+- **Project Updates:**
+  - Derek: Identified additional bugs that need addressing.
+  - Emma: Positive feedback on the new Google Cloud AI strategy.
+  - Zachary: Successful implementation of recent integrations.
+  - Uma: Continuing work on hybrid cloud solutions.
+
+- **Collaboration with Nutanix:**
+  - Lisa Green introduced Nutanix’s new multi-cloud solutions.
+  - Uma and Lisa discussed potential integrations with IBM Cloud Private.
+
+- **Strategy Discussions:**
+  - Emma suggested exploring more AI-driven solutions.
+  - Derek proposed automated QA testing tools.
+
+**Next Steps:**
+- Derek to implement automated testing tools by 10-Apr-2023.
+- Lisa and Uma to draft a proposal for Nutanix-IBM Cloud integration by 15-Apr-2023.
+- Emma to prepare a report on AI-driven solutions by 20-Apr-2023.
+
+---
+
+### Meeting Minutes 3 (Simple)
+**Date and Time:**  
+15-Apr-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**  
+- Derek Hill
+- Emma Lee (Notes)
+- Zachary Brooks
+- Uma Patel
+- Absentees: None
+
+**Agenda:**
+1. Quick project updates
+2. Immediate next steps
+
+**Discussion Points:**
+- **Project Updates:**
+  - Derek: Implemented automated testing; initial results promising.
+  - Emma: Researching AI-driven product strategies.
+  - Zachary: Preparing demo of new integration.
+  - Uma: Reviewing Nutanix integration proposal.
+
+**Next Steps:**
+- Derek to finalize automated testing process by 20-Apr-2023.
+- Zachary to present demo on 21-Apr-2023.
+- Uma to submit review feedback by 22-Apr-2023.
+
+---
+
+### Meeting Minutes 4 (Detailed)
+**Date and Time:**  
+25-Apr-2023, 3:00 PM - 4:30 PM
+
+**Attendees:**  
+- Derek Hill
+- Emma Lee
+- Zachary Brooks
+- Uma Patel (Notes)
+- Guest: Lisa Green (Nutanix, Senior Cloud Architect)
+- Absentees: None
+
+**Agenda:**
+1. Comprehensive project updates
+2. Detailed collaboration proposal with Nutanix
+3. Strategy for AI-driven products
+4. Departmental support and resource allocation
+
+**Discussion Points:**
+- **Comprehensive Project Updates:**
+  - Derek: Automated testing fully operational; significant reduction in manual QA time.
+  - Emma: Completed AI-driven strategy report; shared initial draft.
+  - Zachary: Successfully demoed new IBM Cloud Pak integration.
+  - Uma: Initial feedback on Nutanix proposal; sees strong potential.
+
+- **Detailed Collaboration Proposal with Nutanix:**
+  - Lisa presented potential hybrid cloud scenarios.
+  - Discussion on resource allocation for integration.
+
+- **Strategy for AI-Driven Products:**
+  - Emma’s report highlights key areas for AI enhancement.
+  - Derek and Zachary suggested joint testing sessions.
+
+- **Departmental Support and Resource Allocation:**
+  - Emma requested additional development resources.
+  - Uma proposed reallocating some cloud engineering tasks to her team.
+
+**Next Steps:**
+- Derek and Zachary to schedule joint testing sessions by 29-Apr-2023.
+- Lisa and Uma to finalize Nutanix integration plan by 05-May-2023.
+- Emma to present AI strategy to senior management by 10-May-2023.
+
+---
+
+### Meeting Minutes 5 (Moderate)
+**Date and Time:**  
+10-May-2023, 1:00 PM - 2:00 PM
+
+**Attendees:**  
+- Derek Hill (Notes)
+- Emma Lee
+- Zachary Brooks
+- Uma Patel
+- Absentees: None
+
+**Agenda:**
+1. Review of ongoing projects
+2. Preparation for Nutanix integration
+3. Future collaboration
+
+**Discussion Points:**
+- **Review of Ongoing Projects:**
+  - Derek: Ongoing success with automated QA.
+  - Emma: Positive feedback on AI strategy presentation.
+  - Zachary: Final stages of new integration implementation.
+  - Uma: Finalizing Nutanix integration plan.
+
+- **Preparation for Nutanix Integration:**
+  - Discussed timeline and resource allocation.
+  - Emma suggested additional training for teams involved.
+
+- **Future Collaboration:**
+  - Derek proposed bi-weekly cross-departmental meetings.
+  - Zachary and Uma supported the idea for better collaboration.
+
+**Next Steps:**
+- Emma to organize training sessions by 20-May-2023.
+- Derek to set up bi-weekly meetings starting 25-May-2023.
+- Zachary and Uma to prepare final integration implementation steps by 30-May-2023.
+
+---
+
+### JSON Data

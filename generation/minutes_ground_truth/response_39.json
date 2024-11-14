@@ -1,0 +1,157 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Michael Turner"
+    },
+    {
+     "name": "Abigail Carter"
+    },
+    {
+     "name": "Henry Zhou"
+    },
+    {
+     "name": "Carol Nguyen"
+    },
+    {
+     "name": "John Smith"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Illumio"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Cloud Security Architect"
+    },
+    {
+     "title": "Business Intelligence Analyst"
+    },
+    {
+     "title": "DevOps Engineer"
+    },
+    {
+     "title": "Junior Data Scientist"
+    },
+    {
+     "title": "Zero-trust Specialist"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Illumio"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM Kubernetes Service"
+    },
+    {
+     "name": "Zero-trust Segmentation"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Turner",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Abigail Carter",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Henry Zhou",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Carol Nguyen",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "Illumio"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Turner",
+    "role": "Cloud Security Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Abigail Carter",
+    "role": "Business Intelligence Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Henry Zhou",
+    "role": "DevOps Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Carol Nguyen",
+    "role": "Junior Data Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "Zero-trust Specialist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Turner",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Abigail Carter",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Henry Zhou",
+    "product_service": "IBM Kubernetes Service"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Carol Nguyen",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Smith",
+    "product_service": "Zero-trust Segmentation"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "Illumio",
+    "location": "Illumio"
+   }
+  ]
+ }
+}

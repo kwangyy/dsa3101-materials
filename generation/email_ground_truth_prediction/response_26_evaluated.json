@@ -1,0 +1,135 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Abigail Carter"
+                },
+                {
+                    "name": "Victor Ramos"
+                },
+                {
+                    "name": "Derek Hill"
+                },
+                {
+                    "name": "David Patel"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Business Intelligence Analyst"
+                },
+                {
+                    "title": "RPA Developer"
+                },
+                {
+                    "title": "QA Engineer"
+                },
+                {
+                    "title": "Cloud Architect"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "EST"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cognos Analytics"
+                },
+                {
+                    "name": "IBM Robotic Process Automation"
+                },
+                {
+                    "name": "IBM Aspera"
+                },
+                {
+                    "name": "AWS"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Abigail Carter",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Derek Hill",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "David Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Abigail Carter",
+                "role": "Business Intelligence Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Victor Ramos",
+                "role": "RPA Developer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Derek Hill",
+                "role": "QA Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "David Patel",
+                "role": "Cloud Architect"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "EST"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Abigail Carter",
+                "product_service": "IBM Cognos Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Abigail Carter",
+                "product_service": "IBM Robotic Process Automation"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Abigail Carter",
+                "product_service": "IBM Aspera"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "IBM Robotic Process Automation"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Derek Hill",
+                "product_service": "IBM Cognos Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "David Patel",
+                "product_service": "AWS"
+            }
+        ]
+    }
+}

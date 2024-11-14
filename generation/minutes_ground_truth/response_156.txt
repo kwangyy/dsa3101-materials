@@ -1,0 +1,117 @@
+### Meeting Minutes #1 (Simple)
+**Date and Time:** 15-Mar-2023, 10:00 AM - 10:30 AM  
+**Attendees:** Emma Lee, Tina Foster, Kevin O'Reilly  
+**Absentees:** Alice Smith  
+**Note-taker:** Tina Foster  
+
+**Agenda:**
+- Project updates
+- Team collaboration
+
+**Discussion Points:**
+- Emma Lee provided updates on the Google Cloud AI Platform, highlighting recent advancements.
+- Kevin O'Reilly shared progress on the new models developed for IBM Watson Studio.
+- Discussion on improving collaboration between IT and AI Research departments.
+
+**Next Steps:**
+- Kevin to schedule a follow-up meeting with IT Support by 20-Mar-2023.
+- Emma to prepare a report on product strategy updates by 25-Mar-2023.
+
+---
+
+### Meeting Minutes #2 (Moderate)
+**Date and Time:** 22-Apr-2023, 2:00 PM - 3:00 PM  
+**Attendees:** Emma Lee, Tina Foster, Kevin O'Reilly, Alice Smith  
+**Absentees:** None  
+**Note-taker:** Kevin O'Reilly  
+
+**Agenda:**
+- Enterprise-level collaboration
+- Cross-departmental support
+- External vendor integration (Zscaler)
+
+**Discussion Points:**
+- Alice Smith emphasized the importance of secure internet access and suggested integration with Zscaler.
+- Tina Foster discussed challenges faced in IBM QRadar SIEM implementations.
+- Emma Lee and Kevin O'Reilly proposed potential solutions to streamline collaboration with Zscaler.
+- Decision made to run a pilot project with Zscaler.
+
+**Next Steps:**
+- Tina to coordinate with Zscaler for pilot project initiation by 30-Apr-2023.
+- Emma to create a project outline for Zscaler integration by 28-Apr-2023.
+- Alice to review and provide feedback by 5-May-2023.
+
+---
+
+### Meeting Minutes #3 (Detailed)
+**Date and Time:** 05-Jun-2023, 11:00 AM - 12:30 PM  
+**Attendees:** Emma Lee, Tina Foster, Kevin O'Reilly, Alice Smith  
+**Absentees:** None  
+**Note-taker:** Alice Smith  
+
+**Agenda:**
+- Product strategy for Google Cloud AI Platform
+- IBM Watson Studio model updates
+- Security concerns and mitigation strategies
+- Cross-functional team alignment
+
+**Discussion Points:**
+- Emma Lee presented a detailed roadmap for Google Cloud AI Platform. Emphasized need for input from R&D.
+- Kevin O'Reilly reviewed recent developments in IBM Watson Studio, stressing integration with secure platforms.
+- Alice Smith highlighted security vulnerabilities and proposed adoption of Symantec Endpoint Security.
+- Tina Foster shared client feedback and support issues with IBM QRadar SIEM.
+
+**Next Steps:**
+- Emma to integrate feedback into Google Cloud AI Platform strategy by 15-Jun-2023.
+- Kevin to collaborate with R&D for secure model integration by 20-Jun-2023.
+- Tina to compile a report on SIEM support issues by 10-Jun-2023.
+- Alice to organize a security training session by 25-Jun-2023.
+
+---
+
+### Meeting Minutes #4 (Simple)
+**Date and Time:** 12-Jul-2023, 9:00 AM - 9:30 AM  
+**Attendees:** Emma Lee, Kevin O'Reilly  
+**Absentees:** Tina Foster, Alice Smith  
+**Note-taker:** Emma Lee  
+
+**Agenda:**
+- Quick project status check
+- Immediate action items
+
+**Discussion Points:**
+- Kevin updated on the machine learning model performance in IBM Watson Studio.
+- Emma discussed upcoming deadlines for Google Cloud AI Platform.
+
+**Next Steps:**
+- Kevin to finalize model improvements by 20-Jul-2023.
+- Emma to submit project status report by 15-Jul-2023.
+
+---
+
+### Meeting Minutes #5 (Moderate)
+**Date and Time:** 20-Aug-2023, 1:00 PM - 2:00 PM  
+**Attendees:** Emma Lee, Tina Foster, Kevin O'Reilly, Alice Smith  
+**Absentees:** None  
+**Note-taker:** Tina Foster  
+
+**Agenda:**
+- Review of ongoing projects
+- Discussion on new collaboration tools
+- Strategy alignment
+
+**Discussion Points:**
+- Emma Lee shared insights on project milestones for Google Cloud AI Platform.
+- Alice Smith suggested incorporating Microsoft Azure tools for better data management.
+- Kevin O'Reilly highlighted the need for enhanced collaboration tools for remote teams.
+- Tina Foster mentioned upcoming client onboarding for IBM QRadar SIEM.
+
+**Next Steps:**
+- Emma to evaluate Microsoft Azure tools integration by 30-Aug-2023.
+- Kevin to propose new collaboration tools by 25-Aug-2023.
+- Tina to prepare client onboarding documentation by 22-Aug-2023.
+- Alice to align team strategies and report back by 28-Aug-2023.
+
+---
+
+### JSON Data:

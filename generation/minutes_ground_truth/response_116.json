@@ -1,0 +1,134 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Brian Taylor"
+    },
+    {
+     "name": "Henry Zhou"
+    },
+    {
+     "name": "Yasmine Ali"
+    },
+    {
+     "name": "Victor Ramos"
+    },
+    {
+     "name": "Michael Smith"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Snowflake"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Senior Data Scientist"
+    },
+    {
+     "title": "DevOps Engineer"
+    },
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "Robotics Process Automation (RPA) Developer"
+    },
+    {
+     "title": "Data Warehousing Specialist"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Kubernetes Service"
+    },
+    {
+     "name": "IBM Planning Analytics"
+    },
+    {
+     "name": "IBM Robotic Process Automation"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Brian Taylor",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Brian Taylor",
+    "role": "Senior Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Brian Taylor",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Henry Zhou",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Henry Zhou",
+    "role": "DevOps Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Henry Zhou",
+    "product_service": "IBM Kubernetes Service"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Yasmine Ali",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Yasmine Ali",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Yasmine Ali",
+    "product_service": "IBM Planning Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Victor Ramos",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Victor Ramos",
+    "role": "Robotics Process Automation (RPA) Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Victor Ramos",
+    "product_service": "IBM Robotic Process Automation"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Smith",
+    "organization": "Snowflake"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Smith",
+    "role": "Data Warehousing Specialist"
+   }
+  ]
+ }
+}

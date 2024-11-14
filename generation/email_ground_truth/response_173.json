@@ -1,0 +1,115 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Rachel Singh"
+    },
+    {
+     "name": "Quinn Parker"
+    },
+    {
+     "name": "Paul Hernandez"
+    },
+    {
+     "name": "Tina Foster"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Software Engineer"
+    },
+    {
+     "title": "Data Analyst"
+    },
+    {
+     "title": "Systems Engineer"
+    },
+    {
+     "title": "IT Support Specialist"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Functions"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM Z systems"
+    },
+    {
+     "name": "IBM QRadar SIEM"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Singh",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Singh",
+    "role": "Software Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Rachel Singh",
+    "product_service": "IBM Cloud Functions"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Quinn Parker",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Quinn Parker",
+    "role": "Data Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Quinn Parker",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Paul Hernandez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Paul Hernandez",
+    "role": "Systems Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Paul Hernandez",
+    "product_service": "IBM Z systems"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Tina Foster",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Tina Foster",
+    "role": "IT Support Specialist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Tina Foster",
+    "product_service": "IBM QRadar SIEM"
+   }
+  ]
+ }
+}

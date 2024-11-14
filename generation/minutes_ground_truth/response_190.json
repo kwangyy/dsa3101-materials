@@ -1,0 +1,184 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Rachel Singh"
+    },
+    {
+     "name": "Ivy Bennett"
+    },
+    {
+     "name": "Uma Patel"
+    },
+    {
+     "name": "Wendy Chen"
+    },
+    {
+     "name": "Dr. John Baker"
+    },
+    {
+     "name": "Mark Johnson"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Veeva Systems"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Software Engineer"
+    },
+    {
+     "title": "Data Engineer"
+    },
+    {
+     "title": "Senior Solutions Architect"
+    },
+    {
+     "title": "AI Solutions Architect"
+    },
+    {
+     "title": "Cloud Solutions Consultant"
+    },
+    {
+     "title": "Cloud Security Specialist"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Cloud Solutions Department"
+    },
+    {
+     "name": "IBM Data Management Department"
+    },
+    {
+     "name": "IBM Solutions Engineering Department"
+    },
+    {
+     "name": "IBM AI Department"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Functions"
+    },
+    {
+     "name": "IBM Db2 Database"
+    },
+    {
+     "name": "IBM Cloud Private"
+    },
+    {
+     "name": "IBM Maximo Asset Management"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Singh",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Singh",
+    "role": "Software Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Rachel Singh",
+    "product_service": "IBM Cloud Functions"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Cloud Solutions Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Ivy Bennett",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Ivy Bennett",
+    "role": "Data Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Ivy Bennett",
+    "product_service": "IBM Db2 Database"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Data Management Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Uma Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Uma Patel",
+    "role": "Senior Solutions Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Uma Patel",
+    "product_service": "IBM Cloud Private"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Solutions Engineering Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Wendy Chen",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Wendy Chen",
+    "role": "AI Solutions Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Wendy Chen",
+    "product_service": "IBM Maximo Asset Management"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM AI Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Dr. John Baker",
+    "organization": "Veeva Systems"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Dr. John Baker",
+    "role": "Cloud Solutions Consultant"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Mark Johnson",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Mark Johnson",
+    "role": "Cloud Security Specialist"
+   }
+  ]
+ }
+}

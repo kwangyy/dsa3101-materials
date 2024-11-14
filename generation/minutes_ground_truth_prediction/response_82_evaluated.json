@@ -1,0 +1,130 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Samuel Davis"
+                },
+                {
+                    "name": "Lily Garcia"
+                },
+                {
+                    "name": "Clara Diaz"
+                },
+                {
+                    "name": "Kevin O'Reilly"
+                },
+                {
+                    "name": "David Kim"
+                },
+                {
+                    "name": "Nathan Brown"
+                },
+                {
+                    "name": "Emma Stone"
+                },
+                {
+                    "name": "Olivia Martinez"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Notes Taker"
+                },
+                {
+                    "title": "AI Ethics Team Lead"
+                },
+                {
+                    "title": "Data Analytics Lead"
+                },
+                {
+                    "title": "Cloud Solutions Architect"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Hyperledger Fabric"
+                },
+                {
+                    "name": "IBM Cloud Satellite"
+                },
+                {
+                    "name": "IBM Watson Studio"
+                },
+                {
+                    "name": "Elastic's search and analytics engine"
+                },
+                {
+                    "name": "Blockchain"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "David Kim",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Samuel Davis",
+                "role": "Notes Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Lily Garcia",
+                "role": "Notes Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Clara Diaz",
+                "role": "Notes Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Kevin O'Reilly",
+                "role": "Notes Taker"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Hyperledger Fabric"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Lily Garcia",
+                "product_service": "IBM Cloud Satellite"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Clara Diaz",
+                "product_service": "IBM Watson Studio"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Kevin O'Reilly",
+                "product_service": "IBM Watson Studio"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Elastic",
+                "location": "New York"
+            }
+        ]
+    }
+}

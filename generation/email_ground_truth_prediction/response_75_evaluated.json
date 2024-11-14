@@ -1,0 +1,118 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Alice Smith"
+                },
+                {
+                    "name": "Lily Garcia"
+                },
+                {
+                    "name": "Wendy Chen"
+                },
+                {
+                    "name": "Henry Zhou"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Chief Data Officer"
+                },
+                {
+                    "title": "Marketing Analyst"
+                },
+                {
+                    "title": "AI Solutions Architect"
+                },
+                {
+                    "title": "DevOps Engineer"
+                }
+            ],
+            "locations": [],
+            "products_services": [
+                {
+                    "name": "IBM Cloud Satellite"
+                },
+                {
+                    "name": "IBM Maximo Asset Management"
+                },
+                {
+                    "name": "IBM Kubernetes Service"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Alice Smith",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Lily Garcia",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Wendy Chen",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Henry Zhou",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Alice Smith",
+                "role": "Chief Data Officer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Lily Garcia",
+                "role": "Marketing Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Wendy Chen",
+                "role": "AI Solutions Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Henry Zhou",
+                "role": "DevOps Engineer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Alice Smith",
+                "product_service": "IBM Cloud Satellite"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Alice Smith",
+                "product_service": "IBM Maximo Asset Management"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Wendy Chen",
+                "product_service": "IBM Maximo Asset Management"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Henry Zhou",
+                "product_service": "IBM Kubernetes Service"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": ""
+            }
+        ]
+    }
+}

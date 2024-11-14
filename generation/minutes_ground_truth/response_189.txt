@@ -1,0 +1,159 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time:**  
+28-Aug-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**  
+- Uma Patel (Senior Solutions Architect) - Note taker
+- Clara Diaz (AI Policy Researcher)
+- Kevin O'Reilly (Machine Learning Engineer)
+- Xander Williams (Mobile App Developer)
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+1. Project updates on IBM Cloud Private
+2. Discuss new AI ethics guidelines
+
+**Discussion Points:**  
+- **Project updates:**  
+  - Uma Patel provided an update on the hybrid cloud solutions for IBM Cloud Private. Project is on track for the next milestone.
+  - Kevin O'Reilly mentioned the development of new models for IBM Watson Studio.
+- **AI Ethics Guidelines:**  
+  - Clara Diaz shared the latest guidelines on AI ethics from the Ethics Department. The focus is on transparency and fairness in AI models.
+
+**Next Steps:**  
+- Uma Patel to prepare a detailed report on the next milestone by 04-Sep-2023.
+- Clara Diaz to circulate the new AI ethics guidelines by 01-Sep-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+**Date and Time:**  
+05-Sep-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**  
+- Uma Patel (Senior Solutions Architect)
+- Clara Diaz (AI Policy Researcher)
+- Kevin O'Reilly (Machine Learning Engineer) - Note taker
+
+**Absentees:**  
+- Xander Williams (Mobile App Developer)
+
+**Agenda:**  
+1. IBM Watson Studio project updates
+2. AI ethics implementation strategies
+
+**Discussion Points:**  
+- **Project updates:**  
+  - Kevin O'Reilly shared that the new machine learning models for IBM Watson Studio are performing as expected.
+  - Uma Patel discussed potential integrations with IBM Cloud Private.
+- **AI Ethics Implementation:**  
+  - Clara Diaz emphasized the importance of ethical guidelines in deploying machine learning models.
+  - Kevin O'Reilly raised a concern about potential biases in the training data.
+
+**Next Steps:**  
+- Kevin O'Reilly to refine the training data set by 12-Sep-2023.
+- Uma Patel to explore integration possibilities and present findings by 15-Sep-2023.
+- Clara Diaz to draft an implementation strategy for ethical AI by 10-Sep-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+**Date and Time:**  
+12-Sep-2023, 11:00 AM - 12:30 PM
+
+**Attendees:**  
+- Uma Patel (Senior Solutions Architect) 
+- Clara Diaz (AI Policy Researcher)
+- Kevin O'Reilly (Machine Learning Engineer)
+- Xander Williams (Mobile App Developer) - Note taker
+- Special Guest: John Smith (Data Scientist at Cloudera)
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+1. Hybrid cloud solutions update
+2. Collaboration with Cloudera
+3. Mobile app development for IBM MobileFirst Platform
+
+**Discussion Points:**  
+- **Hybrid Cloud Solutions:**  
+  - Uma Patel presented the progress and challenges faced in the current phase of the hybrid cloud project.
+  - John Smith suggested using Cloudera’s platform for better data management.
+- **Collaboration with Cloudera:**  
+  - John Smith discussed potential areas where IBM and Cloudera could collaborate, especially in machine learning and AI for big data.
+- **Mobile App Development:**  
+  - Xander Williams shared updates on the new application features for IBM MobileFirst Platform.
+  - Discussed potential use cases for the app in integrating with cloud services.
+
+**Next Steps:**  
+- Uma Patel to incorporate Cloudera’s data management tools and update by 19-Sep-2023.
+- Kevin O'Reilly to work with John Smith to identify collaboration opportunities by 20-Sep-2023.
+- Xander Williams to prepare a demo of new app features by 17-Sep-2023.
+
+---
+
+### Meeting Minutes 4 (Simple)
+**Date and Time:**  
+18-Sep-2023, 9:00 AM - 9:30 AM
+
+**Attendees:**  
+- Uma Patel (Senior Solutions Architect)
+- Clara Diaz (AI Policy Researcher)
+- Kevin O'Reilly (Machine Learning Engineer) - Note taker
+
+**Absentees:**  
+- Xander Williams (Mobile App Developer)
+
+**Agenda:**  
+1. Quick project status check
+2. Prepare for upcoming client demo
+
+**Discussion Points:**  
+- **Project Status:**  
+  - Uma Patel confirmed that the hybrid cloud solutions are ready for the next phase.
+  - Kevin O'Reilly mentioned minor issues in the machine learning models that need to be addressed.
+- **Client Demo Preparation:**  
+  - Clara Diaz highlighted the ethical considerations to be presented in the client demo.
+
+**Next Steps:**  
+- Kevin O'Reilly to fix the issues in the machine learning models by 20-Sep-2023.
+- Uma Patel to prepare a presentation for the client demo by 21-Sep-2023.
+- Clara Diaz to review the presentation for ethical compliance by 22-Sep-2023.
+
+---
+
+### Meeting Minutes 5 (Moderate)
+**Date and Time:**  
+25-Sep-2023, 3:00 PM - 4:00 PM
+
+**Attendees:**  
+- Uma Patel (Senior Solutions Architect)
+- Clara Diaz (AI Policy Researcher)
+- Xander Williams (Mobile App Developer)
+- Special Guest: Jane Doe (Project Manager at Cloudera) - Note taker
+
+**Absentees:**  
+- Kevin O'Reilly (Machine Learning Engineer)
+
+**Agenda:**  
+1. Finalize integration strategies
+2. Discuss collaboration roadmap with Cloudera
+
+**Discussion Points:**  
+- **Integration Strategies:**  
+  - Uma Patel provided the final integration plan for hybrid cloud and IBM MobileFirst Platform.
+  - Jane Doe proposed additional features that could enhance collaboration.
+- **Collaboration Roadmap:**  
+  - Clara Diaz and Jane Doe discussed the roadmap for future collaborative projects, focusing on AI ethics and data management.
+
+**Next Steps:**  
+- Uma Patel to finalize and circulate the integration plan by 29-Sep-2023.
+- Xander Williams to begin development on proposed features by 02-Oct-2023.
+- Clara Diaz to draft a collaboration framework document by 03-Oct-2023.
+
+---
+
+### JSON Representation

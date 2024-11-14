@@ -1,0 +1,178 @@
+### Meeting Minutes 1
+**Date and Time:** 15-Sep-2023, 10:00 AM - 10:30 AM
+**Attendees:** 
+- Oliver James
+- Quinn Parker
+- Clara Diaz
+- Paul Hernandez (Note taker)
+**Absentees:** None
+
+**Agenda:**
+- Scheduling weekly team meetings
+- Project updates
+
+**Discussion Points:**
+- **Scheduling weekly team meetings:**
+  - Team agreed on having weekly meetings every Monday at 10:00 AM.
+  - Clara suggested using a shared calendar for better coordination.
+- **Project updates:**
+  - Oliver provided an update on the progress of the natural language processing module for IBM Watson Language Translator.
+  - Quinn shared recent analytics insights for IBM Cognos Analytics.
+
+**Next Steps:**
+- **Shared Calendar:**
+  - Paul to set up a shared calendar by 17-Sep-2023.
+- **Project Updates:**
+  - Oliver to send a detailed report on the NLP module by 18-Sep-2023.
+  - Quinn to provide a summary of analytics insights by 20-Sep-2023.
+
+---
+
+### Meeting Minutes 2
+**Date and Time:** 22-Sep-2023, 2:00 PM - 3:00 PM
+**Attendees:**
+- Oliver James
+- Quinn Parker
+- Clara Diaz (Note taker)
+- Paul Hernandez
+**Absentees:** None
+
+**Agenda:**
+- Strategy discussion for Q4
+- Collaboration with external entities
+
+**Discussion Points:**
+- **Strategy discussion for Q4:**
+  - Oliver highlighted the need for additional resources for the NLP project.
+  - Clara emphasized the importance of ethical considerations in AI development.
+- **Collaboration with external entities:**
+  - Quinn proposed a potential partnership with Databricks for data engineering support.
+  - Paul pointed out the infrastructure requirements for such a collaboration.
+
+**Next Steps:**
+- **Resource Allocation:**
+  - Oliver to draft a resource request document by 25-Sep-2023.
+- **Ethical Considerations:**
+  - Clara to conduct a workshop on AI ethics by 30-Sep-2023.
+- **Partnership with Databricks:**
+  - Quinn to arrange an initial meeting with Databricks by 28-Sep-2023.
+  - Paul to evaluate infrastructure requirements by 27-Sep-2023.
+
+---
+
+### Meeting Minutes 3
+**Date and Time:** 01-Oct-2023, 9:00 AM - 11:00 AM
+**Attendees:**
+- Oliver James
+- Quinn Parker (Note taker)
+- Clara Diaz
+- Paul Hernandez
+**Absentees:** None
+
+**Agenda:**
+- Detailed project update
+- Problem-solving session
+- Team management issues
+
+**Discussion Points:**
+- **Detailed project update:**
+  - Oliver reported completion of the first phase of the NLP module.
+  - Quinn provided a deep dive into recent analytics trends.
+- **Problem-solving session:**
+  - Clara raised concerns about data privacy in the new AI model.
+  - Paul suggested technical solutions to ensure compliance.
+- **Team management issues:**
+  - Oliver discussed the need for better communication among team members.
+  - Clara suggested introducing regular team-building activities.
+
+**Next Steps:**
+- **NLP Module:**
+  - Oliver to submit a phase completion report by 03-Oct-2023.
+- **Data Privacy:**
+  - Clara to draft data privacy guidelines by 05-Oct-2023.
+  - Paul to implement technical safeguards by 07-Oct-2023.
+- **Team-building Activities:**
+  - Clara to organize the first team-building activity by 10-Oct-2023.
+
+---
+
+### Meeting Minutes 4
+**Date and Time:** 15-Oct-2023, 1:00 PM - 3:00 PM
+**Attendees:**
+- Oliver James (Note taker)
+- Quinn Parker
+- Clara Diaz
+- Paul Hernandez
+**Absentees:** None
+
+**Agenda:**
+- Finalizing Q4 strategy
+- Review of collaboration with Databricks
+- Addressing inter-departmental dependencies
+
+**Discussion Points:**
+- **Finalizing Q4 strategy:**
+  - Oliver summarized the resource needs and project timelines.
+  - Clara reviewed the ethical implications of new AI projects.
+- **Review of collaboration with Databricks:**
+  - Quinn shared positive feedback from the initial meeting.
+  - Paul discussed the integration of Databricks' platform with existing infrastructure.
+- **Addressing inter-departmental dependencies:**
+  - Oliver highlighted the need for better coordination with the IT Support Department.
+  - Paul agreed to assign a liaison from his team.
+
+**Next Steps:**
+- **Q4 Strategy:**
+  - Oliver to finalize resource allocation by 20-Oct-2023.
+- **Ethical Implications:**
+  - Clara to publish an ethics review report by 25-Oct-2023.
+- **Databricks Collaboration:**
+  - Quinn to develop a detailed integration plan by 27-Oct-2023.
+  - Paul to assign a liaison by 23-Oct-2023.
+
+---
+
+### Meeting Minutes 5
+**Date and Time:** 30-Oct-2023, 11:00 AM - 1:00 PM
+**Attendees:**
+- Oliver James
+- Quinn Parker
+- Clara Diaz
+- Paul Hernandez
+**Additional Attendees:**
+- Alice Green (Databricks, Data Engineer)
+**Absentees:** None
+
+**Agenda:**
+- Quarterly review
+- Progress on Databricks integration
+- Enhancing team productivity
+
+**Discussion Points:**
+- **Quarterly review:**
+  - Oliver presented the achievements of the NLP module.
+  - Quinn summarized the data analytics outcomes.
+  - Clara reviewed the ethical compliance of ongoing projects.
+- **Progress on Databricks integration:**
+  - Alice Green from Databricks provided insights into the integration process.
+  - Paul discussed remaining technical challenges.
+- **Enhancing team productivity:**
+  - Clara suggested implementing agile methodologies.
+  - Quinn proposed using advanced analytics tools for better insights.
+
+**Next Steps:**
+- **NLP Module Achievements:**
+  - Oliver to prepare a detailed quarterly report by 02-Nov-2023.
+- **Data Analytics Outcomes:**
+  - Quinn to share comprehensive data insights by 04-Nov-2023.
+- **Ethical Compliance:**
+  - Clara to complete a full ethical audit by 06-Nov-2023.
+- **Databricks Integration:**
+  - Alice and Paul to resolve technical challenges by 10-Nov-2023.
+- **Team Productivity:**
+  - Clara to organize an agile training session by 08-Nov-2023.
+  - Quinn to introduce advanced analytics tools by 09-Nov-2023.
+
+---
+
+### JSON Format

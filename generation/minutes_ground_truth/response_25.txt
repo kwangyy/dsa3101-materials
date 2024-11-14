@@ -1,0 +1,151 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:** 15-Jan-2023, 10:00 AM - 10:30 AM  
+**Attendees:**  
+- Michael Turner (Note-taker)  
+- Samuel Davis  
+- Yasmine Ali  
+- Kevin O'Reilly  
+- Nathan Kim (absent)
+
+**Agenda:**  
+- Greetings  
+- Strategic partnerships
+
+**Discussion Points:**  
+- Team exchanged greetings and updates on their projects.  
+- Discussed potential strategic partnerships to enhance current projects.  
+- Michael highlighted the importance of strong cloud security in partnerships.  
+- Yasmine noted the benefits of data-driven decisions in partner selection.
+
+**Next Steps:**  
+- Michael to draft a list of potential partners and present in the next meeting by 22-Jan-2023.  
+- Yasmine to prepare an analysis report on potential partners by 20-Jan-2023.  
+
+---
+
+### Meeting Minutes 2: Moderate
+
+**Date and Time:** 18-Jan-2023, 2:00 PM - 3:00 PM  
+**Attendees:**  
+- Michael Turner  
+- Samuel Davis  
+- Yasmine Ali  
+- Kevin O'Reilly (Note-taker)  
+- Nathan Kim (absent)
+
+**Agenda:**  
+- Project updates  
+- Strategic partnerships with external entities  
+- Brainstorming session for new initiatives
+
+**Discussion Points:**  
+- Michael reported on recent security updates for Microsoft Azure.  
+- Samuel shared progress on Hyperledger Fabric development for IBM Blockchain Platform.  
+- Discussed potential partnership with Splunk for IT operations and security monitoring.  
+- Kevin proposed integrating machine learning models for predictive analysis with Splunk.
+
+**Next Steps:**  
+- Michael to set up a meeting with Splunk's team by 25-Jan-2023.  
+- Samuel to explore integration capabilities with Splunk and report back by 23-Jan-2023.  
+- Kevin to develop a preliminary model for integration by 27-Jan-2023.  
+
+---
+
+### Meeting Minutes 3: Detailed
+
+**Date and Time:** 22-Jan-2023, 1:00 PM - 2:30 PM  
+**Attendees:**  
+- Michael Turner  
+- Samuel Davis  
+- Yasmine Ali  
+- Kevin O'Reilly  
+- Nathan Kim  
+- Julie Martinez (External, Splunk, IT Operations Specialist)
+
+**Agenda:**  
+- Detailed project updates  
+- Deep dive into potential partnerships  
+- Discussion with Splunk on strategic alignment  
+- Assignment of roles for new initiatives
+
+**Discussion Points:**  
+- Michael presented detailed security protocol designs and their implications for new partnerships.  
+- Samuel gave a comprehensive update on the Hyperledger Fabric enhancements.  
+- Yasmine showcased predictive models and their application in strategic partnerships.  
+- Kevin discussed machine learning capabilities and how they can be leveraged with Splunk.  
+- Julie Martinez from Splunk shared insights on their IT operations and security monitoring capabilities.  
+- Agreed on the need to align project timelines and deliverables for a successful partnership.
+
+**Next Steps:**  
+- Michael to finalize security protocols and share with Splunk by 29-Jan-2023.  
+- Samuel and Julie to collaborate on integration testing and provide updates by 30-Jan-2023.  
+- Yasmine to update predictive models based on new data from Splunk by 28-Jan-2023.  
+- Kevin to coordinate a workshop with Splunk's tech team by 31-Jan-2023.  
+
+---
+
+### Meeting Minutes 4: Moderate
+
+**Date and Time:** 25-Jan-2023, 11:00 AM - 12:00 PM  
+**Attendees:**  
+- Michael Turner  
+- Samuel Davis (Note-taker)  
+- Yasmine Ali  
+- Kevin O'Reilly  
+- Nathan Kim (absent)
+
+**Agenda:**  
+- Review of previous meeting action items  
+- Strategic partnership progress  
+- Technical challenges and solutions
+
+**Discussion Points:**  
+- Reviewed the action items from the previous meeting; most were on track.  
+- Discussed the progress of the potential partnership with Splunk.  
+- Michael raised concerns about security compliance.  
+- Samuel suggested using blockchain for secure data transactions in the partnership.  
+- Kevin highlighted the importance of seamless integration of machine learning models.
+
+**Next Steps:**  
+- Michael to work with the legal team to address compliance concerns by 02-Feb-2023.  
+- Samuel to draft a blockchain implementation plan for the partnership by 01-Feb-2023.  
+- Kevin to test machine learning model integration with Splunk and report back by 03-Feb-2023.
+
+---
+
+### Meeting Minutes 5: Detailed
+
+**Date and Time:** 28-Jan-2023, 3:00 PM - 4:30 PM  
+**Attendees:**  
+- Michael Turner  
+- Samuel Davis  
+- Yasmine Ali (Note-taker)  
+- Kevin O'Reilly  
+- Nathan Kim  
+- Julie Martinez (External, Splunk, IT Operations Specialist)  
+- David Lee (External, Splunk, Machine Learning Specialist)
+
+**Agenda:**  
+- Comprehensive review of partnership progress  
+- Technical collaboration with Splunk  
+- Integration challenges and solutions  
+- Resource allocation and role assignment
+
+**Discussion Points:**  
+- Michael provided an in-depth review of security protocols and compliance updates.  
+- Samuel discussed blockchain implementation plans and potential impact on data security.  
+- Yasmine shared updated predictive models incorporating new data from Splunk.  
+- Kevin detailed machine learning integration challenges and proposed solutions.  
+- Julie Martinez and David Lee from Splunk shared their perspectives on integration and collaboration.  
+- Agreed on the need for additional resources for seamless integration and alignment on timelines.
+
+**Next Steps:**  
+- Michael to finalize and submit security compliance documents by 05-Feb-2023.  
+- Samuel to commence blockchain implementation and provide weekly updates starting 03-Feb-2023.  
+- Yasmine to refine predictive models and present findings in the next meeting by 04-Feb-2023.  
+- Kevin and David to lead a joint team for machine learning model integration, starting work on 02-Feb-2023.  
+
+---
+
+### Synthetic Data in JSON Format

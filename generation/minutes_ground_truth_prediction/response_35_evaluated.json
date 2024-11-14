@@ -1,0 +1,143 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Jackie Lin"
+                },
+                {
+                    "name": "Ivy Bennett"
+                },
+                {
+                    "name": "Natalie Wu"
+                },
+                {
+                    "name": "Uma Patel"
+                },
+                {
+                    "name": "Lisa Adams"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Zscaler"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note-taker"
+                },
+                {
+                    "title": "Product Manager"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Security Guardium"
+                },
+                {
+                    "name": "IBM Db2 Database"
+                },
+                {
+                    "name": "IBM Watson Discovery"
+                },
+                {
+                    "name": "IBM Cloud Private"
+                },
+                {
+                    "name": "Zscaler's cloud security solutions"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jackie Lin",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Ivy Bennett",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Natalie Wu",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Uma Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Lisa Adams",
+                "organization": "Zscaler"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jackie Lin",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Ivy Bennett",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Natalie Wu",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Uma Patel",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Lisa Adams",
+                "role": "Product Manager"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Jackie Lin",
+                "product_service": "IBM Security Guardium"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "IBM Db2 Database"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Natalie Wu",
+                "product_service": "IBM Watson Discovery"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Uma Patel",
+                "product_service": "IBM Cloud Private"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Lisa Adams",
+                "product_service": "Zscaler's cloud security solutions"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            }
+        ]
+    }
+}

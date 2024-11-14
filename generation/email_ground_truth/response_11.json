@@ -1,0 +1,170 @@
+{
+    "entities": {
+        "persons": [
+            {
+                "name": "Quinn Parker"
+            },
+            {
+                "name": "Ivy Bennett"
+            },
+            {
+                "name": "Michael Turner"
+            },
+            {
+                "name": "Natalie Wu"
+            },
+            {
+                "name": "Victor Ramos"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "IBM"
+            },
+            {
+                "name": "Microsoft"
+            }
+        ],
+        "roles": [
+            {
+                "title": "Data Analyst"
+            },
+            {
+                "title": "Data Engineer"
+            },
+            {
+                "title": "Cloud Security Architect"
+            },
+            {
+                "title": "Product Marketing Manager"
+            },
+            {
+                "title": "RPA Developer"
+            }
+        ],
+        "products_services": [
+            {
+                "name": "IBM Cognos Analytics"
+            },
+            {
+                "name": "IBM Db2 Database"
+            },
+            {
+                "name": "Microsoft Azure"
+            },
+            {
+                "name": "IBM Watson Discovery"
+            },
+            {
+                "name": "IBM Robotic Process Automation"
+            }
+        ],
+        "locations": [
+            {
+                "name": "EST"
+            }
+        ]
+    },
+    "relationships": [
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Quinn Parker",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Quinn Parker",
+            "role": "Data Analyst"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Quinn Parker",
+            "product_service": "IBM Cognos Analytics"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Ivy Bennett",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Ivy Bennett",
+            "role": "Data Engineer"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Ivy Bennett",
+            "product_service": "IBM Db2 Database"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Michael Turner",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Michael Turner",
+            "role": "Cloud Security Architect"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Michael Turner",
+            "product_service": "Microsoft Azure"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Natalie Wu",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Natalie Wu",
+            "role": "Product Marketing Manager"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Natalie Wu",
+            "product_service": "IBM Watson Discovery"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Victor Ramos",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Victor Ramos",
+            "role": "RPA Developer"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Victor Ramos",
+            "product_service": "IBM Robotic Process Automation"
+        },
+        {
+            "type": "LOCATED_AT",
+            "product_service": "IBM Cognos Analytics",
+            "location": "EST"
+        },
+        {
+            "type": "LOCATED_AT",
+            "product_service": "IBM Db2 Database",
+            "location": "EST"
+        },
+        {
+            "type": "LOCATED_AT",
+            "product_service": "Microsoft Azure",
+            "location": "EST"
+        },
+        {
+            "type": "LOCATED_AT",
+            "product_service": "IBM Watson Discovery",
+            "location": "EST"
+        },
+        {
+            "type": "LOCATED_AT",
+            "product_service": "IBM Robotic Process Automation",
+            "location": "EST"
+        }
+    ]
+}

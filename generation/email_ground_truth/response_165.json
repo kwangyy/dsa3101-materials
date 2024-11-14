@@ -1,0 +1,120 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Alice Smith"
+    },
+    {
+     "name": "Brian Taylor"
+    },
+    {
+     "name": "Emma Lee"
+    },
+    {
+     "name": "Tina Foster"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Chief Data Officer"
+    },
+    {
+     "title": "Senior Data Scientist"
+    },
+    {
+     "title": "Product Manager"
+    },
+    {
+     "title": "IT Support Specialist"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "Symantec Endpoint Security"
+    },
+    {
+     "name": "Google Cloud AI Platform"
+    },
+    {
+     "name": "IBM QRadar SIEM"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Alice Smith",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Alice Smith",
+    "role": "Chief Data Officer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Symantec Endpoint Security"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Brian Taylor",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Brian Taylor",
+    "role": "Senior Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Brian Taylor",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Lee",
+    "role": "Product Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Emma Lee",
+    "product_service": "Google Cloud AI Platform"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Tina Foster",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Tina Foster",
+    "role": "IT Support Specialist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Tina Foster",
+    "product_service": "IBM QRadar SIEM"
+   }
+  ]
+ }
+}

@@ -1,0 +1,81 @@
+### Email Thread
+
+#### Email 1
+
+**From:** Yasmine Ali <yasmine.ali@ibm.com>  
+**To:** Quinn Parker <quinn.parker@ibm.com>  
+**Cc:** Henry Zhou <henry.zhou@ibm.com>, Paul Hernandez <paul.hernandez@ibm.com>  
+**Subject:** Market Analysis for IBM Planning Analytics
+
+Hi Quinn,
+
+I hope this email finds you well. As discussed in our last meeting, I have been working on building predictive models for IBM Planning Analytics. To make our market analysis more robust, I need some insights and data that you have been working on for IBM Cognos Analytics.
+
+Henry and Paul, I'm looping you in as well since you might have to assist us with data integration and systems support.
+
+Quinn, could you please share the latest analysis by end of the week?
+
+Best regards,  
+Yasmine Ali  
+Data Scientist  
+Research & Analytics Department  
+IBM
+
+#### Email 2
+
+**From:** Quinn Parker <quinn.parker@ibm.com>  
+**To:** Yasmine Ali <yasmine.ali@ibm.com>  
+**Cc:** Henry Zhou <henry.zhou@ibm.com>, Paul Hernandez <paul.hernandez@ibm.com>  
+**Subject:** Re: Market Analysis for IBM Planning Analytics
+
+Hi Yasmine,
+
+Sure, I can share the latest insights from IBM Cognos Analytics by Friday. I'll prepare a comprehensive report that includes market trends, customer behavior, and competitive analysis.
+
+Henry, I'll need your assistance to automate the data extraction process from IBM Kubernetes Service to ensure the data is up-to-date. Paul, could you ensure the systems are optimized for the data processing tasks?
+
+Thanks,  
+Quinn Parker  
+Data Analyst  
+Data Science Department  
+IBM
+
+#### Email 3
+
+**From:** Henry Zhou <henry.zhou@ibm.com>  
+**To:** Quinn Parker <quinn.parker@ibm.com>  
+**Cc:** Yasmine Ali <yasmine.ali@ibm.com>, Paul Hernandez <paul.hernandez@ibm.com>  
+**Subject:** Re: Market Analysis for IBM Planning Analytics
+
+Hi Quinn,
+
+I'll set up the automation scripts for the data extraction from IBM Kubernetes Service. I'll coordinate with Paul to make sure everything runs smoothly on the systems side.
+
+Paul, can you confirm the availability of our IBM Z systems for this task?
+
+Best,  
+Henry Zhou  
+DevOps Engineer  
+Operations Department  
+IBM
+
+#### Email 4
+
+**From:** Paul Hernandez <paul.hernandez@ibm.com>  
+**To:** Henry Zhou <henry.zhou@ibm.com>  
+**Cc:** Quinn Parker <quinn.parker@ibm.com>, Yasmine Ali <yasmine.ali@ibm.com>  
+**Subject:** Re: Market Analysis for IBM Planning Analytics
+
+Hi Henry,
+
+The IBM Z systems are available and optimized for the data processing tasks. We shouldn’t face any issues in handling the data load. Let me know if there are any specific configurations you need.
+
+Looking forward to the final analysis report.
+
+Best regards,  
+Paul Hernandez  
+Systems Engineer  
+IT Support Department  
+IBM
+
+### JSON Object

@@ -1,0 +1,167 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Quinn Parker"
+                },
+                {
+                    "name": "Alice Smith"
+                },
+                {
+                    "name": "Derek Hill"
+                },
+                {
+                    "name": "Uma Patel"
+                },
+                {
+                    "name": "Jane Doe"
+                },
+                {
+                    "name": "John Roe"
+                },
+                {
+                    "name": "Mark Brown"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Illumio"
+                },
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Microsoft Azure"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note-taker"
+                },
+                {
+                    "title": "Project Manager"
+                },
+                {
+                    "title": "Cybersecurity Specialist"
+                },
+                {
+                    "title": "Cloud Services Expert"
+                },
+                {
+                    "title": "Mentor"
+                }
+            ],
+            "locations": [],
+            "products_services": [
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "Hybrid Cloud Solution"
+                },
+                {
+                    "name": "Zero-trust Segmentation"
+                },
+                {
+                    "name": "Analytics Dashboards"
+                },
+                {
+                    "name": "Comprehensive Testing Results"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Quinn Parker",
+                "organization": "Illumio"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Alice Smith",
+                "organization": "Illumio"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Derek Hill",
+                "organization": "Illumio"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Uma Patel",
+                "organization": "Illumio"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jane Doe",
+                "organization": "Illumio"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Roe",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Mark Brown",
+                "organization": "Microsoft Azure"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Uma Patel",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "John Roe",
+                "role": "Project Manager"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jane Doe",
+                "role": "Cybersecurity Specialist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Mark Brown",
+                "role": "Cloud Services Expert"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Quinn Parker",
+                "role": "Mentor"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Derek Hill",
+                "role": "Mentor"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Quinn Parker",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Derek Hill",
+                "product_service": "Comprehensive Testing Results"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Illumio",
+                "location": ""
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": ""
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Microsoft Azure",
+                "location": ""
+            }
+        ]
+    }
+}

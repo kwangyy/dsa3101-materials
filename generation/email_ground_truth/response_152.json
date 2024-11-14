@@ -1,0 +1,122 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Lily Garcia"
+    },
+    {
+     "name": "Yasmine Ali"
+    },
+    {
+     "name": "Oliver James"
+    },
+    {
+     "name": "Michael Turner"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Alteryx"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Marketing Analyst"
+    },
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "AI Research Scientist"
+    },
+    {
+     "title": "Cloud Security Architect"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Satellite"
+    },
+    {
+     "name": "IBM Planning Analytics"
+    },
+    {
+     "name": "IBM Watson Language Translator"
+    },
+    {
+     "name": "Microsoft Azure"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Lily Garcia",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Lily Garcia",
+    "role": "Marketing Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Lily Garcia",
+    "product_service": "IBM Cloud Satellite"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Yasmine Ali",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Yasmine Ali",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Yasmine Ali",
+    "product_service": "IBM Planning Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Oliver James",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Oliver James",
+    "role": "AI Research Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Oliver James",
+    "product_service": "IBM Watson Language Translator"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Turner",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Turner",
+    "role": "Cloud Security Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Turner",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "PARTNER_WITH",
+    "organization": "Alteryx"
+   }
+  ]
+ }
+}

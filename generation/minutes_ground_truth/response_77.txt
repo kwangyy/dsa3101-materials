@@ -1,0 +1,185 @@
+### Meeting Minutes 1 (Simple)
+
+**Date and Time:** 05-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Xander Williams (Note Taker)
+- Uma Patel
+- Samuel Davis
+- Emma Lee
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Project updates
+2. Collaboration on new initiatives
+
+**Discussion Points:**
+- **Project Updates:**
+  - **Xander Williams:** Provided updates on the development progress of the new mobile application.
+  - **Uma Patel:** Shared insights on current hybrid cloud solutions.
+  - **Samuel Davis:** Briefed on the latest advancements in the Hyperledger Fabric project.
+  - **Emma Lee:** Discussed recent changes in the product strategy for Google Cloud AI Platform.
+
+- **Collaboration on New Initiatives:**
+  - Explored potential cross-departmental projects.
+  - Discussed integration of blockchain technology with mobile applications.
+
+**Next Steps:**
+- Xander to finalize the mobile app by 20-Jan-2023.
+- Uma to provide a detailed hybrid cloud solution proposal by 25-Jan-2023.
+- Samuel to explore blockchain integration possibilities and report back by 30-Jan-2023.
+- Emma to update the product strategy document by 15-Jan-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+
+**Date and Time:** 12-Jan-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Xander Williams
+- Uma Patel (Note Taker)
+- Samuel Davis
+- Emma Lee
+- John Smith (External) - ServiceTitan
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Joint venture discussion with ServiceTitan
+2. Update on ongoing projects
+3. Addressing current challenges
+
+**Discussion Points:**
+- **Joint Venture Discussion:**
+  - **John Smith:** Introduced ServiceTitan and their software capabilities.
+  - Discussed potential collaboration areas between IBM and ServiceTitan.
+  
+- **Ongoing Projects:**
+  - Updates provided by all team members on their respective projects.
+
+- **Current Challenges:**
+  - Xander highlighted issues in app testing.
+  - Uma mentioned difficulties in client adoption for hybrid cloud solutions.
+  - Samuel discussed security concerns in blockchain implementation.
+  - Emma raised a point about resource allocation for the AI platform.
+
+**Next Steps:**
+- Xander to resolve app testing issues by 25-Jan-2023.
+- Uma to develop client adoption strategies by 01-Feb-2023.
+- Samuel to address security concerns with additional research by 05-Feb-2023.
+- Emma to reassess resource allocation and provide a new plan by 20-Jan-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+
+**Date and Time:** 19-Jan-2023, 9:30 AM - 11:00 AM
+
+**Attendees:**
+- Xander Williams
+- Uma Patel
+- Samuel Davis (Note Taker)
+- Emma Lee
+- Michael Johnson - Security Expert, IBM
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Review of security protocols
+2. Progress on the integration project
+3. Budget and resource allocation for Q1
+
+**Discussion Points:**
+- **Security Protocols Review:**
+  - **Michael Johnson:** Presented a detailed report on the current security measures.
+  - Discussed potential vulnerabilities and solutions.
+  
+- **Integration Project:**
+  - **Xander Williams:** Reported on progress and challenges faced.
+  - **Samuel Davis:** Shared updates on blockchain integration milestones.
+  
+- **Budget and Resource Allocation:**
+  - **Emma Lee:** Provided an overview of the current budget and resource distribution.
+  - Discussed reallocation to address project needs.
+
+**Next Steps:**
+- Michael to enhance security protocols and submit a revised plan by 01-Feb-2023.
+- Xander and Samuel to collaborate on solving integration issues by 15-Feb-2023.
+- Emma to finalize the budget and resource plan for Q1 by 25-Jan-2023.
+
+---
+
+### Meeting Minutes 4 (Simple)
+
+**Date and Time:** 26-Jan-2023, 1:00 PM - 1:30 PM
+
+**Attendees:**
+- Xander Williams
+- Uma Patel
+- Samuel Davis
+- Emma Lee (Note Taker)
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Quick project status update
+2. Preparation for upcoming client presentation
+
+**Discussion Points:**
+- **Project Status Update:**
+  - Brief updates from all team members on their current projects.
+
+- **Client Presentation:**
+  - Discussed key points to cover in the upcoming presentation.
+  - Allocated responsibilities for the presentation slides.
+
+**Next Steps:**
+- All members to prepare their respective sections of the presentation by 28-Jan-2023.
+- Emma to compile the final presentation deck by 29-Jan-2023.
+
+---
+
+### Meeting Minutes 5 (Moderate)
+
+**Date and Time:** 02-Feb-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**
+- Xander Williams
+- Uma Patel
+- Samuel Davis
+- Emma Lee (Note Taker)
+- Rachel Green (External) - Google Cloud
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Collaboration with Google Cloud
+2. Future roadmap for IBM Cloud Private
+3. Review of previous meeting action items
+
+**Discussion Points:**
+- **Google Cloud Collaboration:**
+  - **Rachel Green:** Presented potential collaboration opportunities.
+  - Discussed integration possibilities with IBM products.
+
+- **IBM Cloud Private Roadmap:**
+  - **Uma Patel:** Outlined the future roadmap and strategic direction.
+  
+- **Review of Previous Action Items:**
+  - Reviewed and confirmed the completion of action items from the last meeting.
+
+**Next Steps:**
+- Xander to explore integration opportunities with Google Cloud by 20-Feb-2023.
+- Uma to finalize the IBM Cloud Private roadmap by 15-Feb-2023.
+- Samuel to follow up on security enhancements and report back by 22-Feb-2023.
+
+---
+
+### JSON Data

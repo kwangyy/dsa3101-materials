@@ -1,0 +1,114 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Zachary Brooks"
+                },
+                {
+                    "name": "Yasmine Ali"
+                },
+                {
+                    "name": "Xander Williams"
+                },
+                {
+                    "name": "Franklin Moore"
+                },
+                {
+                    "name": "Jane Smith"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Databricks"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Notes"
+                },
+                {
+                    "title": "Data Engineering Lead"
+                }
+            ],
+            "locations": [],
+            "products_services": [
+                {
+                    "name": "Widget X"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Zachary Brooks",
+                "organization": "Databricks"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Yasmine Ali",
+                "organization": "Databricks"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Xander Williams",
+                "organization": "Databricks"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Franklin Moore",
+                "organization": "Databricks"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jane Smith",
+                "organization": "Databricks"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Zachary Brooks",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Xander Williams",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jane Smith",
+                "role": "Data Engineering Lead"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Databricks",
+                "location": ""
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Zachary Brooks",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Yasmine Ali",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Xander Williams",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Franklin Moore",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Jane Smith",
+                "product_service": "Widget X"
+            }
+        ]
+    }
+}

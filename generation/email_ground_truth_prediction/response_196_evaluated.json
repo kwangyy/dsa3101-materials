@@ -1,0 +1,138 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Carol Nguyen"
+                },
+                {
+                    "name": "Oliver James"
+                },
+                {
+                    "name": "Uma Patel"
+                },
+                {
+                    "name": "Tina Foster"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Junior Data Scientist"
+                },
+                {
+                    "title": "AI Research Scientist"
+                },
+                {
+                    "title": "Senior Solutions Architect"
+                },
+                {
+                    "title": "IT Support Specialist"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "IBM R&D Department"
+                },
+                {
+                    "name": "IBM Solutions Engineering Department"
+                },
+                {
+                    "name": "IBM Technical Services Department"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Watson Language Translator"
+                },
+                {
+                    "name": "IBM Cloud Private"
+                },
+                {
+                    "name": "IBM QRadar SIEM"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Carol Nguyen",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Oliver James",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Uma Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Tina Foster",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Carol Nguyen",
+                "role": "Junior Data Scientist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Oliver James",
+                "role": "AI Research Scientist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Uma Patel",
+                "role": "Senior Solutions Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Tina Foster",
+                "role": "IT Support Specialist"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM R&D Department",
+                "location": "IBM"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM Solutions Engineering Department",
+                "location": "IBM"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM Technical Services Department",
+                "location": "IBM"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Carol Nguyen",
+                "product_service": "IBM Watson Language Translator"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Oliver James",
+                "product_service": "IBM Watson Language Translator"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Uma Patel",
+                "product_service": "IBM Cloud Private"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Tina Foster",
+                "product_service": "IBM QRadar SIEM"
+            }
+        ]
+    }
+}

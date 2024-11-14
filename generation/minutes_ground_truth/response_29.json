@@ -1,0 +1,142 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Ivy Bennett"
+    },
+    {
+     "name": "Rachel Singh"
+    },
+    {
+     "name": "Xander Williams"
+    },
+    {
+     "name": "Abigail Carter"
+    },
+    {
+     "name": "James Liu"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Cloudera"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Data Engineer"
+    },
+    {
+     "title": "Software Engineer"
+    },
+    {
+     "title": "Mobile App Developer"
+    },
+    {
+     "title": "Business Intelligence Analyst"
+    },
+    {
+     "title": "Solutions Architect"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Db2 Database"
+    },
+    {
+     "name": "IBM Cloud Functions"
+    },
+    {
+     "name": "IBM MobileFirst Platform"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "Cloudera Machine Learning Platform"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Ivy Bennett",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Ivy Bennett",
+    "role": "Data Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Ivy Bennett",
+    "product_service": "IBM Db2 Database"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Singh",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Singh",
+    "role": "Software Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Rachel Singh",
+    "product_service": "IBM Cloud Functions"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Xander Williams",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Xander Williams",
+    "role": "Mobile App Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Xander Williams",
+    "product_service": "IBM MobileFirst Platform"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Abigail Carter",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Abigail Carter",
+    "role": "Business Intelligence Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Abigail Carter",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "James Liu",
+    "organization": "Cloudera"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "James Liu",
+    "role": "Solutions Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "James Liu",
+    "product_service": "Cloudera Machine Learning Platform"
+   }
+  ]
+ }
+}

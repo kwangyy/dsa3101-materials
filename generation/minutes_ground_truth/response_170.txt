@@ -1,0 +1,174 @@
+### Meeting Minutes 1 (Simple)
+
+**Date and Time:**  
+- Date: 01-Sep-2023  
+- Time: 10:00 AM - 10:30 AM
+
+**Attendees:**  
+- Wendy Chen
+- Victor Ramos
+- Ivy Bennett
+- Tina Foster  
+- Note-taker: Victor Ramos  
+- Absentees: None
+
+**Agenda:**  
+- Project status updates
+- Service integration discussion
+
+**Discussion Points:**  
+- Wendy provided an update on the AI solution design for IBM Maximo Asset Management.
+- Ivy discussed the progress in building ETL pipelines for IBM Db2.
+- Tina mentioned the current status of IBM QRadar SIEM implementation for clients.
+- Victor gave a quick overview of bot developments using IBM Robotic Process Automation.
+
+**Next Steps:**  
+- Wendy to finalize AI solution design by 10-Sep-2023.
+- Ivy to complete ETL pipeline setup by 15-Sep-2023.
+- Tina to resolve pending QRadar SIEM issues by 05-Sep-2023.
+- Victor to deploy new RPA bots by 08-Sep-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+
+**Date and Time:**  
+- Date: 15-Sep-2023  
+- Time: 2:00 PM - 3:00 PM
+
+**Attendees:**  
+- Wendy Chen
+- Victor Ramos
+- Ivy Bennett
+- Tina Foster  
+- Note-taker: Ivy Bennett  
+- Absentees: None
+
+**Agenda:**  
+- Progress reports on ongoing projects
+- Cross-departmental collaboration for service integration
+- Challenges and proposed solutions
+
+**Discussion Points:**  
+- Wendy shared insights on AI solution optimizations.
+- Ivy highlighted data ingestion challenges and solutions.
+- Tina noted the client feedback on QRadar SIEM integration.
+- Victor identified some issues in the RPA bot development process.
+- Discussion on how AI, Data Management, and Automation departments can work together effectively.
+
+**Next Steps:**  
+- Wendy to provide AI optimization details by 20-Sep-2023.
+- Ivy to address data ingestion issues and propose a solution by 25-Sep-2023.
+- Tina to incorporate client feedback and update QRadar SIEM by 18-Sep-2023.
+- Victor to troubleshoot RPA development issues and report findings by 22-Sep-2023.
+
+---
+
+### Meeting Minutes 3 (Moderate)
+
+**Date and Time:**  
+- Date: 29-Sep-2023  
+- Time: 11:00 AM - 12:00 PM
+
+**Attendees:**  
+- Wendy Chen
+- Victor Ramos
+- Ivy Bennett
+- Tina Foster  
+- Note-taker: Tina Foster  
+- Absentees: None
+
+**Agenda:**  
+- Review of completed tasks
+- Feedback from clients
+- Integration with external systems (e.g., Alteryx)
+
+**Discussion Points:**  
+- Wendy reviewed the completed AI solution integration.
+- Ivy shared successful data pipeline implementations.
+- Tina presented positive client feedback on QRadar SIEM.
+- Discussion on integrating IBM solutions with Alteryx for enhanced analytics.
+- Victor highlighted potential bottlenecks in RPA deployment.
+
+**Next Steps:**  
+- Wendy to explore Alteryx integration options by 10-Oct-2023.
+- Ivy to prepare a case study on data pipeline success by 05-Oct-2023.
+- Tina to draft a client feedback report by 03-Oct-2023.
+- Victor to address RPA deployment bottlenecks by 08-Oct-2023.
+
+---
+
+### Meeting Minutes 4 (Detailed)
+
+**Date and Time:**  
+- Date: 10-Oct-2023  
+- Time: 3:00 PM - 4:30 PM
+
+**Attendees:**  
+- Wendy Chen
+- Victor Ramos
+- Ivy Bennett
+- Tina Foster  
+- Note-taker: Wendy Chen  
+- Absentees: None
+
+**Agenda:**  
+- Detailed project updates
+- Upcoming milestones and deadlines
+- External collaboration with Alteryx
+
+**Discussion Points:**  
+- Wendy detailed the latest AI model improvements and shared metrics.
+- Ivy provided an update on new data sources added to ETL pipelines.
+- Tina discussed ongoing client issues and recent ticket trends.
+- Victor mentioned the latest RPA bot capabilities and upcoming features.
+- Discussion on the integration of IBM solutions with Alteryx for joint projects.
+- Identified potential challenges and proposed solutions for better integration.
+
+**Next Steps:**  
+- Wendy to submit a comprehensive AI model report by 15-Oct-2023.
+- Ivy to finalize new data source integration by 20-Oct-2023.
+- Tina to resolve high-priority client tickets by 12-Oct-2023.
+- Victor to complete the development of new RPA features by 25-Oct-2023.
+- All to work on Alteryx integration pilot project proposal by 30-Oct-2023.
+
+---
+
+### Meeting Minutes 5 (Detailed)
+
+**Date and Time:**  
+- Date: 25-Oct-2023  
+- Time: 4:00 PM - 5:30 PM
+
+**Attendees:**  
+- Wendy Chen
+- Victor Ramos
+- Ivy Bennett
+- Tina Foster
+- Jane Smith (Alteryx - Data Scientist)  
+- Note-taker: Ivy Bennett  
+- Absentees: None
+
+**Agenda:**  
+- Final reviews of Q3 projects
+- Feedback and lessons learned
+- Future collaborations with Alteryx
+
+**Discussion Points:**  
+- Wendy shared insights on AI solutions' effectiveness and areas for improvement.
+- Ivy discussed the performance of new ETL pipelines and data management strategies.
+- Tina reviewed client satisfaction reports and highlighted key areas for enhancement.
+- Victor shared the RPA bot performance metrics and potential areas for automation.
+- Jane Smith from Alteryx discussed opportunities for deeper integration and joint data projects.
+- Identified challenges in cross-platform data handling and proposed joint task forces for resolution.
+
+**Next Steps:**  
+- Wendy to start working on Q4 AI improvement plan by 01-Nov-2023.
+- Ivy to analyze Q3 pipeline performance and report findings by 05-Nov-2023.
+- Tina to develop an action plan for improving client satisfaction by 10-Nov-2023.
+- Victor to explore new automation opportunities and present by 15-Nov-2023.
+- Jane Smith to coordinate with IBM teams for Alteryx integration projects and provide a timeline by 07-Nov-2023.
+
+---
+
+### JSON Representation

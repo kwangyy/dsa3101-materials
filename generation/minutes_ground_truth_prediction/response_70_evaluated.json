@@ -1,0 +1,140 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Clara Diaz"
+                },
+                {
+                    "name": "David Patel"
+                },
+                {
+                    "name": "Gina Lopez"
+                },
+                {
+                    "name": "Tina Foster"
+                },
+                {
+                    "name": "John Smith"
+                },
+                {
+                    "name": "Alice Jones"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "ServiceTitan"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note Taker"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cloud Pak for Data"
+                },
+                {
+                    "name": "IBM QRadar SIEM"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Widget X"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Clara Diaz",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "David Patel",
+                "organization": "ServiceTitan"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Gina Lopez",
+                "organization": "ServiceTitan"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Tina Foster",
+                "organization": "ServiceTitan"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "ServiceTitan"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Alice Jones",
+                "organization": "ServiceTitan"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Clara Diaz",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "David Patel",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Gina Lopez",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Tina Foster",
+                "role": "Note Taker"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Clara Diaz",
+                "product_service": "IBM Cloud Pak for Data"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "David Patel",
+                "product_service": "IBM QRadar SIEM"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Gina Lopez",
+                "product_service": "AWS"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Tina Foster",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "ServiceTitan",
+                "location": "New York"
+            }
+        ]
+    }
+}

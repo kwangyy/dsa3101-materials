@@ -1,0 +1,178 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Clara Diaz"
+                },
+                {
+                    "name": "Franklin Moore"
+                },
+                {
+                    "name": "Victor Ramos"
+                },
+                {
+                    "name": "Abigail Carter"
+                },
+                {
+                    "name": "John Smith"
+                },
+                {
+                    "name": "Sarah Johnson"
+                },
+                {
+                    "name": "Maria Lee"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Acme Corp"
+                },
+                {
+                    "name": "Elastic"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note taker"
+                },
+                {
+                    "title": "Senior Data Scientist"
+                },
+                {
+                    "title": "AI Ethics Consultant"
+                },
+                {
+                    "title": "Data Analytics Expert"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "IBM Watson Assistant"
+                },
+                {
+                    "name": "RPA bots"
+                },
+                {
+                    "name": "Cognos Analytics"
+                },
+                {
+                    "name": "AI OpenScale"
+                },
+                {
+                    "name": "Real-time data analytics"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Clara Diaz",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Franklin Moore",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Abigail Carter",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "Elastic"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Sarah Johnson",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Maria Lee",
+                "organization": "Elastic"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Clara Diaz",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Franklin Moore",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Victor Ramos",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Abigail Carter",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "John Smith",
+                "role": "Senior Data Scientist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Sarah Johnson",
+                "role": "AI Ethics Consultant"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Maria Lee",
+                "role": "Data Analytics Expert"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Clara Diaz",
+                "product_service": "AI OpenScale"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Franklin Moore",
+                "product_service": "IBM Watson Assistant"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "RPA bots"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Abigail Carter",
+                "product_service": "Cognos Analytics"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Acme Corp",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Elastic",
+                "location": "New York"
+            }
+        ]
+    }
+}

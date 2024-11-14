@@ -1,0 +1,165 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Emma Lee"
+    },
+    {
+     "name": "Abigail Carter"
+    },
+    {
+     "name": "Alice Smith"
+    },
+    {
+     "name": "Quinn Parker"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Nutanix"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Product Manager"
+    },
+    {
+     "title": "Business Intelligence Analyst"
+    },
+    {
+     "title": "Chief Data Officer"
+    },
+    {
+     "title": "Data Analyst"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IT Department"
+    },
+    {
+     "name": "Data Analytics Department"
+    },
+    {
+     "name": "R&D Department"
+    },
+    {
+     "name": "Data Science Department"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Google Cloud AI Platform"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "Symantec Endpoint Security"
+    },
+    {
+     "name": "Hybrid and multi-cloud computing infrastructure"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Lee",
+    "role": "Product Manager"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IT Department"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Emma Lee",
+    "product_service": "Google Cloud AI Platform"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Abigail Carter",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Abigail Carter",
+    "role": "Business Intelligence Analyst"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Data Analytics Department"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Abigail Carter",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Alice Smith",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Alice Smith",
+    "role": "Chief Data Officer"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "R&D Department"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Symantec Endpoint Security"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Quinn Parker",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Quinn Parker",
+    "role": "Data Analyst"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Data Science Department"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Quinn Parker",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "organization": "Nutanix",
+    "product_service": "Hybrid and multi-cloud computing infrastructure"
+   }
+  ]
+ }
+}

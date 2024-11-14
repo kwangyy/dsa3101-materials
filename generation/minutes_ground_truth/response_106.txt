@@ -1,0 +1,174 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:**
+- 05-Sep-2023
+- 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Jackie Lin (Note Taker)
+- Franklin Moore
+- David Patel
+- Zachary Brooks
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Introduction to collaboration proposals
+- Initial ideas for collaboration
+
+**Discussion Points:**
+- Jackie Lin proposed enhancing security features in IBM Watson Assistant.
+- Franklin Moore agreed and suggested tighter integration between security analytics and AI responses.
+- David Patel mentioned the necessity of scalable cloud infrastructure to support these integrations.
+- Zachary Brooks discussed potential customer impacts and benefits.
+
+**Next Steps:**
+- Jackie Lin to draft initial security enhancements proposal by 10-Sep-2023.
+- Franklin Moore to research integration possibilities and report back by 12-Sep-2023.
+- David Patel to evaluate cloud resource requirements by 15-Sep-2023.
+- Zachary Brooks to gather customer feedback on potential changes by 18-Sep-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+
+**Date and Time:**
+- 10-Sep-2023
+- 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Jackie Lin
+- Franklin Moore (Note Taker)
+- David Patel
+- Zachary Brooks
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Follow-up on initial collaboration proposals
+- Detailed discussion on integration and infrastructure
+
+**Discussion Points:**
+- Jackie Lin shared initial security enhancements proposal.
+- Franklin Moore discussed research findings on integration between IBM Watson Assistant and IBM Security Guardium.
+- David Patel presented cloud infrastructure options and scalability concerns.
+- Zachary Brooks provided initial customer feedback, highlighting positive responses and some concerns regarding deployment complexities.
+
+**Next Steps:**
+- Jackie Lin to refine security proposal based on feedback by 15-Sep-2023.
+- Franklin Moore to start developing APIs for integration by 20-Sep-2023.
+- David Patel to set up a pilot environment for testing by 25-Sep-2023.
+- Zachary Brooks to arrange a customer demo session by 30-Sep-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+
+**Date and Time:**
+- 15-Sep-2023
+- 11:00 AM - 12:30 PM
+
+**Attendees:**
+- Jackie Lin
+- Franklin Moore
+- David Patel (Note Taker)
+- Zachary Brooks
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Pilot environment status
+- API development progress
+- Customer demo preparations
+
+**Discussion Points:**
+- David Patel reported that the pilot environment setup is on schedule.
+- Franklin Moore shared progress on API development, citing a few challenges with data synchronization.
+- Jackie Lin refined the security proposal based on the latest feedback and integration points.
+- Zachary Brooks discussed customer demo session logistics, emphasizing the importance of addressing deployment concerns.
+
+**Next Steps:**
+- David Patel to complete pilot setup by 20-Sep-2023.
+- Franklin Moore to resolve data synchronization issues and finalize API by 25-Sep-2023.
+- Jackie Lin to prepare final security documentation by 28-Sep-2023.
+- Zachary Brooks to confirm customer demo details and send out invites by 22-Sep-2023.
+
+---
+
+### Meeting Minutes 4: Detailed with External Entity
+
+**Date and Time:**
+- 25-Sep-2023
+- 1:00 PM - 2:30 PM
+
+**Attendees:**
+- Jackie Lin
+- Franklin Moore
+- David Patel
+- Zachary Brooks (Note Taker)
+- John Smith (Cognex, Machine Vision Specialist)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Integrating Cognex machine vision systems
+- Finalizing customer demo
+
+**Discussion Points:**
+- John Smith presented an overview of Cognex machine vision systems and potential integration points with IBM Cloud Pak for Integration.
+- Jackie Lin discussed the security implications and necessary protocols for the integration.
+- Franklin Moore elaborated on potential API adjustments to accommodate machine vision data.
+- David Patel highlighted cloud infrastructure enhancements required for the integration.
+- Zachary Brooks finalized customer demo details, ensuring that the integration of Cognex systems would be showcased.
+
+**Next Steps:**
+- Jackie Lin to draft security protocols for Cognex integration by 30-Sep-2023.
+- Franklin Moore to modify APIs to support machine vision data by 05-Oct-2023.
+- David Patel to enhance cloud infrastructure for the integration by 10-Oct-2023.
+- Zachary Brooks to update the customer demo agenda to include Cognex system integration and send final invites by 01-Oct-2023.
+
+---
+
+### Meeting Minutes 5: Moderate with Internal and External Entities
+
+**Date and Time:**
+- 05-Oct-2023
+- 3:00 PM - 4:00 PM
+
+**Attendees:**
+- Jackie Lin
+- Franklin Moore
+- David Patel
+- Zachary Brooks
+- Sarah Lee (Marketing, IBM)
+- John Smith (Cognex, Machine Vision Specialist) (Note Taker)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Marketing strategies for the collaboration
+- Final review before customer demo
+
+**Discussion Points:**
+- Sarah Lee discussed marketing strategies to highlight the collaboration between IBM and Cognex.
+- Jackie Lin presented the final security protocols for review.
+- Franklin Moore confirmed the completion of API modifications.
+- David Patel provided an update on cloud infrastructure enhancements.
+- John Smith ensured all machine vision system integrations were functioning as expected.
+- Zachary Brooks reviewed the final agenda for the customer demo and emphasized key points to highlight.
+
+**Next Steps:**
+- Sarah Lee to launch the marketing campaign by 10-Oct-2023.
+- Jackie Lin to conduct a final security check by 08-Oct-2023.
+- Franklin Moore to prepare a technical presentation for the customer demo by 12-Oct-2023.
+- David Patel to monitor cloud performance during the demo on 15-Oct-2023.
+- Zachary Brooks to finalize all demo preparations and conduct a rehearsal by 13-Oct-2023.
+
+---
+
+### JSON Data

@@ -1,0 +1,151 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Samuel Davis"
+    },
+    {
+     "name": "Emma Lee"
+    },
+    {
+     "name": "Gina Lopez"
+    },
+    {
+     "name": "Henry Zhou"
+    },
+    {
+     "name": "Michael Carter"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Zscaler"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Blockchain Developer"
+    },
+    {
+     "title": "Product Manager"
+    },
+    {
+     "title": "UX Designer"
+    },
+    {
+     "title": "DevOps Engineer"
+    },
+    {
+     "title": "Security Analyst"
+    }
+   ],
+   "locations": [],
+   "products_services": [
+    {
+     "name": "IBM Blockchain Platform"
+    },
+    {
+     "name": "Google Cloud AI Platform"
+    },
+    {
+     "name": "IBM Cloud Pak for Data"
+    },
+    {
+     "name": "IBM Kubernetes Service"
+    },
+    {
+     "name": "Hyperledger Fabric"
+    },
+    {
+     "name": "Zscaler Security Solutions"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Samuel Davis",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Samuel Davis",
+    "role": "Blockchain Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "IBM Blockchain Platform"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "Hyperledger Fabric"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Lee",
+    "role": "Product Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Emma Lee",
+    "product_service": "Google Cloud AI Platform"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Gina Lopez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Gina Lopez",
+    "role": "UX Designer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Gina Lopez",
+    "product_service": "IBM Cloud Pak for Data"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Henry Zhou",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Henry Zhou",
+    "role": "DevOps Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Henry Zhou",
+    "product_service": "IBM Kubernetes Service"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Carter",
+    "organization": "Zscaler"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Carter",
+    "role": "Security Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Carter",
+    "product_service": "Zscaler Security Solutions"
+   }
+  ]
+ }
+}

@@ -1,0 +1,169 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Lily Garcia"
+                },
+                {
+                    "name": "Henry Zhou"
+                },
+                {
+                    "name": "Ivy Bennett"
+                },
+                {
+                    "name": "Paul Hernandez"
+                },
+                {
+                    "name": "Jane Smith"
+                },
+                {
+                    "name": "Robert Blake"
+                },
+                {
+                    "name": "Emily Turner"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Cloudera"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note Taker"
+                },
+                {
+                    "title": "Data Scientist"
+                },
+                {
+                    "title": "Solution Architect"
+                },
+                {
+                    "title": "Business Development Manager"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cloud Satellite"
+                },
+                {
+                    "name": "IBM Kubernetes Service"
+                },
+                {
+                    "name": "IBM Db2 Database"
+                },
+                {
+                    "name": "IBM Z systems"
+                },
+                {
+                    "name": "CI/CD pipeline automation"
+                },
+                {
+                    "name": "ETL pipeline development"
+                },
+                {
+                    "name": "Machine learning models"
+                },
+                {
+                    "name": "Big data analysis"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Lily Garcia",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Henry Zhou",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Ivy Bennett",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Paul Hernandez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jane Smith",
+                "organization": "Cloudera"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Robert Blake",
+                "organization": "Cloudera"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emily Turner",
+                "organization": "Cloudera"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Lily Garcia",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jane Smith",
+                "role": "Data Scientist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Robert Blake",
+                "role": "Solution Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emily Turner",
+                "role": "Business Development Manager"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Lily Garcia",
+                "product_service": "IBM Cloud Satellite"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Henry Zhou",
+                "product_service": "IBM Kubernetes Service"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "IBM Db2 Database"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Paul Hernandez",
+                "product_service": "IBM Z systems"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Cloudera",
+                "location": "New York"
+            }
+        ]
+    }
+}

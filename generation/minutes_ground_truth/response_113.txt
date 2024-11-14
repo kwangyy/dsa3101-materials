@@ -1,0 +1,148 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time: 12-Sep-2023, 10:00 AM - 10:15 AM**
+
+**Attendees:**
+- Carol Nguyen (Notes)
+- David Patel
+- Yasmine Ali
+- Henry Zhou
+
+**Agenda:**
+- Greetings
+- Innovation Initiatives Update
+
+**Discussion Points:**
+- Carol welcomed everyone and provided a quick update on the innovation initiatives.
+- Yasmine mentioned the potential use of predictive models in the new IBM Planning Analytics project.
+- David suggested exploring AWS’s new features for scalability.
+- Henry talked about improvements in the CI/CD pipeline for the IBM Kubernetes Service.
+
+**Next Steps:**
+- Yasmine to build a basic predictive model by 19-Sep-2023.
+- David to draft a scalability plan for AWS by 20-Sep-2023.
+- Henry to test CI/CD improvements by 22-Sep-2023.
+
+---
+
+### Meeting Minutes 2 (Simple)
+**Date and Time: 25-Sep-2023, 2:00 PM - 2:15 PM**
+
+**Attendees:**
+- Carol Nguyen (Notes)
+- David Patel
+- Henry Zhou
+- Yasmine Ali
+
+**Agenda:**
+- Greetings
+- Innovation Initiatives Update
+
+**Discussion Points:**
+- Carol welcomed the team and shared insights about the latest innovation initiatives.
+- David highlighted the integration of AWS services.
+- Henry provided a brief update on automation tasks for the CI/CD pipeline.
+
+**Next Steps:**
+- David to complete AWS service integration by 01-Oct-2023.
+- Henry to finalize automation tasks by 03-Oct-2023.
+
+---
+
+### Meeting Minutes 3 (Moderate)
+**Date and Time: 02-Oct-2023, 11:00 AM - 11:45 AM**
+
+**Attendees:**
+- Carol Nguyen
+- David Patel (Notes)
+- Yasmine Ali
+- Henry Zhou
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Greetings
+- Progress on Innovation Initiatives
+- Upcoming Challenges
+
+**Discussion Points:**
+- Carol initiated the meeting with a greeting.
+- Yasmine discussed the progress of predictive models for IBM Planning Analytics.
+- David mentioned potential challenges in scaling AWS infrastructure.
+- Henry discussed the integration of CI/CD pipeline automation and its impact.
+
+**Next Steps:**
+- Yasmine to refine predictive models and submit a report by 10-Oct-2023.
+- David to propose solutions for AWS scaling issues by 12-Oct-2023.
+- Henry to ensure CI/CD integration is seamless by 14-Oct-2023.
+
+---
+
+### Meeting Minutes 4 (Moderate)
+**Date and Time: 15-Oct-2023, 3:00 PM - 3:45 PM**
+
+**Attendees:**
+- Carol Nguyen (Notes)
+- David Patel
+- Yasmine Ali
+- Henry Zhou
+- John Smith (Databricks - Data Engineering Lead)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Greetings
+- Innovation Initiatives
+- Collaboration with Databricks
+
+**Discussion Points:**
+- Carol welcomed John Smith from Databricks.
+- Yasmine provided updates on the predictive model for IBM Planning Analytics.
+- John discussed potential collaboration opportunities leveraging Apache Spark.
+- David and Henry discussed integrating Databricks solutions with AWS and IBM Kubernetes.
+
+**Next Steps:**
+- Yasmine to follow up with John on collaborative projects by 20-Oct-2023.
+- David and Henry to draft an integration plan by 25-Oct-2023.
+
+---
+
+### Meeting Minutes 5 (Detailed)
+**Date and Time: 30-Oct-2023, 9:00 AM - 10:00 AM**
+
+**Attendees:**
+- Carol Nguyen (Notes)
+- David Patel
+- Yasmine Ali
+- Henry Zhou
+- John Smith (Databricks - Data Engineering Lead)
+- Sarah Brown (Marketing, IBM)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Greetings
+- Detailed Progress on Innovation Initiatives
+- Collaboration with Databricks
+- Marketing Strategies
+
+**Discussion Points:**
+- Carol opened the meeting with a welcome note.
+- Yasmine presented a detailed report on predictive models and their outcomes.
+- John elaborated on how Databricks can enhance data engineering capabilities using Apache Spark.
+- David discussed the architectural plans to scale AWS infrastructure.
+- Henry shared detailed CI/CD automation improvements.
+- Sarah discussed marketing strategies to promote the innovation initiatives.
+
+**Next Steps:**
+- Yasmine to finalize predictive model for IBM Planning Analytics by 05-Nov-2023.
+- David to implement AWS scaling solutions by 07-Nov-2023.
+- Henry to complete CI/CD pipeline enhancements by 10-Nov-2023.
+- John to send a detailed Databricks collaboration proposal by 08-Nov-2023.
+- Sarah to draft a marketing strategy by 12-Nov-2023.
+
+---
+
+### JSON Format

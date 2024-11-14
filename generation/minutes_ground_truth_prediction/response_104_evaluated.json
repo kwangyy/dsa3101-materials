@@ -1,0 +1,148 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Brian Taylor"
+                },
+                {
+                    "name": "Benji Martinez"
+                },
+                {
+                    "name": "Kevin O'Reilly"
+                },
+                {
+                    "name": "Emma Lee"
+                },
+                {
+                    "name": "Jane Smith"
+                },
+                {
+                    "name": "Tom Jenkins"
+                },
+                {
+                    "name": "Lisa Brown"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Elastic"
+                },
+                {
+                    "name": "Google Cloud AI Platform"
+                },
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Notes"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "IBM Watson Studio"
+                },
+                {
+                    "name": "Google Cloud AI"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Brian Taylor",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Benji Martinez",
+                "organization": "Google Cloud AI Platform"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emma Lee",
+                "organization": "Elastic"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Kevin O'Reilly",
+                "organization": "Elastic"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jane Smith",
+                "organization": "Elastic"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Tom Jenkins",
+                "organization": "Google Cloud AI Platform"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Lisa Brown",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Brian Taylor",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Benji Martinez",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Kevin O'Reilly",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emma Lee",
+                "role": "Notes"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Brian Taylor",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Benji Martinez",
+                "product_service": "IBM Watson Studio"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Kevin O'Reilly",
+                "product_service": "Google Cloud AI"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Elastic",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Google Cloud AI Platform",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            }
+        ]
+    }
+}

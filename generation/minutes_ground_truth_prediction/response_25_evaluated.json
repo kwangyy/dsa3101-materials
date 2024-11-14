@@ -1,0 +1,180 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Michael Turner"
+                },
+                {
+                    "name": "Samuel Davis"
+                },
+                {
+                    "name": "Yasmine Ali"
+                },
+                {
+                    "name": "Kevin O'Reilly"
+                },
+                {
+                    "name": "Nathan Kim"
+                },
+                {
+                    "name": "Julie Martinez"
+                },
+                {
+                    "name": "David Lee"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Splunk"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note-taker"
+                },
+                {
+                    "title": "IT Operations Specialist"
+                },
+                {
+                    "title": "Machine Learning Specialist"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "Unknown"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "Hyperledger Fabric"
+                },
+                {
+                    "name": "IBM Blockchain Platform"
+                },
+                {
+                    "name": "Splunk IT operations and security monitoring"
+                },
+                {
+                    "name": "Machine learning models"
+                },
+                {
+                    "name": "Predictive models"
+                },
+                {
+                    "name": "Blockchain"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Turner",
+                "organization": "Unknown"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Samuel Davis",
+                "organization": "Unknown"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Yasmine Ali",
+                "organization": "Unknown"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Kevin O'Reilly",
+                "organization": "Unknown"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Nathan Kim",
+                "organization": "Unknown"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Julie Martinez",
+                "organization": "Splunk"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "David Lee",
+                "organization": "Splunk"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Turner",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Samuel Davis",
+                "role": "Unknown"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Yasmine Ali",
+                "role": "Unknown"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Kevin O'Reilly",
+                "role": "Unknown"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Nathan Kim",
+                "role": "Unknown"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Julie Martinez",
+                "role": "IT Operations Specialist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "David Lee",
+                "role": "Machine Learning Specialist"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Hyperledger Fabric"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Yasmine Ali",
+                "product_service": "Predictive models"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Kevin O'Reilly",
+                "product_service": "Machine learning models"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Splunk",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Unknown",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Unknown",
+                "location": "Unknown"
+            }
+        ]
+    }
+}

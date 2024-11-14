@@ -1,0 +1,146 @@
+### Meeting Minutes 1
+**Date and Time:** 10-Jan-2023, 10:00 AM - 10:30 AM  
+**Attendees:**  
+- Rachel Singh
+- Oliver James
+- Ivy Bennett
+- David Patel
+
+**Absentees:** None
+
+**Agenda:**
+- Greetings and introductions
+- Project status updates
+
+**Discussion Points:**
+- **Rachel Singh:** Updated on backend development progress for IBM Cloud Functions.
+- **Oliver James:** Shared current advancements in NLP for IBM Watson Language Translator.
+- **Ivy Bennett:** Discussed ETL pipeline improvements for IBM Db2 Database.
+- **David Patel:** Briefed on recent AWS infrastructure enhancements.
+
+**Next Steps:**
+- Rachel to complete backend updates by 25-Jan-2023.
+- Oliver to integrate new NLP models by 01-Feb-2023.
+- Ivy to finish ETL pipeline improvements by 20-Jan-2023.
+- David to finalize AWS architecture changes by 30-Jan-2023.
+
+---
+
+### Meeting Minutes 2
+**Date and Time:** 15-Feb-2023, 02:00 PM - 03:00 PM  
+**Attendees:**  
+- Rachel Singh
+- Oliver James
+- Ivy Bennett
+
+**Absentees:**  
+- David Patel
+
+**Agenda:**
+- Integration of IBM Db2 Database with IBM Watson
+- Cloud infrastructure updates
+
+**Discussion Points:**
+- **Rachel Singh:** Discussed potential backend adjustments needed for integration.
+- **Oliver James:** Proposed enhancements to improve NLP capabilities for integration.
+- **Ivy Bennett:** Highlighted the technical challenges in ETL process during integration.
+
+**Next Steps:**
+- Rachel to adjust backend by 28-Feb-2023.
+- Oliver to provide updated NLP models by 05-Mar-2023.
+- Ivy to resolve ETL issues by 01-Mar-2023.
+- David to be briefed on integration status on his return.
+
+---
+
+### Meeting Minutes 3
+**Date and Time:** 22-Mar-2023, 11:00 AM - 12:30 PM  
+**Attendees:**  
+- Rachel Singh
+- Oliver James
+- Ivy Bennett
+- David Patel
+- James Brown (Splunk, IT Operations Specialist)
+
+**Absentees:** None
+
+**Agenda:**
+- Service Integration with Splunk
+- Security enhancement strategies
+
+**Discussion Points:**
+- **Rachel Singh:** Outlined backend requirements for Splunk integration.
+- **Oliver James:** Shared insights on how NLP models can be optimized with Splunk data.
+- **Ivy Bennett:** Discussed data pipeline adjustments needed for integration with Splunk.
+- **David Patel:** Evaluated AWS infrastructure impacts of integration.
+- **James Brown:** Explained monitoring and security best practices from Splunk perspective.
+
+**Next Steps:**
+- Rachel to implement backend changes by 05-Apr-2023.
+- Oliver to optimize NLP models by 10-Apr-2023.
+- Ivy to adjust data pipelines by 07-Apr-2023.
+- David to review and update AWS architecture by 12-Apr-2023.
+- James Brown to share Splunk security best practices documentation by 29-Mar-2023.
+
+---
+
+### Meeting Minutes 4
+**Date and Time:** 01-May-2023, 09:30 AM - 11:00 AM  
+**Attendees:**  
+- Rachel Singh
+- Oliver James
+- Ivy Bennett
+- David Patel
+
+**Absentees:** None
+
+**Agenda:**
+- Progress review on service integration
+- Performance improvements
+
+**Discussion Points:**
+- **Rachel Singh:** Reported on backend modifications status and performance metrics.
+- **Oliver James:** Demonstrated how new NLP models are performing with integrated data.
+- **Ivy Bennett:** Provided an overview of data pipeline efficiency post-integration.
+- **David Patel:** Discussed AWS performance benchmarks and bottlenecks identified.
+
+**Next Steps:**
+- Rachel to tweak backend settings by 15-May-2023.
+- Oliver to perform additional model training by 20-May-2023.
+- Ivy to optimize data flow by 18-May-2023.
+- David to resolve AWS performance issues by 22-May-2023.
+
+---
+
+### Meeting Minutes 5
+**Date and Time:** 20-Jun-2023, 03:00 PM - 04:30 PM  
+**Attendees:**  
+- Rachel Singh
+- Oliver James
+- Ivy Bennett
+- David Patel
+- External Consultant: Sarah Lewis (Data Security Expert)
+
+**Absentees:** None
+
+**Agenda:**
+- Security audit for integrated services
+- Strategy for next phase of the project
+
+**Discussion Points:**
+- **Rachel Singh:** Addressed security vulnerabilities found in backend systems.
+- **Oliver James:** Discussed encryption techniques for NLP data.
+- **Ivy Bennett:** Detailed secure data pipeline solutions.
+- **David Patel:** Reviewed secure AWS architecture considerations.
+- **Sarah Lewis:** Provided expert recommendations on data security and compliance.
+
+**Next Steps:**
+- Rachel to fix backend vulnerabilities by 05-Jul-2023.
+- Oliver to implement encryption techniques by 10-Jul-2023.
+- Ivy to secure data pipelines by 08-Jul-2023.
+- David to ensure AWS compliance by 12-Jul-2023.
+- Sarah Lewis to submit detailed security audit report by 01-Jul-2023.
+
+---
+
+### JSON Data

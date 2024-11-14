@@ -1,0 +1,139 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time**: 10-Oct-2023, 10:00 AM - 10:30 AM  
+**Attendees**: Jackie Lin, Michael Turner, Derek Hill, Lily Garcia  
+**Absentees**: None  
+**Note Taker**: Lily Garcia
+
+**Agenda**:
+- Simple greetings
+- Brief introductions
+- Discuss cross-functional collaboration on current projects
+
+**Discussion Points**:
+- Each attendee introduced themselves and their role.
+- Discussed the importance of cross-functional collaboration.
+- Jackie Lin emphasized the need for better communication channels between departments to improve threat detection.
+- Michael Turner proposed a regular bi-weekly meeting to discuss ongoing issues and updates.
+- Derek Hill mentioned the importance of integrating QA feedback into the security protocols.
+- Lily Garcia highlighted the role of market analysis in understanding customer needs and aligning it with product security features.
+
+**Next Steps**:
+- Schedule a bi-weekly meeting: Michael Turner (By 15-Oct-2023)
+- Enhance communication channels between departments: Jackie Lin (Ongoing)
+- Integrate QA feedback in security protocols: Derek Hill (Next meeting)
+
+---
+
+### Meeting Minutes 2 (Moderate)
+**Date and Time**: 20-Oct-2023, 2:00 PM - 3:00 PM  
+**Attendees**: Jackie Lin, Michael Turner, Derek Hill, Lily Garcia  
+**Absentees**: None  
+**Note Taker**: Derek Hill
+
+**Agenda**:
+- Project updates
+- Strategy discussions
+- Problem-solving session
+
+**Discussion Points**:
+- Michael Turner provided updates on the new security protocols for Microsoft Azure.
+- Jackie Lin mentioned recent advancements in threat detection for IBM Security Guardium.
+- Derek Hill shared findings from the latest QA tests on IBM Aspera.
+- Discussed strategies to enhance product security based on QA feedback.
+- Lily Garcia presented customer trend analysis and its implications for IBM Cloud Satellite.
+- Identified potential challenges in integrating new security measures.
+- Proposed solutions to address these challenges.
+
+**Next Steps**:
+- Draft new security protocol documentation: Michael Turner (By 25-Oct-2023)
+- Review QA feedback and implement changes: Derek Hill (By next meeting)
+- Analyze customer trends and adjust marketing strategies: Lily Garcia (Ongoing)
+- Schedule follow-up meeting: Jackie Lin (By 23-Oct-2023)
+
+---
+
+### Meeting Minutes 3 (Detailed)
+**Date and Time**: 02-Nov-2023, 9:00 AM - 10:30 AM  
+**Attendees**: Jackie Lin, Michael Turner, Derek Hill, Lily Garcia  
+**Absentees**: None  
+**Note Taker**: Michael Turner
+
+**Agenda**:
+- In-depth project updates
+- Cross-departmental collaboration
+- Involvement of Cloudera for big data analysis
+- Problem-solving session
+
+**Discussion Points**:
+- Jackie Lin reported improvements in threat detection algorithms.
+- Michael Turner discussed recent changes in cloud security protocols for Microsoft Azure.
+- Derek Hill highlighted the need for more rigorous QA testing.
+- Lily Garcia presented in-depth customer trend analysis and marketing adjustments.
+- Discussed collaboration with Cloudera for enhancing big data analysis.
+- Identified potential challenges in data integration from Cloudera.
+- Proposed solutions to address data integration issues.
+
+**Next Steps**:
+- Finalize threat detection algorithm updates: Jackie Lin (By 07-Nov-2023)
+- Implement new cloud security protocols: Michael Turner (By 10-Nov-2023)
+- Intensify QA testing and report findings: Derek Hill (By 15-Nov-2023)
+- Work with Cloudera to streamline data integration: Lily Garcia (Ongoing)
+- Schedule next meeting: Michael Turner (By 05-Nov-2023)
+
+---
+
+### Meeting Minutes 4 (Moderate)
+**Date and Time**: 18-Nov-2023, 11:00 AM - 12:00 PM  
+**Attendees**: Jackie Lin, Michael Turner, Derek Hill, Lily Garcia  
+**Absentees**: None  
+**Note Taker**: Jackie Lin
+
+**Agenda**:
+- Recap of previous meeting
+- Updates on action items
+- Discuss collaboration with external entities
+
+**Discussion Points**:
+- Michael Turner updated on the implementation of new cloud security protocols.
+- Derek Hill presented QA test results and their implications.
+- Lily Garcia shared progress on marketing strategies based on customer trends.
+- Jackie Lin suggested leveraging Cloudera's platform for better threat detection.
+- Discussed the potential challenges in working with external entities.
+- Proposed solutions to address these challenges.
+
+**Next Steps**:
+- Continue refining cloud security protocols: Michael Turner (Ongoing)
+- Address issues found in QA tests: Derek Hill (By next meeting)
+- Refine marketing strategies: Lily Garcia (Ongoing)
+- Explore collaboration opportunities with Cloudera: Jackie Lin (By 25-Nov-2023)
+
+---
+
+### Meeting Minutes 5 (Detailed)
+**Date and Time**: 30-Nov-2023, 3:00 PM - 4:30 PM  
+**Attendees**: Jackie Lin, Michael Turner, Derek Hill, Lily Garcia  
+**Absentees**: None  
+**Note Taker**: Lily Garcia
+
+**Agenda**:
+- Comprehensive project updates
+- Cross-functional collaboration and strategy refinement
+- Discuss involvement of Cloudera and other external entities
+
+**Discussion Points**:
+- Jackie Lin provided a detailed report on threat detection improvements.
+- Michael Turner shared the latest updates on cloud security protocols and their impact.
+- Derek Hill presented an in-depth analysis of QA test results.
+- Lily Garcia discussed the latest customer trends and their implications for IBM Cloud Satellite.
+- Reviewed the ongoing collaboration with Cloudera for big data analysis.
+- Identified new challenges in data integration and proposed solutions.
+- Discussed potential collaborations with other external entities.
+
+**Next Steps**:
+- Finalize threat detection improvements: Jackie Lin (By 05-Dec-2023)
+- Continue refining cloud security protocols: Michael Turner (Ongoing)
+- Implement necessary changes based on QA findings: Derek Hill (By 10-Dec-2023)
+- Adjust marketing strategies based on latest trends: Lily Garcia (Ongoing)
+- Explore new collaboration opportunities with external entities: All (By next meeting)
+
+---

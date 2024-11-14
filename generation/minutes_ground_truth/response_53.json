@@ -1,0 +1,192 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Natalie Wu"
+    },
+    {
+     "name": "Derek Hill"
+    },
+    {
+     "name": "Michael Turner"
+    },
+    {
+     "name": "Gina Lopez"
+    },
+    {
+     "name": "John Smith"
+    },
+    {
+     "name": "Alex Johnson"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Snowflake"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Product Marketing Manager"
+    },
+    {
+     "title": "QA Engineer"
+    },
+    {
+     "title": "Cloud Security Architect"
+    },
+    {
+     "title": "UX Designer"
+    },
+    {
+     "title": "Product Manager"
+    },
+    {
+     "title": "Innovation Consultant"
+    }
+   ],
+   "locations": [
+    {
+     "name": "Marketing Department"
+    },
+    {
+     "name": "Quality Assurance Department"
+    },
+    {
+     "name": "Cybersecurity Department"
+    },
+    {
+     "name": "Product Development Department"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Watson Discovery"
+    },
+    {
+     "name": "IBM Aspera"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Cloud Pak for Data"
+    },
+    {
+     "name": "Snowflake"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Natalie Wu",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Derek Hill",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Turner",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Gina Lopez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "Snowflake"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Alex Johnson",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Natalie Wu",
+    "role": "Product Marketing Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Derek Hill",
+    "role": "QA Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Turner",
+    "role": "Cloud Security Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Gina Lopez",
+    "role": "UX Designer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "Product Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Alex Johnson",
+    "role": "Innovation Consultant"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Natalie Wu",
+    "product_service": "IBM Watson Discovery"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Derek Hill",
+    "product_service": "IBM Aspera"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Turner",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Gina Lopez",
+    "product_service": "IBM Cloud Pak for Data"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Smith",
+    "product_service": "Snowflake"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Marketing Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Quality Assurance Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Cybersecurity Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Product Development Department"
+   }
+  ]
+ }
+}

@@ -1,0 +1,151 @@
+### Meeting Minutes 1 (Simple Complexity)
+**Date and Time:** 15-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Gina Lopez (Note-taker)
+- Paul Hernandez
+- Victor Ramos
+- Derek Hill
+
+**Agenda:**
+1. Project updates from each department
+2. Identify any roadblocks
+3. Outline next steps
+
+**Discussion Points:**
+- **Gina Lopez:** Updated on the new UI for IBM Cloud Pak for Data, highlighting the user feedback received.
+- **Paul Hernandez:** Mentioned the stability of IBM Z systems, no major issues reported.
+- **Victor Ramos:** Shared progress on new automation bots, two bots near completion.
+- **Derek Hill:** Reported on software testing for IBM Aspera, two critical bugs identified.
+
+**Next Steps:**
+- **Gina Lopez:** Continue refining UI based on feedback (Due: 22-Jan-2023)
+- **Paul Hernandez:** Monitor systems for any new issues (Ongoing)
+- **Victor Ramos:** Finalize and deploy new bots (Due: 30-Jan-2023)
+- **Derek Hill:** Fix identified bugs in IBM Aspera (Due: 18-Jan-2023)
+
+---
+
+### Meeting Minutes 2 (Moderate Complexity)
+**Date and Time:** 20-Jan-2023, 02:00 PM - 03:00 PM
+
+**Attendees:**
+- Gina Lopez
+- Paul Hernandez
+- Derek Hill
+- External: Emily Carter (Nutanix, Hybrid Cloud Specialist)
+
+**Absentees:**
+- Victor Ramos (attending training)
+
+**Agenda:**
+1. Project status updates
+2. Collaboration with Nutanix for hybrid cloud integration
+3. Discussion on QA processes and improvements
+
+**Discussion Points:**
+- **Gina Lopez:** Presented UI updates, discussed integration with hybrid cloud.
+- **Paul Hernandez:** Detailed current IT infrastructure, discussed compatibility with Nutanix.
+- **Derek Hill:** Talked about QA improvements, requested better integration tools for testing.
+- **Emily Carter (Nutanix):** Shared insights on hybrid cloud integration, offered technical support for smoother implementation.
+
+**Next Steps:**
+- **Gina Lopez:** Work on UI components for better cloud integration (Due: 27-Jan-2023)
+- **Paul Hernandez:** Coordinate with Nutanix team for infrastructure setup (Due: 31-Jan-2023)
+- **Derek Hill:** Research and propose new QA tools (Due: 25-Jan-2023)
+- **Emily Carter:** Provide technical documentation to Paul Hernandez (Due: 22-Jan-2023)
+
+---
+
+### Meeting Minutes 3 (Detailed Complexity)
+**Date and Time:** 01-Feb-2023, 09:00 AM - 10:30 AM
+
+**Attendees:**
+- Gina Lopez
+- Paul Hernandez
+- Victor Ramos
+- Derek Hill
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. In-depth project status updates
+2. Review of last quarter’s performance
+3. Discuss resource allocation for next quarter
+4. Address any cross-departmental challenges
+
+**Discussion Points:**
+- **Gina Lopez:** Detailed breakdown of UI improvements and user satisfaction metrics. Highlighted areas needing additional resources.
+- **Paul Hernandez:** Shared quarterly performance report of IBM Z systems, maintained over 99.9% uptime. Discussed upcoming maintenance needs.
+- **Victor Ramos:** Reviewed automation progress, suggested reallocating a resource to accelerate a critical bot project.
+- **Derek Hill:** Provided a detailed QA performance report, suggested investing in automated testing tools.
+
+**Next Steps:**
+- **Gina Lopez:** Prepare a detailed resource requirement report (Due: 10-Feb-2023)
+- **Paul Hernandez:** Plan and schedule upcoming system maintenance (Due: 05-Feb-2023)
+- **Victor Ramos:** Identify critical bot project requirements and submit a request (Due: 07-Feb-2023)
+- **Derek Hill:** Draft proposal for new automated testing tools (Due: 09-Feb-2023)
+
+---
+
+### Meeting Minutes 4 (Simple Complexity)
+**Date and Time:** 05-Feb-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**
+- Gina Lopez (Note-taker)
+- Paul Hernandez
+- Derek Hill
+
+**Absentees:**
+- Victor Ramos
+
+**Agenda:**
+1. Quick project updates
+2. Identify urgent issues
+3. Discuss upcoming deadlines
+
+**Discussion Points:**
+- **Gina Lopez:** Brief update on UI refinements, ongoing tasks.
+- **Paul Hernandez:** Noted that no critical issues have surfaced, routine operations.
+- **Derek Hill:** Highlighted the progress of bug fixes, mentioned upcoming software release.
+
+**Next Steps:**
+- **Gina Lopez:** Continue working on UI tasks (Ongoing)
+- **Paul Hernandez:** Maintain system checks (Ongoing)
+- **Derek Hill:** Prepare for upcoming software release (Due: 10-Feb-2023)
+
+---
+
+### Meeting Minutes 5 (Moderate Complexity)
+**Date and Time:** 12-Feb-2023, 01:00 PM - 02:00 PM
+
+**Attendees:**
+- Gina Lopez
+- Paul Hernandez
+- Victor Ramos
+- Derek Hill
+- External: Linda Johnson (IBM, Product Manager)
+
+**Agenda:**
+1. Comprehensive project updates
+2. Plan for next quarter
+3. Discuss feedback from clients
+
+**Discussion Points:**
+- **Gina Lopez:** Shared detailed UI project updates, discussed client feedback and necessary changes.
+- **Paul Hernandez:** Provided an update on infrastructure stability, mentioned planned upgrades.
+- **Victor Ramos:** Detailed RPA projects, requested feedback on bot performance.
+- **Derek Hill:** Talked about QA status, highlighted the need for better client feedback integration.
+- **Linda Johnson:** Offered insights on aligning projects with client expectations, suggested some strategic adjustments.
+
+**Next Steps:**
+- **Gina Lopez:** Implement UI changes based on client feedback (Due: 20-Feb-2023)
+- **Paul Hernandez:** Plan and execute infrastructure upgrades (Due: 28-Feb-2023)
+- **Victor Ramos:** Collect and analyze bot performance data (Due: 18-Feb-2023)
+- **Derek Hill:** Improve client feedback integration in QA processes (Due: 25-Feb-2023)
+- **Linda Johnson:** Oversee alignment of projects with client needs (Ongoing)
+
+---
+
+### JSON Data Representation

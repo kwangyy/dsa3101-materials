@@ -1,0 +1,127 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Brian Taylor"
+                },
+                {
+                    "name": "Gina Lopez"
+                },
+                {
+                    "name": "Kevin O'Reilly"
+                },
+                {
+                    "name": "Xander Williams"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Senior Data Scientist"
+                },
+                {
+                    "title": "UX Designer"
+                },
+                {
+                    "title": "Machine Learning Engineer"
+                },
+                {
+                    "title": "Mobile App Developer"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "main conference room"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Watson Studio"
+                },
+                {
+                    "name": "IBM Cloud Pak for Data"
+                },
+                {
+                    "name": "IBM MobileFirst Platform"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Brian Taylor",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Gina Lopez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Kevin O'Reilly",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Xander Williams",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Brian Taylor",
+                "role": "Senior Data Scientist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Gina Lopez",
+                "role": "UX Designer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Kevin O'Reilly",
+                "role": "Machine Learning Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Xander Williams",
+                "role": "Mobile App Developer"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "main conference room"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Brian Taylor",
+                "product_service": "IBM Watson Studio"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Gina Lopez",
+                "product_service": "IBM Watson Studio"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Kevin O'Reilly",
+                "product_service": "IBM Watson Studio"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Xander Williams",
+                "product_service": "IBM Watson Studio"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "main conference room"
+            }
+        ]
+    }
+}

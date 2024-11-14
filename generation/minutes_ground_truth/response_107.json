@@ -1,0 +1,159 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Carol Nguyen"
+    },
+    {
+     "name": "Benji Martinez"
+    },
+    {
+     "name": "Oliver James"
+    },
+    {
+     "name": "Rachel Singh"
+    },
+    {
+     "name": "Mark Turner"
+    },
+    {
+     "name": "Laura Kim"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Nutanix"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Junior Data Scientist"
+    },
+    {
+     "title": "IT Operations Manager"
+    },
+    {
+     "title": "AI Research Scientist"
+    },
+    {
+     "title": "Software Engineer"
+    },
+    {
+     "title": "Hybrid Cloud Specialist"
+    },
+    {
+     "title": "Infrastructure Engineer"
+    }
+   ],
+   "locations": [],
+   "products_services": [
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Cloud Object Storage"
+    },
+    {
+     "name": "IBM Cloud Functions"
+    },
+    {
+     "name": "IBM Watson Language Translator"
+    },
+    {
+     "name": "Nutanix Hybrid and Multi-cloud Solutions"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Carol Nguyen",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Benji Martinez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Oliver James",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Singh",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Mark Turner",
+    "organization": "Nutanix"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Laura Kim",
+    "organization": "Nutanix"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Carol Nguyen",
+    "role": "Junior Data Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Benji Martinez",
+    "role": "IT Operations Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Oliver James",
+    "role": "AI Research Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Singh",
+    "role": "Software Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Mark Turner",
+    "role": "Hybrid Cloud Specialist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Laura Kim",
+    "role": "Infrastructure Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Carol Nguyen",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Benji Martinez",
+    "product_service": "IBM Cloud Object Storage"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Rachel Singh",
+    "product_service": "IBM Cloud Functions"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Oliver James",
+    "product_service": "IBM Watson Language Translator"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "organization": "Nutanix",
+    "product_service": "Nutanix Hybrid and Multi-cloud Solutions"
+   }
+  ]
+ }
+}

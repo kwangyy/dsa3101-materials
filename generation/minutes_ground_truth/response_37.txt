@@ -1,0 +1,179 @@
+### Meeting Minutes 1: Simple Meeting
+**Date and Time:** 01-Oct-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Rachel Singh (Note Taker)
+- Yasmine Ali
+- Xander Williams
+- Lily Garcia
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Simple greetings
+2. Client interactions
+
+**Discussion Points:**
+- **Simple Greetings:** 
+  - Team members exchanged pleasantries and shared brief personal updates.
+- **Client Interactions:**
+  - Rachel highlighted a recent client query about backend development on IBM Cloud Functions.
+  - Yasmine shared insights on predictive models and how they can be used to improve client satisfaction.
+  - Xander discussed a recent update to the IBM MobileFirst Platform and its potential impact on user experience.
+  - Lily pointed out trends in client feedback related to IBM Cloud Satellite and how they can be leveraged for marketing campaigns.
+
+**Next Steps:**
+- Rachel to follow up on client query by 05-Oct-2023.
+- Yasmine to provide a detailed report on predictive models by 07-Oct-2023.
+- Xander to conduct a user experience survey by 10-Oct-2023.
+- Lily to draft a new marketing campaign by 12-Oct-2023.
+
+### Meeting Minutes 2: Moderate Meeting
+**Date and Time:** 15-Oct-2023, 02:00 PM - 03:00 PM
+
+**Attendees:**
+- Yasmine Ali (Note Taker)
+- Rachel Singh
+- Xander Williams
+- Lily Garcia
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Client feedback analysis
+2. Cross-department collaboration
+3. New project proposals
+
+**Discussion Points:**
+- **Client Feedback Analysis:** 
+  - Rachel shared feedback on backend performance issues.
+  - Yasmine presented data showing predictive model accuracy.
+- **Cross-Department Collaboration:**
+  - Xander suggested integrating mobile app data with backend systems for improved performance.
+  - Lily proposed a joint marketing campaign to address specific client concerns.
+- **New Project Proposals:**
+  - Rachel proposed a project to enhance backend security.
+  - Yasmine suggested developing a new predictive model for customer behavior analysis.
+  - Xander introduced a concept for a new mobile app feature.
+  - Lily discussed potential marketing strategies for the proposed projects.
+
+**Next Steps:**
+- Rachel to start backend security project plan by 20-Oct-2023.
+- Yasmine to develop a prototype predictive model by 25-Oct-2023.
+- Xander to draft a mobile app feature proposal by 28-Oct-2023.
+- Lily to coordinate marketing efforts with other departments by 30-Oct-2023.
+
+### Meeting Minutes 3: Detailed Meeting
+**Date and Time:** 20-Oct-2023, 09:00 AM - 11:00 AM
+
+**Attendees:**
+- Xander Williams (Note Taker)
+- Rachel Singh
+- Yasmine Ali
+- Lily Garcia
+- External Attendee: John Smith, Senior Analyst, Alteryx
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Comprehensive project updates
+2. Strategy discussions for client engagement
+3. Problem-solving session
+4. Integration with Alteryx platform
+
+**Discussion Points:**
+- **Comprehensive Project Updates:** 
+  - Rachel discussed progress on backend development and upcoming milestones.
+  - Yasmine provided updates on predictive model improvements.
+  - Xander shared new features added to the IBM MobileFirst Platform.
+  - Lily highlighted recent marketing campaigns and their outcomes.
+- **Strategy Discussions for Client Engagement:**
+  - Rachel proposed more personalized client interactions using backend data.
+  - Yasmine suggested utilizing predictive analytics for targeted engagement.
+  - Xander recommended enhancing mobile app user interfaces to improve engagement.
+  - Lily discussed aligning marketing strategies with client needs.
+- **Problem-Solving Session:**
+  - Rachel and Xander brainstormed solutions to backend and mobile app integration issues.
+  - Yasmine and Lily discussed data-driven strategies to address client feedback.
+- **Integration with Alteryx Platform:**
+  - John Smith from Alteryx explained the benefits of integrating with their platform.
+  - Team discussed potential use cases and benefits of using Alteryx for data analytics and automation.
+
+**Next Steps:**
+- Rachel to draft a personalized client interaction plan by 25-Oct-2023.
+- Yasmine to integrate predictive analytics into client engagement strategy by 30-Oct-2023.
+- Xander to enhance mobile app UI based on discussion points by 02-Nov-2023.
+- Lily to align marketing strategies with new client engagement plans by 05-Nov-2023.
+- John Smith to send Alteryx integration documentation by 22-Oct-2023.
+
+### Meeting Minutes 4: Simple Meeting
+**Date and Time:** 01-Nov-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**
+- Lily Garcia (Note Taker)
+- Rachel Singh
+- Yasmine Ali
+- Xander Williams
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Simple greetings
+2. Client interactions
+
+**Discussion Points:**
+- **Simple Greetings:** 
+  - Team exchanged personal updates and recent experiences.
+- **Client Interactions:**
+  - Rachel shared a client concern about backend performance.
+  - Yasmine discussed how predictive models can address client needs.
+  - Xander suggested using new mobile app features for better client interaction.
+  - Lily reviewed recent client feedback and trends.
+
+**Next Steps:**
+- Rachel to address backend performance issues by 05-Nov-2023.
+- Yasmine to analyze client data for predictive modeling by 07-Nov-2023.
+- Xander to test new mobile app features with clients by 10-Nov-2023.
+- Lily to compile a client feedback report by 12-Nov-2023.
+
+### Meeting Minutes 5: Moderate Meeting
+**Date and Time:** 10-Nov-2023, 02:00 PM - 03:00 PM
+
+**Attendees:**
+- Rachel Singh (Note Taker)
+- Yasmine Ali
+- Xander Williams
+- Lily Garcia
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Client feedback review
+2. Cross-department initiatives
+3. Upcoming events and deadlines
+
+**Discussion Points:**
+- **Client Feedback Review:** 
+  - Rachel shared backend improvements based on client feedback.
+  - Yasmine presented findings from predictive model analysis.
+  - Xander discussed mobile app changes to improve client satisfaction.
+  - Lily reviewed marketing efforts based on client feedback.
+- **Cross-Department Initiatives:**
+  - Rachel and Xander discussed collaboration to enhance backend and mobile app integration.
+  - Yasmine and Lily explored joint data analytics and marketing strategies.
+- **Upcoming Events and Deadlines:**
+  - Team discussed preparations for an upcoming client meeting.
+  - Reviewed key project deadlines and milestones.
+
+**Next Steps:**
+- Rachel to finalize backend improvements by 15-Nov-2023.
+- Yasmine to complete predictive model adjustments by 17-Nov-2023.
+- Xander to finalize mobile app updates by 20-Nov-2023.
+- Lily to prepare marketing materials for client meeting by 22-Nov-2023.
+
+### JSON Data for People and Relationships

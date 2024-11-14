@@ -1,0 +1,173 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Lily Garcia"
+    },
+    {
+     "name": "Samuel Davis"
+    },
+    {
+     "name": "Brian Taylor"
+    },
+    {
+     "name": "Oliver James"
+    },
+    {
+     "name": "Jane Martin"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Alteryx"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Marketing Analyst"
+    },
+    {
+     "title": "Blockchain Developer"
+    },
+    {
+     "title": "Senior Data Scientist"
+    },
+    {
+     "title": "AI Research Scientist"
+    },
+    {
+     "title": "Senior Data Engineer"
+    }
+   ],
+   "locations": [
+    {
+     "name": "Business Strategy Department"
+    },
+    {
+     "name": "Innovation Department"
+    },
+    {
+     "name": "R&D Department"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Satellite"
+    },
+    {
+     "name": "Hyperledger Fabric"
+    },
+    {
+     "name": "IBM Blockchain Platform"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Watson Language Translator"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Lily Garcia",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Lily Garcia",
+    "role": "Marketing Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Lily Garcia",
+    "product_service": "IBM Cloud Satellite"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Business Strategy Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Samuel Davis",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Samuel Davis",
+    "role": "Blockchain Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "Hyperledger Fabric"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "IBM Blockchain Platform"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Innovation Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Brian Taylor",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Brian Taylor",
+    "role": "Senior Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Brian Taylor",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "R&D Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Oliver James",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Oliver James",
+    "role": "AI Research Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Oliver James",
+    "product_service": "IBM Watson Language Translator"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "R&D Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Martin",
+    "organization": "Alteryx"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Martin",
+    "role": "Senior Data Engineer"
+   }
+  ]
+ }
+}

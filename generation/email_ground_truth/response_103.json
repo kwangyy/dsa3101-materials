@@ -1,0 +1,99 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Franklin Moore"
+    },
+    {
+     "name": "Rachel Singh"
+    },
+    {
+     "name": "Alice Smith"
+    },
+    {
+     "name": "Kevin O'Reilly"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Senior Software Engineer"
+    },
+    {
+     "title": "Software Engineer"
+    },
+    {
+     "title": "Chief Data Officer"
+    },
+    {
+     "title": "Machine Learning Engineer"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Watson Assistant"
+    },
+    {
+     "name": "IBM Cloud Functions"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Franklin Moore",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Singh",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Alice Smith",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Kevin O'Reilly",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Franklin Moore",
+    "role": "Senior Software Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Singh",
+    "role": "Software Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Alice Smith",
+    "role": "Chief Data Officer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Kevin O'Reilly",
+    "role": "Machine Learning Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Franklin Moore",
+    "product_service": "IBM Watson Assistant"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Rachel Singh",
+    "product_service": "IBM Cloud Functions"
+   }
+  ]
+ }
+}

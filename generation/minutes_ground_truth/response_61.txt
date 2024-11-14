@@ -1,0 +1,172 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:** 02-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Samuel Davis (Notes Taker)
+- Emma Lee
+- Gina Lopez
+- Henry Zhou
+
+**Agenda:**
+- Project update on IBM Blockchain Platform.
+- Discussion on UX designs for IBM Cloud Pak for Data.
+- Automated CI/CD pipelines for IBM Kubernetes Service.
+
+**Discussion Points:**
+- **IBM Blockchain Platform:**
+  - Samuel Davis provided an update on the progress of Hyperledger Fabric.
+  - Next steps include further testing with Zscaler security integrations.
+- **UX Designs:**
+  - Gina Lopez shared the new UI mock-ups.
+  - Feedback was positive; minor changes needed to align with product strategy.
+- **Automated CI/CD Pipelines:**
+  - Henry Zhou highlighted the latest automation scripts.
+  - Discussed potential bottlenecks and planned a review session.
+
+**Next Steps:**
+- **Samuel Davis:** Complete testing by 15-Jan-2023.
+- **Gina Lopez:** Incorporate feedback and present revised designs by 08-Jan-2023.
+- **Henry Zhou:** Conduct a review session on 12-Jan-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+
+**Date and Time:** 15-Jan-2023, 11:00 AM - 11:45 AM
+
+**Attendees:**
+- Emma Lee (Notes Taker)
+- Samuel Davis
+- Gina Lopez
+- Henry Zhou
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Status check on Google Cloud AI Platform product strategy.
+- Review of IBM Cloud Pak for Data design implementation.
+- Progress on IBM Kubernetes Service automation.
+
+**Discussion Points:**
+- **Google Cloud AI Platform:**
+  - Emma Lee detailed recent strategic pivots to enhance market fit.
+  - Discussed potential collaboration with other departments for resource optimization.
+- **IBM Cloud Pak for Data:**
+  - Gina Lopez presented the current state of design implementation.
+  - Identified areas needing additional user feedback.
+- **IBM Kubernetes Service:**
+  - Henry Zhou shared updates on the CI/CD pipeline performance.
+  - Potential challenges with deployment identified; solutions proposed.
+
+**Next Steps:**
+- **Emma Lee:** Finalize product strategy document by 25-Jan-2023.
+- **Gina Lopez:** Conduct user feedback sessions by 20-Jan-2023.
+- **Henry Zhou:** Implement deployment solutions by 22-Jan-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+
+**Date and Time:** 01-Feb-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Gina Lopez (Notes Taker)
+- Samuel Davis
+- Emma Lee
+- Henry Zhou
+
+**Additional Attendees:**
+- Michael Carter, Security Analyst, Zscaler
+
+**Agenda:**
+- Comprehensive review of IBM Blockchain Platform.
+- Detailed UX audit for IBM Cloud Pak for Data.
+- Evaluation of new CI/CD enhancements for IBM Kubernetes Service.
+- Security integration insights from Zscaler.
+
+**Discussion Points:**
+- **IBM Blockchain Platform:**
+  - Samuel Davis discussed completion of initial testing phases.
+  - Michael Carter provided security insights for integration with Zscaler.
+  - Action required: Performance benchmarking.
+- **IBM Cloud Pak for Data:**
+  - Gina Lopez presented an in-depth UX audit.
+  - Action required: Incorporate findings into next design iteration.
+- **CI/CD Enhancements:**
+  - Henry Zhou evaluated the impact of recent enhancements.
+  - Discussed collaboration with the Product Development team for smoother integration.
+- **Security Integration:**
+  - Michael Carter emphasized critical security measures for upcoming releases.
+
+**Next Steps:**
+- **Samuel Davis:** Begin performance benchmarking by 10-Feb-2023.
+- **Gina Lopez:** Apply audit feedback by 15-Feb-2023.
+- **Henry Zhou:** Coordinate with Product Development for integration by 12-Feb-2023.
+- **Michael Carter:** Deliver a security report by 08-Feb-2023.
+
+---
+
+### Meeting Minutes 4: Simple
+
+**Date and Time:** 15-Feb-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Henry Zhou (Notes Taker)
+- Samuel Davis
+- Emma Lee
+- Gina Lopez
+
+**Agenda:**
+- Brief on Hyperledger Fabric progress.
+- Quick review of UX adjustments.
+- CI/CD pipeline status update.
+
+**Discussion Points:**
+- **Hyperledger Fabric:**
+  - Samuel Davis mentioned ongoing performance benchmarking.
+- **UX Adjustments:**
+  - Gina Lopez shared minor updates based on recent feedback.
+- **CI/CD Pipeline:**
+  - Henry Zhou updated on the status of pipeline refinements.
+
+**Next Steps:**
+- **Samuel Davis:** Continue benchmarking and report by 20-Feb-2023.
+- **Gina Lopez:** Finalize UX adjustments by 17-Feb-2023.
+- **Henry Zhou:** Complete pipeline refinements by 19-Feb-2023.
+
+---
+
+### Meeting Minutes 5: Moderate
+
+**Date and Time:** 01-Mar-2023, 11:00 AM - 11:45 AM
+
+**Attendees:**
+- Emma Lee (Notes Taker)
+- Samuel Davis
+- Gina Lopez
+- Henry Zhou
+
+**Agenda:**
+- Product strategy review for Google Cloud AI Platform.
+- UX design updates for IBM Cloud Pak for Data.
+- CI/CD improvements discussion for IBM Kubernetes Service.
+
+**Discussion Points:**
+- **Google Cloud AI Platform:**
+  - Emma Lee outlined the revised product strategy.
+  - Discussed potential collaboration with external consultants.
+- **IBM Cloud Pak for Data:**
+  - Gina Lopez reviewed user feedback and necessary design iterations.
+  - Agreed on timeline for next design sprint.
+- **CI/CD Improvements:**
+  - Henry Zhou discussed latest pipeline enhancements and their impacts.
+  - Identified areas for future improvement and resource needs.
+
+**Next Steps:**
+- **Emma Lee:** Prepare collaboration plan by 10-Mar-2023.
+- **Gina Lopez:** Begin next design sprint by 05-Mar-2023.
+- **Henry Zhou:** Outline future CI/CD improvements by 08-Mar-2023.
+
+---

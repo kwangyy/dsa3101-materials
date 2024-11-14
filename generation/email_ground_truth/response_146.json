@@ -1,0 +1,126 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Wendy Chen"
+    },
+    {
+     "name": "Ivy Bennett"
+    },
+    {
+     "name": "Kevin O'Reilly"
+    },
+    {
+     "name": "Derek Hill"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Veeva Systems"
+    }
+   ],
+   "roles": [
+    {
+     "title": "AI Solutions Architect"
+    },
+    {
+     "title": "Data Engineer"
+    },
+    {
+     "title": "Machine Learning Engineer"
+    },
+    {
+     "title": "QA Engineer"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Maximo Asset Management"
+    },
+    {
+     "name": "IBM Db2 Database"
+    },
+    {
+     "name": "IBM Watson Studio"
+    },
+    {
+     "name": "IBM Aspera"
+    },
+    {
+     "name": "Cloud solutions for the life sciences industry"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Wendy Chen",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Wendy Chen",
+    "role": "AI Solutions Architect"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Ivy Bennett",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Ivy Bennett",
+    "role": "Data Engineer"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Kevin O'Reilly",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Kevin O'Reilly",
+    "role": "Machine Learning Engineer"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Derek Hill",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Derek Hill",
+    "role": "QA Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Wendy Chen",
+    "product_service": "IBM Maximo Asset Management"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Ivy Bennett",
+    "product_service": "IBM Db2 Database"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Kevin O'Reilly",
+    "product_service": "IBM Watson Studio"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Derek Hill",
+    "product_service": "IBM Aspera"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "organization": "Veeva Systems",
+    "product_service": "Cloud solutions for the life sciences industry"
+   }
+  ]
+ }
+}

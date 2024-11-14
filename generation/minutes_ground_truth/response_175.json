@@ -1,0 +1,176 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Abigail Carter"
+    },
+    {
+     "name": "Benji Martinez"
+    },
+    {
+     "name": "David Patel"
+    },
+    {
+     "name": "Kevin O'Reilly"
+    },
+    {
+     "name": "John Doe"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Cognex"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Business Intelligence Analyst"
+    },
+    {
+     "title": "IT Operations Manager"
+    },
+    {
+     "title": "Machine Learning Engineer"
+    },
+    {
+     "title": "Cloud Architect"
+    },
+    {
+     "title": "Automation Specialist"
+    }
+   ],
+   "locations": [
+    {
+     "name": "Data Analytics Department"
+    },
+    {
+     "name": "Infrastructure Department"
+    },
+    {
+     "name": "AI Research Department"
+    },
+    {
+     "name": "IT Department"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM Cloud Object Storage"
+    },
+    {
+     "name": "IBM Watson Studio"
+    },
+    {
+     "name": "Amazon Web Services (AWS)"
+    },
+    {
+     "name": "Machine vision systems"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Abigail Carter",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Abigail Carter",
+    "role": "Business Intelligence Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Abigail Carter",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Data Analytics Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Benji Martinez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Benji Martinez",
+    "role": "IT Operations Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Benji Martinez",
+    "product_service": "IBM Cloud Object Storage"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Infrastructure Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "David Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "David Patel",
+    "role": "Cloud Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "David Patel",
+    "product_service": "Amazon Web Services (AWS)"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IT Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Kevin O'Reilly",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Kevin O'Reilly",
+    "role": "Machine Learning Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Kevin O'Reilly",
+    "product_service": "IBM Watson Studio"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "AI Research Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Doe",
+    "organization": "Cognex"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Doe",
+    "role": "Automation Specialist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Doe",
+    "product_service": "Machine vision systems"
+   }
+  ]
+ }
+}

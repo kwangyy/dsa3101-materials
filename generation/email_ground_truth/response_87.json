@@ -1,0 +1,122 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Benji Martinez"
+    },
+    {
+     "name": "Franklin Moore"
+    },
+    {
+     "name": "Yasmine Ali"
+    },
+    {
+     "name": "Oliver James"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Databricks"
+    }
+   ],
+   "roles": [
+    {
+     "title": "IT Operations Manager"
+    },
+    {
+     "title": "Senior Software Engineer"
+    },
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "AI Research Scientist"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Object Storage"
+    },
+    {
+     "name": "IBM Planning Analytics"
+    },
+    {
+     "name": "IBM Watson Assistant"
+    },
+    {
+     "name": "IBM Watson Language Translator"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Benji Martinez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Franklin Moore",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Yasmine Ali",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Oliver James",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Benji Martinez",
+    "role": "IT Operations Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Franklin Moore",
+    "role": "Senior Software Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Yasmine Ali",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Oliver James",
+    "role": "AI Research Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Benji Martinez",
+    "product_service": "IBM Cloud Object Storage"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Yasmine Ali",
+    "product_service": "IBM Planning Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Franklin Moore",
+    "product_service": "IBM Watson Assistant"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Oliver James",
+    "product_service": "IBM Watson Language Translator"
+   }
+  ]
+ }
+}

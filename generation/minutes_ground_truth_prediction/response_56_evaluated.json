@@ -1,0 +1,151 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Samuel Davis"
+                },
+                {
+                    "name": "Clara Diaz"
+                },
+                {
+                    "name": "Wendy Chen"
+                },
+                {
+                    "name": "Xander Williams"
+                },
+                {
+                    "name": "John Doe"
+                },
+                {
+                    "name": "Emily Smith"
+                },
+                {
+                    "name": "Mark Johnson"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Notes"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "ServiceTitan"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Hyperledger Fabric"
+                },
+                {
+                    "name": "AI solutions"
+                },
+                {
+                    "name": "Maximo"
+                },
+                {
+                    "name": "MobileFirst Platform"
+                },
+                {
+                    "name": "ServiceTitan software"
+                },
+                {
+                    "name": "Blockchain technology"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Samuel Davis",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Clara Diaz",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Wendy Chen",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Xander Williams",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Doe",
+                "organization": "ServiceTitan"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emily Smith",
+                "organization": "ServiceTitan"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Mark Johnson",
+                "organization": "ServiceTitan"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Samuel Davis",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Clara Diaz",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Wendy Chen",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Xander Williams",
+                "role": "Notes"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Hyperledger Fabric"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Wendy Chen",
+                "product_service": "AI solutions"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Clara Diaz",
+                "product_service": "Maximo"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Xander Williams",
+                "product_service": "MobileFirst Platform"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "ServiceTitan"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "ServiceTitan",
+                "location": "ServiceTitan"
+            }
+        ]
+    }
+}

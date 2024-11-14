@@ -1,0 +1,158 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Rachel Singh"
+                },
+                {
+                    "name": "Jackie Lin"
+                },
+                {
+                    "name": "Yasmine Ali"
+                },
+                {
+                    "name": "Ivy Bennett"
+                },
+                {
+                    "name": "John Doe"
+                },
+                {
+                    "name": "Jane Smith"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Zscaler"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note-taker"
+                },
+                {
+                    "title": "Security Analyst"
+                },
+                {
+                    "title": "Project Manager"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cloud Functions"
+                },
+                {
+                    "name": "IBM Db2 Database"
+                },
+                {
+                    "name": "IBM Security Guardium"
+                },
+                {
+                    "name": "IBM Planning Analytics"
+                },
+                {
+                    "name": "Zscaler's security solutions"
+                },
+                {
+                    "name": "ETL pipelines"
+                },
+                {
+                    "name": "Predictive models"
+                },
+                {
+                    "name": "Machine learning algorithms"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Rachel Singh",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jackie Lin",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Yasmine Ali",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Ivy Bennett",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Doe",
+                "organization": "Zscaler"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jane Smith",
+                "organization": "Zscaler"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Rachel Singh",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jackie Lin",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Yasmine Ali",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "John Doe",
+                "role": "Security Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jane Smith",
+                "role": "Project Manager"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Rachel Singh",
+                "product_service": "IBM Cloud Functions"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "ETL pipelines"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Yasmine Ali",
+                "product_service": "Predictive models"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Zscaler",
+                "location": "New York"
+            }
+        ]
+    }
+}

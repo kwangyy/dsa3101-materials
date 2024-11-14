@@ -1,0 +1,137 @@
+### Meeting Minutes 1: Simple
+**Date and Time:** 02-Jan-2023, 10:00 AM - 10:30 AM  
+**Attendees:** 
+- Wendy Chen (Note Taker)
+- Samuel Davis
+- Quinn Parker
+- Paul Hernandez  
+**Absentees:** None
+
+**Agenda:**
+- Scheduling regular team meetings
+- Project updates
+
+**Discussion Points:**
+- Wendy proposed bi-weekly meetings to ensure regular updates.
+- Samuel suggested aligning meeting times with key project milestones.
+- Quinn provided a brief update on the ongoing data analytics project for IBM Cognos Analytics.
+- Paul mentioned upcoming maintenance windows for IBM Z systems.
+
+**Next Steps:**
+- Wendy to send out calendar invites for bi-weekly meetings by 05-Jan-2023.
+- All team members to prepare project updates for the next meeting.
+
+---
+
+### Meeting Minutes 2: Moderate
+**Date and Time:** 15-Jan-2023, 2:00 PM - 3:00 PM  
+**Attendees:** 
+- Wendy Chen (Note Taker)
+- Samuel Davis
+- Quinn Parker
+- Paul Hernandez  
+**Absentees:** None
+
+**Agenda:**
+- Strategic partnerships with DigitalOcean
+- Status of AI and Blockchain projects
+- Scheduling collaboration sessions
+
+**Discussion Points:**
+- Wendy discussed potential AI solutions for DigitalOcean’s cloud computing infrastructure.
+- Samuel highlighted the progress on Hyperledger Fabric and its relevance to potential partnerships.
+- Quinn provided analytics insights that could benefit the collaboration.
+- Paul discussed the necessary IT support for these initiatives.
+
+**Next Steps:**
+- Wendy to draft a proposal for DigitalOcean partnership by 20-Jan-2023.
+- Samuel to prepare a technical presentation for potential partners by 25-Jan-2023.
+- Next meeting scheduled for 29-Jan-2023 to discuss the proposal and presentation.
+
+---
+
+### Meeting Minutes 3: Detailed
+**Date and Time:** 05-Feb-2023, 11:00 AM - 12:30 PM  
+**Attendees:** 
+- Wendy Chen (Note Taker)
+- Samuel Davis
+- Quinn Parker
+- Paul Hernandez  
+**Absentees:** None
+
+**Agenda:**
+- Finalizing partnership with DigitalOcean
+- Detailed project updates
+- Cross-department collaboration
+
+**Discussion Points:**
+- Wendy confirmed that DigitalOcean is interested in a partnership focusing on AI solutions.
+- Samuel discussed the integration of Hyperledger Fabric with DigitalOcean’s cloud services.
+- Quinn highlighted key data analytics insights that could support the partnership.
+- Paul emphasized the need for robust IT support during the initial phase of the partnership.
+- Cross-department collaboration was discussed, particularly with the Sales and Marketing teams.
+
+**Next Steps:**
+- Wendy to finalize and send the partnership agreement by 10-Feb-2023.
+- Samuel to initiate a proof-of-concept for Hyperledger Fabric on DigitalOcean by 15-Feb-2023.
+- Quinn to prepare a detailed analytics report by 20-Feb-2023.
+- Paul to coordinate with IT support for infrastructure needs.
+
+---
+
+### Meeting Minutes 4: Simple
+**Date and Time:** 20-Mar-2023, 9:00 AM - 9:30 AM  
+**Attendees:** 
+- Wendy Chen (Note Taker)
+- Samuel Davis
+- Quinn Parker
+- Paul Hernandez  
+**Absentees:** None
+
+**Agenda:**
+- Review of ongoing projects
+- Scheduling next quarter’s meetings
+
+**Discussion Points:**
+- Wendy provided updates on the AI solutions project.
+- Samuel discussed current progress on blockchain developments.
+- Quinn updated the team on new data analytics models.
+- Paul mentioned upcoming system maintenance schedules.
+
+**Next Steps:**
+- Wendy to prepare a summary report on AI project by 25-Mar-2023.
+- Samuel to deliver the next progress report by 30-Mar-2023.
+- Quinn to finalize new models and present them by 05-Apr-2023.
+
+---
+
+### Meeting Minutes 5: Detailed
+**Date and Time:** 10-Apr-2023, 3:00 PM - 4:30 PM  
+**Attendees:** 
+- Wendy Chen (Note Taker)
+- Samuel Davis
+- Quinn Parker
+- Paul Hernandez  
+**Absentees:** None
+
+**Agenda:**
+- In-depth review of DigitalOcean partnership
+- Comprehensive project updates
+- Discussing external collaboration
+
+**Discussion Points:**
+- Wendy shared positive feedback from DigitalOcean on the initial AI solution deployment.
+- Samuel discussed technical challenges faced during the Hyperledger Fabric integration and proposed solutions.
+- Quinn presented advanced analytics insights that could enhance the partnership outcomes.
+- Paul emphasized the importance of robust IT infrastructure and support.
+- Potential collaboration with additional external entities was discussed, including their benefits and challenges.
+
+**Next Steps:**
+- Wendy to schedule a follow-up meeting with DigitalOcean by 15-Apr-2023.
+- Samuel to resolve integration issues by 20-Apr-2023.
+- Quinn to continue refining analytics models and prepare a presentation by 25-Apr-2023.
+- Paul to ensure all IT support measures are in place for the next phase by 30-Apr-2023.
+
+---
+
+### JSON Ground Truth Data

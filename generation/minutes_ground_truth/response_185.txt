@@ -1,0 +1,185 @@
+### Meeting Minutes 1: Simple
+**Date and Time**: 10-Mar-2023, 09:00 - 09:30
+**Attendees**: 
+- Paul Hernandez (Note Taker)
+- Samuel Davis
+- Yasmine Ali
+- Rachel Singh
+
+**Absentees**:
+- None
+
+**Agenda**:
+- Introduction
+- Review ongoing projects
+- Discuss cross-functional collaboration
+
+**Discussion Points**:
+- **Introduction**:
+  - Quick round of introductions.
+- **Ongoing Projects**:
+  - Paul Hernandez shared updates on maintaining IBM Z systems infrastructure.
+  - Samuel Davis discussed the latest developments in Hyperledger Fabric.
+  - Yasmine Ali gave an overview of predictive models for IBM Planning Analytics.
+  - Rachel Singh updated the team on backend development progress for IBM Cloud Functions.
+- **Cross-functional Collaboration**:
+  - Discussed how IT Support can assist Innovation Department with blockchain integration.
+  - Explored potential collaboration between Research & Analytics and Cloud Solutions for better data handling and storage.
+
+**Next Steps**:
+- Paul to draft a document outlining IT support for blockchain integration by 20-Mar-2023.
+- Yasmine to provide data models to Rachel for integration by 15-Mar-2023.
+
+---
+
+### Meeting Minutes 2: Simple
+**Date and Time**: 24-Mar-2023, 10:00 - 10:30
+**Attendees**:
+- Samuel Davis (Note Taker)
+- Rachel Singh
+- Paul Hernandez
+
+**Absentees**:
+- Yasmine Ali
+
+**Agenda**:
+- Project updates
+- Problem-solving session on system performance
+
+**Discussion Points**:
+- **Project Updates**:
+  - Samuel shared updates on blockchain projects.
+  - Rachel discussed the progress of backend development for cloud solutions.
+  - Paul talked about recent maintenance activities on IBM Z systems.
+- **System Performance**:
+  - Identified performance issues in backend systems.
+  - Discussed potential solutions and the role of IT support.
+
+**Next Steps**:
+- Rachel to investigate performance issues and report back by 30-Mar-2023.
+- Paul to allocate resources for potential fixes by 28-Mar-2023.
+
+---
+
+### Meeting Minutes 3: Moderate
+**Date and Time**: 05-Apr-2023, 11:00 - 11:45
+**Attendees**:
+- Yasmine Ali (Note Taker)
+- Samuel Davis
+- Rachel Singh
+- Paul Hernandez
+
+**Absentees**:
+- None
+
+**Agenda**:
+- Detailed project progress review
+- Collaboration with external entities
+- Planning next quarter’s goals
+
+**Discussion Points**:
+- **Project Progress Review**:
+  - Yasmine shared detailed analytics results for IBM Planning Analytics.
+  - Samuel provided an in-depth look into Hyperledger Fabric improvements.
+  - Rachel talked about backend optimizations for IBM Cloud Functions.
+  - Paul discussed the stability of IBM Z systems.
+- **External Collaboration**:
+  - Discussed potential partnership with ServiceTitan to integrate their software.
+  - Identified mutual benefits and next steps.
+- **Next Quarter’s Goals**:
+  - Set preliminary goals for cross-department collaboration.
+
+**Next Steps**:
+- Samuel to initiate contact with ServiceTitan by 12-Apr-2023.
+- Rachel to prepare a backend compatibility report by 20-Apr-2023.
+- Yasmine to set up a follow-up meeting for goal finalization by 15-Apr-2023.
+
+---
+
+### Meeting Minutes 4: Detailed
+**Date and Time**: 20-Apr-2023, 14:00 - 15:30
+**Attendees**:
+- Rachel Singh (Note Taker)
+- Paul Hernandez
+- Yasmine Ali
+- Samuel Davis
+- John Smith (ServiceTitan Representative)
+
+**Absentees**:
+- None
+
+**Agenda**:
+- Welcome and introductions
+- Detailed project updates
+- Cross-department synergy
+- ServiceTitan collaboration proposal
+- Q&A and next steps
+
+**Discussion Points**:
+- **Welcome and Introductions**:
+  - Introduced John Smith from ServiceTitan and outlined his role.
+- **Project Updates**:
+  - Rachel updated on IBM Cloud Functions.
+  - Paul shared insights into the stability improvements for IBM Z systems.
+  - Yasmine detailed predictive model enhancements.
+  - Samuel discussed new features in Hyperledger Fabric.
+- **Cross-Department Synergy**:
+  - Explored how Data Science and Cloud Solutions can collaborate on data handling.
+  - Discussed integrating blockchain solutions into IT support.
+- **ServiceTitan Collaboration**:
+  - John Smith presented ServiceTitan's capabilities.
+  - Discussed potential integration points and mutual benefits.
+- **Q&A**:
+  - Addressed questions on technical compatibility.
+  - Identified potential challenges in integration.
+
+**Next Steps**:
+- Yasmine to create a joint analytics report by 30-Apr-2023.
+- Samuel to draft a blockchain integration plan with ServiceTitan by 05-May-2023.
+- Rachel to coordinate with John Smith for a pilot integration by 15-May-2023.
+
+---
+
+### Meeting Minutes 5: Detailed
+**Date and Time**: 15-May-2023, 09:00 - 10:30
+**Attendees**:
+- Paul Hernandez (Note Taker)
+- Samuel Davis
+- Yasmine Ali
+- Rachel Singh
+- Emma Johnson (External Consultant)
+
+**Absentees**:
+- None
+
+**Agenda**:
+- Review of action items from the last meeting
+- Updates on integration with ServiceTitan
+- New project proposals
+- Budget discussion
+- Setting milestones
+
+**Discussion Points**:
+- **Review of Action Items**:
+  - Followed up on tasks assigned in the last meeting.
+- **ServiceTitan Integration**:
+  - Rachel updated on pilot integration progress.
+  - Samuel discussed blockchain compatibility with ServiceTitan.
+- **New Project Proposals**:
+  - Yasmine proposed a new predictive model for cloud resource allocation.
+  - Paul suggested enhancements in IBM Z system monitoring.
+- **Budget Discussion**:
+  - Discussed budget allocations for new proposals.
+  - Emma Johnson provided insights on cost management.
+- **Milestones**:
+  - Set initial milestones for new projects.
+
+**Next Steps**:
+- Rachel to finalize the pilot integration by 25-May-2023.
+- Yasmine to begin work on the new predictive model by 01-Jun-2023.
+- Paul to present system monitoring enhancement plans by 20-May-2023.
+- Emma to submit a cost management report by 30-May-2023.
+
+---
+
+### JSON Data

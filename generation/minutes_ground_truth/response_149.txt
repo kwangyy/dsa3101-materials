@@ -1,0 +1,165 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:** 01-Sep-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Natalie Wu (Note-taker)
+- Zachary Brooks
+- Michael Turner
+- Lily Garcia
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Project Updates
+
+**Discussion Points:**
+- Natalie Wu updated on the promotional strategies for IBM Watson Discovery.
+- Zachary Brooks discussed recent implementations for IBM Cloud Pak for Integration.
+- Michael Turner briefed on newly designed security protocols for Microsoft Azure.
+- Lily Garcia analyzed and shared customer trends for IBM Cloud Satellite.
+
+**Next Steps:**
+- Natalie to prepare a detailed report on promotional strategies by 05-Sep-2023.
+- Zachary to finalize implementation feedback by 07-Sep-2023.
+- Michael to review and refine security protocols by 10-Sep-2023.
+- Lily to submit an updated trend analysis report by 12-Sep-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+
+**Date and Time:** 08-Sep-2023, 02:00 PM - 03:00 PM
+
+**Attendees:**
+- Natalie Wu
+- Zachary Brooks (Note-taker)
+- Michael Turner
+- Lily Garcia
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Project Updates
+- Strategy Discussion
+
+**Discussion Points:**
+- Natalie Wu provided an update on the engagement metrics for IBM Watson Discovery.
+- Zachary Brooks shared insights on customer success stories for IBM Cloud Pak for Integration.
+- Michael Turner highlighted security enhancements for Microsoft Azure.
+- Lily Garcia discussed significant shifts in customer trends for IBM Cloud Satellite.
+- Brainstormed new strategies to leverage Alteryx for data analytics and automation.
+
+**Next Steps:**
+- Natalie to draft a new engagement strategy by 15-Sep-2023.
+- Zachary to gather additional customer feedback by 20-Sep-2023.
+- Michael to integrate new security enhancements by 22-Sep-2023.
+- Lily to conduct further trend analysis and report by 25-Sep-2023.
+- All to explore the feasibility of integrating Alteryx by 30-Sep-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+
+**Date and Time:** 15-Sep-2023, 09:00 AM - 10:30 AM
+
+**Attendees:**
+- Natalie Wu
+- Zachary Brooks
+- Michael Turner (Note-taker)
+- Lily Garcia
+- External Attendee: Robert Lee (Data Scientist, Alteryx)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Project Updates
+- Problem-Solving Session
+- External Collaboration
+
+**Discussion Points:**
+- Natalie Wu shared detailed feedback on client engagements for IBM Watson Discovery.
+- Zachary Brooks discussed challenges faced during the latest implementations of IBM Cloud Pak for Integration.
+- Michael Turner presented a comprehensive overview of new security measures for Microsoft Azure.
+- Lily Garcia shared an in-depth analysis of recent customer trends for IBM Cloud Satellite.
+- Robert Lee from Alteryx presented the capabilities of their platform and proposed a collaborative project to simplify data processes.
+
+**Next Steps:**
+- Natalie to refine client engagement strategies based on feedback by 22-Sep-2023.
+- Zachary to address implementation challenges and propose solutions by 25-Sep-2023.
+- Michael to continue refining security measures and share updates by 28-Sep-2023.
+- Lily to further investigate customer trends and provide insights by 30-Sep-2023.
+- Robert to draft a collaboration proposal by 05-Oct-2023.
+
+---
+
+### Meeting Minutes 4: Simple
+
+**Date and Time:** 22-Sep-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**
+- Natalie Wu
+- Zachary Brooks (Note-taker)
+- Michael Turner
+- Lily Garcia
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Quick Project Updates
+
+**Discussion Points:**
+- Natalie Wu provided a brief update on promotional activities for IBM Watson Discovery.
+- Zachary Brooks shared quick insights on recent IBM Cloud Pak for Integration successes.
+- Michael Turner updated on ongoing security protocol enhancements for Microsoft Azure.
+- Lily Garcia summarized the latest customer trend data for IBM Cloud Satellite.
+
+**Next Steps:**
+- Natalie to complete promotional activity review by 25-Sep-2023.
+- Zachary to compile a success story document by 27-Sep-2023.
+- Michael to finalize security protocols by 30-Sep-2023.
+- Lily to continue monitoring customer trends and update by 01-Oct-2023.
+
+---
+
+### Meeting Minutes 5: Detailed
+
+**Date and Time:** 29-Sep-2023, 02:00 PM - 03:30 PM
+
+**Attendees:**
+- Natalie Wu
+- Zachary Brooks
+- Michael Turner
+- Lily Garcia (Note-taker)
+- External Attendees: Robert Lee (Data Scientist, Alteryx), John Green (Business Analyst, Alteryx)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Comprehensive Project Updates
+- Strategy and Problem-Solving Session
+- Detailed Discussion on External Collaboration
+
+**Discussion Points:**
+- Natalie Wu reported on the latest campaign performance for IBM Watson Discovery.
+- Zachary Brooks discussed in detail the ongoing client implementations and successes for IBM Cloud Pak for Integration.
+- Michael Turner presented an in-depth review of advanced security protocols for Microsoft Azure.
+- Lily Garcia analyzed customer trends and proposed new strategies for IBM Cloud Satellite.
+- Robert Lee and John Green from Alteryx discussed the collaborative project, highlighting potential benefits and challenges.
+- Team brainstormed methods to integrate Alteryx for enhanced data processing and automation.
+
+**Next Steps:**
+- Natalie to refine campaign strategies based on performance data by 05-Oct-2023.
+- Zachary to complete client implementation assessments and submit a report by 08-Oct-2023.
+- Michael to finalize and deploy advanced security protocols by 10-Oct-2023.
+- Lily to finalize new strategy proposals based on trend analysis by 12-Oct-2023.
+- Robert and John to draft a detailed project plan for collaboration by 15-Oct-2023.
+
+---
+
+### JSON Data

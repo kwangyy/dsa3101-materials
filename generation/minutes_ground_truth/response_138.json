@@ -1,0 +1,176 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "David Patel"
+    },
+    {
+     "name": "Lily Garcia"
+    },
+    {
+     "name": "Wendy Chen"
+    },
+    {
+     "name": "Tina Foster"
+    },
+    {
+     "name": "Michael Ross"
+    },
+    {
+     "name": "Adam Johnson"
+    },
+    {
+     "name": "Sarah Miller"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Veeva Systems"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Cloud Architect"
+    },
+    {
+     "title": "Marketing Analyst"
+    },
+    {
+     "title": "AI Solutions Architect"
+    },
+    {
+     "title": "IT Support Specialist"
+    },
+    {
+     "title": "Partnership Manager"
+    },
+    {
+     "title": "Advisor"
+    },
+    {
+     "title": "Technical Integration Lead"
+    }
+   ],
+   "locations": [
+    {
+     "name": "New York"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Amazon Web Services (AWS)"
+    },
+    {
+     "name": "IBM Cloud Satellite"
+    },
+    {
+     "name": "IBM Maximo Asset Management"
+    },
+    {
+     "name": "IBM QRadar SIEM"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "David Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Lily Garcia",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Wendy Chen",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Tina Foster",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Ross",
+    "organization": "Veeva Systems"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Adam Johnson",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah Miller",
+    "organization": "Veeva Systems"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "David Patel",
+    "role": "Cloud Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Lily Garcia",
+    "role": "Marketing Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Wendy Chen",
+    "role": "AI Solutions Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Tina Foster",
+    "role": "IT Support Specialist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Ross",
+    "role": "Partnership Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Adam Johnson",
+    "role": "Advisor"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah Miller",
+    "role": "Technical Integration Lead"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "David Patel",
+    "product_service": "Amazon Web Services (AWS)"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Lily Garcia",
+    "product_service": "IBM Cloud Satellite"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Wendy Chen",
+    "product_service": "IBM Maximo Asset Management"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Tina Foster",
+    "product_service": "IBM QRadar SIEM"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "New York"
+   }
+  ]
+ }
+}

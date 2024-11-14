@@ -1,0 +1,128 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Ivy Bennett"
+                },
+                {
+                    "name": "Brian Taylor"
+                },
+                {
+                    "name": "Paul Hernandez"
+                },
+                {
+                    "name": "Abigail Carter"
+                },
+                {
+                    "name": "Mary Johnson"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Data Engineer"
+                },
+                {
+                    "title": "Senior Data Scientist"
+                },
+                {
+                    "title": "Systems Engineer"
+                },
+                {
+                    "title": "Business Intelligence Analyst"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "Unknown"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Db2"
+                },
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "Snowflake"
+                },
+                {
+                    "name": "IBM Cognos Analytics"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Ivy Bennett",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Ivy Bennett",
+                "role": "Data Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Brian Taylor",
+                "role": "Senior Data Scientist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Paul Hernandez",
+                "role": "Systems Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Abigail Carter",
+                "role": "Business Intelligence Analyst"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "Unknown"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "IBM Db2"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "Snowflake"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "IBM Cognos Analytics"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Snowflake",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Microsoft Azure",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM Cognos Analytics",
+                "location": "Unknown"
+            }
+        ]
+    }
+}

@@ -1,0 +1,181 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Rachel Singh"
+    },
+    {
+     "name": "Xander Williams"
+    },
+    {
+     "name": "Jackie Lin"
+    },
+    {
+     "name": "Benji Martinez"
+    },
+    {
+     "name": "Jane Doe"
+    },
+    {
+     "name": "John Smith"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Elastic"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Software Engineer"
+    },
+    {
+     "title": "Mobile App Developer"
+    },
+    {
+     "title": "Cybersecurity Analyst"
+    },
+    {
+     "title": "IT Operations Manager"
+    },
+    {
+     "title": "Data Analytics Specialist"
+    },
+    {
+     "title": "Solutions Architect"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Elastic"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Functions"
+    },
+    {
+     "name": "IBM MobileFirst Platform"
+    },
+    {
+     "name": "IBM Security Guardium"
+    },
+    {
+     "name": "IBM Cloud Object Storage"
+    },
+    {
+     "name": "Elastic search capabilities"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Singh",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Xander Williams",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jackie Lin",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Benji Martinez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Doe",
+    "organization": "Elastic"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "Elastic"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Singh",
+    "role": "Software Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Xander Williams",
+    "role": "Mobile App Developer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jackie Lin",
+    "role": "Cybersecurity Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Benji Martinez",
+    "role": "IT Operations Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Doe",
+    "role": "Data Analytics Specialist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "Solutions Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Rachel Singh",
+    "product_service": "IBM Cloud Functions"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Xander Williams",
+    "product_service": "IBM MobileFirst Platform"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jackie Lin",
+    "product_service": "IBM Security Guardium"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Benji Martinez",
+    "product_service": "IBM Cloud Object Storage"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jane Doe",
+    "product_service": "Elastic search capabilities"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Smith",
+    "product_service": "Elastic search capabilities"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "Elastic",
+    "location": "Elastic"
+   }
+  ]
+ }
+}

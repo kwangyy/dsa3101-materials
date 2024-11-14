@@ -1,0 +1,151 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time:** 05-JAN-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Zachary Brooks (Note taker)
+- Rachel Singh
+- David Patel
+- Alice Smith
+- Absentee: None
+
+**Agenda:**
+- Project updates
+- Follow-up on previous action items
+
+**Discussion Points:**
+- Zachary provided updates on the integration solution for IBM Cloud Pak for Integration. 
+- Rachel discussed backend development progress on IBM Cloud Functions.
+- David shared insights on the infrastructure improvements for AWS.
+- Alice emphasized the importance of alignment with the ongoing development of Microsoft Azure.
+
+**Next Steps:**
+- Zachary to finalize integration solutions by 12-JAN-2023.
+- Rachel to complete backend development phase by 15-JAN-2023.
+- David to implement the new infrastructure setup by 20-JAN-2023.
+- Alice to review progress on Azure development by 18-JAN-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+**Date and Time:** 15-JAN-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Zachary Brooks (Note taker)
+- Rachel Singh
+- David Patel
+- Alice Smith
+- External Attendee: John Miller, Elastic - Senior Analyst
+
+**Agenda:**
+- Project updates
+- Collaboration opportunities with Elastic
+- Follow-up on previous action items
+
+**Discussion Points:**
+- Zachary provided updates on the integration solution for IBM Cloud Pak for Integration and explored possibilities with Elastic for real-time analytics.
+- Rachel discussed backend development progress on IBM Cloud Functions and how integration with Elastic could enhance functionality.
+- David shared insights on the infrastructure improvements for AWS and potential benefits from Elastic's analytics engine.
+- Alice emphasized the importance of incorporating Elastic's tools into the ongoing development of Microsoft Azure.
+- John Miller explained Elastic's capabilities and how it could help streamline data analysis.
+
+**Next Steps:**
+- Zachary to coordinate with John Miller for a detailed integration plan by 25-JAN-2023.
+- Rachel to assess compatibility of backend systems with Elastic by 22-JAN-2023.
+- David to draft a proposal for AWS infrastructure enhancements leveraging Elastic by 28-JAN-2023.
+- Alice to review integration possibilities with Microsoft Azure by 27-JAN-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+**Date and Time:** 01-FEB-2023, 9:00 AM - 11:00 AM
+
+**Attendees:**
+- Zachary Brooks (Note taker)
+- Rachel Singh
+- David Patel
+- Alice Smith
+- External Attendee: John Miller, Elastic - Senior Analyst
+- External Attendee: Jane Doe, Microsoft - Principal Program Manager
+
+**Agenda:**
+- Project updates
+- Detailed integration plan with Elastic
+- Feedback on AWS infrastructure proposal
+- Collaboration with Microsoft on Azure development
+- Follow-up on previous action items
+
+**Discussion Points:**
+- Zachary provided comprehensive updates on IBM Cloud Pak for Integration, highlighted milestones, and presented the integration plan with Elastic.
+- Rachel discussed detailed backend development stages of IBM Cloud Functions, identified challenges, and proposed solutions leveraging Elastic's analytics engine.
+- David shared a draft proposal for AWS infrastructure improvements, incorporating Elastic's tools for better data processing.
+- Alice detailed progress on Microsoft Azure development and discussed potential collaboration with Jane Doe to enhance security using Symantec Endpoint Security.
+- John Miller provided feedback on integration plans and emphasized the importance of real-time analytics.
+- Jane Doe highlighted the collaboration benefits and proposed joint development sessions.
+
+**Next Steps:**
+- Zachary to finalize and present the integration plan with Elastic by 10-FEB-2023.
+- Rachel to resolve backend development challenges and implement Elastic's solutions by 15-FEB-2023.
+- David to refine and finalize the AWS infrastructure proposal by 12-FEB-2023.
+- Alice and Jane Doe to schedule joint development sessions by 14-FEB-2023.
+- Follow-up meeting to review all action items on 20-FEB-2023.
+
+---
+
+### Meeting Minutes 4 (Simple)
+**Date and Time:** 10-MAR-2023, 3:00 PM - 3:30 PM
+
+**Attendees:**
+- Zachary Brooks (Note taker)
+- Rachel Singh
+- David Patel
+- Alice Smith
+- Absentee: None
+
+**Agenda:**
+- Project updates
+- Follow-up on previous action items
+
+**Discussion Points:**
+- Zachary provided updates on the progress of integration solutions for IBM Cloud Pak for Integration.
+- Rachel discussed backend development updates on IBM Cloud Functions.
+- David shared insights on AWS infrastructure improvements.
+- Alice reviewed progress on Microsoft Azure development.
+
+**Next Steps:**
+- Zachary to complete final integration checks by 17-MAR-2023.
+- Rachel to finalize backend updates by 20-MAR-2023.
+- David to finish AWS infrastructure improvements by 25-MAR-2023.
+- Alice to review overall project progress by 22-MAR-2023.
+
+---
+
+### Meeting Minutes 5 (Moderate)
+**Date and Time:** 15-APR-2023, 1:00 PM - 2:00 PM
+
+**Attendees:**
+- Zachary Brooks (Note taker)
+- Rachel Singh
+- David Patel
+- Alice Smith
+- Absentee: None
+
+**Agenda:**
+- Project updates
+- Follow-up on previous action items
+- Strategic planning for next quarter
+
+**Discussion Points:**
+- Zachary provided updates on the integration solutions for IBM Cloud Pak for Integration.
+- Rachel discussed backend development progress on IBM Cloud Functions and upcoming milestones.
+- David shared insights on recent AWS infrastructure enhancements and next steps.
+- Alice discussed ongoing development of Microsoft Azure and Symantec Endpoint Security.
+
+**Next Steps:**
+- Zachary to prepare a strategic integration plan for the next quarter by 20-APR-2023.
+- Rachel to set new backend development targets by 25-APR-2023.
+- David to draft an AWS infrastructure roadmap for Q2 by 22-APR-2023.
+- Alice to align security measures with Symantec Endpoint Security by 28-APR-2023.
+
+---
+
+### JSON Ground Truth Data

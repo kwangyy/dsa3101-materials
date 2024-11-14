@@ -1,0 +1,198 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "David Patel"
+    },
+    {
+     "name": "Henry Zhou"
+    },
+    {
+     "name": "Brian Taylor"
+    },
+    {
+     "name": "Xander Williams"
+    },
+    {
+     "name": "Jane Smith"
+    },
+    {
+     "name": "Emily Johnson"
+    },
+    {
+     "name": "Sarah Lee"
+    },
+    {
+     "name": "Michael Brown"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Cloudera"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Cloud Architect"
+    },
+    {
+     "title": "DevOps Engineer"
+    },
+    {
+     "title": "Senior Data Scientist"
+    },
+    {
+     "title": "Mobile App Developer"
+    },
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "Senior Cloud Engineer"
+    },
+    {
+     "title": "Project Manager"
+    },
+    {
+     "title": "Data Analyst"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Amazon Web Services (AWS)"
+    },
+    {
+     "name": "IBM Kubernetes Service"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM MobileFirst Platform"
+    },
+    {
+     "name": "Machine Learning"
+    },
+    {
+     "name": "CI/CD Pipelines"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "David Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "David Patel",
+    "role": "Cloud Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "David Patel",
+    "product_service": "Amazon Web Services (AWS)"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Henry Zhou",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Henry Zhou",
+    "role": "DevOps Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Henry Zhou",
+    "product_service": "IBM Kubernetes Service"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Henry Zhou",
+    "product_service": "CI/CD Pipelines"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Brian Taylor",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Brian Taylor",
+    "role": "Senior Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Brian Taylor",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Brian Taylor",
+    "product_service": "Machine Learning"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Xander Williams",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Xander Williams",
+    "role": "Mobile App Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Xander Williams",
+    "product_service": "IBM MobileFirst Platform"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Smith",
+    "organization": "Cloudera"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Smith",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emily Johnson",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emily Johnson",
+    "role": "Senior Cloud Engineer"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah Lee",
+    "role": "Project Manager"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Brown",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Brown",
+    "role": "Data Analyst"
+   }
+  ]
+ }
+}

@@ -1,0 +1,145 @@
+### Meeting Minutes 1: Simple
+**Date and Time:** 10-Jan-2023, 10:00 - 10:30
+
+**Attendees:**
+- Jackie Lin (Notes)
+- Rachel Singh
+- Derek Hill
+- Lily Garcia
+- (Absent: None)
+
+**Agenda:**
+- Project updates
+- Feedback requests on service integration
+
+**Discussion Points:**
+- Jackie provided a quick update on threat detection improvements in IBM Security Guardium.
+- Rachel discussed backend development progress for IBM Cloud Functions.
+- Derek mentioned the latest software tests for IBM Aspera.
+- Lily analyzed customer trends related to IBM Cloud Satellite.
+
+**Next Steps:**
+- Jackie to further investigate potential threats identified during recent scans, report by 17-Jan-2023.
+- Rachel to complete backend module and integrate with other systems by 20-Jan-2023.
+- Derek to finalize QA tests and share results by 15-Jan-2023.
+- Lily to draft a detailed report on customer trends by 18-Jan-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+**Date and Time:** 15-Feb-2023, 14:00 - 15:00
+
+**Attendees:**
+- Jackie Lin
+- Rachel Singh (Notes)
+- Derek Hill
+- Lily Garcia
+- (Absent: None)
+
+**Agenda:**
+- Integration of new service with existing products
+- Feedback on current project status
+- Collaboration with ServiceTitan
+
+**Discussion Points:**
+- Jackie highlighted the challenges faced in integrating threat detection with new services.
+- Rachel discussed backend compatibility issues and potential solutions.
+- Derek addressed new bugs found in recent tests.
+- Lily presented customer feedback showing a demand for better service integration.
+
+**Next Steps:**
+- Jackie to work with the security team to resolve integration issues by 01-Mar-2023.
+- Rachel to coordinate with Derek to address backend and QA concerns by 25-Feb-2023.
+- Lily to schedule a meeting with ServiceTitan representatives by 22-Feb-2023 to discuss integration strategies.
+- Derek to resolve identified bugs and retest by 27-Feb-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+**Date and Time:** 10-Mar-2023, 09:00 - 10:30
+
+**Attendees:**
+- Jackie Lin
+- Rachel Singh
+- Derek Hill (Notes)
+- Lily Garcia
+- (Guest: John Miller, ServiceTitan, Product Manager)
+
+**Agenda:**
+- Detailed feedback session on service integration
+- Long-term collaboration plans with ServiceTitan
+- Review of current project milestones
+
+**Discussion Points:**
+- Jackie provided an in-depth analysis of threat detection logs and highlighted potential security gaps.
+- Rachel discussed the complexity of backend development, including scalability concerns.
+- Derek highlighted critical test cases and their outcomes, suggesting more robust testing methods.
+- Lily shared detailed customer insights, emphasizing the need for user-friendly integrations.
+- John Miller from ServiceTitan discussed their expectations and potential challenges in collaborating with IBM.
+
+**Next Steps:**
+- Jackie to prepare a detailed report on security improvements and share with the team by 20-Mar-2023.
+- Rachel to work closely with John Miller to ensure backend compatibility and scalability, update by 25-Mar-2023.
+- Derek to develop additional test cases focusing on new integration features, deliver by 22-Mar-2023.
+- Lily to incorporate customer feedback into the marketing strategy and share a draft by 28-Mar-2023.
+
+---
+
+### Meeting Minutes 4: Simple
+**Date and Time:** 05-Apr-2023, 11:00 - 11:30
+
+**Attendees:**
+- Jackie Lin (Notes)
+- Rachel Singh
+- Derek Hill
+- Lily Garcia
+- (Absent: None)
+
+**Agenda:**
+- Quick project updates
+- Feedback on recent service integration
+
+**Discussion Points:**
+- Jackie mentioned recent threat detection alerts and mitigation steps.
+- Rachel updated on the completion of a major backend module.
+- Derek shared the results of the latest QA tests.
+- Lily discussed preliminary customer feedback on new features.
+
+**Next Steps:**
+- Jackie to continue monitoring threat alerts and provide weekly updates.
+- Rachel to start working on the next backend module, completion by 15-Apr-2023.
+- Derek to conduct additional QA tests focusing on edge cases, report by 12-Apr-2023.
+- Lily to gather more customer feedback and present findings by 18-Apr-2023.
+
+---
+
+### Meeting Minutes 5: Moderate
+**Date and Time:** 20-May-2023, 16:00 - 17:00
+
+**Attendees:**
+- Jackie Lin
+- Rachel Singh
+- Derek Hill (Notes)
+- Lily Garcia
+- (Absent: None)
+
+**Agenda:**
+- Review of ongoing projects
+- Feedback on collaboration with external teams
+- Strategies for improving service integration
+
+**Discussion Points:**
+- Jackie discussed the effectiveness of recent security updates.
+- Rachel brought up performance issues in the backend and proposed solutions.
+- Derek shared insights from recent QA findings and suggested improvements.
+- Lily discussed strategies for better customer engagement and proposed a collaboration with the UX team.
+
+**Next Steps:**
+- Jackie to collaborate with the security team for more robust security measures, update by 01-Jun-2023.
+- Rachel to optimize backend performance and report progress by 28-May-2023.
+- Derek to retest critical functionalities and share results by 25-May-2023.
+- Lily to draft a collaboration plan with the UX team and share by 05-Jun-2023.
+
+---
+
+### JSON Representation of Relationships

@@ -1,0 +1,148 @@
+### Meeting Minutes 1 - Simple
+
+**Date and Time:** 01-OCT-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Benji Martinez (Took notes)
+- Michael Turner
+- Henry Zhou
+
+**Absentees:**
+- Kevin O'Reilly
+
+**Agenda:**
+- Project updates
+- Infrastructure maintenance
+
+**Discussion Points:**
+- Benji provided an update on recent infrastructure improvements for IBM Cloud Object Storage.
+- Michael discussed new security protocols for Microsoft Azure.
+- Henry shared progress on automating CI/CD pipelines for IBM Kubernetes Service.
+
+**Next Steps:**
+- Benji to schedule infrastructure maintenance by 10-OCT-2023.
+- Michael to finalize security protocols by 05-OCT-2023.
+- Henry to continue work on CI/CD automation and report back by 15-OCT-2023.
+
+---
+
+### Meeting Minutes 2 - Simple
+
+**Date and Time:** 15-OCT-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**
+- Kevin O'Reilly (Took notes)
+- Benji Martinez
+- Michael Turner
+
+**Absentees:**
+- Henry Zhou
+
+**Agenda:**
+- AI model development
+- Security improvements
+
+**Discussion Points:**
+- Kevin updated on the development of new models for IBM Watson Studio.
+- Michael discussed recent improvements in cloud security protocols.
+
+**Next Steps:**
+- Kevin to complete initial model training by 25-OCT-2023.
+- Michael to implement security updates by 20-OCT-2023.
+
+---
+
+### Meeting Minutes 3 - Moderate
+
+**Date and Time:** 01-NOV-2023, 9:00 AM - 10:00 AM
+
+**Attendees:**
+- Benji Martinez
+- Michael Turner (Took notes)
+- Henry Zhou
+- Kevin O'Reilly
+
+**Agenda:**
+- Cross-departmental collaboration
+- Project updates
+- External collaboration with Databricks
+
+**Discussion Points:**
+- Benji emphasized the need for better cross-departmental collaboration.
+- Henry shared updates on CI/CD pipeline automation and requested feedback from Kevin.
+- Kevin suggested potential collaboration with Databricks to enhance data engineering efforts.
+
+**Next Steps:**
+- Benji to organize a cross-departmental meeting by 10-NOV-2023.
+- Michael to follow up on security implications of collaborating with Databricks by 05-NOV-2023.
+- Henry to integrate feedback from Kevin and present a revised plan by 20-NOV-2023.
+
+---
+
+### Meeting Minutes 4 - Detailed
+
+**Date and Time:** 15-NOV-2023, 10:00 AM - 11:30 AM
+
+**Attendees:**
+- Benji Martinez
+- Michael Turner
+- Henry Zhou (Took notes)
+- Kevin O'Reilly
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Project progress and timeline review
+- Infrastructure and security enhancements
+- External collaboration proposals
+
+**Discussion Points:**
+- Benji reviewed the timeline for infrastructure enhancements for IBM Cloud Object Storage.
+- Michael discussed new security measures and proposed a new protocol.
+- Henry updated on the CI/CD pipeline automation progress and discussed integration challenges.
+- Kevin proposed potential research collaborations with Databricks to improve AI model training.
+
+**Next Steps:**
+- Benji to finalize the timeline and share it by 20-NOV-2023.
+- Michael to implement the new security protocol by 30-NOV-2023.
+- Henry to address integration challenges and report back by 25-NOV-2023.
+- Kevin to draft a proposal for collaboration with Databricks by 30-NOV-2023.
+
+---
+
+### Meeting Minutes 5 - Detailed
+
+**Date and Time:** 01-DEC-2023, 9:00 AM - 10:30 AM
+
+**Attendees:**
+- Benji Martinez
+- Michael Turner
+- Henry Zhou
+- Kevin O'Reilly (Took notes)
+- External: Jane Doe (Databricks, Data Engineer)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- External collaboration with Databricks
+- Project updates and challenges
+- Future planning
+
+**Discussion Points:**
+- Jane Doe from Databricks shared insights on potential collaboration areas.
+- Benji emphasized the importance of integrating Databricks tools for infrastructure improvements.
+- Michael discussed security challenges with external collaborations.
+- Henry highlighted ongoing issues with CI/CD pipeline automation.
+- Kevin proposed joint research initiatives with Databricks to enhance AI models.
+
+**Next Steps:**
+- Benji to schedule a follow-up meeting with Databricks by 10-DEC-2023.
+- Michael to address security challenges and propose solutions by 15-DEC-2023.
+- Henry to resolve CI/CD pipeline issues and update by 20-DEC-2023.
+- Kevin to draft a joint research proposal by 25-DEC-2023.
+
+---
+
+### JSON Representation

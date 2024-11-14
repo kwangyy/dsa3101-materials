@@ -1,0 +1,173 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Uma Patel"
+    },
+    {
+     "name": "Lily Garcia"
+    },
+    {
+     "name": "Emma Lee"
+    },
+    {
+     "name": "Paul Hernandez"
+    },
+    {
+     "name": "John Smith"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "C3.ai"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Senior Solutions Architect"
+    },
+    {
+     "title": "Marketing Analyst"
+    },
+    {
+     "title": "Product Manager"
+    },
+    {
+     "title": "Systems Engineer"
+    },
+    {
+     "title": "AI Solutions Consultant"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Cloud Private"
+    },
+    {
+     "name": "IBM Cloud Satellite"
+    },
+    {
+     "name": "Google Cloud AI Platform"
+    },
+    {
+     "name": "IBM Z systems"
+    },
+    {
+     "name": "Energy and defense sectors"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Hybrid cloud solutions"
+    },
+    {
+     "name": "Customer trend analysis"
+    },
+    {
+     "name": "AI solutions"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Uma Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Lily Garcia",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Paul Hernandez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "C3.ai"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Uma Patel",
+    "role": "Senior Solutions Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Lily Garcia",
+    "role": "Marketing Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Lee",
+    "role": "Product Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Paul Hernandez",
+    "role": "Systems Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "AI Solutions Consultant"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Uma Patel",
+    "product_service": "Hybrid cloud solutions"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Lily Garcia",
+    "product_service": "Customer trend analysis"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Emma Lee",
+    "product_service": "AI solutions"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Smith",
+    "product_service": "AI solutions"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Cloud Private"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Cloud Satellite"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Google Cloud AI Platform"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Z systems"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "C3.ai",
+    "location": "Energy and defense sectors"
+   }
+  ]
+ }
+}

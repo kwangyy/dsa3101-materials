@@ -1,0 +1,144 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Paul Hernandez"
+                },
+                {
+                    "name": "Samuel Davis"
+                },
+                {
+                    "name": "Yasmine Ali"
+                },
+                {
+                    "name": "Rachel Singh"
+                },
+                {
+                    "name": "John Smith"
+                },
+                {
+                    "name": "Emma Johnson"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note Taker"
+                }
+            ],
+            "locations": [],
+            "products_services": [
+                {
+                    "name": "IBM Z systems infrastructure"
+                },
+                {
+                    "name": "Hyperledger Fabric"
+                },
+                {
+                    "name": "IBM Planning Analytics"
+                },
+                {
+                    "name": "IBM Cloud Functions"
+                },
+                {
+                    "name": "ServiceTitan"
+                },
+                {
+                    "name": "Blockchain"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Paul Hernandez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Samuel Davis",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Yasmine Ali",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Rachel Singh",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "ServiceTitan"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emma Johnson",
+                "organization": "External Consultant"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Paul Hernandez",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Samuel Davis",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Yasmine Ali",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Rachel Singh",
+                "role": "Note Taker"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Paul Hernandez",
+                "product_service": "IBM Z systems infrastructure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Hyperledger Fabric"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Yasmine Ali",
+                "product_service": "IBM Planning Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Rachel Singh",
+                "product_service": "IBM Cloud Functions"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": ""
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "ServiceTitan",
+                "location": ""
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "External Consultant",
+                "location": ""
+            }
+        ]
+    }
+}

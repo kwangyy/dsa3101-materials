@@ -1,0 +1,123 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Benji Martinez"
+    },
+    {
+     "name": "Quinn Parker"
+    },
+    {
+     "name": "Samuel Davis"
+    },
+    {
+     "name": "Emma Lee"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Cloudera"
+    }
+   ],
+   "roles": [
+    {
+     "title": "IT Operations Manager"
+    },
+    {
+     "title": "Data Analyst"
+    },
+    {
+     "title": "Blockchain Developer"
+    },
+    {
+     "title": "Product Manager"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Object Storage"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "Hyperledger Fabric"
+    },
+    {
+     "name": "Google Cloud AI Platform"
+    }
+   ],
+   "locations": [
+    {
+     "name": "EST"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Benji Martinez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Quinn Parker",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Samuel Davis",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Benji Martinez",
+    "role": "IT Operations Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Quinn Parker",
+    "role": "Data Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Samuel Davis",
+    "role": "Blockchain Developer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Lee",
+    "role": "Product Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Benji Martinez",
+    "product_service": "IBM Cloud Object Storage"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Quinn Parker",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "Hyperledger Fabric"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Emma Lee",
+    "product_service": "Google Cloud AI Platform"
+   }
+  ]
+ }
+}

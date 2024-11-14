@@ -1,0 +1,174 @@
+### Meeting Minutes 1: Simple
+**Date and Time:** 01-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Jackie Lin (Note-taker)
+- Carol Nguyen
+- Benji Martinez
+- Wendy Chen
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Scheduling regular client interaction meetings
+- Brief project updates
+
+**Discussion Points:**
+- Decision to hold bi-weekly client meetings to ensure continuous communication and updates.
+- Quick updates:
+  - Jackie Lin mentioned the detection of new threats.
+  - Carol Nguyen is analyzing new datasets for Azure integration.
+  - Benji Martinez reported stable infrastructure performance.
+  - Wendy Chen is working on a new AI solution for asset management.
+
+**Next Steps:**
+- Jackie Lin to schedule bi-weekly client meetings starting 15-Jan-2023.
+- Carol Nguyen to prepare a report on the new datasets by 14-Jan-2023.
+- Wendy Chen to finalize AI solution prototype by 20-Jan-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+**Date and Time:** 15-Jan-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Jackie Lin
+- Carol Nguyen
+- Benji Martinez
+- Wendy Chen
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Review previous action items
+- Discuss collaboration with C3.ai
+- Plan for upcoming client presentation
+
+**Discussion Points:**
+- Previous action items reviewed and confirmed completion.
+- Collaboration with C3.ai discussed:
+  - Wendy Chen proposed integration of C3.ai’s solutions with IBM Maximo.
+  - Benji Martinez mentioned the potential infrastructure impact and needs.
+- Client presentation planning:
+  - Focus on demonstrating AI capabilities in asset management.
+  - Carol Nguyen to provide data insights.
+
+**Next Steps:**
+- Wendy Chen to coordinate with C3.ai and draft an integration plan by 25-Jan-2023.
+- Carol Nguyen to compile data insights by 22-Jan-2023.
+- Benji Martinez to ensure infrastructure readiness by 28-Jan-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+**Date and Time:** 01-Feb-2023, 9:00 AM - 10:30 AM
+
+**Attendees:**
+- Jackie Lin
+- Carol Nguyen
+- Benji Martinez
+- Wendy Chen
+- Alex Johnson (C3.ai, Senior Solutions Architect)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Detailed project updates
+- Challenges and solutions in client interactions
+- Integration with C3.ai
+
+**Discussion Points:**
+- Project updates:
+  - Jackie Lin presented a detailed report on recent threat detections and mitigation strategies.
+  - Carol Nguyen shared insights from the latest data analysis.
+  - Benji Martinez reviewed infrastructure performance metrics.
+  - Wendy Chen demoed the new AI solution prototype.
+- Client interaction challenges:
+  - Issues with real-time data updates discussed.
+  - Proposed solution: Improved data pipelines and real-time analytics.
+- C3.ai integration:
+  - Alex Johnson provided an overview of C3.ai’s capabilities.
+  - Discussed potential integration points and expected outcomes.
+
+**Next Steps:**
+- Jackie Lin to develop a comprehensive threat mitigation plan by 10-Feb-2023.
+- Carol Nguyen to refine data pipelines for real-time updates by 15-Feb-2023.
+- Wendy Chen and Alex Johnson to finalize integration strategy by 20-Feb-2023.
+- Benji Martinez to monitor infrastructure impact and report by 25-Feb-2023.
+
+---
+
+### Meeting Minutes 4: Moderate
+**Date and Time:** 15-Feb-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**
+- Jackie Lin
+- Carol Nguyen
+- Benji Martinez
+- Wendy Chen
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Review progress on current projects
+- Plan for upcoming client demo
+
+**Discussion Points:**
+- Progress review:
+  - Jackie Lin updated on threat detection improvements.
+  - Carol Nguyen shared progress on data pipeline improvements.
+  - Benji Martinez noted increased infrastructure efficiency.
+  - Wendy Chen provided feedback on AI prototype testing.
+- Client demo planning:
+  - Focus on showcasing new AI solutions and improved data analytics.
+  - Coordination required for demo setup and execution.
+
+**Next Steps:**
+- Wendy Chen to prepare demo script by 20-Feb-2023.
+- Carol Nguyen to ensure data pipelines are ready by 18-Feb-2023.
+- Benji Martinez to oversee demo environment setup by 22-Feb-2023.
+
+---
+
+### Meeting Minutes 5: Detailed
+**Date and Time:** 01-Mar-2023, 3:00 PM - 4:30 PM
+
+**Attendees:**
+- Jackie Lin
+- Carol Nguyen
+- Benji Martinez
+- Wendy Chen
+- Sarah Lee (IBM Marketing Manager)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Comprehensive review of client demo feedback
+- Discuss marketing strategies with Sarah Lee
+- Plan next steps and future client interactions
+
+**Discussion Points:**
+- Client demo feedback:
+  - Positive reception of AI solutions and data analytics.
+  - Areas for improvement: real-time threat updates, user interface enhancements.
+- Marketing strategies:
+  - Sarah Lee suggested targeted campaigns highlighting AI capabilities.
+  - Discussed potential collaboration with industry influencers.
+- Next steps for client interactions:
+  - Enhanced communication channels and regular updates.
+  - Additional training sessions for clients on new features.
+
+**Next Steps:**
+- Jackie Lin to implement real-time threat updates by 10-Mar-2023.
+- Wendy Chen to work on user interface enhancements by 15-Mar-2023.
+- Sarah Lee to draft a marketing plan by 12-Mar-2023.
+- Benji Martinez to schedule client training sessions by 20-Mar-2023.
+
+---
+
+### Synthetic Minutes Data in JSON Format

@@ -1,0 +1,200 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Rachel Singh"
+    },
+    {
+     "name": "Kevin O'Reilly"
+    },
+    {
+     "name": "Oliver James"
+    },
+    {
+     "name": "Paul Hernandez"
+    },
+    {
+     "name": "Jane Roberts"
+    },
+    {
+     "name": "Michael Brown"
+    },
+    {
+     "name": "Linda White"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Cloudera"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Software Engineer"
+    },
+    {
+     "title": "Machine Learning Engineer"
+    },
+    {
+     "title": "AI Research Scientist"
+    },
+    {
+     "title": "Systems Engineer"
+    },
+    {
+     "title": "Data Platform Specialist"
+    },
+    {
+     "title": "Project Manager"
+    },
+    {
+     "title": "Technical Lead"
+    }
+   ],
+   "locations": [
+    {
+     "name": "Cloud Solutions Department"
+    },
+    {
+     "name": "AI Research Department"
+    },
+    {
+     "name": "Research & Development Department"
+    },
+    {
+     "name": "IT Support Department"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Functions"
+    },
+    {
+     "name": "IBM Watson Studio"
+    },
+    {
+     "name": "IBM Watson Language Translator"
+    },
+    {
+     "name": "IBM Z systems"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Singh",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Singh",
+    "role": "Software Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Rachel Singh",
+    "product_service": "IBM Cloud Functions"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Kevin O'Reilly",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Kevin O'Reilly",
+    "role": "Machine Learning Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Kevin O'Reilly",
+    "product_service": "IBM Watson Studio"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Oliver James",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Oliver James",
+    "role": "AI Research Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Oliver James",
+    "product_service": "IBM Watson Language Translator"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Paul Hernandez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Paul Hernandez",
+    "role": "Systems Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Paul Hernandez",
+    "product_service": "IBM Z systems"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Roberts",
+    "organization": "Cloudera"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Roberts",
+    "role": "Data Platform Specialist"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Brown",
+    "organization": "External Client"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Brown",
+    "role": "Project Manager"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Linda White",
+    "organization": "External Client"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Linda White",
+    "role": "Technical Lead"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Cloud Solutions Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "AI Research Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Research & Development Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IT Support Department"
+   }
+  ]
+ }
+}

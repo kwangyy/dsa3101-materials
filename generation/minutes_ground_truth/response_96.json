@@ -1,0 +1,184 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Ivy Bennett"
+    },
+    {
+     "name": "Paul Hernandez"
+    },
+    {
+     "name": "Victor Ramos"
+    },
+    {
+     "name": "Brian Taylor"
+    },
+    {
+     "name": "John Smith"
+    },
+    {
+     "name": "Sarah White"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Nutanix"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Data Engineer"
+    },
+    {
+     "title": "Systems Engineer"
+    },
+    {
+     "title": "RPA Developer"
+    },
+    {
+     "title": "Senior Data Scientist"
+    },
+    {
+     "title": "Representative"
+    },
+    {
+     "title": "Data Analyst"
+    }
+   ],
+   "locations": [
+    {
+     "name": "R&D Department"
+    },
+    {
+     "name": "Data Management Department"
+    },
+    {
+     "name": "IT Support Department"
+    },
+    {
+     "name": "Automation Department"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Db2 Database"
+    },
+    {
+     "name": "IBM Z"
+    },
+    {
+     "name": "IBM Robotic Process Automation"
+    },
+    {
+     "name": "Microsoft Azure"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Ivy Bennett",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Ivy Bennett",
+    "role": "Data Engineer"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Data Management Department"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Ivy Bennett",
+    "product_service": "IBM Db2 Database"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Paul Hernandez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Paul Hernandez",
+    "role": "Systems Engineer"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IT Support Department"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Paul Hernandez",
+    "product_service": "IBM Z"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Victor Ramos",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Victor Ramos",
+    "role": "RPA Developer"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Automation Department"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Victor Ramos",
+    "product_service": "IBM Robotic Process Automation"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Brian Taylor",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Brian Taylor",
+    "role": "Senior Data Scientist"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "R&D Department"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Brian Taylor",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "Nutanix"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "Representative"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah White",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah White",
+    "role": "Data Analyst"
+   }
+  ]
+ }
+}

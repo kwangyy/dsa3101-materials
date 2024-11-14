@@ -1,0 +1,153 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:** 05-OCT-2023, 10:00 AM - 10:30 AM  
+**Attendees:**  
+- Lily Garcia  
+- David Patel  
+- Benji Martinez  
+- Carol Nguyen  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Project Updates  
+- Informal Requests  
+
+**Discussion Points:**  
+- **Lily Garcia:** Provided updates on customer trends analysis for IBM Cloud Satellite.  
+- **David Patel:** Discussed ongoing AWS infrastructure architecture efforts.  
+- **Benji Martinez:** Shared status of infrastructure management for IBM Cloud Object Storage.  
+- **Carol Nguyen:** Gave brief insights into data analysis progress for Microsoft Azure.  
+
+**Next Steps:**  
+- **Lily Garcia:** Prepare a detailed report on customer trends by 12-OCT-2023.  
+- **David Patel:** Continue refining AWS architecture, progress review on 19-OCT-2023.  
+- **Benji Martinez:** Monitor infrastructure performance, update team in next meeting.  
+- **Carol Nguyen:** Compile data analysis results and share with the team by 11-OCT-2023.  
+
+---
+
+### Meeting Minutes 2: Simple
+
+**Date and Time:** 12-OCT-2023, 3:00 PM - 3:30 PM  
+**Attendees:**  
+- Lily Garcia  
+- David Patel  
+- Benji Martinez  
+
+**Absentees:**  
+- Carol Nguyen  
+
+**Agenda:**  
+- Project Updates  
+- Problem-solving Session  
+
+**Discussion Points:**  
+- **Lily Garcia:** Presented findings from customer trend analysis for IBM Cloud Satellite.  
+- **David Patel:** Updated on AWS infrastructure improvements.  
+- **Benji Martinez:** Highlighted an issue with storage capacity in IBM Cloud Object Storage.  
+
+**Next Steps:**  
+- **Lily Garcia:** Collaborate with Sales team to align strategies by 19-OCT-2023.  
+- **David Patel:** Address feedback and adjust AWS architecture by 20-OCT-2023.  
+- **Benji Martinez:** Investigate storage capacity issue, report findings in the next meeting.  
+
+---
+
+### Meeting Minutes 3: Moderate
+
+**Date and Time:** 19-OCT-2023, 11:00 AM - 12:00 PM  
+**Attendees:**  
+- Lily Garcia  
+- David Patel  
+- Benji Martinez  
+- Carol Nguyen  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Detailed Project Updates  
+- Strategy Discussions  
+- External Collaboration  
+
+**Discussion Points:**  
+- **Lily Garcia:** Provided detailed customer trends for IBM Cloud Satellite. Suggested collaboration with Snowflake for data warehousing.  
+- **David Patel:** Discussed architectural challenges in AWS. Proposed potential solutions involving external partners.  
+- **Benji Martinez:** Updated team on the storage capacity issue, suggested leveraging Snowflake's capabilities.  
+- **Carol Nguyen:** Presented advanced data analysis results for Microsoft Azure.  
+
+**Next Steps:**  
+- **Lily Garcia:** Initiate contact with Snowflake, schedule a joint meeting by 25-OCT-2023.  
+- **David Patel:** Evaluate proposed solutions, prepare a plan by 26-OCT-2023.  
+- **Benji Martinez:** Coordinate with Snowflake for a demo, target date 27-OCT-2023.  
+- **Carol Nguyen:** Prepare a comprehensive report and submit by 24-OCT-2023.  
+
+---
+
+### Meeting Minutes 4: Detailed
+
+**Date and Time:** 25-OCT-2023, 9:00 AM - 10:30 AM  
+**Attendees:**  
+- Lily Garcia  
+- David Patel  
+- Benji Martinez  
+- Carol Nguyen  
+- John Doe (Snowflake, Data Solutions Specialist)  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Collaboration with Snowflake  
+- Detailed Project Updates  
+- Strategy and Problem-Solving  
+
+**Discussion Points:**  
+- **Lily Garcia:** Introduced John Doe, discussed collaboration potential with Snowflake.  
+- **David Patel:** Outlined AWS architectural challenges, requested Snowflake's input.  
+- **Benji Martinez:** Explained storage capacity issues, discussed Snowflake's capabilities.  
+- **Carol Nguyen:** Shared data analysis insights, proposed integrating Snowflake's tools.  
+- **John Doe:** Provided an overview of Snowflake's data warehousing solutions and proposed a collaborative plan.  
+
+**Next Steps:**  
+- **Lily Garcia:** Work on a formal collaboration plan with Snowflake, draft by 01-NOV-2023.  
+- **David Patel:** Incorporate Snowflake's suggestions into AWS architecture by 03-NOV-2023.  
+- **Benji Martinez:** Set up a pilot project with Snowflake, initial setup by 02-NOV-2023.  
+- **Carol Nguyen:** Integrate Snowflake tools into data analysis, update team on 04-NOV-2023.  
+
+---
+
+### Meeting Minutes 5: Detailed
+
+**Date and Time:** 01-NOV-2023, 2:00 PM - 3:30 PM  
+**Attendees:**  
+- Lily Garcia  
+- David Patel  
+- Benji Martinez  
+- Carol Nguyen  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Follow-Up on Collaboration with Snowflake  
+- Detailed Project Updates  
+- Cross-Departmental Support  
+
+**Discussion Points:**  
+- **Lily Garcia:** Reported progress on the formal collaboration plan with Snowflake.  
+- **David Patel:** Updated on integration of Snowflake's suggestions into AWS architecture.  
+- **Benji Martinez:** Shared initial results of the pilot project with Snowflake.  
+- **Carol Nguyen:** Presented progress on integrating Snowflake tools into data analysis.  
+
+**Next Steps:**  
+- **Lily Garcia:** Finalize collaboration plan, present to management by 08-NOV-2023.  
+- **David Patel:** Continue refining AWS architecture, progress review on 15-NOV-2023.  
+- **Benji Martinez:** Monitor pilot project results, report findings by 10-NOV-2023.  
+- **Carol Nguyen:** Complete integration of Snowflake tools, final report by 12-NOV-2023.  
+
+---
+
+### JSON Data

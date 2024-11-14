@@ -1,0 +1,123 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Franklin Moore"
+                },
+                {
+                    "name": "Brian Taylor"
+                },
+                {
+                    "name": "Paul Hernandez"
+                },
+                {
+                    "name": "Henry Zhou"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Senior Software Engineer"
+                },
+                {
+                    "title": "Senior Data Scientist"
+                },
+                {
+                    "title": "Systems Engineer"
+                },
+                {
+                    "title": "DevOps Engineer"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Watson Assistant"
+                },
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "IBM Z systems"
+                },
+                {
+                    "name": "CI/CD pipelines"
+                },
+                {
+                    "name": "IBM Kubernetes Service"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Franklin Moore",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Franklin Moore",
+                "role": "Senior Software Engineer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Franklin Moore",
+                "product_service": "Watson Assistant"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Brian Taylor",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Brian Taylor",
+                "role": "Senior Data Scientist"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Brian Taylor",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Paul Hernandez",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Paul Hernandez",
+                "role": "Systems Engineer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Paul Hernandez",
+                "product_service": "IBM Z systems"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Henry Zhou",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Henry Zhou",
+                "role": "DevOps Engineer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Henry Zhou",
+                "product_service": "CI/CD pipelines"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Henry Zhou",
+                "product_service": "IBM Kubernetes Service"
+            }
+        ]
+    }
+}

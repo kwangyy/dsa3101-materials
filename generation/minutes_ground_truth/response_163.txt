@@ -1,0 +1,145 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time:** 01-Sep-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Tina Foster
+- Wendy Chen
+- Zachary Brooks
+- Natalie Wu
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Greetings and project updates
+
+**Discussion Points:**
+- Each member provided a brief update on their current projects:
+  - **Tina Foster:** Mentioned ongoing support for IBM QRadar SIEM implementation.
+  - **Wendy Chen:** Discussed new AI models for IBM Maximo Asset Management.
+  - **Zachary Brooks:** Shared updates on IBM Cloud Pak for Integration implementations.
+  - **Natalie Wu:** Talked about recent marketing efforts for IBM Watson Discovery.
+
+**Next Steps:**
+- Follow up in the next meeting scheduled for 08-Sep-2023.
+
+### Meeting Minutes 2 (Moderate)
+**Date and Time:** 15-Sep-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Tina Foster
+- Wendy Chen
+- Zachary Brooks
+- Natalie Wu
+
+**Note Taker:**
+- Zachary Brooks
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Project updates
+- Collaborative strategies
+- Addressing ongoing challenges
+
+**Discussion Points:**
+- **Tina Foster:** Discussed challenges with QRadar SIEM implementation and potential solutions.
+- **Wendy Chen:** Suggested integrating advanced AI models to enhance SIEM capabilities.
+- **Zachary Brooks:** Highlighted customer feedback on IBM Cloud Pak for Integration.
+- **Natalie Wu:** Shared insights on market trends and promotional strategies for IBM Watson Discovery.
+
+**Next Steps:**
+- **Tina Foster:** To work on improving SIEM integration (deadline: 30-Sep-2023).
+- **Wendy Chen:** To provide AI model enhancements (deadline: 25-Sep-2023).
+- **Natalie Wu:** To develop new marketing materials (deadline: 20-Sep-2023).
+
+### Meeting Minutes 3 (Detailed)
+**Date and Time:** 01-Oct-2023, 11:00 AM - 12:30 PM
+
+**Attendees:**
+- Tina Foster
+- Wendy Chen
+- Zachary Brooks
+- Natalie Wu
+
+**Note Taker:**
+- Natalie Wu
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Comprehensive project updates
+- Inter-departmental collaboration
+- External collaboration with Cognex
+
+**Discussion Points:**
+- **Tina Foster:** Provided a detailed report on current QRadar SIEM implementations and discussed integration with Cognex machine vision systems.
+- **Wendy Chen:** Presented AI solutions enhancing IBM Maximo Asset Management and proposed a pilot project with Cognex.
+- **Zachary Brooks:** Talked about integration challenges and potential customer success strategies with IBM Cloud Pak for Integration.
+- **Natalie Wu:** Discussed marketing strategies for IBM Watson Discovery and opportunities for cross-promotion with Cognex products.
+
+**Next Steps:**
+- **Tina Foster:** To coordinate with Cognex for SIEM integration (deadline: 15-Oct-2023).
+- **Wendy Chen:** To start a pilot project with Cognex (deadline: 10-Oct-2023).
+- **Zachary Brooks:** To develop customer success strategies for new integrations (deadline: 05-Oct-2023).
+- **Natalie Wu:** To design a marketing campaign including Cognex (deadline: 12-Oct-2023).
+
+### Meeting Minutes 4 (Simple)
+**Date and Time:** 05-Oct-2023, 9:30 AM - 10:00 AM
+
+**Attendees:**
+- Tina Foster
+- Wendy Chen
+- Zachary Brooks
+- Natalie Wu
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Brief project updates
+
+**Discussion Points:**
+- **Tina Foster:** Minor updates on QRadar SIEM support.
+- **Wendy Chen:** Shared quick insights into the ongoing AI model enhancements.
+- **Zachary Brooks:** Short update on customer implementations.
+- **Natalie Wu:** Brief on recent marketing activities.
+
+**Next Steps:**
+- Continue with the next scheduled meeting on 12-Oct-2023.
+
+### Meeting Minutes 5 (Moderate)
+**Date and Time:** 20-Oct-2023, 3:00 PM - 4:00 PM
+
+**Attendees:**
+- Tina Foster
+- Wendy Chen
+- Zachary Brooks
+- Natalie Wu
+
+**Note Taker:**
+- Wendy Chen
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Project progress
+- Addressing feedback
+- Future plans
+
+**Discussion Points:**
+- **Tina Foster:** Discussed progress with QRadar SIEM and addressed feedback from clients.
+- **Wendy Chen:** Provided updates on AI models and discussed future plans for enhancements.
+- **Zachary Brooks:** Talked about IBM Cloud Pak for Integration feedback and future strategies.
+- **Natalie Wu:** Discussed new marketing insights and plans for promoting IBM Watson Discovery.
+
+**Next Steps:**
+- **Tina Foster:** To gather more client feedback (deadline: 25-Oct-2023).
+- **Wendy Chen:** To finalize AI model improvements (deadline: 28-Oct-2023).
+- **Zachary Brooks:** To draft a new customer engagement strategy (deadline: 27-Oct-2023).
+- **Natalie Wu:** To develop a new promotional plan (deadline: 30-Oct-2023).
+
+### Synthetic Minutes Data

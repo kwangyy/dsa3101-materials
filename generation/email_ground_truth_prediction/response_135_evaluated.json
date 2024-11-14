@@ -1,0 +1,139 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Uma Patel"
+                },
+                {
+                    "name": "Samuel Davis"
+                },
+                {
+                    "name": "Yasmine Ali"
+                },
+                {
+                    "name": "Derek Hill"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM Solutions Engineering Department"
+                },
+                {
+                    "name": "IBM Innovation Department"
+                },
+                {
+                    "name": "IBM Research & Analytics Department"
+                },
+                {
+                    "name": "IBM Quality Assurance Department"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Senior Solutions Architect"
+                },
+                {
+                    "title": "Blockchain Developer"
+                },
+                {
+                    "title": "Data Scientist"
+                },
+                {
+                    "title": "QA Engineer"
+                }
+            ],
+            "locations": [],
+            "products_services": [
+                {
+                    "name": "Hyperledger Fabric"
+                },
+                {
+                    "name": "IBM Planning Analytics"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Uma Patel",
+                "organization": "IBM Solutions Engineering Department"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Samuel Davis",
+                "organization": "IBM Innovation Department"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Yasmine Ali",
+                "organization": "IBM Research & Analytics Department"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Derek Hill",
+                "organization": "IBM Quality Assurance Department"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Uma Patel",
+                "role": "Senior Solutions Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Samuel Davis",
+                "role": "Blockchain Developer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Yasmine Ali",
+                "role": "Data Scientist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Derek Hill",
+                "role": "QA Engineer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Uma Patel",
+                "product_service": "Hyperledger Fabric"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Uma Patel",
+                "product_service": "IBM Planning Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Hyperledger Fabric"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Yasmine Ali",
+                "product_service": "IBM Planning Analytics"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM Solutions Engineering Department",
+                "location": ""
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM Innovation Department",
+                "location": ""
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM Research & Analytics Department",
+                "location": ""
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM Quality Assurance Department",
+                "location": ""
+            }
+        ]
+    }
+}

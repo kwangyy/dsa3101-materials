@@ -1,0 +1,189 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "David Patel"
+    },
+    {
+     "name": "Paul Hernandez"
+    },
+    {
+     "name": "Kevin O'Reilly"
+    },
+    {
+     "name": "Rachel Singh"
+    },
+    {
+     "name": "John Smith"
+    },
+    {
+     "name": "Emma Taylor"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Splunk"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Cloud Architect"
+    },
+    {
+     "title": "Systems Engineer"
+    },
+    {
+     "title": "Machine Learning Engineer"
+    },
+    {
+     "title": "Software Engineer"
+    },
+    {
+     "title": "IT Operations"
+    },
+    {
+     "title": "Marketing"
+    }
+   ],
+   "locations": [
+    {
+     "name": "Cloud Solutions Department"
+    },
+    {
+     "name": "IT Support Department"
+    },
+    {
+     "name": "AI Research Department"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Amazon Web Services (AWS)"
+    },
+    {
+     "name": "IBM Z systems"
+    },
+    {
+     "name": "IBM Watson Studio"
+    },
+    {
+     "name": "IBM Cloud Functions"
+    },
+    {
+     "name": "Splunk Monitoring Tools"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "David Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "David Patel",
+    "role": "Cloud Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "David Patel",
+    "product_service": "Amazon Web Services (AWS)"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "David Patel",
+    "location": "Cloud Solutions Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Paul Hernandez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Paul Hernandez",
+    "role": "Systems Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Paul Hernandez",
+    "product_service": "IBM Z systems"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Paul Hernandez",
+    "location": "IT Support Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Kevin O'Reilly",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Kevin O'Reilly",
+    "role": "Machine Learning Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Kevin O'Reilly",
+    "product_service": "IBM Watson Studio"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Kevin O'Reilly",
+    "location": "AI Research Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Singh",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Singh",
+    "role": "Software Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Rachel Singh",
+    "product_service": "IBM Cloud Functions"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Rachel Singh",
+    "location": "Cloud Solutions Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "Splunk"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "IT Operations"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Smith",
+    "product_service": "Splunk Monitoring Tools"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Taylor",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Taylor",
+    "role": "Marketing"
+   }
+  ]
+ }
+}

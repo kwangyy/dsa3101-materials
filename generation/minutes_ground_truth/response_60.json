@@ -1,0 +1,197 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Emma Lee"
+    },
+    {
+     "name": "Lily Garcia"
+    },
+    {
+     "name": "Kevin O'Reilly"
+    },
+    {
+     "name": "Oliver James"
+    },
+    {
+     "name": "John Doe"
+    },
+    {
+     "name": "Sarah White"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Illumio"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Product Manager"
+    },
+    {
+     "title": "Marketing Analyst"
+    },
+    {
+     "title": "Machine Learning Engineer"
+    },
+    {
+     "title": "AI Research Scientist"
+    },
+    {
+     "title": "Security Consultant"
+    },
+    {
+     "title": "Technical Advisor"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IT Department"
+    },
+    {
+     "name": "Business Strategy Department"
+    },
+    {
+     "name": "AI Research Department"
+    },
+    {
+     "name": "Research & Development Department"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Google Cloud AI Platform"
+    },
+    {
+     "name": "IBM Cloud Satellite"
+    },
+    {
+     "name": "IBM Watson Studio"
+    },
+    {
+     "name": "IBM Watson Language Translator"
+    },
+    {
+     "name": "Zero-trust Segmentation"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Lee",
+    "role": "Product Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Emma Lee",
+    "product_service": "Google Cloud AI Platform"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IT Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Lily Garcia",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Lily Garcia",
+    "role": "Marketing Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Lily Garcia",
+    "product_service": "IBM Cloud Satellite"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Business Strategy Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Kevin O'Reilly",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Kevin O'Reilly",
+    "role": "Machine Learning Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Kevin O'Reilly",
+    "product_service": "IBM Watson Studio"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "AI Research Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Oliver James",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Oliver James",
+    "role": "AI Research Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Oliver James",
+    "product_service": "IBM Watson Language Translator"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Research & Development Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Doe",
+    "organization": "Illumio"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Doe",
+    "role": "Security Consultant"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Doe",
+    "product_service": "Zero-trust Segmentation"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah White",
+    "organization": "Illumio"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah White",
+    "role": "Technical Advisor"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Sarah White",
+    "product_service": "Zero-trust Segmentation"
+   }
+  ]
+ }
+}

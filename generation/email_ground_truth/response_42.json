@@ -1,0 +1,123 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Franklin Moore"
+                },
+                {
+                    "name": "Gina Lopez"
+                },
+                {
+                    "name": "David Patel"
+                },
+                {
+                    "name": "Paul Hernandez"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Amazon Web Services"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Senior Software Engineer"
+                },
+                {
+                    "title": "UX Designer"
+                },
+                {
+                    "title": "Cloud Architect"
+                },
+                {
+                    "title": "Systems Engineer"
+                }
+            ],
+            "locations": [],
+            "products_services": [
+                {
+                    "name": "IBM Watson Assistant"
+                },
+                {
+                    "name": "IBM Cloud Pak for Data"
+                },
+                {
+                    "name": "AWS Cloud"
+                },
+                {
+                    "name": "IBM Z systems"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Franklin Moore",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Gina Lopez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "David Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Paul Hernandez",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Franklin Moore",
+                "role": "Senior Software Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Gina Lopez",
+                "role": "UX Designer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "David Patel",
+                "role": "Cloud Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Paul Hernandez",
+                "role": "Systems Engineer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Franklin Moore",
+                "product_service": "IBM Watson Assistant"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Gina Lopez",
+                "product_service": "IBM Cloud Pak for Data"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "David Patel",
+                "product_service": "AWS Cloud"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Paul Hernandez",
+                "product_service": "IBM Z systems"
+            },
+            {
+                "type": "PARTNER_WITH",
+                "organization": "Amazon Web Services"
+            }
+        ]
+    }
+}

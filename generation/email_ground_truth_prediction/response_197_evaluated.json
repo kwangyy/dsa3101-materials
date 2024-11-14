@@ -1,0 +1,120 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Clara Diaz"
+                },
+                {
+                    "name": "Jackie Lin"
+                },
+                {
+                    "name": "Paul Hernandez"
+                },
+                {
+                    "name": "Henry Zhou"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "AI Policy Researcher"
+                },
+                {
+                    "title": "Cybersecurity Analyst"
+                },
+                {
+                    "title": "Systems Engineer"
+                },
+                {
+                    "title": "DevOps Engineer"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "IBM Z systems infrastructure"
+                },
+                {
+                    "name": "IBM Kubernetes Service"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Security Guardium"
+                },
+                {
+                    "name": "IBM Z systems infrastructure"
+                },
+                {
+                    "name": "IBM Kubernetes Service"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Clara Diaz",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jackie Lin",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Paul Hernandez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Henry Zhou",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Clara Diaz",
+                "role": "AI Policy Researcher"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jackie Lin",
+                "role": "Cybersecurity Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Paul Hernandez",
+                "role": "Systems Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Henry Zhou",
+                "role": "DevOps Engineer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Clara Diaz",
+                "product_service": "IBM Security Guardium"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Jackie Lin",
+                "product_service": "IBM Security Guardium"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "IBM Z systems infrastructure"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "IBM Kubernetes Service"
+            }
+        ]
+    }
+}

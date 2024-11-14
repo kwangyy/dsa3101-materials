@@ -1,0 +1,127 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Franklin Moore"
+                },
+                {
+                    "name": "Michael Turner"
+                },
+                {
+                    "name": "Zachary Brooks"
+                },
+                {
+                    "name": "Derek Hill"
+                },
+                {
+                    "name": "Client Team"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Cognex"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Senior Software Engineer"
+                },
+                {
+                    "title": "Cloud Security Architect"
+                },
+                {
+                    "title": "Solutions Engineer"
+                },
+                {
+                    "title": "QA Engineer"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Watson Assistant"
+                },
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "IBM Cloud Pak for Integration"
+                },
+                {
+                    "name": "IBM Aspera"
+                }
+            ],
+            "locations": []
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Franklin Moore",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Turner",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Zachary Brooks",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Derek Hill",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Client Team",
+                "organization": "Cognex"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Franklin Moore",
+                "role": "Senior Software Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Turner",
+                "role": "Cloud Security Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Zachary Brooks",
+                "role": "Solutions Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Derek Hill",
+                "role": "QA Engineer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Franklin Moore",
+                "product_service": "IBM Watson Assistant"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Zachary Brooks",
+                "product_service": "IBM Cloud Pak for Integration"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Derek Hill",
+                "product_service": "IBM Aspera"
+            }
+        ]
+    }
+}

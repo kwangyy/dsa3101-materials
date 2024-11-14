@@ -1,0 +1,118 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Victor Ramos"
+    },
+    {
+     "name": "Henry Zhou"
+    },
+    {
+     "name": "Michael Turner"
+    },
+    {
+     "name": "Alice Smith"
+    },
+    {
+     "name": "Elastic Team"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Elastic"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Robotics Process Automation (RPA) Developer"
+    },
+    {
+     "title": "DevOps Engineer"
+    },
+    {
+     "title": "Cloud Security Architect"
+    },
+    {
+     "title": "Chief Data Officer"
+    }
+   ],
+   "locations": []
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Victor Ramos",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Victor Ramos",
+    "role": "Robotics Process Automation (RPA) Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Victor Ramos",
+    "product_service": "IBM Robotic Process Automation"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Henry Zhou",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Henry Zhou",
+    "role": "DevOps Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Henry Zhou",
+    "product_service": "IBM Kubernetes Service"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Turner",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Turner",
+    "role": "Cloud Security Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Turner",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Alice Smith",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Alice Smith",
+    "role": "Chief Data Officer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Symantec Endpoint Security"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Elastic Team",
+    "organization": "Elastic"
+   }
+  ]
+ }
+}

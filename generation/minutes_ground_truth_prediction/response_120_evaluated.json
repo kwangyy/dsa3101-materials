@@ -1,0 +1,113 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Yasmine Ali"
+                },
+                {
+                    "name": "Brian Taylor"
+                },
+                {
+                    "name": "Tina Foster"
+                },
+                {
+                    "name": "Abigail Carter"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Acme Corp"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "CEO"
+                },
+                {
+                    "title": "Notes"
+                },
+                {
+                    "title": "Task Force Lead"
+                },
+                {
+                    "title": "Support Channel Owner"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "IBM QRadar SIEM"
+                },
+                {
+                    "name": "IBM Planning Analytics"
+                },
+                {
+                    "name": "Alteryx"
+                },
+                {
+                    "name": "Microsoft Azure"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Yasmine Ali",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Yasmine Ali",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Brian Taylor",
+                "role": "Task Force Lead"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Tina Foster",
+                "role": "Support Channel Owner"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Acme Corp",
+                "location": "New York"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Yasmine Ali",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Tina Foster",
+                "product_service": "IBM QRadar SIEM"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Yasmine Ali",
+                "product_service": "IBM Planning Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Abigail Carter",
+                "product_service": "Alteryx"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Brian Taylor",
+                "product_service": "Microsoft Azure"
+            }
+        ]
+    }
+}

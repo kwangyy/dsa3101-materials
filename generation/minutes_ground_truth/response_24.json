@@ -1,0 +1,127 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Jackie Lin"
+    },
+    {
+     "name": "Michael Turner"
+    },
+    {
+     "name": "Derek Hill"
+    },
+    {
+     "name": "Lily Garcia"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Cloudera"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Cybersecurity Analyst"
+    },
+    {
+     "title": "Cloud Security Architect"
+    },
+    {
+     "title": "QA Engineer"
+    },
+    {
+     "title": "Marketing Analyst"
+    }
+   ],
+   "locations": [],
+   "products_services": [
+    {
+     "name": "IBM Security Guardium"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Aspera"
+    },
+    {
+     "name": "IBM Cloud Satellite"
+    },
+    {
+     "name": "Big Data Analysis"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jackie Lin",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jackie Lin",
+    "role": "Cybersecurity Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jackie Lin",
+    "product_service": "IBM Security Guardium"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Turner",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Turner",
+    "role": "Cloud Security Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Turner",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Derek Hill",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Derek Hill",
+    "role": "QA Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Derek Hill",
+    "product_service": "IBM Aspera"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Lily Garcia",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Lily Garcia",
+    "role": "Marketing Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Lily Garcia",
+    "product_service": "IBM Cloud Satellite"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "organization": "Cloudera",
+    "product_service": "Big Data Analysis"
+   }
+  ]
+ }
+}

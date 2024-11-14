@@ -1,0 +1,147 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Gina Lopez"
+                },
+                {
+                    "name": "Zachary Brooks"
+                },
+                {
+                    "name": "Benji Martinez"
+                },
+                {
+                    "name": "Rachel Singh"
+                },
+                {
+                    "name": "John Smith"
+                },
+                {
+                    "name": "Karen Davis"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note taker"
+                },
+                {
+                    "title": "Cybersecurity Consultant"
+                },
+                {
+                    "title": "Product Manager"
+                },
+                {
+                    "title": "CEO"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cloud Pak for Data"
+                },
+                {
+                    "name": "IBM Cloud Pak for Integration"
+                },
+                {
+                    "name": "IBM Cloud Functions"
+                },
+                {
+                    "name": "IBM Cloud Object Storage"
+                },
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "Illumio"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Gina Lopez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Zachary Brooks",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Benji Martinez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Rachel Singh",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "Illumio"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Karen Davis",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Gina Lopez",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "John Smith",
+                "role": "Cybersecurity Consultant"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Karen Davis",
+                "role": "Product Manager"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Gina Lopez",
+                "product_service": "IBM Cloud Pak for Data"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Zachary Brooks",
+                "product_service": "IBM Cloud Pak for Integration"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Rachel Singh",
+                "product_service": "IBM Cloud Functions"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Benji Martinez",
+                "product_service": "IBM Cloud Object Storage"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "John Smith",
+                "product_service": "Illumio"
+            }
+        ]
+    }
+}

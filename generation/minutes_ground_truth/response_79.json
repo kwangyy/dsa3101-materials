@@ -1,0 +1,158 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Abigail Carter"
+    },
+    {
+     "name": "Paul Hernandez"
+    },
+    {
+     "name": "Emma Lee"
+    },
+    {
+     "name": "Kevin O'Reilly"
+    },
+    {
+     "name": "John Smith"
+    },
+    {
+     "name": "Sarah Johnson"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Nutanix"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Business Intelligence Analyst"
+    },
+    {
+     "title": "Systems Engineer"
+    },
+    {
+     "title": "Product Manager"
+    },
+    {
+     "title": "Machine Learning Engineer"
+    },
+    {
+     "title": "Strategic Partnerships Manager"
+    },
+    {
+     "title": "Senior Strategy Consultant"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM Z systems"
+    },
+    {
+     "name": "Google Cloud AI Platform"
+    },
+    {
+     "name": "IBM Watson Studio"
+    },
+    {
+     "name": "Hybrid and multi-cloud computing infrastructure"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Abigail Carter",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Abigail Carter",
+    "role": "Business Intelligence Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Abigail Carter",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Paul Hernandez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Paul Hernandez",
+    "role": "Systems Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Paul Hernandez",
+    "product_service": "IBM Z systems"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Lee",
+    "role": "Product Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Emma Lee",
+    "product_service": "Google Cloud AI Platform"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Kevin O'Reilly",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Kevin O'Reilly",
+    "role": "Machine Learning Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Kevin O'Reilly",
+    "product_service": "IBM Watson Studio"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "Nutanix"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "Strategic Partnerships Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Smith",
+    "product_service": "Hybrid and multi-cloud computing infrastructure"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah Johnson",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah Johnson",
+    "role": "Senior Strategy Consultant"
+   }
+  ]
+ }
+}

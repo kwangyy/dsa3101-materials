@@ -1,0 +1,151 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Abigail Carter"
+    },
+    {
+     "name": "Henry Zhou"
+    },
+    {
+     "name": "Rachel Singh"
+    },
+    {
+     "name": "Lily Garcia"
+    },
+    {
+     "name": "John Smith"
+    },
+    {
+     "name": "Michael Green"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Veeva Systems"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Business Intelligence Analyst"
+    },
+    {
+     "title": "DevOps Engineer"
+    },
+    {
+     "title": "Software Engineer"
+    },
+    {
+     "title": "Marketing Analyst"
+    },
+    {
+     "title": "Cloud Solutions Consultant"
+    },
+    {
+     "title": "External Consultant"
+    }
+   ],
+   "locations": [],
+   "products_services": [
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM Kubernetes Service"
+    },
+    {
+     "name": "IBM Cloud Functions"
+    },
+    {
+     "name": "IBM Cloud Satellite"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Abigail Carter",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Abigail Carter",
+    "role": "Business Intelligence Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Abigail Carter",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Henry Zhou",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Henry Zhou",
+    "role": "DevOps Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Henry Zhou",
+    "product_service": "IBM Kubernetes Service"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Singh",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Singh",
+    "role": "Software Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Rachel Singh",
+    "product_service": "IBM Cloud Functions"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Lily Garcia",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Lily Garcia",
+    "role": "Marketing Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Lily Garcia",
+    "product_service": "IBM Cloud Satellite"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "Veeva Systems"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "Cloud Solutions Consultant"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Green",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Green",
+    "role": "External Consultant"
+   }
+  ]
+ }
+}

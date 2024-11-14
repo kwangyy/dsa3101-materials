@@ -1,0 +1,190 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:** 01-Feb-2023, 10:00 - 10:30
+
+**Attendees:**
+- Kevin O'Reilly (Note-taker)
+- Jackie Lin
+- Ivy Bennett
+- Rachel Singh
+
+**Absentees:**
+- N/A
+
+**Agenda:**
+- Project Updates
+- Feedback Requests
+
+**Discussion Points:**
+- **Project Updates:**
+  - Kevin: Discussed the latest ML models developed for IBM Watson Studio.
+  - Jackie: Shared recent threat detections for IBM Security Guardium.
+  - Ivy: Updated on ETL pipeline progress for IBM Db2 Database.
+  - Rachel: Provided insights on backend development for IBM Cloud Functions.
+
+- **Feedback Requests:**
+  - Collecting feedback on the recent model deployment.
+  - Discussion on the effectiveness of threat detection mechanisms.
+
+**Next Steps:**
+- Kevin to prepare a detailed report on the new models by 05-Feb-2023.
+- Jackie to review threat detection results and share insights by 07-Feb-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+
+**Date and Time:** 15-Mar-2023, 14:00 - 15:00
+
+**Attendees:**
+- Jackie Lin (Note-taker)
+- Kevin O'Reilly
+- Ivy Bennett
+- Rachel Singh
+
+**Absentees:**
+- N/A
+
+**Agenda:**
+- Market Analysis
+- Strategy Discussion
+
+**Discussion Points:**
+- **Market Analysis:**
+  - Detailed analysis of the current market trends for AI and cybersecurity.
+  - Potential impact of market changes on IBM's AI and security products.
+
+- **Strategy Discussion:**
+  - Kevin suggested collaborating with C3.ai for enhanced AI solutions.
+  - Ivy discussed potential data integration strategies with C3.ai platforms.
+  - Rachel recommended developing APIs for seamless integration with external platforms.
+
+**Next Steps:**
+- Kevin to arrange a meeting with C3.ai for potential collaboration by 20-Mar-2023.
+- Ivy to draft initial data integration strategies by 25-Mar-2023.
+- Rachel to start API development planning by 28-Mar-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+
+**Date and Time:** 01-May-2023, 09:00 - 10:30
+
+**Attendees:**
+- Ivy Bennett (Note-taker)
+- Kevin O'Reilly
+- Jackie Lin
+- Rachel Singh
+
+**Absentees:**
+- N/A
+
+**Agenda:**
+- Project Updates
+- Problem-solving Session
+- Feedback Requests
+
+**Discussion Points:**
+- **Project Updates:**
+  - Kevin: Presented the new model performance metrics for IBM Watson Studio.
+  - Jackie: Shared the latest security threat statistics and mitigation strategies.
+  - Ivy: Reported on the ETL pipeline enhancements for IBM Db2 Database.
+  - Rachel: Discussed recent improvements in backend development for IBM Cloud Functions.
+
+- **Problem-solving Session:**
+  - Identified issues with data processing speed in ETL pipelines.
+  - Discussed potential solutions, including hardware upgrades and code optimization.
+  - Proposed cross-departmental collaboration for quicker resolution.
+
+- **Feedback Requests:**
+  - Kevin requested feedback on the newly implemented ML models.
+  - Jackie asked for input on the efficiency of current security protocols.
+
+**Next Steps:**
+- Ivy to work on optimizing ETL pipelines and report by 10-May-2023.
+- Rachel to collaborate with Kevin on integrating new models by 15-May-2023.
+- Jackie to implement suggested improvements in security protocols by 20-May-2023.
+
+---
+
+### Meeting Minutes 4: Moderate
+
+**Date and Time:** 10-Jun-2023, 11:00 - 12:00
+
+**Attendees:**
+- Rachel Singh (Note-taker)
+- Kevin O'Reilly
+- Jackie Lin
+- Ivy Bennett
+
+**Absentees:**
+- N/A
+
+**Agenda:**
+- Feedback Requests
+- Collaboration with External Entities
+
+**Discussion Points:**
+- **Feedback Requests:**
+  - Discussion on user feedback for IBM Cloud Functions.
+  - Kevin and Ivy requested feedback on their ongoing projects.
+
+- **Collaboration with External Entities:**
+  - Rachel: Proposed a partnership with C3.ai to leverage their enterprise AI platform.
+  - Kevin and Ivy: Discussed how their respective projects could benefit from such a partnership.
+
+**Next Steps:**
+- Rachel to draft a proposal for collaboration with C3.ai by 15-Jun-2023.
+- Kevin and Ivy to prepare a list of potential integration points with C3.ai by 20-Jun-2023.
+- Jackie to conduct a security audit for the proposed partnership by 25-Jun-2023.
+
+---
+
+### Meeting Minutes 5: Detailed
+
+**Date and Time:** 20-Jul-2023, 14:00 - 15:30
+
+**Attendees:**
+- Kevin O'Reilly (Note-taker)
+- Jackie Lin
+- Ivy Bennett
+- Rachel Singh
+
+**Absentees:**
+- N/A
+
+**Agenda:**
+- Market Analysis
+- Project Updates
+- Strategy Discussion
+- Feedback Requests
+
+**Discussion Points:**
+- **Market Analysis:**
+  - Detailed presentation on current market conditions for AI and cybersecurity.
+  - Potential opportunities and threats identified.
+
+- **Project Updates:**
+  - Kevin: Presented performance data for newly developed ML models.
+  - Jackie: Shared insights from recent security audits.
+  - Ivy: Updated on the latest ETL pipeline optimizations.
+  - Rachel: Discussed backend improvements for IBM Cloud Functions.
+
+- **Strategy Discussion:**
+  - Kevin proposed a new model validation framework.
+  - Ivy suggested using real-time data analytics for better ETL performance.
+  - Rachel recommended a new microservices architecture for backend systems.
+
+- **Feedback Requests:**
+  - Kevin and Jackie asked for feedback on their respective ongoing projects.
+  - Ivy requested input on the new ETL pipeline features.
+
+**Next Steps:**
+- Kevin to finalize the model validation framework by 30-Jul-2023.
+- Jackie to implement feedback from the security audits by 05-Aug-2023.
+- Ivy to continue with ETL performance enhancements and report by 10-Aug-2023.
+- Rachel to draft a plan for the new microservices architecture by 15-Aug-2023.
+
+---
+
+### JSON Data

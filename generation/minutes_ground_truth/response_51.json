@@ -1,0 +1,137 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Victor Ramos"
+    },
+    {
+     "name": "Rachel Singh"
+    },
+    {
+     "name": "Wendy Chen"
+    },
+    {
+     "name": "Lily Garcia"
+    },
+    {
+     "name": "Joe Miller"
+    },
+    {
+     "name": "Sarah Lee"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "ServiceTitan"
+    }
+   ],
+   "roles": [
+    {
+     "title": "RPA Developer"
+    },
+    {
+     "title": "Software Engineer"
+    },
+    {
+     "title": "AI Solutions Architect"
+    },
+    {
+     "title": "Marketing Analyst"
+    },
+    {
+     "title": "Operations Manager"
+    },
+    {
+     "title": "Cloud Solutions Consultant"
+    }
+   ],
+   "locations": []
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Victor Ramos",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Singh",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Wendy Chen",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Lily Garcia",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Joe Miller",
+    "organization": "ServiceTitan"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Victor Ramos",
+    "role": "RPA Developer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Singh",
+    "role": "Software Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Wendy Chen",
+    "role": "AI Solutions Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Lily Garcia",
+    "role": "Marketing Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Joe Miller",
+    "role": "Operations Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah Lee",
+    "role": "Cloud Solutions Consultant"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Victor Ramos",
+    "product_service": "IBM Robotic Process Automation"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Rachel Singh",
+    "product_service": "IBM Cloud Functions"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Wendy Chen",
+    "product_service": "IBM Maximo Asset Management"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Lily Garcia",
+    "product_service": "IBM Cloud Satellite"
+   }
+  ]
+ }
+}

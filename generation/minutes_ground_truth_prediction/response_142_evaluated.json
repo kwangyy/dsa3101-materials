@@ -1,0 +1,176 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Emma Lee"
+                },
+                {
+                    "name": "Rachel Singh"
+                },
+                {
+                    "name": "Tina Foster"
+                },
+                {
+                    "name": "Lily Garcia"
+                },
+                {
+                    "name": "John Doe"
+                },
+                {
+                    "name": "Alan Smith"
+                },
+                {
+                    "name": "Mark Evans"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Acme Corp"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Product Manager"
+                },
+                {
+                    "title": "Software Engineer"
+                },
+                {
+                    "title": "IT Support Specialist"
+                },
+                {
+                    "title": "Marketing Analyst"
+                },
+                {
+                    "title": "External Consultant"
+                },
+                {
+                    "title": "Sales Representative"
+                },
+                {
+                    "title": "Finance Manager"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "Google Cloud AI Platform"
+                },
+                {
+                    "name": "IBM QRadar SIEM"
+                },
+                {
+                    "name": "Apache Spark"
+                },
+                {
+                    "name": "Databricks"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emma Lee",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Rachel Singh",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Tina Foster",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Lily Garcia",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Doe",
+                "organization": "Databricks"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Alan Smith",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Mark Evans",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emma Lee",
+                "role": "Product Manager"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Rachel Singh",
+                "role": "Software Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Tina Foster",
+                "role": "IT Support Specialist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Lily Garcia",
+                "role": "Marketing Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "John Doe",
+                "role": "External Consultant"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Alan Smith",
+                "role": "Sales Representative"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Mark Evans",
+                "role": "Finance Manager"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Emma Lee",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Emma Lee",
+                "product_service": "Google Cloud AI Platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Emma Lee",
+                "product_service": "IBM QRadar SIEM"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Rachel Singh",
+                "product_service": "Apache Spark"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Acme Corp",
+                "location": "New York"
+            }
+        ]
+    }
+}

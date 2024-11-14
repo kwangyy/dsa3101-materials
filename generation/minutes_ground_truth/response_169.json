@@ -1,0 +1,156 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Jackie Lin"
+    },
+    {
+     "name": "Clara Diaz"
+    },
+    {
+     "name": "Benji Martinez"
+    },
+    {
+     "name": "Oliver James"
+    },
+    {
+     "name": "Samantha Lee"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Elastic"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Cybersecurity Analyst"
+    },
+    {
+     "title": "AI Policy Researcher"
+    },
+    {
+     "title": "IT Operations Manager"
+    },
+    {
+     "title": "AI Research Scientist"
+    },
+    {
+     "title": "Data Analyst"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Security Guardium"
+    },
+    {
+     "name": "IBM AI OpenScale"
+    },
+    {
+     "name": "IBM Cloud Object Storage"
+    },
+    {
+     "name": "IBM Watson Language Translator"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Threat Detection"
+    },
+    {
+     "name": "AI Ethics"
+    },
+    {
+     "name": "Infrastructure"
+    },
+    {
+     "name": "Natural Language Processing"
+    },
+    {
+     "name": "Real-time Analytics"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jackie Lin",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Clara Diaz",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Benji Martinez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Oliver James",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Samantha Lee",
+    "organization": "Elastic"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jackie Lin",
+    "role": "Cybersecurity Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Clara Diaz",
+    "role": "AI Policy Researcher"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Benji Martinez",
+    "role": "IT Operations Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Oliver James",
+    "role": "AI Research Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Samantha Lee",
+    "role": "Data Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jackie Lin",
+    "product_service": "Threat Detection"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Clara Diaz",
+    "product_service": "AI Ethics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Benji Martinez",
+    "product_service": "Infrastructure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Oliver James",
+    "product_service": "Natural Language Processing"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samantha Lee",
+    "product_service": "Real-time Analytics"
+   }
+  ]
+ }
+}

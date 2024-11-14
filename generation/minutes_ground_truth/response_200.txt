@@ -1,0 +1,104 @@
+### Simple Meeting Minutes
+
+#### Date: 01-Jan-2023
+#### Time: 10:00 - 10:30 AM
+
+**Attendees:**
+- Natalie Wu (Note taker)
+- Derek Hill
+- Gina Lopez
+- Oliver James
+- John Chen (External Attendee, Splunk - IT Operations Analyst)
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Scheduling upcoming meetings
+2. Project updates
+
+**Discussion Points:**
+- Natalie emphasized the need for regular bi-weekly meetings.
+- Derek suggested Monday mornings for better planning.
+- Gina updated on the UI design progress.
+- Oliver proposed a collaboration with Splunk for data analytics.
+- John Chen introduced Splunk's capabilities and how they can aid IBM projects.
+
+**Next Steps:**
+- Finalize meeting schedule by 05-Jan-2023 (Natalie)
+- Draft a collaboration proposal with Splunk by 15-Jan-2023 (Oliver)
+
+---
+
+### Moderate Meeting Minutes
+
+#### Date: 10-Jan-2023
+#### Time: 11:00 AM - 12:00 PM
+
+**Attendees:**
+- Natalie Wu
+- Derek Hill (Note taker)
+- Gina Lopez
+- Oliver James
+
+**Absentees:**
+- John Chen (Splunk)
+
+**Agenda:**
+1. Review project timelines
+2. Discuss team management strategies
+3. Evaluate potential challenges
+
+**Discussion Points:**
+- Natalie reviewed the updated project timelines; tight deadlines highlighted.
+- Derek raised concerns over potential bottlenecks in QA testing.
+- Gina suggested adopting a new design sprint to cope with UI challenges.
+- Oliver shared insights on NLP progress and its impact on IBM Watson Language Translator.
+- Teams discussed the dependency on external vendors, including Splunk.
+
+**Next Steps:**
+- Adjust project timelines and inform stakeholders by 12-Jan-2023 (Natalie)
+- Implement new design sprint strategy by 20-Jan-2023 (Gina)
+- Address QA bottlenecks and report back by 18-Jan-2023 (Derek)
+
+---
+
+### Detailed Meeting Minutes
+
+#### Date: 15-Feb-2023
+#### Time: 2:00 PM - 3:30 PM
+
+**Attendees:**
+- Natalie Wu
+- Derek Hill
+- Gina Lopez (Note taker)
+- Oliver James
+- John Chen (Splunk - IT Operations Analyst)
+- Emma Davis (Internal Guest, IBM Project Manager)
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Detailed project updates
+2. Cross-department collaboration
+3. External partnerships
+4. Risk assessment and mitigation
+
+**Discussion Points:**
+- Natalie provided comprehensive updates on IBM Watson Discovery promotion strategies.
+- Derek shared results from the latest QA tests, identifying key issues in IBM Aspera.
+- Gina presented new UI design prototypes for IBM Cloud Pak for Data.
+- Oliver discussed advancements in NLP and their implications for IBM Watson Language Translator.
+- John highlighted Splunk’s analytics tools and their integration potential.
+- Emma Davis provided a risk assessment report and suggested mitigation strategies.
+
+**Next Steps:**
+- Review and address QA issues by 22-Feb-2023 (Derek)
+- Integrate UI design feedback and finalize prototypes by 28-Feb-2023 (Gina)
+- Draft integration plan with Splunk and submit by 05-Mar-2023 (Oliver, John)
+- Implement risk mitigation strategies and update by 10-Mar-2023 (Emma)
+
+---
+
+### JSON Output

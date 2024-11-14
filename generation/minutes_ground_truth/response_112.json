@@ -1,0 +1,191 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Kevin O'Reilly"
+    },
+    {
+     "name": "Abigail Carter"
+    },
+    {
+     "name": "Franklin Moore"
+    },
+    {
+     "name": "Alice Smith"
+    },
+    {
+     "name": "John Doe"
+    },
+    {
+     "name": "Richard Roe"
+    },
+    {
+     "name": "Mary Johnson"
+    },
+    {
+     "name": "Peter White"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Veeva Systems"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Machine Learning Engineer"
+    },
+    {
+     "title": "Business Intelligence Analyst"
+    },
+    {
+     "title": "Senior Software Engineer"
+    },
+    {
+     "title": "Chief Data Officer"
+    },
+    {
+     "title": "Senior Account Manager"
+    },
+    {
+     "title": "Data Integration Specialist"
+    },
+    {
+     "title": "Marketing Director"
+    },
+    {
+     "title": "Senior Data Scientist"
+    }
+   ],
+   "locations": [],
+   "products_services": [
+    {
+     "name": "IBM Watson Studio"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM Watson Assistant"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "Symantec Endpoint Security"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Kevin O'Reilly",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Kevin O'Reilly",
+    "role": "Machine Learning Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Kevin O'Reilly",
+    "product_service": "IBM Watson Studio"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Abigail Carter",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Abigail Carter",
+    "role": "Business Intelligence Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Abigail Carter",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Franklin Moore",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Franklin Moore",
+    "role": "Senior Software Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Franklin Moore",
+    "product_service": "IBM Watson Assistant"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Alice Smith",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Alice Smith",
+    "role": "Chief Data Officer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Symantec Endpoint Security"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Doe",
+    "organization": "Veeva Systems"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Doe",
+    "role": "Senior Account Manager"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Richard Roe",
+    "organization": "Veeva Systems"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Richard Roe",
+    "role": "Data Integration Specialist"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Mary Johnson",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Mary Johnson",
+    "role": "Marketing Director"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Peter White",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Peter White",
+    "role": "Senior Data Scientist"
+   }
+  ]
+ }
+}

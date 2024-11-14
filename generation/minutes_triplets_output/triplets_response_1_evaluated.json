@@ -1,0 +1,77 @@
+[
+    {
+        "person": "Brian Taylor",
+        "organization": "Microsoft",
+        "relationship": "AFFILIATED_WITH"
+    },
+    {
+        "person": "Henry Zhou",
+        "organization": "Cloudera",
+        "relationship": "AFFILIATED_WITH"
+    },
+    {
+        "person": "Samuel Davis",
+        "organization": "IBM",
+        "relationship": "AFFILIATED_WITH"
+    },
+    {
+        "person": "Abigail Carter",
+        "organization": "IBM",
+        "relationship": "AFFILIATED_WITH"
+    },
+    {
+        "person": "Brian Taylor",
+        "role": "Notes",
+        "relationship": "HAS_ROLE"
+    },
+    {
+        "person": "Henry Zhou",
+        "role": "Azure Integration",
+        "relationship": "HAS_ROLE"
+    },
+    {
+        "person": "Samuel Davis",
+        "role": "Hyperledger Fabric",
+        "relationship": "HAS_ROLE"
+    },
+    {
+        "person": "Abigail Carter",
+        "role": "IBM Cognos Analytics",
+        "relationship": "HAS_ROLE"
+    },
+    {
+        "person": "Brian Taylor",
+        "product_service": "Azure",
+        "relationship": "INVOLVED_WITH"
+    },
+    {
+        "person": "Henry Zhou",
+        "product_service": "CI/CD Pipelines",
+        "relationship": "INVOLVED_WITH"
+    },
+    {
+        "person": "Samuel Davis",
+        "product_service": "Hyperledger Fabric",
+        "relationship": "INVOLVED_WITH"
+    },
+    {
+        "person": "Abigail Carter",
+        "product_service": "IBM Cognos Analytics",
+        "relationship": "INVOLVED_WITH"
+    },
+    {
+        "organization": "Microsoft",
+        "location": "New York",
+        "relationship": "LOCATED_AT"
+    },
+    {
+        "organization": "Cloudera",
+        "location": "New York",
+        "relationship": "LOCATED_AT"
+    },
+    {
+        "organization": "IBM",
+        "location": "New York",
+        "relationship": "LOCATED_AT"
+    }
+]

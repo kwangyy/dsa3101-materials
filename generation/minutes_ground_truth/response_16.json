@@ -1,0 +1,168 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Victor Ramos"
+    },
+    {
+     "name": "Emma Lee"
+    },
+    {
+     "name": "David Patel"
+    },
+    {
+     "name": "Oliver James"
+    },
+    {
+     "name": "Jane Smith"
+    },
+    {
+     "name": "Sarah Johnson"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Illumio"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Robotics Process Automation (RPA) Developer"
+    },
+    {
+     "title": "Product Manager"
+    },
+    {
+     "title": "Cloud Architect"
+    },
+    {
+     "title": "AI Research Scientist"
+    },
+    {
+     "title": "Cybersecurity Specialist"
+    },
+    {
+     "title": "Cloud Consultant"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Headquarters"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Robotic Process Automation"
+    },
+    {
+     "name": "Google Cloud AI Platform"
+    },
+    {
+     "name": "Amazon Web Services (AWS)"
+    },
+    {
+     "name": "IBM Watson Language Translator"
+    },
+    {
+     "name": "Zero-trust segmentation"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Victor Ramos",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "David Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Oliver James",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Smith",
+    "organization": "Illumio"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah Johnson",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Victor Ramos",
+    "role": "Robotics Process Automation (RPA) Developer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Lee",
+    "role": "Product Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "David Patel",
+    "role": "Cloud Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Oliver James",
+    "role": "AI Research Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Smith",
+    "role": "Cybersecurity Specialist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah Johnson",
+    "role": "Cloud Consultant"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Victor Ramos",
+    "product_service": "IBM Robotic Process Automation"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Emma Lee",
+    "product_service": "Google Cloud AI Platform"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "David Patel",
+    "product_service": "Amazon Web Services (AWS)"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Oliver James",
+    "product_service": "IBM Watson Language Translator"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jane Smith",
+    "product_service": "Zero-trust segmentation"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Headquarters"
+   }
+  ]
+ }
+}

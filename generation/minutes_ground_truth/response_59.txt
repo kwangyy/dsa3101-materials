@@ -1,0 +1,154 @@
+### Simple Meeting Minutes
+**Date and Time:** 01-Oct-2023, 10:00 AM - 10:30 AM  
+**Attendees:** 
+- Rachel Singh (Note Taker)
+- Abigail Carter
+- Brian Taylor
+- Michael Turner
+
+**Absentees:**  
+None
+
+**Agenda:**
+- Project status updates
+- Proposal for inter-departmental collaboration
+
+**Discussion Points:**
+- Rachel provided updates on backend development for IBM Cloud Functions.
+- Abigail discussed recent improvements in reporting and dashboards for IBM Cognos Analytics.
+- Brian shared advancements in Microsoft Azure research.
+- Michael presented new security protocols for Microsoft Azure.
+
+**Next Steps:**
+- Rachel to continue backend development with a focus on improving performance. Deadline: 15-Oct-2023
+- Abigail to generate more detailed analytics reports. Deadline: 10-Oct-2023
+- Brian to finalize Azure research and prepare a presentation. Deadline: 20-Oct-2023
+- Michael to implement the new security protocols. Deadline: 25-Oct-2023
+
+---
+
+### Moderate Meeting Minutes
+**Date and Time:** 15-Oct-2023, 2:00 PM - 3:00 PM  
+**Attendees:** 
+- Rachel Singh
+- Abigail Carter (Note Taker)
+- Brian Taylor
+- Michael Turner
+
+**Absentees:**
+None
+
+**Agenda:**
+- Detailed project status updates
+- Collaboration opportunities between departments
+- Identifying potential challenges
+
+**Discussion Points:**
+- Rachel noted the completion of key backend features and proposed new functionalities for IBM Cloud Functions.
+- Abigail showcased a new dashboard feature that integrates multi-source data for IBM Cognos Analytics.
+- Brian discussed a partnership proposal with an external entity, Zscaler, to enhance IBM's cloud-based security.
+- Michael reviewed the implementation of new security protocols and identified some early challenges.
+
+**Next Steps:**
+- Rachel to prototype the proposed functionalities. Deadline: 20-Oct-2023
+- Abigail to run user tests on the new dashboard feature. Deadline: 22-Oct-2023
+- Brian to arrange a meeting with Zscaler representatives. Deadline: 25-Oct-2023
+- Michael to troubleshoot the identified challenges and optimize protocols. Deadline: 30-Oct-2023
+
+---
+
+### Detailed Meeting Minutes
+**Date and Time:** 01-Nov-2023, 1:00 PM - 2:30 PM  
+**Attendees:** 
+- Rachel Singh
+- Abigail Carter
+- Brian Taylor
+- Michael Turner (Note Taker)
+- Mark Johnson (Guest from Zscaler, Security Solutions Expert)
+
+**Absentees:**
+None
+
+**Agenda:**
+- Comprehensive project status review
+- Cross-departmental collaboration proposal
+- Detailed discussion on challenges and solutions
+- Integration with external security solutions
+
+**Discussion Points:**
+- Rachel presented an in-depth analysis of backend development, including performance metrics and user feedback.
+- Abigail discussed an advanced analytics module, aimed at predictive analytics for IBM Cognos Analytics.
+- Brian detailed ongoing research in Azure and its implications for upcoming projects. Suggested integrating Zscaler's services.
+- Michael discussed security compliance issues and provided a plan to align with industry standards.
+- Mark Johnson explained Zscaler’s capabilities and how they could enhance IBM's cloud security.
+
+**Next Steps:**
+- Rachel to finalize backend development features and prepare documentation. Deadline: 10-Nov-2023
+- Abigail to develop and test the predictive analytics module. Deadline: 15-Nov-2023
+- Brian to lead the integration of Zscaler services with IBM’s existing infrastructure. Deadline: 20-Nov-2023
+- Michael to collaborate with Mark for security compliance alignment. Deadline: 25-Nov-2023
+
+---
+
+### Moderate Meeting Minutes
+**Date and Time:** 15-Nov-2023, 11:00 AM - 12:00 PM  
+**Attendees:** 
+- Rachel Singh
+- Abigail Carter
+- Brian Taylor (Note Taker)
+- Michael Turner
+
+**Absentees:**
+None
+
+**Agenda:**
+- Review of ongoing project milestones
+- Update on inter-departmental collaboration with Zscaler
+- Discussion on resource allocation
+
+**Discussion Points:**
+- Rachel updated on the completion of backend features and shared initial user feedback.
+- Abigail reported progress on the predictive analytics module and highlighted some technical challenges.
+- Brian discussed the successful initial phase of integrating Zscaler services.
+- Michael reviewed resource needs for the next quarter and proposed reallocation of some team members.
+
+**Next Steps:**
+- Rachel to address user feedback and optimize features. Deadline: 20-Nov-2023
+- Abigail to resolve technical challenges and continue development. Deadline: 25-Nov-2023
+- Brian to proceed with the next phase of Zscaler integration. Deadline: 30-Nov-2023
+- Michael to draft a resource reallocation plan. Deadline: 05-Dec-2023
+
+---
+
+### Detailed Meeting Minutes
+**Date and Time:** 01-Dec-2023, 3:00 PM - 4:30 PM  
+**Attendees:** 
+- Rachel Singh
+- Abigail Carter
+- Brian Taylor
+- Michael Turner
+- David Lee (IBM, Infrastructure Team Lead)
+
+**Absentees:**
+None
+
+**Agenda:**
+- Final review of project deliverables
+- Detailed update on Zscaler integration
+- Infrastructure requirements and future planning
+- Potential collaborations with other IBM departments
+
+**Discussion Points:**
+- Rachel provided a final review of backend developments and discussed future improvements.
+- Abigail reviewed the results of user testing for the predictive analytics module, with detailed feedback.
+- Brian updated on the advanced stages of Zscaler integration, including security improvements and compliance.
+- Michael discussed the need for additional infrastructure to support new security measures.
+- David Lee proposed infrastructure enhancements and discussed future-proofing IBM’s systems.
+
+**Next Steps:**
+- Rachel to draft a roadmap for future backend enhancements. Deadline: 10-Dec-2023
+- Abigail to implement user feedback and finalize the predictive analytics module. Deadline: 15-Dec-2023
+- Brian to complete the Zscaler integration and run final security checks. Deadline: 20-Dec-2023
+- Michael and David to collaborate on infrastructure upgrades. Deadline: 25-Dec-2023
+
+---

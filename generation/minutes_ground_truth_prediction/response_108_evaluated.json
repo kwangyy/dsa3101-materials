@@ -1,0 +1,185 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Carol Nguyen"
+                },
+                {
+                    "name": "Abigail Carter"
+                },
+                {
+                    "name": "Jackie Lin"
+                },
+                {
+                    "name": "Clara Diaz"
+                },
+                {
+                    "name": "Jason Lee"
+                },
+                {
+                    "name": "Michael Brown"
+                },
+                {
+                    "name": "Sarah Johnson"
+                },
+                {
+                    "name": "Rachel Green"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Microsoft"
+                },
+                {
+                    "name": "DigitalOcean"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Data Analyst"
+                },
+                {
+                    "title": "Project Manager"
+                },
+                {
+                    "title": "Cloud Solutions Architect"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "IBM Cognos Analytics"
+                },
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "DigitalOcean Cloud Solutions"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Carol Nguyen",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Abigail Carter",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jackie Lin",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Clara Diaz",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jason Lee",
+                "organization": "DigitalOcean"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Brown",
+                "organization": "Microsoft"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Sarah Johnson",
+                "organization": "DigitalOcean"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Rachel Green",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Carol Nguyen",
+                "role": "Data Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Abigail Carter",
+                "role": "Project Manager"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jackie Lin",
+                "role": "Data Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Clara Diaz",
+                "role": "Project Manager"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jason Lee",
+                "role": "Cloud Solutions Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Brown",
+                "role": "Data Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Sarah Johnson",
+                "role": "Product Manager"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Rachel Green",
+                "role": "Project Manager"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Carol Nguyen",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Abigail Carter",
+                "product_service": "IBM Cognos Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Jackie Lin",
+                "product_service": "DigitalOcean Cloud Solutions"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Microsoft",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "DigitalOcean",
+                "location": "New York"
+            }
+        ]
+    }
+}

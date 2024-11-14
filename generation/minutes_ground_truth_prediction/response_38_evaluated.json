@@ -1,0 +1,108 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Rachel Singh"
+                },
+                {
+                    "name": "Uma Patel"
+                },
+                {
+                    "name": "Jackie Lin"
+                },
+                {
+                    "name": "Clara Diaz"
+                },
+                {
+                    "name": "John Doe"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Elastic"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Senior Product Manager"
+                }
+            ],
+            "locations": [],
+            "products_services": [
+                {
+                    "name": "IBM Cloud Functions"
+                },
+                {
+                    "name": "IBM Cloud Private"
+                },
+                {
+                    "name": "IBM AI OpenScale"
+                },
+                {
+                    "name": "IBM Security Guardium"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Rachel Singh",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Uma Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jackie Lin",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Clara Diaz",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Doe",
+                "organization": "Elastic"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "John Doe",
+                "role": "Senior Product Manager"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Rachel Singh",
+                "product_service": "IBM Cloud Functions"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Uma Patel",
+                "product_service": "IBM Cloud Private"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Rachel Singh",
+                "product_service": "IBM AI OpenScale"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Jackie Lin",
+                "product_service": "IBM Security Guardium"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": ""
+            }
+        ]
+    }
+}

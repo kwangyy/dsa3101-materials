@@ -1,0 +1,119 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Paul Hernandez"
+    },
+    {
+     "name": "Emma Lee"
+    },
+    {
+     "name": "Clara Diaz"
+    },
+    {
+     "name": "Franklin Moore"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Google"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Systems Engineer"
+    },
+    {
+     "title": "Product Manager"
+    },
+    {
+     "title": "AI Policy Researcher"
+    },
+    {
+     "title": "Senior Software Engineer"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Z systems"
+    },
+    {
+     "name": "Google Cloud AI Platform"
+    },
+    {
+     "name": "IBM AI OpenScale"
+    },
+    {
+     "name": "IBM Watson Assistant"
+    }
+   ],
+   "locations": []
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Paul Hernandez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Clara Diaz",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Franklin Moore",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Paul Hernandez",
+    "role": "Systems Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Lee",
+    "role": "Product Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Clara Diaz",
+    "role": "AI Policy Researcher"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Franklin Moore",
+    "role": "Senior Software Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Paul Hernandez",
+    "product_service": "IBM Z systems"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Emma Lee",
+    "product_service": "Google Cloud AI Platform"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Clara Diaz",
+    "product_service": "IBM AI OpenScale"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Franklin Moore",
+    "product_service": "IBM Watson Assistant"
+   }
+  ]
+ }
+}

@@ -1,0 +1,142 @@
+### Meeting Minutes 1: Simple
+**Date and Time:** 15-Sep-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Oliver James (took notes)
+- Wendy Chen
+- Clara Diaz
+
+**Absentees:**
+- Ivy Bennett
+
+**Agenda:**
+- Innovation initiatives
+- Meeting scheduling
+
+**Discussion Points:**
+- Brief discussion on new AI tools for language translation.
+- Scheduling future bi-weekly meetings for continuous updates.
+
+**Next Steps:**
+- Oliver to share the schedule for bi-weekly meetings by 18-Sep-2023.
+- Wendy to explore potential AI solutions for Maximo and present in next meeting on 29-Sep-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+**Date and Time:** 22-Sep-2023, 3:00 PM - 4:00 PM
+
+**Attendees:**
+- Oliver James
+- Wendy Chen (took notes)
+- Ivy Bennett
+
+**Absentees:**
+- Clara Diaz
+
+**Agenda:**
+- Innovation initiatives
+- AI ethics considerations
+- Meeting scheduling
+
+**Discussion Points:**
+- Discussion on the integration of new AI solutions in existing IBM products.
+- Ivy highlighted the importance of data compliance and ethics.
+- Clara's insights on AI ethics were shared via email for discussion in her absence.
+
+**Next Steps:**
+- Wendy to document AI ethics considerations and share by 25-Sep-2023.
+- Ivy to evaluate data compliance requirements for new initiatives by 30-Sep-2023.
+- Oliver to schedule next meeting for 06-Oct-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+**Date and Time:** 29-Sep-2023, 11:00 AM - 12:30 PM
+
+**Attendees:**
+- Oliver James
+- Wendy Chen
+- Clara Diaz
+- Ivy Bennett (took notes)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Innovation initiatives
+- AI tools for language translation
+- Data compliance and ethics
+- Collaboration with DigitalOcean
+
+**Discussion Points:**
+- Oliver presented new NLP models for Watson Language Translator.
+- Discussion on data requirements and compliance.
+- Ivy raised concerns about data security, especially with collaboration with external entities like DigitalOcean.
+- Wendy presented potential AI solutions for Maximo.
+- Clara discussed AI ethics and how to ensure compliance with organizational policies.
+
+**Next Steps:**
+- Oliver to refine NLP models and present updates in the next meeting on 13-Oct-2023.
+- Ivy to collaborate with DigitalOcean on data security measures and report back by 10-Oct-2023.
+- Wendy to conduct a feasibility study for AI solutions in Maximo and share findings by 12-Oct-2023.
+- Clara to draft a policy document on AI ethics and circulate it for review by 09-Oct-2023.
+
+---
+
+### Meeting Minutes 4: Moderate
+**Date and Time:** 13-Oct-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Oliver James
+- Wendy Chen
+- Ivy Bennett
+- Guest: John Smith, Cloud Solutions Architect, DigitalOcean
+
+**Absentees:**
+- Clara Diaz (on leave)
+
+**Agenda:**
+- Innovation initiatives
+- Data security measures
+- Collaboration with DigitalOcean
+
+**Discussion Points:**
+- Review of refined NLP models for Watson by Oliver.
+- John Smith provided an overview of DigitalOcean’s cloud solutions.
+- Discussion on data security measures and potential collaboration with DigitalOcean.
+
+**Next Steps:**
+- Oliver to refine further based on feedback and present in the next meeting on 27-Oct-2023.
+- Ivy to finalize data security measures in collaboration with John and share by 20-Oct-2023.
+- Wendy to coordinate collaboration activities with DigitalOcean and report progress by 25-Oct-2023.
+
+---
+
+### Meeting Minutes 5: Simple
+**Date and Time:** 27-Oct-2023, 9:00 AM - 9:30 AM
+
+**Attendees:**
+- Oliver James (took notes)
+- Wendy Chen
+- Ivy Bennett
+
+**Absentees:**
+- Clara Diaz (sick leave)
+
+**Agenda:**
+- Innovation initiatives
+- Meeting scheduling
+
+**Discussion Points:**
+- Brief review of Oliver's updated NLP models.
+- Scheduling meetings for the next quarter.
+
+**Next Steps:**
+- Oliver to prepare a detailed report on NLP models by 31-Oct-2023.
+- Wendy to draft a quarterly meeting schedule and share by 01-Nov-2023.
+- Ivy to review and provide feedback on the meeting schedule by 02-Nov-2023.
+
+---
+
+### JSON Data Representation

@@ -1,0 +1,175 @@
+### Meeting Minutes #1 (Simple)
+**Date and Time:** 05-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Michael Turner
+- Clara Diaz
+- Yasmine Ali
+- Jackie Lin
+- Note Taker: Clara Diaz
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Team updates
+- Strategic partnerships
+
+**Discussion Points:**
+- **Team Updates:**
+  - Michael shared updates on new security protocols for Microsoft Azure.
+  - Yasmine discussed progress on predictive models for IBM Planning Analytics.
+  - Jackie provided insights on recent threat detection activities for IBM Security Guardium.
+  - Clara briefed the team on her research findings related to AI ethics.
+- **Strategic Partnerships:**
+  - Initial discussions on potential partnerships with Cognex for machine vision systems.
+
+**Next Steps:**
+- Michael to draft initial security requirements for Cognex integration by 12-Jan-2023.
+- Yasmine to prepare a feasibility study on integrating Cognex data with IBM Planning Analytics by 19-Jan-2023.
+- Clara to continue research on ethical implications of using machine vision in AI by 15-Jan-2023.
+
+---
+
+### Meeting Minutes #2 (Moderate)
+**Date and Time:** 12-Feb-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Michael Turner
+- Clara Diaz
+- Yasmine Ali
+- Jackie Lin
+- Note Taker: Jackie Lin
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Review of ongoing projects
+- Discussion on new strategic partnerships
+
+**Discussion Points:**
+- **Ongoing Projects Review:**
+  - Michael: Progress on Azure security protocols is on track.
+  - Yasmine: Shared latest results from predictive models and ongoing training data.
+  - Clara: Discussed emerging ethical issues with AI developments.
+  - Jackie: Highlighted new threat vectors detected and mitigations in place.
+- **Strategic Partnerships:**
+  - Explored detailed benefits and challenges of partnering with Cognex.
+  - Discussed how Cognex’s machine vision could enhance IBM’s AI and cybersecurity solutions.
+
+**Next Steps:**
+- Michael and Jackie to collaborate on a risk assessment for Cognex partnership by 19-Feb-2023.
+- Yasmine to develop a prototype model using Cognex data by 26-Feb-2023.
+- Clara to draft a policy brief on ethical considerations by 22-Feb-2023.
+
+---
+
+### Meeting Minutes #3 (Detailed)
+**Date and Time:** 20-Mar-2023, 9:00 AM - 10:30 AM
+
+**Attendees:**
+- Michael Turner
+- Clara Diaz
+- Yasmine Ali
+- Jackie Lin
+- External Attendee: James Smith (Cognex, Partnership Manager)
+- Note Taker: Yasmine Ali
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Detailed project updates
+- Finalizing partnership with Cognex
+- Ethical considerations and policy updates
+
+**Discussion Points:**
+- **Project Updates:**
+  - Michael: Presented completed security protocols for Microsoft Azure, ready for integration testing.
+  - Yasmine: Showed predictive models’ performance metrics, highlighted areas for improvement.
+  - Jackie: Discussed advanced threat detection mechanisms recently implemented.
+  - Clara: Reviewed ethical implications of recent AI model deployments.
+- **Cognex Partnership:**
+  - James Smith provided an overview of Cognex’s machine vision capabilities.
+  - Michael and James discussed technical integrations and data security concerns.
+  - Clara emphasized the importance of maintaining ethical standards during integration.
+- **Policy Updates:**
+  - Clara proposed updates to AI ethics policy in light of the Cognex partnership.
+
+**Next Steps:**
+- Michael and Jackie to begin integration testing with Cognex systems by 05-Apr-2023.
+- Yasmine to continue refining predictive models with Cognex data, next review on 10-Apr-2023.
+- Clara to finalize and circulate updated AI ethics policy by 01-Apr-2023.
+- James Smith to send technical documentation and integration guidelines by 27-Mar-2023.
+
+---
+
+### Meeting Minutes #4 (Simple)
+**Date and Time:** 10-Apr-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**
+- Michael Turner
+- Clara Diaz
+- Yasmine Ali
+- Jackie Lin
+- Note Taker: Michael Turner
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Quick team check-in
+- Updates on strategic partnership progress
+
+**Discussion Points:**
+- **Team Check-in:**
+  - Brief updates from all team members about their current tasks.
+- **Strategic Partnership Progress:**
+  - Michael and Jackie gave an update on initial integration testing with Cognex systems.
+  - Yasmine mentioned the preliminary results of using Cognex data in predictive models.
+  - Clara shared insights on the ethical review process for the new partnership.
+
+**Next Steps:**
+- Michael and Jackie to complete integration testing by 20-Apr-2023.
+- Yasmine to provide a detailed report on model performance by 25-Apr-2023.
+- Clara to prepare for the next ethical review meeting by 18-Apr-2023.
+
+---
+
+### Meeting Minutes #5 (Moderate)
+**Date and Time:** 05-May-2023, 3:00 PM - 4:00 PM
+
+**Attendees:**
+- Michael Turner
+- Clara Diaz
+- Yasmine Ali
+- Jackie Lin
+- Note Taker: Yasmine Ali
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Recap of recent developments
+- Planning next steps for Cognex partnership
+
+**Discussion Points:**
+- **Recent Developments:**
+  - Michael: Successful integration of Cognex’s machine vision systems with Azure security protocols.
+  - Yasmine: Enhanced predictive models’ accuracy using Cognex data.
+  - Jackie: Improved threat detection capabilities with integrated vision data.
+  - Clara: Positive feedback on updated AI ethics policy.
+- **Next Steps for Cognex Partnership:**
+  - Discussed scaling the integration to other IBM products.
+  - Identified potential new use cases and markets for Cognex-enabled solutions.
+
+**Next Steps:**
+- Michael to initiate discussions with other IBM product teams by 15-May-2023.
+- Yasmine to start model deployment on new products by 22-May-2023.
+- Jackie to implement new threat detection algorithms in a pilot phase by 29-May-2023.
+- Clara to monitor ethical implications and report findings in the next meeting by 12-May-2023.
+
+---
+
+### JSON Representation of Synthetic Data

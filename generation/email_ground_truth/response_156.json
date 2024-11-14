@@ -1,0 +1,102 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Jackie Lin"
+    },
+    {
+     "name": "Yasmine Ali"
+    },
+    {
+     "name": "Oliver James"
+    },
+    {
+     "name": "Clara Diaz"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Cybersecurity Analyst"
+    },
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "AI Research Scientist"
+    },
+    {
+     "title": "AI Policy Researcher"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Planning Analytics"
+    },
+    {
+     "name": "IBM Watson Language Translator"
+    },
+    {
+     "name": "IBM Security Guardium"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jackie Lin",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jackie Lin",
+    "role": "Cybersecurity Analyst"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Yasmine Ali",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Yasmine Ali",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Yasmine Ali",
+    "product_service": "IBM Planning Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Oliver James",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Oliver James",
+    "role": "AI Research Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Oliver James",
+    "product_service": "IBM Watson Language Translator"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Clara Diaz",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Clara Diaz",
+    "role": "AI Policy Researcher"
+   }
+  ]
+ }
+}

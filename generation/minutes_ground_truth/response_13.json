@@ -1,0 +1,156 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Natalie Wu"
+    },
+    {
+     "name": "Henry Zhou"
+    },
+    {
+     "name": "Abigail Carter"
+    },
+    {
+     "name": "Zachary Brooks"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Nutanix"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Product Marketing Manager"
+    },
+    {
+     "title": "DevOps Engineer"
+    },
+    {
+     "title": "Business Intelligence Analyst"
+    },
+    {
+     "title": "Solutions Engineer"
+    }
+   ],
+   "locations": [
+    {
+     "name": "Marketing Department"
+    },
+    {
+     "name": "Operations Department"
+    },
+    {
+     "name": "Data Analytics Department"
+    },
+    {
+     "name": "Customer Success Department"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Watson Discovery"
+    },
+    {
+     "name": "IBM Kubernetes Service"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM Cloud Pak for Integration"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Natalie Wu",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Henry Zhou",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Abigail Carter",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Zachary Brooks",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Natalie Wu",
+    "role": "Product Marketing Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Henry Zhou",
+    "role": "DevOps Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Abigail Carter",
+    "role": "Business Intelligence Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Zachary Brooks",
+    "role": "Solutions Engineer"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Natalie Wu",
+    "location": "Marketing Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Henry Zhou",
+    "location": "Operations Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Abigail Carter",
+    "location": "Data Analytics Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Zachary Brooks",
+    "location": "Customer Success Department"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Natalie Wu",
+    "product_service": "IBM Watson Discovery"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Henry Zhou",
+    "product_service": "IBM Kubernetes Service"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Abigail Carter",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Zachary Brooks",
+    "product_service": "IBM Cloud Pak for Integration"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "organization": "Nutanix"
+   }
+  ]
+ }
+}

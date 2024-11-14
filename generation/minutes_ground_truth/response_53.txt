@@ -1,0 +1,144 @@
+### Meeting Minutes 1 - Simple
+
+**Date and Time:** 01-Aug-2023, 10:00 AM - 10:30 AM  
+**Attendees:**
+- Natalie Wu (Note-taker)
+- Derek Hill
+- Michael Turner
+
+**Absentees:**
+- Gina Lopez
+
+**Agenda:**
+1. Meeting scheduling for project updates
+2. Introduction of innovation initiatives
+
+**Discussion Points:**
+- Natalie Wu introduced the need for regular project update meetings.
+- Derek Hill suggested bi-weekly meetings to ensure all QA aspects are covered.
+- Michael Turner emphasized the importance of aligning with cybersecurity protocols.
+
+**Next Steps:**
+- Natalie to send out calendar invites for bi-weekly meetings by 03-Aug-2023.
+- Each attendee to prepare a brief update on their progress for the next meeting on 15-Aug-2023.
+
+---
+
+### Meeting Minutes 2 - Simple
+
+**Date and Time:** 10-Aug-2023, 2:00 PM - 2:45 PM  
+**Attendees:**
+- Gina Lopez (Note-taker)
+- Natalie Wu
+- Derek Hill
+
+**Absentees:**
+- Michael Turner
+
+**Agenda:**
+1. UX design updates
+2. Discussion on incorporating innovation in user interfaces
+
+**Discussion Points:**
+- Gina Lopez showcased the latest UX designs for IBM Cloud Pak for Data.
+- Natalie Wu discussed the promotional aspects and how the new design can be marketed.
+- Derek Hill raised concerns about potential UX issues that could arise during QA testing.
+
+**Next Steps:**
+- Gina to finalize the UX designs by 17-Aug-2023.
+- Derek to prepare a QA plan focused on the new UX elements by 20-Aug-2023.
+
+---
+
+### Meeting Minutes 3 - Moderate
+
+**Date and Time:** 05-Sep-2023, 11:00 AM - 12:00 PM  
+**Attendees:**
+- Michael Turner (Note-taker)
+- Natalie Wu
+- Gina Lopez
+- Derek Hill
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Security protocol updates for IBM Aspera
+2. Cross-department collaboration on innovation initiatives
+
+**Discussion Points:**
+- Michael Turner outlined the new security protocols for IBM Aspera.
+- Natalie Wu emphasized the need to communicate these updates to enterprise clients.
+- Gina Lopez and Derek Hill discussed potential design and QA considerations to ensure compliance.
+
+**Next Steps:**
+- Michael to draft a detailed security protocol document by 12-Sep-2023.
+- Natalie to prepare a client communication plan by 15-Sep-2023.
+- Gina and Derek to collaborate on addressing design and QA concerns by 20-Sep-2023.
+
+---
+
+### Meeting Minutes 4 - Detailed
+
+**Date and Time:** 18-Sep-2023, 9:00 AM - 10:30 AM  
+**Attendees:**
+- Natalie Wu (Note-taker)
+- Derek Hill
+- Michael Turner
+- Gina Lopez
+- External Attendee: John Smith, Product Manager at Snowflake
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Integration of Snowflake data warehousing with IBM products
+2. Innovation initiatives and cross-organization collaboration
+
+**Discussion Points:**
+- John Smith introduced the capabilities of Snowflake in handling complex data sets.
+- Natalie Wu discussed potential marketing strategies for promoting the integration.
+- Derek Hill and Michael Turner raised technical and security concerns.
+- Gina Lopez explored the UX implications and proposed solutions.
+
+**Next Steps:**
+- John Smith to provide detailed technical documentation by 25-Sep-2023.
+- Natalie to coordinate a joint marketing campaign plan by 30-Sep-2023.
+- Derek and Michael to review technical and security concerns, report by 02-Oct-2023.
+- Gina to begin designing a new user interface for the integrated product by 05-Oct-2023.
+
+---
+
+### Meeting Minutes 5 - Detailed
+
+**Date and Time:** 25-Sep-2023, 3:00 PM - 4:30 PM  
+**Attendees:**
+- Gina Lopez (Note-taker)
+- Natalie Wu
+- Derek Hill
+- Michael Turner
+- External Attendee: Alex Johnson, Innovation Consultant at IBM
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Review of current innovation initiatives
+2. Strategy for increasing innovation across departments
+3. Collaboration with external consultants
+
+**Discussion Points:**
+- Alex Johnson presented an overview of successful innovation strategies in similar organizations.
+- Natalie Wu outlined current promotional strategies for IBM Watson Discovery.
+- Derek Hill and Michael Turner discussed the technical feasibility of proposed innovations.
+- Gina Lopez highlighted the importance of user-centric design in innovation.
+
+**Next Steps:**
+- Alex Johnson to draft a comprehensive innovation strategy document by 05-Oct-2023.
+- Natalie to integrate new strategies into marketing plans by 10-Oct-2023.
+- Derek and Michael to assess technical requirements, report by 12-Oct-2023.
+- Gina to prepare initial UX design mockups based on the new strategies by 15-Oct-2023.
+
+---
+
+### JSON Representation of People and Relationships

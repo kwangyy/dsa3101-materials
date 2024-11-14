@@ -1,0 +1,149 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Lily Garcia"
+                },
+                {
+                    "name": "David Patel"
+                },
+                {
+                    "name": "Benji Martinez"
+                },
+                {
+                    "name": "Carol Nguyen"
+                },
+                {
+                    "name": "John Doe"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "IBM Cloud Satellite"
+                },
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "Snowflake"
+                },
+                {
+                    "name": "Acme Corp"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Data Solutions Specialist"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "IBM Cloud Object Storage"
+                },
+                {
+                    "name": "AWS infrastructure architecture"
+                },
+                {
+                    "name": "Snowflake's data warehousing solutions"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Lily Garcia",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "David Patel",
+                "organization": "AWS"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Benji Martinez",
+                "organization": "IBM Cloud Satellite"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Carol Nguyen",
+                "organization": "Microsoft Azure"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Doe",
+                "organization": "Snowflake"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "John Doe",
+                "role": "Data Solutions Specialist"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "AWS",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM Cloud Satellite",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Microsoft Azure",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Snowflake",
+                "location": "New York"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Lily Garcia",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "David Patel",
+                "product_service": "AWS infrastructure architecture"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Benji Martinez",
+                "product_service": "IBM Cloud Object Storage"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Carol Nguyen",
+                "product_service": "Snowflake's data warehousing solutions"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Acme Corp",
+                "location": "New York"
+            }
+        ]
+    }
+}

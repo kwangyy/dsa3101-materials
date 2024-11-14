@@ -1,0 +1,151 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Oliver James"
+    },
+    {
+     "name": "David Patel"
+    },
+    {
+     "name": "Paul Hernandez"
+    },
+    {
+     "name": "Gina Lopez"
+    },
+    {
+     "name": "John Smith"
+    },
+    {
+     "name": "Maria Rodriguez"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "ServiceTitan"
+    }
+   ],
+   "roles": [
+    {
+     "title": "AI Research Scientist"
+    },
+    {
+     "title": "Cloud Architect"
+    },
+    {
+     "title": "Systems Engineer"
+    },
+    {
+     "title": "UX Designer"
+    },
+    {
+     "title": "Solutions Architect"
+    }
+   ],
+   "locations": [],
+   "products_services": [
+    {
+     "name": "IBM Watson Language Translator"
+    },
+    {
+     "name": "AWS"
+    },
+    {
+     "name": "IBM Z systems"
+    },
+    {
+     "name": "IBM Cloud Pak for Data"
+    },
+    {
+     "name": "ServiceTitan"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Oliver James",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "David Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Paul Hernandez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Gina Lopez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "ServiceTitan"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Maria Rodriguez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Oliver James",
+    "role": "AI Research Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "David Patel",
+    "role": "Cloud Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Paul Hernandez",
+    "role": "Systems Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Gina Lopez",
+    "role": "UX Designer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "Solutions Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Oliver James",
+    "product_service": "IBM Watson Language Translator"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "David Patel",
+    "product_service": "AWS"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Paul Hernandez",
+    "product_service": "IBM Z systems"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Gina Lopez",
+    "product_service": "IBM Cloud Pak for Data"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Smith",
+    "product_service": "ServiceTitan"
+   }
+  ]
+ }
+}

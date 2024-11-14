@@ -1,0 +1,160 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Paul Hernandez"
+    },
+    {
+     "name": "Uma Patel"
+    },
+    {
+     "name": "Brian Taylor"
+    },
+    {
+     "name": "Oliver James"
+    },
+    {
+     "name": "John Smith"
+    },
+    {
+     "name": "Jane Doe"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Zscaler"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Systems Engineer"
+    },
+    {
+     "title": "Senior Solutions Architect"
+    },
+    {
+     "title": "Senior Data Scientist"
+    },
+    {
+     "title": "AI Research Scientist"
+    },
+    {
+     "title": "External Consultant"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Z systems"
+    },
+    {
+     "name": "IBM Cloud Private"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Watson Language Translator"
+    },
+    {
+     "name": "Secure Internet Access"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Paul Hernandez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Uma Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Brian Taylor",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Oliver James",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "Zscaler"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Doe",
+    "organization": "Zscaler"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Paul Hernandez",
+    "role": "Systems Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Uma Patel",
+    "role": "Senior Solutions Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Brian Taylor",
+    "role": "Senior Data Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Oliver James",
+    "role": "AI Research Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "External Consultant"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Doe",
+    "role": "External Consultant"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Paul Hernandez",
+    "product_service": "IBM Z systems"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Uma Patel",
+    "product_service": "IBM Cloud Private"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Brian Taylor",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Oliver James",
+    "product_service": "IBM Watson Language Translator"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Smith",
+    "product_service": "Secure Internet Access"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jane Doe",
+    "product_service": "Secure Internet Access"
+   }
+  ]
+ }
+}

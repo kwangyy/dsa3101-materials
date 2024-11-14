@@ -1,0 +1,142 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Benji Martinez"
+    },
+    {
+     "name": "Michael Turner"
+    },
+    {
+     "name": "Henry Zhou"
+    },
+    {
+     "name": "Kevin O'Reilly"
+    },
+    {
+     "name": "Jane Doe"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Databricks"
+    }
+   ],
+   "roles": [
+    {
+     "title": "IT Operations Manager"
+    },
+    {
+     "title": "Cloud Security Architect"
+    },
+    {
+     "title": "DevOps Engineer"
+    },
+    {
+     "title": "Machine Learning Engineer"
+    },
+    {
+     "title": "Data Engineer"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Object Storage"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Kubernetes Service"
+    },
+    {
+     "name": "IBM Watson Studio"
+    },
+    {
+     "name": "Apache Spark"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Benji Martinez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Turner",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Henry Zhou",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Kevin O'Reilly",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Doe",
+    "organization": "Databricks"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Benji Martinez",
+    "role": "IT Operations Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Turner",
+    "role": "Cloud Security Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Henry Zhou",
+    "role": "DevOps Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Kevin O'Reilly",
+    "role": "Machine Learning Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Doe",
+    "role": "Data Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Benji Martinez",
+    "product_service": "IBM Cloud Object Storage"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Turner",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Henry Zhou",
+    "product_service": "IBM Kubernetes Service"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Kevin O'Reilly",
+    "product_service": "IBM Watson Studio"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "organization": "Databricks",
+    "product_service": "Apache Spark"
+   }
+  ]
+ }
+}

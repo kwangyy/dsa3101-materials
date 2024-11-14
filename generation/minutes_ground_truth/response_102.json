@@ -1,0 +1,169 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Ivy Bennett"
+    },
+    {
+     "name": "Lily Garcia"
+    },
+    {
+     "name": "Natalie Wu"
+    },
+    {
+     "name": "Uma Patel"
+    },
+    {
+     "name": "John Smith"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Snowflake"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Data Engineer"
+    },
+    {
+     "title": "Marketing Analyst"
+    },
+    {
+     "title": "Product Marketing Manager"
+    },
+    {
+     "title": "Senior Solutions Architect"
+    },
+    {
+     "title": "Data Engineer"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Snowflake"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Db2"
+    },
+    {
+     "name": "IBM Cloud Satellite"
+    },
+    {
+     "name": "IBM Watson Discovery"
+    },
+    {
+     "name": "IBM Cloud Private"
+    },
+    {
+     "name": "Data warehousing platform"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Ivy Bennett",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Lily Garcia",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Natalie Wu",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Uma Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "Snowflake"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Ivy Bennett",
+    "role": "Data Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Lily Garcia",
+    "role": "Marketing Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Natalie Wu",
+    "role": "Product Marketing Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Uma Patel",
+    "role": "Senior Solutions Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "Data Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Ivy Bennett",
+    "product_service": "IBM Db2"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Lily Garcia",
+    "product_service": "IBM Cloud Satellite"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Natalie Wu",
+    "product_service": "IBM Watson Discovery"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Uma Patel",
+    "product_service": "IBM Cloud Private"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Smith",
+    "product_service": "Data warehousing platform"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "Snowflake",
+    "location": "Snowflake"
+   }
+  ]
+ }
+}

@@ -1,0 +1,176 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Derek Hill"
+    },
+    {
+     "name": "Emma Lee"
+    },
+    {
+     "name": "Zachary Brooks"
+    },
+    {
+     "name": "Uma Patel"
+    },
+    {
+     "name": "Lisa Green"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Nutanix"
+    }
+   ],
+   "roles": [
+    {
+     "title": "QA Engineer"
+    },
+    {
+     "title": "Product Manager"
+    },
+    {
+     "title": "Solutions Engineer"
+    },
+    {
+     "title": "Senior Solutions Architect"
+    },
+    {
+     "title": "Senior Cloud Architect"
+    }
+   ],
+   "locations": [
+    {
+     "name": "Quality Assurance Department"
+    },
+    {
+     "name": "IT Department"
+    },
+    {
+     "name": "Customer Success Department"
+    },
+    {
+     "name": "Solutions Engineering Department"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Aspera"
+    },
+    {
+     "name": "Google Cloud AI Platform"
+    },
+    {
+     "name": "IBM Cloud Pak for Integration"
+    },
+    {
+     "name": "IBM Cloud Private"
+    },
+    {
+     "name": "Nutanix Multi-Cloud Solutions"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Derek Hill",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Derek Hill",
+    "role": "QA Engineer"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Derek Hill",
+    "location": "Quality Assurance Department"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Derek Hill",
+    "product_service": "IBM Aspera"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Lee",
+    "role": "Product Manager"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Emma Lee",
+    "location": "IT Department"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Emma Lee",
+    "product_service": "Google Cloud AI Platform"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Zachary Brooks",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Zachary Brooks",
+    "role": "Solutions Engineer"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Zachary Brooks",
+    "location": "Customer Success Department"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Zachary Brooks",
+    "product_service": "IBM Cloud Pak for Integration"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Uma Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Uma Patel",
+    "role": "Senior Solutions Architect"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Uma Patel",
+    "location": "Solutions Engineering Department"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Uma Patel",
+    "product_service": "IBM Cloud Private"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Lisa Green",
+    "organization": "Nutanix"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Lisa Green",
+    "role": "Senior Cloud Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Lisa Green",
+    "product_service": "Nutanix Multi-Cloud Solutions"
+   }
+  ]
+ }
+}

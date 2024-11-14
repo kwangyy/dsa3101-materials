@@ -1,0 +1,155 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time:** 15-MAR-2023, 10:00 AM - 10:30 AM
+**Attendees:** 
+- Lily Garcia
+- Alice Smith
+- Paul Hernandez (Note taker)
+- Carol Nguyen
+
+**Agenda:**
+- Introductions and meeting purpose
+- Brief updates on service integration efforts
+- Addressing informal requests
+
+**Discussion Points:**
+- **Introductions:** Lily Garcia welcomed attendees and outlined the meeting's purpose.
+- **Service Integration Updates:** 
+  - Lily Garcia provided an update on the ongoing integration of IBM Cloud Satellite with other IBM services.
+  - Alice Smith noted the importance of integrating Symantec Endpoint Security effectively.
+- **Informal Requests:**
+  - Paul Hernandez mentioned the need for improved coordination between IT and marketing.
+  - Carol Nguyen requested more data insights for her analysis tasks related to Microsoft Azure.
+
+**Next Steps:**
+- Lily Garcia to create a draft plan for service integration by 20-MAR-2023.
+- Paul Hernandez to coordinate with marketing for better IT support by 22-MAR-2023.
+- Carol Nguyen to submit specific data needs by 18-MAR-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+**Date and Time:** 22-MAR-2023, 2:00 PM - 3:00 PM
+**Attendees:**
+- Lily Garcia
+- Alice Smith
+- Paul Hernandez
+- Carol Nguyen (Note taker)
+- John Doe (C3.ai representative)
+
+**Agenda:**
+- Service integration update
+- Collaboration with C3.ai
+- Addressing departmental challenges
+
+**Discussion Points:**
+- **Service Integration Update:**
+  - Alice Smith reported progress on the development of Microsoft Azure integration.
+  - Lily Garcia highlighted the upcoming customer trend analysis for IBM Cloud Satellite.
+- **Collaboration with C3.ai:**
+  - John Doe discussed potential collaborations on industrial-scale AI solutions.
+  - Alice Smith emphasized the alignment between IBM's security products and C3.ai's solutions.
+- **Departmental Challenges:**
+  - Paul Hernandez mentioned ongoing issues with infrastructure maintenance.
+  - Carol Nguyen requested more collaborative sessions for data analysis.
+
+**Next Steps:**
+- Alice Smith to finalize integration details with C3.ai by 28-MAR-2023.
+- Paul Hernandez to address infrastructure issues by 30-MAR-2023.
+- Lily Garcia to arrange a data collaboration session by 25-MAR-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+**Date and Time:** 01-APR-2023, 1:00 PM - 2:30 PM
+**Attendees:**
+- Lily Garcia (Note taker)
+- Alice Smith
+- Paul Hernandez
+- Carol Nguyen
+- Jane Brown (IT Project Manager at IBM)
+
+**Agenda:**
+- Deep dive into service integration
+- Cross-departmental collaboration
+- Performance metrics and improvement
+
+**Discussion Points:**
+- **Service Integration:**
+  - Alice Smith shared an extensive report on Microsoft Azure's integration progress.
+  - Lily Garcia provided insights from recent customer trend analyses.
+- **Cross-Departmental Collaboration:**
+  - Paul Hernandez highlighted the need for better communication channels.
+  - Jane Brown suggested bi-weekly cross-departmental meetings.
+- **Performance Metrics:**
+  - Carol Nguyen presented initial performance metrics from data analysis.
+  - Alice Smith proposed a set of key performance indicators (KPIs) for future tracking.
+
+**Next Steps:**
+- Lily Garcia to present a detailed customer trends report by 05-APR-2023.
+- Jane Brown to schedule bi-weekly meetings starting 10-APR-2023.
+- Alice Smith to finalize KPIs by 07-APR-2023.
+- Paul Hernandez to improve communication tools by 12-APR-2023.
+
+---
+
+### Meeting Minutes 4 (Simple)
+**Date and Time:** 08-APR-2023, 9:00 AM - 9:30 AM
+**Attendees:**
+- Lily Garcia (Note taker)
+- Alice Smith
+- Paul Hernandez
+- Carol Nguyen
+
+**Agenda:**
+- Quick updates on ongoing projects
+- Addressing new informal requests
+
+**Discussion Points:**
+- **Project Updates:**
+  - Alice Smith provided a brief on the latest Microsoft Azure developments.
+  - Paul Hernandez updated on recent infrastructure maintenance tasks.
+- **Informal Requests:**
+  - Carol Nguyen requested additional data access for improved analysis.
+  - Lily Garcia asked for marketing insights from recent campaigns.
+
+**Next Steps:**
+- Alice Smith to deliver a summary of Azure developments by 12-APR-2023.
+- Paul Hernandez to complete pending maintenance tasks by 15-APR-2023.
+- Carol Nguyen to specify data access requirements by 10-APR-2023.
+
+---
+
+### Meeting Minutes 5 (Moderate)
+**Date and Time:** 15-APR-2023, 3:00 PM - 4:00 PM
+**Attendees:**
+- Lily Garcia
+- Alice Smith
+- Paul Hernandez
+- Carol Nguyen (Note taker)
+- Jim Green (C3.ai representative)
+
+**Agenda:**
+- Service integration review
+- Potential collaboration with C3.ai
+- Resource allocation and optimization
+
+**Discussion Points:**
+- **Service Integration Review:**
+  - Alice Smith reported on the recent milestones achieved in service integration.
+  - Lily Garcia discussed the latest customer feedback on IBM Cloud Satellite.
+- **Collaboration with C3.ai:**
+  - Jim Green explored opportunities for collaboration in energy and defense sectors.
+  - Alice Smith identified potential areas for joint ventures.
+- **Resource Allocation:**
+  - Paul Hernandez highlighted the need for additional resources in IT support.
+  - Carol Nguyen proposed optimizing current resources for better efficiency.
+
+**Next Steps:**
+- Alice Smith to draft collaboration proposal with C3.ai by 20-APR-2023.
+- Paul Hernandez to submit a resource requirement report by 18-APR-2023.
+- Lily Garcia to analyze customer feedback in detail by 22-APR-2023.
+- Carol Nguyen to work on resource optimization strategies by 25-APR-2023.
+
+---
+
+### JSON Relationships

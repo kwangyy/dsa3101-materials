@@ -1,0 +1,139 @@
+### Meeting Minutes #1 (Simple)
+**Date and Time:** 15-Feb-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Lily Garcia (Note-taker)
+- Henry Zhou
+- Kevin O'Reilly
+- Zachary Brooks
+
+**Agenda:**
+- Project Updates
+- Inter-department Collaboration
+
+**Discussion Points:**
+- **Project Updates:**
+  - Lily Garcia shared insights on customer trends for IBM Cloud Satellite.
+  - Henry Zhou discussed recent improvements in CI/CD pipeline automation.
+  - Kevin O'Reilly provided updates on new machine learning models for IBM Watson Studio.
+  - Zachary Brooks mentioned successful implementations of IBM Cloud Pak for Integration.
+
+- **Inter-department Collaboration:**
+  - Discussed potential for integrating machine learning insights into CI/CD pipelines.
+  - Proposed regular inter-department meetings for continued collaboration.
+
+**Next Steps:**
+- Schedule next inter-department meeting by 01-Mar-2023.
+- Lily to coordinate with other departments and set up the schedule.
+
+---
+
+### Meeting Minutes #2 (Moderate)
+**Date and Time:** 01-Mar-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Lily Garcia
+- Henry Zhou
+- Kevin O'Reilly (Note-taker)
+- Zachary Brooks
+
+**Agenda:**
+- Strategy Discussions
+- Collaboration with External Entity (Cognex)
+
+**Discussion Points:**
+- **Strategy Discussions:**
+  - Discussed marketing strategies for IBM Cloud Satellite based on customer trends.
+  - Examined potential for AI models to support marketing campaigns.
+
+- **Collaboration with Cognex:**
+  - Discussed potential partnership with Cognex for machine vision systems.
+  - Considered how Cognex systems could enhance IBM's manufacturing and logistics automation.
+
+**Next Steps:**
+- Henry to reach out to Cognex by 10-Mar-2023.
+- Zachary to draft an initial proposal for collaboration with Cognex by 15-Mar-2023.
+
+---
+
+### Meeting Minutes #3 (Detailed)
+**Date and Time:** 15-Mar-2023, 11:00 AM - 12:30 PM
+
+**Attendees:**
+- Lily Garcia
+- Henry Zhou (Note-taker)
+- Kevin O'Reilly
+- Zachary Brooks
+
+**Agenda:**
+- Problem-Solving Session
+- Implementation of Solutions
+
+**Discussion Points:**
+- **Problem-Solving Session:**
+  - Henry highlighted challenges in the current CI/CD pipeline automation.
+  - Kevin suggested leveraging machine learning to optimize pipeline processes.
+  - Discussed how marketing insights could guide product development.
+
+- **Implementation of Solutions:**
+  - Zachary proposed a phased approach for integrating machine learning with CI/CD pipelines.
+  - Examined potential risks and mitigation strategies.
+
+**Next Steps:**
+- Kevin to develop a prototype for machine learning integration by 30-Mar-2023.
+- Lily to analyze customer response and provide feedback by 05-Apr-2023.
+
+---
+
+### Meeting Minutes #4 (Simple)
+**Date and Time:** 01-Apr-2023, 9:00 AM - 9:30 AM
+
+**Attendees:**
+- Lily Garcia
+- Henry Zhou
+- Kevin O'Reilly (Note-taker)
+- Zachary Brooks
+
+**Agenda:**
+- Quick Project Sync-up
+- Next Steps
+
+**Discussion Points:**
+- **Quick Project Sync-up:**
+  - Brief updates on ongoing projects.
+  - Identified any immediate issues or blockers.
+
+**Next Steps:**
+- Schedule next meeting for a detailed review by 15-Apr-2023.
+
+---
+
+### Meeting Minutes #5 (Moderate)
+**Date and Time:** 15-Apr-2023, 3:00 PM - 4:00 PM
+
+**Attendees:**
+- Lily Garcia
+- Henry Zhou
+- Kevin O'Reilly
+- Zachary Brooks (Note-taker)
+
+**Agenda:**
+- Review of Collaboration Initiatives
+- Future Strategies
+
+**Discussion Points:**
+- **Review of Collaboration Initiatives:**
+  - Reviewed progress on integrating machine learning with CI/CD pipelines.
+  - Discussed initial feedback from customer trends analysis.
+
+- **Future Strategies:**
+  - Planned next steps for collaboration with Cognex.
+  - Identified areas for improvement in current inter-department efforts.
+
+**Next Steps:**
+- Lily to schedule a follow-up meeting with Cognex by 30-Apr-2023.
+- Henry to refine CI/CD integration based on feedback by 10-May-2023.
+
+---
+
+### JSON Data

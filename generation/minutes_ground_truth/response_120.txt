@@ -1,0 +1,150 @@
+### Meeting Minutes 1 - Simple
+#### Date and Time: 
+- 15-MAR-2023
+- 10:00 AM - 10:30 AM
+
+#### Attendees:
+- Yasmine Ali (Notes)
+- Brian Taylor
+- Tina Foster
+- Abigail Carter
+
+#### Absentees:
+- None
+
+#### Agenda:
+1. Quick feedback session from clients regarding data models.
+2. Discussion of support queries received by IT support.
+
+#### Discussion Points:
+- Yasmine Ali provided an update on client feedback for predictive models. Mostly positive but highlighted the need for more real-time predictions.
+- Tina Foster mentioned an increase in support queries related to IBM QRadar SIEM. Proposed a knowledge base article to address common issues.
+
+#### Next Steps:
+- Yasmine Ali to work on improving real-time prediction models, deadline: 30-MAR-2023.
+- Tina Foster to create a knowledge base article for IBM QRadar SIEM, deadline: 20-MAR-2023.
+
+---
+
+### Meeting Minutes 2 - Moderate
+#### Date and Time: 
+- 02-APR-2023
+- 1:00 PM - 2:00 PM
+
+#### Attendees:
+- Brian Taylor (Notes)
+- Yasmine Ali
+- Tina Foster
+- Abigail Carter
+
+#### Absentees:
+- None
+
+#### Agenda:
+1. Client interaction feedback on IBM Planning Analytics.
+2. Review of current data reporting methods and suggestions for improvements.
+
+#### Discussion Points:
+- Yasmine Ali shared client interaction feedback. Clients find the models useful but would like enhanced visualization features.
+- Abigail Carter suggested that improved dashboards could solve visualization issues.
+- Tina Foster proposed collaborating with Alteryx for simplifying data processes, considering a trial run.
+
+#### Next Steps:
+- Abigail Carter to draft new dashboard features, deadline: 15-APR-2023.
+- Tina Foster to initiate a trial run with Alteryx, deadline: 10-APR-2023.
+
+---
+
+### Meeting Minutes 3 - Detailed
+#### Date and Time: 
+- 15-APR-2023
+- 3:00 PM - 4:30 PM
+
+#### Attendees:
+- Tina Foster (Notes)
+- Yasmine Ali
+- Brian Taylor
+- Abigail Carter
+
+#### Absentees:
+- None
+
+#### Agenda:
+1. Analysis of data integration issues reported by clients.
+2. Strategic discussion on the implementation of new IT solutions.
+
+#### Discussion Points:
+- Brian Taylor reported data integration issues with Microsoft Azure. Proposed setting up a dedicated task force to address these issues.
+- Yasmine Ali suggested regular cross-department meetings to streamline data integration.
+- Abigail Carter highlighted the need for better data visualization in reports to minimize client confusion.
+- Tina Foster proposed setting up a dedicated support channel for clients facing recurring issues.
+
+#### Next Steps:
+- Brian Taylor to lead a task force for data integration issues, first meeting: 22-APR-2023.
+- Yasmine Ali to organize cross-department meetings, initial schedule to be circulated by 18-APR-2023.
+- Abigail Carter to enhance data visualization in reports, deadline: 30-APR-2023.
+- Tina Foster to set up a dedicated support channel, deadline: 25-APR-2023.
+
+---
+
+### Meeting Minutes 4 - Moderate
+#### Date and Time: 
+- 01-MAY-2023
+- 10:00 AM - 11:00 AM
+
+#### Attendees:
+- Abigail Carter (Notes)
+- Yasmine Ali
+- Brian Taylor
+- Tina Foster
+
+#### Absentees:
+- None
+
+#### Agenda:
+1. Review of new dashboard features.
+2. Discuss integration with external platforms like Alteryx.
+
+#### Discussion Points:
+- Abigail Carter presented new dashboard features. Feedback was positive but required some minor adjustments.
+- Brian Taylor suggested integrating the dashboard with Alteryx to automate data processes.
+- Yasmine Ali agreed and mentioned the need for detailed documentation for clients.
+
+#### Next Steps:
+- Abigail Carter to make adjustments to the dashboard, deadline: 10-MAY-2023.
+- Brian Taylor to initiate integration with Alteryx, deadline: 15-MAY-2023.
+- Yasmine Ali to prepare documentation, deadline: 12-MAY-2023.
+
+---
+
+### Meeting Minutes 5 - Detailed
+#### Date and Time: 
+- 10-JUN-2023
+- 2:00 PM - 3:30 PM
+
+#### Attendees:
+- Yasmine Ali (Notes)
+- Brian Taylor
+- Tina Foster
+- Abigail Carter
+
+#### Absentees:
+- None
+
+#### Agenda:
+1. Comprehensive review of client feedback on recent updates.
+2. Discussion on enhancing data security measures.
+3. Strategies for improving cross-departmental collaboration.
+
+#### Discussion Points:
+- Yasmine Ali summarized client feedback, indicating satisfaction with recent updates but concerns about data security.
+- Brian Taylor proposed new data encryption methods to enhance security.
+- Tina Foster discussed the need for regular training sessions on data security for all departments.
+- Abigail Carter suggested monthly meetings to ensure ongoing collaboration and alignment.
+
+#### Next Steps:
+- Brian Taylor to implement new data encryption methods, deadline: 25-JUN-2023.
+- Tina Foster to organize training sessions on data security, first session: 20-JUN-2023.
+- Abigail Carter to schedule monthly cross-departmental meetings, first meeting: 15-JUN-2023.
+
+---

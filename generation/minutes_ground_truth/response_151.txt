@@ -1,0 +1,165 @@
+### Meeting Minutes 1 (Simple)
+
+**Date and Time:** 05-JAN-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**  
+- Abigail Carter (Note taker)  
+- Henry Zhou  
+- Rachel Singh  
+- Lily Garcia
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+- Status updates on current projects  
+- Brief discussion on team collaboration
+
+**Discussion Points:**  
+- **Abigail Carter** provided updates on reporting and dashboards for IBM Cognos Analytics. Mentioned the completion of Q4 2022 report.  
+- **Henry Zhou** discussed progress on automating CI/CD pipelines for IBM Kubernetes Service.  
+- **Rachel Singh** shared the status of backend development for IBM Cloud Functions.  
+- **Lily Garcia** analyzed recent customer trends and their impact on IBM Cloud Satellite.
+
+**Next Steps:**  
+- Abigail to circulate Q4 2022 report by 07-JAN-2023.  
+- Henry to finalize automation scripts by 15-JAN-2023.  
+- Rachel to finish the backend module by 20-JAN-2023.  
+- Lily to prepare a detailed report on customer trends by 13-JAN-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+
+**Date and Time:** 12-JAN-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**  
+- Abigail Carter  
+- Henry Zhou (Note taker)  
+- Rachel Singh  
+- Lily Garcia
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+- Project updates  
+- Discussing integration between departments  
+- Planning for the upcoming quarter
+
+**Discussion Points:**  
+- **Abigail Carter** discussed upcoming enhancements for IBM Cognos Analytics dashboards.  
+- **Henry Zhou** highlighted the need for better integration between CI/CD pipelines and backend services.  
+- **Rachel Singh** mentioned backend service bottlenecks and possible optimization strategies.  
+- **Lily Garcia** analyzed market trends and proposed a new customer segmentation approach for IBM Cloud Satellite.
+
+**Next Steps:**  
+- Abigail to prepare a presentation on dashboard enhancements by 19-JAN-2023.  
+- Henry to coordinate with Rachel for CI/CD and backend service integration by 22-JAN-2023.  
+- Rachel to draft optimization strategies by 25-JAN-2023.  
+- Lily to develop a customer segmentation plan by 20-JAN-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+
+**Date and Time:** 20-JAN-2023, 11:00 AM - 12:30 PM
+
+**Attendees:**  
+- Abigail Carter  
+- Henry Zhou  
+- Rachel Singh  
+- Lily Garcia (Note taker)  
+- John Smith (Veeva Systems, Cloud Solutions Consultant)
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+- In-depth project reviews  
+- Collaboration with Veeva Systems  
+- Strategies for cross-departmental cooperation
+
+**Discussion Points:**  
+- **Abigail Carter** provided a comprehensive review of IBM Cognos Analytics enhancements, discussed potential impacts and received feedback from the team.  
+- **Henry Zhou** detailed the status of CI/CD pipelines and discussed challenges related to seamless integration.  
+- **Rachel Singh** reviewed backend development progress and noted the need for more resources.  
+- **John Smith** from Veeva Systems discussed potential collaboration opportunities with IBM Cloud Functions.  
+- **Lily Garcia** presented an analysis of customer segmentation and its implications for IBM Cloud Satellite.
+
+**Next Steps:**  
+- Abigail to incorporate team feedback into the dashboard enhancements by 27-JAN-2023.  
+- Henry to draft a detailed integration plan and share with the team by 30-JAN-2023.  
+- Rachel to submit a resource requisition report by 28-JAN-2023.  
+- John Smith to follow up with a collaboration proposal by 01-FEB-2023.  
+- Lily to finalize customer segmentation analysis by 25-JAN-2023.
+
+---
+
+### Meeting Minutes 4 (Simple)
+
+**Date and Time:** 28-JAN-2023, 9:30 AM - 10:00 AM
+
+**Attendees:**  
+- Abigail Carter  
+- Henry Zhou  
+- Rachel Singh (Note taker)  
+- Lily Garcia
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+- Quick project updates  
+- Immediate team needs
+
+**Discussion Points:**  
+- **Abigail Carter** shared updates on the latest dashboard enhancements.  
+- **Henry Zhou** discussed recent developments in CI/CD pipeline automation.  
+- **Rachel Singh** provided a brief update on backend development progress.  
+- **Lily Garcia** mentioned preliminary results from the new customer segmentation analysis.
+
+**Next Steps:**  
+- Abigail to demo the updated dashboards by 02-FEB-2023.  
+- Henry to test new CI/CD scripts by 05-FEB-2023.  
+- Rachel to complete the backend feature updates by 07-FEB-2023.  
+- Lily to finalize and distribute customer segmentation findings by 03-FEB-2023.
+
+---
+
+### Meeting Minutes 5 (Detailed)
+
+**Date and Time:** 05-FEB-2023, 3:00 PM - 4:30 PM
+
+**Attendees:**  
+- Abigail Carter  
+- Henry Zhou  
+- Rachel Singh (Note taker)  
+- Lily Garcia  
+- Michael Green (External Consultant, Data Analytics)
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+- Comprehensive project reviews  
+- Strategic planning for Q2  
+- Collaboration with external consultant
+
+**Discussion Points:**  
+- **Abigail Carter** presented a detailed review of IBM Cognos Analytics, discussed KPIs, and gathered input on future reporting needs.  
+- **Henry Zhou** discussed issues faced in CI/CD pipeline integration and potential solutions involving cross-departmental collaboration.  
+- **Rachel Singh** highlighted backend development milestones and future objectives.  
+- **Michael Green** provided insights on advanced data analytics techniques applicable to IBM Cognos Analytics.  
+- **Lily Garcia** reviewed the customer segmentation results and discussed marketing strategies for IBM Cloud Satellite.
+
+**Next Steps:**  
+- Abigail to integrate feedback and update KPI dashboards by 10-FEB-2023.  
+- Henry to work with Rachel on resolving CI/CD integration issues by 15-FEB-2023.  
+- Rachel to map out backend development roadmap for Q2 by 12-FEB-2023.  
+- Michael Green to share a report on data analytics techniques by 14-FEB-2023.  
+- Lily to develop a marketing strategy plan based on customer segmentation by 20-FEB-2023.
+
+---
+
+### JSON Representation

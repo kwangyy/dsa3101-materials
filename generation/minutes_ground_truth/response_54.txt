@@ -1,0 +1,170 @@
+### Meeting Minutes 1 - Simple
+
+**Date and Time:** 01-Feb-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Clara Diaz (Note-taker)
+- Xander Williams
+- Carol Nguyen
+- Gina Lopez
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Project updates
+2. Upcoming deadlines
+3. Team collaboration tools
+
+**Discussion Points:**
+- Clara Diaz provided updates on AI ethics research for IBM AI OpenScale.
+- Xander Williams shared progress on the new mobile app for IBM MobileFirst Platform.
+- Carol Nguyen reported initial data analysis results for Microsoft Azure.
+- Gina Lopez discussed updates on user interface design for IBM Cloud Pak for Data.
+
+**Next Steps:**
+- Clara to finalize the AI ethics report by 15-Feb-2023.
+- Xander to complete the app's beta version by 10-Feb-2023.
+- Carol to provide detailed analysis by 20-Feb-2023.
+- Gina to submit the updated UI designs by 05-Feb-2023.
+
+---
+
+### Meeting Minutes 2 - Simple
+
+**Date and Time:** 15-Feb-2023, 2:00 PM - 2:45 PM
+
+**Attendees:**
+- Clara Diaz
+- Xander Williams
+- Carol Nguyen (Note-taker)
+- Gina Lopez
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Project milestone reviews
+2. Strategy for upcoming quarter
+
+**Discussion Points:**
+- Clara Diaz summarized the progress made on AI ethics research.
+- Xander Williams highlighted upcoming milestones for the mobile app.
+- Carol Nguyen detailed key data insights for Azure.
+- Gina Lopez discussed the feedback received on UI designs for IBM Cloud Pak for Data.
+
+**Next Steps:**
+- Clara to prepare a summary report for next team meeting on 28-Feb-2023.
+- Xander to plan a user testing session by 25-Feb-2023.
+- Carol to refine data insights and present in the next meeting.
+- Gina to incorporate feedback and finalize designs by 20-Feb-2023.
+
+---
+
+### Meeting Minutes 3 - Moderate
+
+**Date and Time:** 01-Mar-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**
+- Clara Diaz
+- Xander Williams (Note-taker)
+- Carol Nguyen
+- Gina Lopez
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Review of current project statuses
+2. Discuss upcoming collaboration with Zscaler
+3. Addressing team workflow improvements
+
+**Discussion Points:**
+- Clara Diaz shared the current status of AI ethics research.
+- Xander Williams provided updates on the mobile app, focusing on integration with Zscaler’s cloud-based security.
+- Carol Nguyen discussed new data sets and their implications for Azure.
+- Gina Lopez highlighted the importance of user feedback in UI design.
+
+**Next Steps:**
+- Clara to prepare AI ethics research draft for Zscaler review by 15-Mar-2023.
+- Xander to complete app security integration with Zscaler by 20-Mar-2023.
+- Carol to analyze new data sets and share insights in the next meeting.
+- Gina to create user feedback report by 10-Mar-2023.
+
+---
+
+### Meeting Minutes 4 - Detailed
+
+**Date and Time:** 15-Mar-2023, 3:00 PM - 4:30 PM
+
+**Attendees:**
+- Clara Diaz (Note-taker)
+- Xander Williams
+- Carol Nguyen
+- Gina Lopez
+- John Kim (External - Zscaler, Security Consultant)
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Project updates and challenges
+2. Collaboration with Zscaler on security solutions
+3. Cross-departmental support and integration
+
+**Discussion Points:**
+- Clara Diaz presented the latest findings on AI ethics and its implications for IBM AI OpenScale.
+- Xander Williams shared challenges faced during mobile app development, particularly with Zscaler integration.
+- Carol Nguyen discussed additional data processing needs for Azure.
+- Gina Lopez emphasized the need for cohesive design across platforms.
+
+**John Kim (Zscaler):**
+- Offered insights into security challenges and potential solutions for app integration.
+- Discussed potential outcomes and benefits of collaboration.
+
+**Next Steps:**
+- Clara to refine the ethics report incorporating feedback from Zscaler by 30-Mar-2023.
+- Xander to resolve integration issues and provide an update by 25-Mar-2023.
+- Carol to collaborate with other teams for additional data requirements and present findings by 20-Mar-2023.
+- Gina to ensure cohesive design with a focus on security aspects, deliver by 28-Mar-2023.
+
+---
+
+### Meeting Minutes 5 - Detailed
+
+**Date and Time:** 01-Apr-2023, 9:00 AM - 10:30 AM
+
+**Attendees:**
+- Clara Diaz
+- Xander Williams
+- Carol Nguyen
+- Gina Lopez
+- Sarah Johnson (External - Zscaler, Senior Security Analyst)
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Review of last month's progress
+2. Discuss long-term strategy and goals
+3. Introduce new collaboration tools
+
+**Discussion Points:**
+- Clara Diaz summarized the progress on AI ethics research and upcoming publication plans.
+- Xander Williams discussed the final stages of mobile app development and security enhancements.
+- Carol Nguyen presented the latest data analytics results for Azure, highlighting trends and insights.
+- Gina Lopez reviewed user interface updates and upcoming design sprints.
+
+**Sarah Johnson (Zscaler):**
+- Explained Zscaler’s new security protocols and how they can be integrated into IBM’s projects.
+- Discussed potential long-term benefits and collaboration strategies.
+
+**Next Steps:**
+- Clara to finalize the publication and prepare for a team review by 15-Apr-2023.
+- Xander to complete final testing and launch the app by 20-Apr-2023.
+- Carol to provide an in-depth analysis report by 18-Apr-2023.
+- Gina to finalize UI updates and prepare for the next sprint starting 10-Apr-2023.
+
+---
+
+### JSON Data

@@ -1,0 +1,150 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Natalie Wu"
+    },
+    {
+     "name": "Derek Hill"
+    },
+    {
+     "name": "Gina Lopez"
+    },
+    {
+     "name": "Oliver James"
+    },
+    {
+     "name": "John Chen"
+    },
+    {
+     "name": "Emma Davis"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Splunk"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Product Marketing Manager"
+    },
+    {
+     "title": "QA Engineer"
+    },
+    {
+     "title": "UX Designer"
+    },
+    {
+     "title": "AI Research Scientist"
+    },
+    {
+     "title": "IT Operations Analyst"
+    },
+    {
+     "title": "Project Manager"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Watson Discovery"
+    },
+    {
+     "name": "IBM Aspera"
+    },
+    {
+     "name": "IBM Cloud Pak for Data"
+    },
+    {
+     "name": "IBM Watson Language Translator"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Natalie Wu",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Natalie Wu",
+    "role": "Product Marketing Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Natalie Wu",
+    "product_service": "IBM Watson Discovery"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Derek Hill",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Derek Hill",
+    "role": "QA Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Derek Hill",
+    "product_service": "IBM Aspera"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Gina Lopez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Gina Lopez",
+    "role": "UX Designer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Gina Lopez",
+    "product_service": "IBM Cloud Pak for Data"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Oliver James",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Oliver James",
+    "role": "AI Research Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Oliver James",
+    "product_service": "IBM Watson Language Translator"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Chen",
+    "organization": "Splunk"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Chen",
+    "role": "IT Operations Analyst"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Davis",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Davis",
+    "role": "Project Manager"
+   }
+  ]
+ }
+}

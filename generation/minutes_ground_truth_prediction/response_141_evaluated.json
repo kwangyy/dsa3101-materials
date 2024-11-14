@@ -1,0 +1,117 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Oliver James"
+                },
+                {
+                    "name": "Wendy Chen"
+                },
+                {
+                    "name": "Clara Diaz"
+                },
+                {
+                    "name": "Ivy Bennett"
+                },
+                {
+                    "name": "John Smith"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "DigitalOcean"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Cloud Solutions Architect"
+                },
+                {
+                    "title": "Notes Taker"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Watson Language Translator"
+                },
+                {
+                    "name": "Maximo"
+                },
+                {
+                    "name": "NLP models"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Oliver James",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Wendy Chen",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Clara Diaz",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Ivy Bennett",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "DigitalOcean"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Oliver James",
+                "role": "Notes Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Wendy Chen",
+                "role": "Notes Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Ivy Bennett",
+                "role": "Notes Taker"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Oliver James",
+                "product_service": "Watson Language Translator"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Wendy Chen",
+                "product_service": "Maximo"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "DigitalOcean",
+                "location": "New York"
+            }
+        ]
+    }
+}

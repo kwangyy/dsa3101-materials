@@ -1,0 +1,245 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Carol Nguyen"
+    },
+    {
+     "name": "Abigail Carter"
+    },
+    {
+     "name": "Jackie Lin"
+    },
+    {
+     "name": "Clara Diaz"
+    },
+    {
+     "name": "Jason Lee"
+    },
+    {
+     "name": "Michael Brown"
+    },
+    {
+     "name": "Sarah Johnson"
+    },
+    {
+     "name": "Rachel Green"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "DigitalOcean"
+    },
+    {
+     "name": "Microsoft"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Junior Data Scientist"
+    },
+    {
+     "title": "Business Intelligence Analyst"
+    },
+    {
+     "title": "Cybersecurity Analyst"
+    },
+    {
+     "title": "AI Policy Researcher"
+    },
+    {
+     "title": "Cloud Solutions Architect"
+    },
+    {
+     "title": "Data Analyst"
+    },
+    {
+     "title": "Product Manager"
+    },
+    {
+     "title": "Project Manager"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM R&D Department"
+    },
+    {
+     "name": "IBM Data Analytics Department"
+    },
+    {
+     "name": "IBM Security Department"
+    },
+    {
+     "name": "IBM Ethics Department"
+    },
+    {
+     "name": "DigitalOcean"
+    },
+    {
+     "name": "Microsoft"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM Security Guardium"
+    },
+    {
+     "name": "IBM AI OpenScale"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Carol Nguyen",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Carol Nguyen",
+    "role": "Junior Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Carol Nguyen",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM R&D Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Abigail Carter",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Abigail Carter",
+    "role": "Business Intelligence Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Abigail Carter",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Data Analytics Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jackie Lin",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jackie Lin",
+    "role": "Cybersecurity Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jackie Lin",
+    "product_service": "IBM Security Guardium"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Security Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Clara Diaz",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Clara Diaz",
+    "role": "AI Policy Researcher"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Clara Diaz",
+    "product_service": "IBM AI OpenScale"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Ethics Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jason Lee",
+    "organization": "DigitalOcean"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jason Lee",
+    "role": "Cloud Solutions Architect"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "DigitalOcean",
+    "location": "DigitalOcean"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Brown",
+    "organization": "Microsoft"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Brown",
+    "role": "Data Analyst"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "Microsoft",
+    "location": "Microsoft"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah Johnson",
+    "organization": "DigitalOcean"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah Johnson",
+    "role": "Product Manager"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "DigitalOcean",
+    "location": "DigitalOcean"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Green",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Green",
+    "role": "Project Manager"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM"
+   }
+  ]
+ }
+}

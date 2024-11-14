@@ -1,0 +1,137 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Paul Hernandez"
+                },
+                {
+                    "name": "Uma Patel"
+                },
+                {
+                    "name": "Brian Taylor"
+                },
+                {
+                    "name": "Oliver James"
+                },
+                {
+                    "name": "John Smith"
+                },
+                {
+                    "name": "Jane Doe"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Zscaler"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note Taker"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "IBM Z systems"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cloud Private"
+                },
+                {
+                    "name": "IBM Watson Language Translator"
+                },
+                {
+                    "name": "Zscaler"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Paul Hernandez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Uma Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Brian Taylor",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Oliver James",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "Zscaler"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jane Doe",
+                "organization": "Zscaler"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Paul Hernandez",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Uma Patel",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Brian Taylor",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Oliver James",
+                "role": "Note Taker"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Paul Hernandez",
+                "product_service": "IBM Cloud Private"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Uma Patel",
+                "product_service": "IBM Cloud Private"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Brian Taylor",
+                "product_service": "IBM Cloud Private"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Oliver James",
+                "product_service": "IBM Watson Language Translator"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "IBM Z systems"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Zscaler",
+                "location": "Zscaler"
+            }
+        ]
+    }
+}

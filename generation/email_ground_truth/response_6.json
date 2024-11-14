@@ -1,0 +1,140 @@
+{
+    "entities": {
+        "persons": [
+            {
+                "name": "Lily Garcia"
+            },
+            {
+                "name": "Franklin Moore"
+            },
+            {
+                "name": "Zachary Brooks"
+            },
+            {
+                "name": "Yasmine Ali"
+            },
+            {
+                "name": "Brian Taylor"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "IBM"
+            },
+            {
+                "name": "Microsoft"
+            }
+        ],
+        "roles": [
+            {
+                "title": "Marketing Analyst"
+            },
+            {
+                "title": "Senior Software Engineer"
+            },
+            {
+                "title": "Solutions Engineer"
+            },
+            {
+                "title": "Data Scientist"
+            },
+            {
+                "title": "Senior Data Scientist"
+            }
+        ],
+        "products_services": [
+            {
+                "name": "IBM Cloud Satellite"
+            },
+            {
+                "name": "IBM Watson Assistant"
+            },
+            {
+                "name": "IBM Cloud Pak for Integration"
+            },
+            {
+                "name": "IBM Planning Analytics"
+            },
+            {
+                "name": "Microsoft Azure"
+            }
+        ]
+    },
+    "relationships": [
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Lily Garcia",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Lily Garcia",
+            "role": "Marketing Analyst"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Lily Garcia",
+            "product_service": "IBM Cloud Satellite"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Franklin Moore",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Franklin Moore",
+            "role": "Senior Software Engineer"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Franklin Moore",
+            "product_service": "IBM Watson Assistant"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Zachary Brooks",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Zachary Brooks",
+            "role": "Solutions Engineer"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Zachary Brooks",
+            "product_service": "IBM Cloud Pak for Integration"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Yasmine Ali",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Yasmine Ali",
+            "role": "Data Scientist"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Yasmine Ali",
+            "product_service": "IBM Planning Analytics"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Brian Taylor",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Brian Taylor",
+            "role": "Senior Data Scientist"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Brian Taylor",
+            "product_service": "Microsoft Azure"
+        }
+    ]
+}

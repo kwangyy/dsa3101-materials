@@ -1,0 +1,162 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Abigail Carter"
+                },
+                {
+                    "name": "Carol Nguyen"
+                },
+                {
+                    "name": "Derek Hill"
+                },
+                {
+                    "name": "David Patel"
+                },
+                {
+                    "name": "John Smith"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Microsoft"
+                },
+                {
+                    "name": "Splunk"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Acme Corp"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Data Analysis Specialist"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cognos Analytics"
+                },
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "IBM Aspera"
+                },
+                {
+                    "name": "AWS infrastructure"
+                },
+                {
+                    "name": "JIRA"
+                },
+                {
+                    "name": "Splunk tools"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Abigail Carter",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Carol Nguyen",
+                "organization": "Microsoft"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Derek Hill",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "David Patel",
+                "organization": "AWS"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "Splunk"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Abigail Carter",
+                "role": "Data Analysis Specialist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Carol Nguyen",
+                "role": "Data Analysis Specialist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Derek Hill",
+                "role": "Data Analysis Specialist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "David Patel",
+                "role": "Data Analysis Specialist"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Abigail Carter",
+                "product_service": "IBM Cognos Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Carol Nguyen",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Derek Hill",
+                "product_service": "IBM Aspera"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "David Patel",
+                "product_service": "AWS infrastructure"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Microsoft",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Splunk",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "AWS",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Acme Corp",
+                "location": "New York"
+            }
+        ]
+    }
+}

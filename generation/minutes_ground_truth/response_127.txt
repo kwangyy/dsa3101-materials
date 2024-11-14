@@ -1,0 +1,150 @@
+### Meeting Minutes 1 - Simple
+
+**Date and Time:** 01-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Emma Lee
+- Oliver James
+- Natalie Wu
+- Carol Nguyen
+- Note Taker: Emma Lee
+- Absentees: None
+
+**Agenda:**
+- Feedback request on current projects
+- Innovation initiatives for Q1
+
+**Discussion Points:**
+- Emma Lee requested feedback on the current strategy for Google Cloud AI Platform.
+- Oliver James provided insights into the potential for natural language processing improvements.
+- Natalie Wu discussed marketing efforts and client feedback for IBM Watson Discovery.
+- Carol Nguyen shared data analysis results for Microsoft Azure.
+
+**Next Steps:**
+- Emma Lee to refine the product strategy based on feedback by 15-Jan-2023.
+- Oliver James to research new NLP techniques by 22-Jan-2023.
+- Natalie Wu to compile client feedback and share it with the team by 10-Jan-2023.
+- Carol Nguyen to prepare a detailed data analysis report by 20-Jan-2023.
+
+---
+
+### Meeting Minutes 2 - Moderate
+
+**Date and Time:** 15-Jan-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Emma Lee
+- Oliver James
+- Natalie Wu
+- Note Taker: Natalie Wu
+- Absentees: Carol Nguyen
+
+**Agenda:**
+- Review of innovation initiatives
+- Feedback from external entities (ServiceTitan)
+
+**Discussion Points:**
+- Emma Lee discussed the current status of the Google Cloud AI Platform.
+- Oliver James mentioned the integration of new NLP algorithms in IBM Watson Language Translator.
+- Natalie Wu presented recent feedback from enterprise clients and ServiceTitan regarding IBM Watson Discovery.
+- Emma Lee suggested potential collaboration between departments to enhance product features.
+
+**Next Steps:**
+- Emma Lee to schedule a follow-up meeting with the ServiceTitan team by 25-Jan-2023.
+- Oliver James to work with Carol Nguyen on NLP data analysis by 22-Jan-2023.
+- Natalie Wu to prepare a marketing campaign plan by 30-Jan-2023.
+
+---
+
+### Meeting Minutes 3 - Detailed
+
+**Date and Time:** 01-Feb-2023, 9:00 AM - 10:30 AM
+
+**Attendees:**
+- Emma Lee
+- Oliver James
+- Natalie Wu
+- Carol Nguyen
+- External Attendee: John Smith (ServiceTitan, Product Manager)
+- Note Taker: Oliver James
+- Absentees: None
+
+**Agenda:**
+- Detailed feedback session
+- Cross-departmental innovation strategies
+- External collaboration with ServiceTitan
+
+**Discussion Points:**
+- Emma Lee provided an in-depth update on the Google Cloud AI Platform's progress and requested specific feedback.
+- Oliver James discussed the latest advancements in NLP and potential applications in IBM Watson Language Translator.
+- Natalie Wu shared detailed client feedback and market analysis for IBM Watson Discovery.
+- Carol Nguyen presented comprehensive data analysis results for Microsoft Azure and potential use cases.
+- John Smith from ServiceTitan discussed opportunities for collaboration and shared feedback on integrating IBM solutions into their platform.
+
+**Next Steps:**
+- Emma Lee to incorporate detailed feedback into the product roadmap by 15-Feb-2023.
+- Oliver James and Carol Nguyen to collaborate on a joint research paper by 20-Feb-2023.
+- Natalie Wu to finalize the marketing strategy and present it by 25-Feb-2023.
+- Emma Lee to follow up with John Smith on specific collaboration details by 10-Feb-2023.
+
+---
+
+### Meeting Minutes 4 - Simple
+
+**Date and Time:** 15-Feb-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**
+- Emma Lee
+- Oliver James
+- Natalie Wu
+- Note Taker: Oliver James
+- Absentees: Carol Nguyen
+
+**Agenda:**
+- Feedback on recent changes
+- Quick updates on ongoing projects
+
+**Discussion Points:**
+- Emma Lee asked for feedback on recent updates to Google Cloud AI Platform.
+- Oliver James provided updates on NLP advancements.
+- Natalie Wu shared recent marketing efforts and client responses.
+
+**Next Steps:**
+- Emma Lee to make minor adjustments based on feedback by 20-Feb-2023.
+- Oliver James to continue NLP research and report progress by 28-Feb-2023.
+- Natalie Wu to prepare a client feedback summary by 22-Feb-2023.
+
+---
+
+### Meeting Minutes 5 - Moderate
+
+**Date and Time:** 01-Mar-2023, 1:00 PM - 2:00 PM
+
+**Attendees:**
+- Emma Lee
+- Oliver James
+- Natalie Wu
+- Carol Nguyen
+- Note Taker: Carol Nguyen
+- Absentees: None
+
+**Agenda:**
+- Review of Q1 innovation initiatives
+- Feedback session
+- Planning for Q2
+
+**Discussion Points:**
+- Emma Lee reviewed the progress of Q1 initiatives and requested team feedback.
+- Oliver James highlighted successful NLP projects and challenges faced.
+- Natalie Wu presented a report on marketing performance and client feedback.
+- Carol Nguyen shared data analysis insights and suggested improvements.
+
+**Next Steps:**
+- Emma Lee to finalize Q2 plans based on team feedback by 10-Mar-2023.
+- Oliver James to prepare a detailed report on NLP advancements by 15-Mar-2023.
+- Natalie Wu to develop a new marketing campaign strategy by 20-Mar-2023.
+- Carol Nguyen to continue data analysis and present findings by 15-Mar-2023.
+
+---
+
+### JSON Format

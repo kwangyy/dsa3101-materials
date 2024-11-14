@@ -1,0 +1,171 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Abigail Carter"
+    },
+    {
+     "name": "Oliver James"
+    },
+    {
+     "name": "Paul Hernandez"
+    },
+    {
+     "name": "Michael Turner"
+    },
+    {
+     "name": "John Smith"
+    },
+    {
+     "name": "Sarah Lee"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "ServiceTitan"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Business Intelligence Analyst"
+    },
+    {
+     "title": "AI Research Scientist"
+    },
+    {
+     "title": "Systems Engineer"
+    },
+    {
+     "title": "Cloud Security Architect"
+    },
+    {
+     "title": "External Attendee"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM Watson Language Translator"
+    },
+    {
+     "name": "IBM Z systems infrastructure"
+    },
+    {
+     "name": "Microsoft Azure"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM Watson Language Translator"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "ServiceTitan"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Abigail Carter",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Abigail Carter",
+    "role": "Business Intelligence Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Abigail Carter",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Oliver James",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Oliver James",
+    "role": "AI Research Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Oliver James",
+    "product_service": "IBM Watson Language Translator"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Paul Hernandez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Paul Hernandez",
+    "role": "Systems Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Paul Hernandez",
+    "product_service": "IBM Z systems infrastructure"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Turner",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Turner",
+    "role": "Cloud Security Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Turner",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "ServiceTitan"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "External Attendee"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Smith",
+    "product_service": "ServiceTitan"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah Lee",
+    "organization": "ServiceTitan"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah Lee",
+    "role": "External Attendee"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Sarah Lee",
+    "product_service": "ServiceTitan"
+   }
+  ]
+ }
+}

@@ -1,0 +1,87 @@
+### Email Thread:
+
+#### Email 1:
+
+**From:** Gina Lopez <gina.lopez@ibm.com>
+**To:** Rachel Singh <rachel.singh@ibm.com>, Franklin Moore <franklin.moore@ibm.com>
+**Cc:** Kevin O'Reilly <kevin.oreilly@ibm.com>
+**Subject:** Feedback on the New Interface Design for IBM Cloud Pak for Data
+
+Hi Rachel, Franklin,
+
+I hope you're doing well.
+
+I've attached the latest design mockups for the user interface of IBM Cloud Pak for Data. Could you please review them and provide your feedback? Rachel, it would be great if you could ensure that the backend development supports these design changes. Franklin, any insights on integrating these with the existing APIs for IBM Watson Assistant would be valuable.
+
+Kevin, since these changes might affect the data models, I've cc'ed you to get your perspective as well.
+
+Looking forward to your feedback.
+
+Best,
+Gina Lopez
+UX Designer, Product Development Department
+IBM
+
+---
+
+#### Email 2:
+
+**From:** Rachel Singh <rachel.singh@ibm.com>
+**To:** Gina Lopez <gina.lopez@ibm.com>
+**Cc:** Franklin Moore <franklin.moore@ibm.com>, Kevin O'Reilly <kevin.oreilly@ibm.com>
+**Subject:** Re: Feedback on the New Interface Design for IBM Cloud Pak for Data
+
+Hi Gina,
+
+Thanks for sharing the mockups. The designs look impressive. I have a few comments on the backend integration aspects:
+
+1. Ensure that the new UI elements are aligned with the data fetch patterns currently in place.
+2. We might need to tweak some of the API calls to ensure smoother data retrieval.
+
+Franklin, could you please confirm if the existing APIs for IBM Watson Assistant will support these changes?
+
+Best,
+Rachel Singh
+Software Engineer, Cloud Solutions Department
+IBM
+
+---
+
+#### Email 3:
+
+**From:** Franklin Moore <franklin.moore@ibm.com>
+**To:** Rachel Singh <rachel.singh@ibm.com>, Gina Lopez <gina.lopez@ibm.com>
+**Cc:** Kevin O'Reilly <kevin.oreilly@ibm.com>
+**Subject:** Re: Feedback on the New Interface Design for IBM Cloud Pak for Data
+
+Hi Rachel, Gina,
+
+Thanks for the heads-up. The current APIs should be compatible with the new design. However, we will need to run a few tests to confirm this. I’ll coordinate with my team to get this done by the end of the week.
+
+Kevin, could you please review if any modifications are required on the model side?
+
+Regards,
+Franklin Moore
+Senior Software Engineer, AI Department
+IBM
+
+---
+
+#### Email 4:
+
+**From:** Kevin O'Reilly <kevin.oreilly@ibm.com>
+**To:** Franklin Moore <franklin.moore@ibm.com>, Rachel Singh <rachel.singh@ibm.com>, Gina Lopez <gina.lopez@ibm.com>
+**Subject:** Re: Feedback on the New Interface Design for IBM Cloud Pak for Data
+
+Hi Everyone,
+
+I've reviewed the mockups and the points raised. From a model standpoint, there are a few adjustments we need to consider to ensure seamless integration. I’ll start working on these and keep you all updated.
+
+Thanks,
+Kevin O'Reilly
+Machine Learning Engineer, AI Research Department
+IBM
+
+---
+
+### JSON Object:

@@ -1,0 +1,143 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Tina Foster"
+    },
+    {
+     "name": "Oliver James"
+    },
+    {
+     "name": "Henry Zhou"
+    },
+    {
+     "name": "Abigail Carter"
+    },
+    {
+     "name": "Jane Smith"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Cognex"
+    }
+   ],
+   "roles": [
+    {
+     "title": "IT Support Specialist"
+    },
+    {
+     "title": "AI Research Scientist"
+    },
+    {
+     "title": "DevOps Engineer"
+    },
+    {
+     "title": "Business Intelligence Analyst"
+    },
+    {
+     "title": "Senior Manager"
+    }
+   ],
+   "locations": [],
+   "products_services": [
+    {
+     "name": "IBM QRadar SIEM"
+    },
+    {
+     "name": "IBM Watson Language Translator"
+    },
+    {
+     "name": "IBM Kubernetes Service"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "Machine vision systems"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Tina Foster",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Tina Foster",
+    "role": "IT Support Specialist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Tina Foster",
+    "product_service": "IBM QRadar SIEM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Oliver James",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Oliver James",
+    "role": "AI Research Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Oliver James",
+    "product_service": "IBM Watson Language Translator"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Henry Zhou",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Henry Zhou",
+    "role": "DevOps Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Henry Zhou",
+    "product_service": "IBM Kubernetes Service"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Abigail Carter",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Abigail Carter",
+    "role": "Business Intelligence Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Abigail Carter",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Smith",
+    "organization": "Cognex"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Smith",
+    "role": "Senior Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jane Smith",
+    "product_service": "Machine vision systems"
+   }
+  ]
+ }
+}

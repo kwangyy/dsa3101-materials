@@ -1,0 +1,173 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Alice Smith"
+    },
+    {
+     "name": "Michael Turner"
+    },
+    {
+     "name": "Yasmine Ali"
+    },
+    {
+     "name": "Oliver James"
+    },
+    {
+     "name": "Jack Liao"
+    },
+    {
+     "name": "Sarah Brown"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "DigitalOcean"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Chief Data Officer"
+    },
+    {
+     "title": "Cloud Security Architect"
+    },
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "AI Research Scientist"
+    },
+    {
+     "title": "Cybersecurity Specialist"
+    }
+   ],
+   "locations": [
+    {
+     "name": "Research & Development Department"
+    },
+    {
+     "name": "Cybersecurity Department"
+    },
+    {
+     "name": "Research & Analytics Department"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "Symantec Endpoint Security"
+    },
+    {
+     "name": "IBM Planning Analytics"
+    },
+    {
+     "name": "IBM Watson Language Translator"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Alice Smith",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Turner",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Yasmine Ali",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Oliver James",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jack Liao",
+    "organization": "DigitalOcean"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah Brown",
+    "organization": "DigitalOcean"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Alice Smith",
+    "role": "Chief Data Officer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Turner",
+    "role": "Cloud Security Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Yasmine Ali",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Oliver James",
+    "role": "AI Research Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah Brown",
+    "role": "Cybersecurity Specialist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Symantec Endpoint Security"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Turner",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Yasmine Ali",
+    "product_service": "IBM Planning Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Oliver James",
+    "product_service": "IBM Watson Language Translator"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Research & Development Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Cybersecurity Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Research & Analytics Department"
+   }
+  ]
+ }
+}

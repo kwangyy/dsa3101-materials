@@ -1,0 +1,162 @@
+### Meeting Minutes 1 (Simple Complexity)
+**Date and Time:** 01-Sep-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Quinn Parker (Note taker)
+- Paul Hernandez
+- Carol Nguyen
+
+**Absentees:**
+- Michael Turner
+
+**Agenda:**
+1. Feedback requests on recent client interactions
+2. Discussing analytics insights from IBM Cognos Analytics
+
+**Discussion Points:**
+- Quinn Parker shared recent feedback from clients regarding IBM Cognos Analytics.
+  - Positive feedback on data visualization features.
+  - Need for faster query processing highlighted.
+- Paul Hernandez suggested improvements in system infrastructure to enhance performance.
+- Carol Nguyen supported Paul's suggestion with data-backed insights on processing speeds.
+
+**Next Steps:**
+- Quinn Parker to compile a detailed report on client feedback by 05-Sep-2023.
+- Paul Hernandez to assess current system performance and propose infrastructure upgrades by 10-Sep-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate Complexity)
+**Date and Time:** 08-Sep-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Quinn Parker
+- Paul Hernandez
+- Carol Nguyen
+- Michael Turner (Note taker)
+
+**Absentees:**
+None
+
+**Agenda:**
+1. Review client feedback on Microsoft Azure's data analysis and security.
+2. Strategy discussion for improving IBM Z systems infrastructure.
+
+**Discussion Points:**
+- Carol Nguyen presented feedback on Microsoft Azure from clients:
+  - Issues with data integration and consistency.
+  - Requests for enhanced security protocols.
+- Michael Turner discussed current security protocols and potential improvements.
+  - Proposed advanced encryption techniques.
+  - Discussed potential challenges in implementation.
+- Paul Hernandez highlighted the need for coordination between data and IT teams for infrastructure upgrades.
+
+**Next Steps:**
+- Carol Nguyen to work on data integration solutions with R&D team by 15-Sep-2023.
+- Michael Turner to draft a proposal for advanced security protocols by 20-Sep-2023.
+- Paul Hernandez to schedule a cross-departmental meeting to discuss infrastructure upgrades by 13-Sep-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed Complexity)
+**Date and Time:** 15-Sep-2023, 1:00 PM - 3:00 PM
+
+**Attendees:**
+- Quinn Parker
+- Paul Hernandez (Note taker)
+- Carol Nguyen
+- Michael Turner
+
+**Absentees:**
+None
+
+**Agenda:**
+1. In-depth review of feedback for Microsoft Azure and IBM Cognos Analytics.
+2. Collaboration with ServiceTitan for operational enhancements.
+3. Discussing long-term strategy for data security and infrastructure.
+
+**Discussion Points:**
+- Quinn Parker presented detailed analytics insights from IBM Cognos Analytics:
+  - Identified key performance bottlenecks.
+  - Highlighted areas for potential improvements.
+- Carol Nguyen shared comprehensive client feedback on Microsoft Azure:
+  - Data consistency issues were a recurring theme.
+  - Clients appreciated existing security measures but desired more robust protocols.
+- Michael Turner discussed long-term security strategy:
+  - Suggested adoption of zero-trust architecture.
+  - Emphasized need for continuous monitoring and quick threat response.
+- Coordination with ServiceTitan:
+  - External team to assist in automating operational workflows.
+  - Focus on seamless data integration and enhanced user experience.
+
+**Next Steps:**
+- Quinn Parker to finalize and distribute the performance report on IBM Cognos Analytics by 18-Sep-2023.
+- Carol Nguyen to lead a task force for addressing data consistency issues by 25-Sep-2023.
+- Michael Turner to develop a detailed plan for implementing zero-trust architecture by 30-Sep-2023.
+- Paul Hernandez to coordinate with ServiceTitan for workflow automation and set up a kick-off meeting by 22-Sep-2023.
+
+---
+
+### Meeting Minutes 4 (Simple Complexity)
+**Date and Time:** 22-Sep-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Quinn Parker
+- Paul Hernandez (Note taker)
+- Carol Nguyen
+
+**Absentees:**
+- Michael Turner
+
+**Agenda:**
+1. Quick feedback session on recent system upgrades.
+2. Discussion on next steps for data consistency improvements.
+
+**Discussion Points:**
+- Quinn Parker provided a summary of client feedback post-system upgrades.
+  - Overall positive, minor issues with system downtime.
+- Carol Nguyen updated on progress made by the task force on data consistency.
+  - Preliminary tests showed improvement in data accuracy.
+
+**Next Steps:**
+- Quinn Parker to draft a follow-up report on system downtime issues by 25-Sep-2023.
+- Carol Nguyen to continue testing data consistency solutions and provide a full report by 30-Sep-2023.
+
+---
+
+### Meeting Minutes 5 (Moderate Complexity)
+**Date and Time:** 29-Sep-2023, 3:00 PM - 4:00 PM
+
+**Attendees:**
+- Quinn Parker (Note taker)
+- Paul Hernandez
+- Carol Nguyen
+- Michael Turner
+
+**Absentees:**
+None
+
+**Agenda:**
+1. Review the progress on zero-trust architecture implementation.
+2. Feedback on collaboration with ServiceTitan.
+3. Discuss ongoing data consistency improvements.
+
+**Discussion Points:**
+- Michael Turner provided an update on the zero-trust architecture plan.
+  - Initial stages of implementation underway.
+  - Highlighted challenges with integrating legacy systems.
+- Quinn Parker discussed feedback from ServiceTitan collaboration.
+  - Positive response on initial workflow automation steps.
+  - Few integration issues to be resolved.
+- Carol Nguyen shared the latest results on data consistency improvements.
+  - Significant reduction in data discrepancies.
+  - Proposed full-scale rollout of new solutions.
+
+**Next Steps:**
+- Michael Turner to address legacy system integration challenges and update the team by 10-Oct-2023.
+- Quinn Parker to resolve integration issues with ServiceTitan and provide a status update by 05-Oct-2023.
+- Carol Nguyen to initiate the full-scale rollout of data consistency solutions and monitor the implementation by 15-Oct-2023.
+
+---
+
+### Synthetic Minutes Data (JSON Format)

@@ -1,0 +1,170 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Wendy Chen"
+    },
+    {
+     "name": "Gina Lopez"
+    },
+    {
+     "name": "Emma Lee"
+    },
+    {
+     "name": "Tina Foster"
+    },
+    {
+     "name": "Alex Reed"
+    },
+    {
+     "name": "Michael Johnson"
+    },
+    {
+     "name": "David Roberts"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Nutanix"
+    },
+    {
+     "name": "Google"
+    }
+   ],
+   "roles": [
+    {
+     "title": "AI Solutions Architect"
+    },
+    {
+     "title": "UX Designer"
+    },
+    {
+     "title": "Product Manager"
+    },
+    {
+     "title": "IT Support Specialist"
+    },
+    {
+     "title": "Solutions Architect"
+    },
+    {
+     "title": "AI Research Scientist"
+    },
+    {
+     "title": "Cloud Solutions Architect"
+    }
+   ],
+   "locations": [],
+   "products_services": [
+    {
+     "name": "IBM Maximo Asset Management"
+    },
+    {
+     "name": "IBM Cloud Pak for Data"
+    },
+    {
+     "name": "Google Cloud AI Platform"
+    },
+    {
+     "name": "IBM QRadar SIEM"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Wendy Chen",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Wendy Chen",
+    "role": "AI Solutions Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Wendy Chen",
+    "product_service": "IBM Maximo Asset Management"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Gina Lopez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Gina Lopez",
+    "role": "UX Designer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Gina Lopez",
+    "product_service": "IBM Cloud Pak for Data"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Lee",
+    "role": "Product Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Emma Lee",
+    "product_service": "Google Cloud AI Platform"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Tina Foster",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Tina Foster",
+    "role": "IT Support Specialist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Tina Foster",
+    "product_service": "IBM QRadar SIEM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Alex Reed",
+    "organization": "Nutanix"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Alex Reed",
+    "role": "Solutions Architect"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Johnson",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Johnson",
+    "role": "AI Research Scientist"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "David Roberts",
+    "organization": "Google"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "David Roberts",
+    "role": "Cloud Solutions Architect"
+   }
+  ]
+ }
+}

@@ -1,0 +1,160 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Yasmine Ali"
+                },
+                {
+                    "name": "Oliver James"
+                },
+                {
+                    "name": "Brian Taylor"
+                },
+                {
+                    "name": "Alice Smith"
+                },
+                {
+                    "name": "Mark Thompson"
+                },
+                {
+                    "name": "Emma Johnson"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "HashiCorp"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note Taker"
+                },
+                {
+                    "title": "VP of Strategic Partnerships"
+                },
+                {
+                    "title": "Director of Engineering"
+                },
+                {
+                    "title": "Data Scientist"
+                },
+                {
+                    "title": "Engineer"
+                },
+                {
+                    "title": "Project Manager"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Watson Translator"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Symantec Endpoint Security"
+                },
+                {
+                    "name": "HashiCorp's infrastructure automation"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Yasmine Ali",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Oliver James",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Brian Taylor",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Alice Smith",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Mark Thompson",
+                "organization": "HashiCorp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emma Johnson",
+                "organization": "HashiCorp"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Yasmine Ali",
+                "role": "Data Scientist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Oliver James",
+                "role": "Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Brian Taylor",
+                "role": "Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Alice Smith",
+                "role": "Project Manager"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Mark Thompson",
+                "role": "VP of Strategic Partnerships"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emma Johnson",
+                "role": "Director of Engineering"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Yasmine Ali",
+                "product_service": "Watson Translator"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Oliver James",
+                "product_service": "Watson Translator"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Brian Taylor",
+                "product_service": "Azure"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "HashiCorp",
+                "location": "New York"
+            }
+        ]
+    }
+}

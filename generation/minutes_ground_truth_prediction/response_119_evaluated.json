@@ -1,0 +1,165 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Gina Lopez"
+                },
+                {
+                    "name": "Paul Hernandez"
+                },
+                {
+                    "name": "Victor Ramos"
+                },
+                {
+                    "name": "Derek Hill"
+                },
+                {
+                    "name": "Emily Carter"
+                },
+                {
+                    "name": "Linda Johnson"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Acme Corp"
+                },
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Nutanix"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note-taker"
+                },
+                {
+                    "title": "CEO"
+                },
+                {
+                    "title": "Hybrid Cloud Specialist"
+                },
+                {
+                    "title": "Product Manager"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cloud Pak for Data"
+                },
+                {
+                    "name": "IBM Z systems"
+                },
+                {
+                    "name": "IBM Aspera"
+                },
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "Nutanix Hybrid Cloud"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Gina Lopez",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Paul Hernandez",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Derek Hill",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emily Carter",
+                "organization": "Nutanix"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Linda Johnson",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Gina Lopez",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Paul Hernandez",
+                "role": "CEO"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emily Carter",
+                "role": "Hybrid Cloud Specialist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Linda Johnson",
+                "role": "Product Manager"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Acme Corp",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Nutanix",
+                "location": "New York"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Gina Lopez",
+                "product_service": "IBM Cloud Pak for Data"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Paul Hernandez",
+                "product_service": "IBM Z systems"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Derek Hill",
+                "product_service": "IBM Aspera"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Emily Carter",
+                "product_service": "Nutanix Hybrid Cloud"
+            }
+        ]
+    }
+}

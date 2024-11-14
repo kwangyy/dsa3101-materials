@@ -1,0 +1,136 @@
+### Meeting Minutes 1
+**Date and Time**: 05-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees**:
+- Rachel Singh
+- Zachary Brooks
+- Abigail Carter (Note-taker)
+- Absentees: Alice Smith
+
+**Agenda**:
+1. Project Updates
+2. Follow-up on tasks from previous meetings
+
+**Discussion Points**:
+- Rachel provided an update on the backend development for IBM Cloud Functions, indicating that the project is on track.
+- Zachary discussed the ongoing implementation of solutions for IBM Cloud Pak for Integration, mentioning a minor issue that was quickly resolved.
+- Abigail provided insights on recent enhancements to reporting and dashboards for IBM Cognos Analytics.
+
+**Next Steps**:
+- Rachel to complete the backend development by 15-Jan-2023.
+- Zachary to send a detailed report on the minor issue encountered by 08-Jan-2023.
+- Abigail to prepare a dashboard for the next meeting by 12-Jan-2023.
+
+---
+
+### Meeting Minutes 2
+**Date and Time**: 12-Feb-2023, 11:00 AM - 11:45 AM
+
+**Attendees**:
+- Rachel Singh
+- Zachary Brooks
+- Alice Smith
+- Abigail Carter
+- External Attendees: John Doe, Cognex - Machine Vision Systems Specialist
+- Note-taker: Zachary Brooks
+
+**Agenda**:
+1. Project Updates
+2. Collaboration with Cognex
+3. Follow-up on dashboard improvements
+
+**Discussion Points**:
+- Alice highlighted the progress in developing Microsoft Azure and Symantec Endpoint Security.
+- Rachel discussed the latest achievements in backend development.
+- Abigail provided an overview of recent improvements to IBM Cognos Analytics dashboards.
+- John Doe from Cognex discussed potential integration opportunities for machine vision systems.
+
+**Next Steps**:
+- Alice to explore potential integration with Cognex by 20-Feb-2023.
+- Rachel to continue with backend development and report progress by 15-Feb-2023.
+- Abigail to finalize dashboard improvements by 18-Feb-2023.
+
+---
+
+### Meeting Minutes 3
+**Date and Time**: 20-Mar-2023, 02:00 PM - 03:30 PM
+
+**Attendees**:
+- Rachel Singh
+- Zachary Brooks
+- Alice Smith
+- Abigail Carter (Note-taker)
+
+**Agenda**:
+1. Detailed Project Updates
+2. Strategy Discussion for Q2
+3. Risk Assessment and Mitigation
+
+**Discussion Points**:
+- Rachel provided a detailed breakdown of the backend development phases, noting some potential risks.
+- Zachary shared the strategic roadmap for IBM Cloud Pak for Integration and highlighted upcoming milestones.
+- Alice discussed the R&D department's focus areas for Q2, emphasizing the need for enhanced security measures.
+- Abigail presented a risk assessment report for IBM Cognos Analytics.
+
+**Next Steps**:
+- Rachel to draft a risk mitigation plan by 27-Mar-2023.
+- Zachary to finalize the strategic roadmap by 25-Mar-2023.
+- Alice to circulate a detailed security enhancement plan by 28-Mar-2023.
+- Abigail to update the risk assessment report by 30-Mar-2023.
+
+---
+
+### Meeting Minutes 4
+**Date and Time**: 10-Apr-2023, 09:00 AM - 09:15 AM
+
+**Attendees**:
+- Rachel Singh
+- Zachary Brooks
+- Abigail Carter (Note-taker)
+- Absentees: Alice Smith
+
+**Agenda**:
+1. Quick Project Check-In
+2. Upcoming Deadlines
+
+**Discussion Points**:
+- Rachel mentioned that the backend development is almost complete and ready for testing.
+- Zachary confirmed that the solution for IBM Cloud Pak for Integration is in the final implementation stage.
+- Abigail noted that the latest dashboards are ready for review.
+
+**Next Steps**:
+- Rachel to begin testing the backend by 12-Apr-2023.
+- Zachary to complete the final implementation and prepare a handover document by 15-Apr-2023.
+- Abigail to schedule a dashboard review meeting by 14-Apr-2023.
+
+---
+
+### Meeting Minutes 5
+**Date and Time**: 02-May-2023, 01:00 PM - 02:00 PM
+
+**Attendees**:
+- Rachel Singh
+- Zachary Brooks (Note-taker)
+- Alice Smith
+- Abigail Carter
+
+**Agenda**:
+1. Comprehensive Project Review
+2. Cross-Department Collaboration
+3. External Partnership Opportunities
+
+**Discussion Points**:
+- Rachel provided an extensive review of the backend development, mentioning some integration challenges.
+- Zachary discussed the successful implementation of IBM Cloud Pak for Integration and future plans.
+- Alice elaborated on the new initiatives for Microsoft Azure and Symantec Endpoint Security.
+- Abigail talked about potential collaboration opportunities with other departments to enhance analytics capabilities.
+
+**Next Steps**:
+- Rachel to work on resolving integration challenges and report back by 10-May-2023.
+- Zachary to outline future plans and share with the team by 08-May-2023.
+- Alice to draft a proposal for new initiatives by 12-May-2023.
+- Abigail to coordinate with other departments and present a collaboration plan by 15-May-2023.
+
+---
+
+### JSON Data

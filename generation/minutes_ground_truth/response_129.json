@@ -1,0 +1,175 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Quinn Parker"
+    },
+    {
+     "name": "Derek Hill"
+    },
+    {
+     "name": "Michael Turner"
+    },
+    {
+     "name": "Uma Patel"
+    },
+    {
+     "name": "John Smith"
+    },
+    {
+     "name": "Sarah Lee"
+    },
+    {
+     "name": "Jane Doe"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "C3.ai"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Data Analyst"
+    },
+    {
+     "title": "QA Engineer"
+    },
+    {
+     "title": "Cloud Security Architect"
+    },
+    {
+     "title": "Senior Solutions Architect"
+    },
+    {
+     "title": "Solutions Engineer"
+    },
+    {
+     "title": "Senior Data Scientist"
+    },
+    {
+     "title": "Product Manager"
+    }
+   ],
+   "locations": [],
+   "products_services": [
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM Aspera"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Cloud Private"
+    },
+    {
+     "name": "C3.ai AI Platform"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Quinn Parker",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Quinn Parker",
+    "role": "Data Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Quinn Parker",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Derek Hill",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Derek Hill",
+    "role": "QA Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Derek Hill",
+    "product_service": "IBM Aspera"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Turner",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Turner",
+    "role": "Cloud Security Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Turner",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Uma Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Uma Patel",
+    "role": "Senior Solutions Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Uma Patel",
+    "product_service": "IBM Cloud Private"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "C3.ai"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "Solutions Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Smith",
+    "product_service": "C3.ai AI Platform"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah Lee",
+    "role": "Senior Data Scientist"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Doe",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Doe",
+    "role": "Product Manager"
+   }
+  ]
+ }
+}

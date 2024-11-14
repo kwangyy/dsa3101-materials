@@ -1,0 +1,216 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Yasmine Ali"
+    },
+    {
+     "name": "Gina Lopez"
+    },
+    {
+     "name": "David Patel"
+    },
+    {
+     "name": "Victor Ramos"
+    },
+    {
+     "name": "Jane Smith"
+    },
+    {
+     "name": "Mike Johnson"
+    },
+    {
+     "name": "John Doe"
+    },
+    {
+     "name": "Sarah Thompson"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Illumio"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "UX Designer"
+    },
+    {
+     "title": "Cloud Architect"
+    },
+    {
+     "title": "RPA Developer"
+    },
+    {
+     "title": "Cybersecurity Specialist"
+    },
+    {
+     "title": "Sales Manager"
+    },
+    {
+     "title": "Marketing Specialist"
+    },
+    {
+     "title": "UX Expert"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Planning Analytics"
+    },
+    {
+     "name": "IBM Cloud Pak for Data"
+    },
+    {
+     "name": "Amazon Web Services (AWS)"
+    },
+    {
+     "name": "IBM Robotic Process Automation"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Planning Analytics"
+    },
+    {
+     "name": "IBM Cloud Pak for Data"
+    },
+    {
+     "name": "Amazon Web Services (AWS)"
+    },
+    {
+     "name": "IBM Robotic Process Automation"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Yasmine Ali",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Gina Lopez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "David Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Victor Ramos",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Smith",
+    "organization": "Illumio"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Mike Johnson",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Doe",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah Thompson",
+    "organization": "Consultant"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Yasmine Ali",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Gina Lopez",
+    "role": "UX Designer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "David Patel",
+    "role": "Cloud Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Victor Ramos",
+    "role": "RPA Developer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Smith",
+    "role": "Cybersecurity Specialist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Mike Johnson",
+    "role": "Sales Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Doe",
+    "role": "Marketing Specialist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah Thompson",
+    "role": "UX Expert"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Yasmine Ali",
+    "product_service": "IBM Planning Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Gina Lopez",
+    "product_service": "IBM Cloud Pak for Data"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "David Patel",
+    "product_service": "Amazon Web Services (AWS)"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Victor Ramos",
+    "product_service": "IBM Robotic Process Automation"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Planning Analytics"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Cloud Pak for Data"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Amazon Web Services (AWS)"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Robotic Process Automation"
+   }
+  ]
+ }
+}

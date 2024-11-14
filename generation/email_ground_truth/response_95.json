@@ -1,0 +1,115 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Gina Lopez"
+    },
+    {
+     "name": "Rachel Singh"
+    },
+    {
+     "name": "Franklin Moore"
+    },
+    {
+     "name": "Kevin O'Reilly"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    }
+   ],
+   "roles": [
+    {
+     "title": "UX Designer"
+    },
+    {
+     "title": "Software Engineer"
+    },
+    {
+     "title": "Senior Software Engineer"
+    },
+    {
+     "title": "Machine Learning Engineer"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Pak for Data"
+    },
+    {
+     "name": "IBM Cloud Functions"
+    },
+    {
+     "name": "IBM Watson Assistant"
+    },
+    {
+     "name": "IBM Watson Studio"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Gina Lopez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Singh",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Franklin Moore",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Kevin O'Reilly",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Gina Lopez",
+    "role": "UX Designer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Singh",
+    "role": "Software Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Franklin Moore",
+    "role": "Senior Software Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Kevin O'Reilly",
+    "role": "Machine Learning Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Gina Lopez",
+    "product_service": "IBM Cloud Pak for Data"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Rachel Singh",
+    "product_service": "IBM Cloud Functions"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Franklin Moore",
+    "product_service": "IBM Watson Assistant"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Kevin O'Reilly",
+    "product_service": "IBM Watson Studio"
+   }
+  ]
+ }
+}

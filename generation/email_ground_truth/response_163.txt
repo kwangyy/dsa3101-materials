@@ -1,0 +1,77 @@
+### Email Thread
+
+**Email 1:**  
+*From:* Michael Turner  
+*To:* Carol Nguyen, Natalie Wu  
+*Cc:* Ivy Bennett  
+*Subject:* Meeting to Discuss Security Protocols for Azure Data Analysis  
+
+Hi Carol and Natalie,
+
+I hope you're both doing well.
+
+We need to set up a meeting to discuss the security protocols for our data analysis on Microsoft Azure. With Carol assisting in analyzing data and Natalie promoting IBM Watson Discovery, it's crucial we ensure all data and processes are secure.
+
+Ivy, please join us as we might need to discuss the ETL pipelines for IBM Db2 Database and how they integrate with our security protocols.
+
+Can we schedule a meeting next Monday at 10 AM?
+
+Best regards,  
+Michael Turner  
+Cloud Security Architect  
+Cybersecurity Department, IBM  
+
+---
+
+**Email 2:**  
+*From:* Carol Nguyen  
+*To:* Michael Turner, Natalie Wu  
+*Cc:* Ivy Bennett  
+*Subject:* Re: Meeting to Discuss Security Protocols for Azure Data Analysis  
+
+Hi Michael,
+
+Next Monday at 10 AM works for me. Thank you for including me in this important discussion.
+
+Ivy, will you be available at that time?
+
+Best,  
+Carol Nguyen  
+Junior Data Scientist  
+R&D Department, IBM  
+
+---
+
+**Email 3:**  
+*From:* Ivy Bennett  
+*To:* Michael Turner, Carol Nguyen, Natalie Wu  
+*Subject:* Re: Meeting to Discuss Security Protocols for Azure Data Analysis  
+
+Hi all,
+
+I am available next Monday at 10 AM. Looking forward to discussing the ETL pipelines and their integration with the security protocols on Microsoft Azure.
+
+Best regards,  
+Ivy Bennett  
+Data Engineer  
+Data Management Department, IBM  
+
+---
+
+**Email 4:**  
+*From:* Natalie Wu  
+*To:* Michael Turner, Carol Nguyen, Ivy Bennett  
+*Subject:* Re: Meeting to Discuss Security Protocols for Azure Data Analysis  
+
+Hi everyone,
+
+Monday at 10 AM works for me as well. This will be a great opportunity to ensure all our efforts align with promoting IBM Watson Discovery to our enterprise clients securely.
+
+Thank you,  
+Natalie Wu  
+Product Marketing Manager  
+Marketing Department, IBM  
+
+---
+
+### JSON Object

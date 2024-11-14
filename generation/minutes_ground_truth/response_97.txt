@@ -1,0 +1,176 @@
+### Meeting Minutes 1: Simple Complexity
+
+**Date and Time:** 05-JAN-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Xander Williams (Note-taker)
+- Henry Zhou
+- Tina Foster
+- Alice Smith
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Feedback on recent mobile app updates
+- Integration issues with IBM Kubernetes Service
+
+**Discussion Points:**
+- **Mobile App Updates:**
+  - Xander requested feedback on the latest updates.
+  - Alice praised improved data integration.
+  - Henry noted potential security vulnerabilities.
+
+- **IBM Kubernetes Service Integration:**
+  - Henry discussed ongoing integration issues.
+  - Tina suggested a collaborative approach with the Technical Services Department.
+
+**Next Steps:**
+- Xander to address security vulnerabilities by 12-JAN-2023.
+- Tina and Henry to schedule a follow-up meeting on 15-JAN-2023 to discuss progress.
+
+---
+
+### Meeting Minutes 2: Moderate Complexity
+
+**Date and Time:** 18-FEB-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Henry Zhou (Note-taker)
+- Tina Foster
+- Alice Smith
+
+**Absentees:**
+- Xander Williams
+
+**Agenda:**
+- Strategy for CI/CD pipeline automation
+- Feedback on Microsoft Azure usage
+
+**Discussion Points:**
+- **CI/CD Pipeline Automation:**
+  - Henry detailed current automation practices.
+  - Tina highlighted issues in the IT support process.
+  - Alice proposed integrating more automated testing tools.
+
+- **Microsoft Azure Feedback:**
+  - Alice shared positive experiences with data management.
+  - Henry pointed out some compatibility concerns with existing infrastructure.
+
+**Next Steps:**
+- Henry to draft an automation improvement plan by 25-FEB-2023.
+- Alice to organize a session for compatibility testing on 28-FEB-2023.
+- Tina to collect user feedback on IT support issues and report back on 01-MAR-2023.
+
+---
+
+### Meeting Minutes 3: Detailed Complexity
+
+**Date and Time:** 07-MAR-2023, 11:00 AM - 12:30 PM
+
+**Attendees:**
+- Xander Williams
+- Henry Zhou (Note-taker)
+- Tina Foster
+- Alice Smith
+
+**Absentees:**
+- None
+
+**Additional Attendees:**
+- John Andrews (Veeva Systems - Cloud Solutions Engineer)
+
+**Agenda:**
+- Integration of Veeva Systems with IBM solutions
+- Performance evaluation of IBM QRadar SIEM
+
+**Discussion Points:**
+- **Integration of Veeva Systems:**
+  - John introduced Veeva Systems' capabilities.
+  - Xander discussed potential integration points with IBM MobileFirst.
+  - Alice raised questions on data security and compliance.
+  - Henry suggested automating deployment processes with Veeva's APIs.
+
+- **Performance Evaluation of IBM QRadar SIEM:**
+  - Tina provided recent performance metrics.
+  - Alice requested a deeper analysis of the security incidents.
+  - Henry proposed using advanced monitoring tools.
+
+**Next Steps:**
+- John and Xander to develop a preliminary integration plan by 15-MAR-2023.
+- Alice to arrange a data security review meeting by 20-MAR-2023.
+- Tina to perform a detailed analysis and report back by 25-MAR-2023.
+- Henry to set up new monitoring tools by 28-MAR-2023.
+
+---
+
+### Meeting Minutes 4: Simple Complexity
+
+**Date and Time:** 15-APR-2023, 9:00 AM - 9:30 AM
+
+**Attendees:**
+- Xander Williams
+- Henry Zhou (Note-taker)
+- Tina Foster
+
+**Absentees:**
+- Alice Smith
+
+**Agenda:**
+- Feedback on recent app performance metrics
+- Support issues with IBM QRadar SIEM
+
+**Discussion Points:**
+- **App Performance Metrics:**
+  - Xander shared recent app performance data.
+  - Henry appreciated the improved load times.
+
+- **IBM QRadar SIEM Support Issues:**
+  - Tina mentioned frequent client queries.
+  - Henry suggested a better FAQ section on the support portal.
+
+**Next Steps:**
+- Xander to continue monitoring performance and update by 20-APR-2023.
+- Tina to draft FAQ updates and submit by 25-APR-2023.
+- Henry to review the FAQ draft by 28-APR-2023.
+
+---
+
+### Meeting Minutes 5: Moderate Complexity
+
+**Date and Time:** 22-MAY-2023, 4:00 PM - 5:00 PM
+
+**Attendees:**
+- Xander Williams
+- Tina Foster (Note-taker)
+- Alice Smith
+
+**Absentees:**
+- Henry Zhou
+
+**Additional Attendees:**
+- Sarah Lee (IBM Legal Department)
+
+**Agenda:**
+- Compliance issues with recent app updates
+- Integration of Symantec Endpoint Security
+
+**Discussion Points:**
+- **Compliance Issues:**
+  - Sarah briefed on new compliance regulations.
+  - Alice discussed the impact on data management.
+  - Xander reviewed necessary app changes.
+
+- **Symantec Endpoint Security Integration:**
+  - Alice outlined integration steps.
+  - Tina raised potential support issues.
+  - Xander suggested pilot testing before full deployment.
+
+**Next Steps:**
+- Sarah and Xander to finalize compliance updates by 30-MAY-2023.
+- Alice to coordinate a pilot test by 05-JUN-2023.
+- Tina to prepare support documentation by 10-JUN-2023.
+
+---
+
+### JSON Data Representation

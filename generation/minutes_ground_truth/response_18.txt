@@ -1,0 +1,159 @@
+### Meeting Minutes #1: Simple
+
+**Date and Time:** 15-JAN-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Gina Lopez (Note-taker)
+- Derek Hill
+- Victor Ramos
+- Jackie Lin
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Follow-up on service integration for IBM Cloud Pak for Data.
+2. Discuss QA feedback for IBM Aspera.
+
+**Discussion Points:**
+- Gina provided an update on the new UI design for the integration.
+- Derek shared initial QA results for the integration, identifying minor bugs.
+- Victor discussed the automation scripts needed for the new integration.
+
+**Next Steps:**
+- Gina to finalize UI designs by 20-JAN-2023.
+- Derek to complete QA testing by 25-JAN-2023.
+- Victor to develop automation scripts by 30-JAN-2023.
+
+---
+
+### Meeting Minutes #2: Moderate
+
+**Date and Time:** 22-JAN-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Gina Lopez
+- Derek Hill (Note-taker)
+- Victor Ramos
+- Jackie Lin
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Service integration follow-up.
+2. Discuss security implications for IBM Security Guardium.
+
+**Discussion Points:**
+- Gina updated on UI changes based on QA feedback.
+- Derek highlighted new bugs found during QA.
+- Jackie raised potential security risks associated with the integration.
+- Victor proposed automation enhancements to mitigate these risks.
+
+**Next Steps:**
+- Gina to implement final UI changes by 25-JAN-2023.
+- Derek to conduct a final round of QA by 28-JAN-2023.
+- Jackie to perform a security audit by 31-JAN-2023.
+- Victor to integrate security enhancements by 05-FEB-2023.
+
+---
+
+### Meeting Minutes #3: Detailed
+
+**Date and Time:** 01-FEB-2023, 9:00 AM - 10:30 AM
+
+**Attendees:**
+- Gina Lopez (Note-taker)
+- Derek Hill
+- Victor Ramos
+- Jackie Lin
+- External Attendee: Samir Patel (Nutanix, Integration Specialist)
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Integration progress update.
+2. Discuss potential collaboration with Nutanix.
+3. Identify inter-departmental support needed.
+
+**Discussion Points:**
+- Gina presented the finalized UI and integration demo.
+- Derek reviewed the final QA results and listed remaining issues.
+- Victor explained the role of automation in the integration.
+- Jackie discussed additional security protocols to be implemented.
+- Samir from Nutanix discussed potential areas of collaboration and shared experiences from similar integrations.
+
+**Next Steps:**
+- Gina to address minor UI issues by 05-FEB-2023.
+- Derek to finalize QA testing by 10-FEB-2023.
+- Victor to complete automation scripts by 15-FEB-2023.
+- Jackie to monitor security implementations and report findings by 20-FEB-2023.
+- Samir to send over documentation on Nutanix integration by 10-FEB-2023.
+
+---
+
+### Meeting Minutes #4: Simple
+
+**Date and Time:** 12-FEB-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**
+- Gina Lopez
+- Derek Hill
+- Victor Ramos (Note-taker)
+- Jackie Lin
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Status update on service integration.
+2. Review outstanding issues.
+
+**Discussion Points:**
+- Gina shared updates on UI adjustments.
+- Derek noted two remaining issues in QA testing.
+- Victor mentioned minor tweaks needed in automation scripts.
+- Jackie confirmed no new security risks detected.
+
+**Next Steps:**
+- Gina to finalize UI adjustments by 15-FEB-2023.
+- Derek to resolve QA issues by 18-FEB-2023.
+- Victor to complete script tweaks by 20-FEB-2023.
+- Jackie to continue monitoring for new security risks.
+
+---
+
+### Meeting Minutes #5: Moderate
+
+**Date and Time:** 25-FEB-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Gina Lopez
+- Derek Hill
+- Victor Ramos (Note-taker)
+- Jackie Lin
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Final review of service integration.
+2. Prepare for deployment.
+
+**Discussion Points:**
+- Gina confirmed all UI elements are finalized.
+- Derek presented the final QA report with no critical issues.
+- Victor demonstrated the completed automation scripts.
+- Jackie ensured all security measures are in place and functioning.
+- Discussed deployment timeline and potential challenges.
+
+**Next Steps:**
+- Prepare deployment plan by 28-FEB-2023.
+- Schedule final integration tests by 03-MAR-2023.
+- Plan for deployment on 05-MAR-2023.
+- Monitor post-deployment performance and security from 06-MAR-2023 onward.
+
+---
+
+### JSON Output

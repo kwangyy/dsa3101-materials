@@ -1,0 +1,329 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Clara Diaz"
+                },
+                {
+                    "name": "Ivy Bennett"
+                },
+                {
+                    "name": "Michael Turner"
+                },
+                {
+                    "name": "Samuel Davis"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Nutanix"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note-taker"
+                }
+            ],
+            "locations": [],
+            "products_services": [
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "IBM Db2 Database"
+                },
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "Hybrid cloud solutions"
+                },
+                {
+                    "name": "ETL pipelines"
+                },
+                {
+                    "name": "Security protocols"
+                },
+                {
+                    "name": "Blockchain applications"
+                },
+                {
+                    "name": "AI ethics"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Clara Diaz",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Ivy Bennett",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Turner",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Samuel Davis",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Clara Diaz",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Ivy Bennett",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Turner",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Samuel Davis",
+                "role": "Note-taker"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Clara Diaz",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Nutanix",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Acme Corp",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "product_service": "IBM Db2 Database",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "product_service": "Microsoft Azure",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "product_service": "Hybrid cloud solutions",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "product_service": "ETL pipelines",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "product_service": "Security protocols",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "product_service": "Blockchain applications",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "product_service": "AI ethics",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "person": "Clara Diaz",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "person": "Ivy Bennett",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "person": "Michael Turner",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "person": "Samuel Davis",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "role": "Note-taker",
+                "location": "Unknown"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Clara Diaz",
+                "product_service": "IBM Db2 Database"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "IBM Db2 Database"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "IBM Db2 Database"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "IBM Db2 Database"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Clara Diaz",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Clara Diaz",
+                "product_service": "Hybrid cloud solutions"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "Hybrid cloud solutions"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "Hybrid cloud solutions"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Hybrid cloud solutions"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Clara Diaz",
+                "product_service": "ETL pipelines"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "ETL pipelines"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "ETL pipelines"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "ETL pipelines"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Clara Diaz",
+                "product_service": "Security protocols"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "Security protocols"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "Security protocols"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Security protocols"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Clara Diaz",
+                "product_service": "Blockchain applications"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "Blockchain applications"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "Blockchain applications"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Blockchain applications"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Clara Diaz",
+                "product_service": "AI ethics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "AI ethics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "AI ethics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "AI ethics"
+            }
+        ]
+    }
+}

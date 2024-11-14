@@ -1,0 +1,188 @@
+### Meeting Minutes 1 (Simple)
+
+#### Date and Time
+- **Date:** 12-Sep-2023
+- **Time:** 10:00 AM - 10:30 AM
+
+#### Attendees
+- Derek Hill (Note-taker)
+- Wendy Chen
+- Victor Ramos
+
+#### Agenda
+- Project updates
+- Informal requests
+
+#### Discussion Points
+- **Project Updates:**
+  - Derek shared updates on recent software tests for IBM Aspera.
+  - Wendy discussed a new AI solution design for IBM Maximo.
+  - Victor highlighted the progress on new RPA bots for IBM.
+
+- **Informal Requests:**
+  - Wendy requested additional testing resources from Derek's team.
+  - Victor asked for AI integration guidelines from Wendy.
+
+#### Next Steps
+- Derek to allocate more testing resources to Wendy's AI project by 19-Sep-2023.
+- Wendy to provide AI integration guidelines to Victor by 15-Sep-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+
+#### Date and Time
+- **Date:** 19-Sep-2023
+- **Time:** 2:00 PM - 3:00 PM
+
+#### Attendees
+- Derek Hill
+- Wendy Chen (Note-taker)
+- Victor Ramos
+- Jackie Lin
+
+#### Agenda
+- Project updates
+- Strategy discussions
+- Client interactions
+
+#### Discussion Points
+- **Project Updates:**
+  - Derek reported successful testing of a new IBM Aspera feature.
+  - Wendy showcased a new AI model developed for IBM Maximo.
+  - Victor updated on a new bot that automates client interactions for IBM RPA.
+
+- **Strategy Discussions:**
+  - Jackie stressed the importance of implementing stronger threat detection measures in new products.
+  - Derek suggested regular security audits for new software features.
+
+- **Client Interactions:**
+  - Wendy shared feedback from a recent client meeting with ServiceTitan.
+  - Victor mentioned potential collaborations with other departments to improve client automation solutions.
+
+#### Next Steps
+- Jackie to develop a threat detection plan for the new IBM Aspera feature by 30-Sep-2023.
+- Wendy to arrange a follow-up meeting with ServiceTitan by 25-Sep-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+
+#### Date and Time
+- **Date:** 25-Sep-2023
+- **Time:** 9:00 AM - 10:30 AM
+
+#### Attendees
+- Derek Hill
+- Wendy Chen
+- Victor Ramos
+- Jackie Lin (Note-taker)
+
+#### Agenda
+- Project updates
+- Informal requests
+- Client feedback
+
+#### Discussion Points
+- **Project Updates:**
+  - Derek discussed potential bugs found in IBM Aspera's new version.
+  - Wendy presented a new AI module integration for IBM Maximo.
+  - Victor reported on the performance of new RPA bots in a live environment.
+
+- **Informal Requests:**
+  - Wendy requested additional testing cycles for her new AI module.
+  - Jackie asked for help from Victor to automate security reports.
+
+- **Client Feedback:**
+  - Wendy discussed positive feedback from ServiceTitan on the AI solutions.
+  - Derek proposed improvements based on client feedback for better software performance.
+
+#### Next Steps
+- Derek to initiate additional testing cycles for Wendy’s AI module by 29-Sep-2023.
+- Victor to collaborate with Jackie on automating security reports by 03-Oct-2023.
+
+---
+
+### Meeting Minutes 4 (Moderate)
+
+#### Date and Time
+- **Date:** 02-Oct-2023
+- **Time:** 3:00 PM - 4:00 PM
+
+#### Attendees
+- Derek Hill
+- Wendy Chen
+- Victor Ramos (Note-taker)
+- Jackie Lin
+
+#### Agenda
+- Project updates
+- Strategy discussions
+- Problem-solving sessions
+
+#### Discussion Points
+- **Project Updates:**
+  - Derek updated on recent bug fixes in IBM Aspera.
+  - Wendy presented the current status of AI model training for IBM Maximo.
+  - Victor shared the deployment status of RPA bots in client environments.
+
+- **Strategy Discussions:**
+  - Jackie stressed the need for proactive threat detection in the new IBM products.
+  - Wendy suggested leveraging AI to enhance threat detection capabilities.
+
+- **Problem-solving Sessions:**
+  - Derek and Victor discussed issues faced during bot deployment.
+  - Jackie recommended security best practices to ensure smooth deployment.
+
+#### Next Steps
+- Derek to finalize bug fixes and prepare a report by 09-Oct-2023.
+- Wendy to explore AI applications for enhanced threat detection by 07-Oct-2023.
+- Victor to address deployment issues and report back by 05-Oct-2023.
+
+---
+
+### Meeting Minutes 5 (Detailed)
+
+#### Date and Time
+- **Date:** 09-Oct-2023
+- **Time:** 11:00 AM - 12:30 PM
+
+#### Attendees
+- Derek Hill
+- Wendy Chen
+- Victor Ramos
+- Jackie Lin
+- External Attendee: John Doe (ServiceTitan, Project Manager) (Note-taker)
+
+#### Agenda
+- Project updates
+- Strategy discussions
+- Client interactions
+- Cross-department collaboration
+
+#### Discussion Points
+- **Project Updates:**
+  - Derek highlighted the successful launch of new IBM Aspera features.
+  - Wendy discussed a newly trained AI model's integration for IBM Maximo.
+  - Victor reported on the initial feedback from clients on the new RPA bots.
+
+- **Strategy Discussions:**
+  - Jackie emphasized the need for continuous threat monitoring.
+  - Derek proposed integrating security features during the initial development phase.
+
+- **Client Interactions:**
+  - John Doe from ServiceTitan provided client feedback on IBM solutions.
+  - Wendy addressed concerns raised by ServiceTitan clients regarding AI model accuracy.
+
+- **Cross-department Collaboration:**
+  - Victor and Jackie discussed automating security monitoring.
+  - Derek suggested regular inter-department meetings for better synergy.
+
+#### Next Steps
+- Derek to implement security features in future releases by 16-Oct-2023.
+- Wendy to address AI accuracy concerns raised by ServiceTitan clients by 13-Oct-2023.
+- Victor and Jackie to finalize security automation processes by 18-Oct-2023.
+
+---
+
+### JSON Data

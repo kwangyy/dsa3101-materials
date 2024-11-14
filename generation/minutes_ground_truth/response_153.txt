@@ -1,0 +1,160 @@
+### Meeting Minutes 1 - Simple
+**Date and Time:** 01-Oct-2023, 10:00 AM - 10:30 AM  
+**Attendees:**  
+- Quinn Parker  
+- Jackie Lin  
+- Rachel Singh  
+- Uma Patel (Note Taker)  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Simple greetings  
+- Brief introductions  
+- Overview of team roles
+
+**Discussion Points:**  
+- Each member gave a brief introduction of their roles and responsibilities.
+- Discussed the importance of cross-department collaboration.
+
+**Next Steps:**  
+- Plan a follow-up meeting to discuss specific project updates.  
+- Schedule: 08-Oct-2023  
+
+---
+
+### Meeting Minutes 2 - Moderate
+**Date and Time:** 08-Oct-2023, 2:00 PM - 3:00 PM  
+**Attendees:**  
+- Quinn Parker  
+- Jackie Lin  
+- Rachel Singh  
+- Uma Patel  
+- Jason Kim (DigitalOcean, Cloud Engineer)  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Project updates  
+- Security measures discussion  
+- Cloud solution strategies  
+- Collaboration with DigitalOcean
+
+**Discussion Points:**  
+- Quinn Parker presented data analytics insights for the IBM Cognos Analytics project.
+- Jackie Lin highlighted recent threats detected and discussed mitigation strategies.
+- Rachel Singh gave a brief on the latest backend developments for IBM Cloud Functions.
+- Uma Patel discussed the architecture of hybrid cloud solutions.
+- Jason Kim shared potential collaborations between IBM and DigitalOcean for cloud computing services.
+
+**Next Steps:**  
+- Quinn to prepare a detailed analytics report by 15-Oct-2023.
+- Jackie to organize a security workshop for the team by 18-Oct-2023.
+- Rachel to integrate new backend features by 20-Oct-2023.
+- Uma to draft a hybrid cloud strategy document by 25-Oct-2023.
+- Jason to schedule a follow-up meeting for collaboration specifics by 22-Oct-2023.
+
+---
+
+### Meeting Minutes 3 - Detailed
+**Date and Time:** 15-Oct-2023, 3:00 PM - 4:30 PM  
+**Attendees:**  
+- Quinn Parker  
+- Jackie Lin  
+- Rachel Singh  
+- Uma Patel  
+- Maria Chen (IBM Marketing Department, Senior Marketing Manager)  
+- Jason Kim (DigitalOcean, Cloud Engineer)  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Detailed project updates  
+- Marketing strategies  
+- Security protocol review  
+- Cloud solution enhancement  
+- Collaboration with external entities  
+
+**Discussion Points:**  
+- Quinn Parker presented a comprehensive analytics report and proposed new analytics metrics.
+- Jackie Lin discussed enhanced security protocols and recent threat analysis.
+- Rachel Singh detailed the new backend features and their expected impact on performance.
+- Uma Patel outlined the hybrid cloud strategy and solicited feedback from the team.
+- Maria Chen discussed potential marketing strategies to boost visibility of IBM Cloud services.
+- Jason Kim discussed the specifics of collaboration with DigitalOcean and proposed a joint webinar.
+
+**Next Steps:**  
+- Quinn to refine the analytics metrics based on feedback by 22-Oct-2023.
+- Jackie to finalize the enhanced security protocols by 24-Oct-2023.
+- Rachel to ensure the new backend features are fully operational by 27-Oct-2023.
+- Uma to finalize the hybrid cloud strategy and prepare a presentation by 30-Oct-2023.
+- Maria to develop a detailed marketing plan by 01-Nov-2023.
+- Jason to coordinate with marketing for the joint webinar by 05-Nov-2023.
+
+---
+
+### Meeting Minutes 4 - Simple
+**Date and Time:** 22-Oct-2023, 11:00 AM - 11:30 AM  
+**Attendees:**  
+- Quinn Parker  
+- Jackie Lin  
+- Rachel Singh  
+- Uma Patel (Note Taker)  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Follow-up on previous meetings  
+- Brief discussion on current tasks  
+
+**Discussion Points:**  
+- Reviewed progress on analytics report and new metrics.
+- Discussed the status of enhanced security protocols.
+- Brief update on backend feature integration.
+- Overview of hybrid cloud strategy document completion.
+
+**Next Steps:**  
+- Continue working on assigned tasks.  
+- Schedule next detailed review for 29-Oct-2023  
+
+---
+
+### Meeting Minutes 5 - Moderate
+**Date and Time:** 29-Oct-2023, 1:00 PM - 2:00 PM  
+**Attendees:**  
+- Quinn Parker  
+- Jackie Lin  
+- Rachel Singh  
+- Uma Patel  
+- Maria Chen (IBM Marketing Department, Senior Marketing Manager)  
+
+**Absentees:**  
+- Jason Kim  
+
+**Agenda:**  
+- Final review of analytics metrics  
+- Security protocol implementation  
+- Marketing strategies discussion  
+- Hybrid cloud strategy  
+
+**Discussion Points:**  
+- Quinn Parker presented the refined analytics metrics and discussed their implementation.
+- Jackie Lin shared the final version of the enhanced security protocols.
+- Rachel Singh reported the successful integration of new backend features.
+- Uma Patel presented the finalized hybrid cloud strategy.
+- Maria Chen discussed the draft marketing plan and gathered feedback from the team.
+
+**Next Steps:**  
+- Quinn to implement new analytics metrics by 05-Nov-2023.
+- Jackie to begin security protocol implementation by 07-Nov-2023.
+- Rachel to monitor backend feature performance over the next week.
+- Uma to prepare a public release document for the hybrid cloud strategy by 10-Nov-2023.
+- Maria to finalize and roll out the marketing plan by 12-Nov-2023.
+
+---
+
+### JSON Data

@@ -1,0 +1,122 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Emma Lee"
+                },
+                {
+                    "name": "Franklin Moore"
+                },
+                {
+                    "name": "Uma Patel"
+                },
+                {
+                    "name": "Samuel Davis"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Product Manager"
+                },
+                {
+                    "title": "Senior Software Engineer"
+                },
+                {
+                    "title": "Senior Solutions Architect"
+                },
+                {
+                    "title": "Blockchain Developer"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "IBM (not explicitly mentioned, but assumed as the location of IBM)"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Watson Assistant"
+                },
+                {
+                    "name": "Google Cloud AI Platform"
+                },
+                {
+                    "name": "Hyperledger Fabric"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emma Lee",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Franklin Moore",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Uma Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Samuel Davis",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emma Lee",
+                "role": "Product Manager"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Franklin Moore",
+                "role": "Senior Software Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Uma Patel",
+                "role": "Senior Solutions Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Samuel Davis",
+                "role": "Blockchain Developer"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Emma Lee",
+                "product_service": "IBM Watson Assistant"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Franklin Moore",
+                "product_service": "IBM Watson Assistant"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Uma Patel",
+                "product_service": "IBM Watson Assistant"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Hyperledger Fabric"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "IBM (not explicitly mentioned, but assumed as the location of IBM)"
+            }
+        ]
+    }
+}

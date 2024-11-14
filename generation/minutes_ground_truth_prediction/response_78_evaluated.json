@@ -1,0 +1,139 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Kevin O'Reilly"
+                },
+                {
+                    "name": "Derek Hill"
+                },
+                {
+                    "name": "Xander Williams"
+                },
+                {
+                    "name": "Emma Lee"
+                },
+                {
+                    "name": "Jane Doe"
+                },
+                {
+                    "name": "John Smith"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Notes"
+                },
+                {
+                    "title": "AI aspect"
+                },
+                {
+                    "title": "Quality assurance"
+                },
+                {
+                    "title": "Mobile app interface"
+                },
+                {
+                    "title": "Overall strategy and coordination"
+                },
+                {
+                    "title": "Cybersecurity Specialist"
+                },
+                {
+                    "title": "Sales Director"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "Collaboration tool"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emma Lee",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Kevin O'Reilly",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Derek Hill",
+                "role": "Quality assurance"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Xander Williams",
+                "role": "Mobile app interface"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emma Lee",
+                "role": "Overall strategy and coordination"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jane Doe",
+                "role": "Cybersecurity Specialist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "John Smith",
+                "role": "Sales Director"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Kevin O'Reilly",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Emma Lee",
+                "product_service": "Collaboration tool"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Xander Williams",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Derek Hill",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Jane Doe",
+                "product_service": "Collaboration tool"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "John Smith",
+                "product_service": "Collaboration tool"
+            }
+        ]
+    }
+}

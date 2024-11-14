@@ -1,0 +1,167 @@
+### Meeting Minutes 1
+#### Date and Time
+- Date: 10-Jan-2023
+- Time: 10:00 AM - 10:30 AM
+
+#### Attendees
+- Samuel Davis (Notetaker)
+- Quinn Parker
+- Paul Hernandez
+- Wendy Chen
+
+#### Absentees
+- None
+
+#### Agenda
+- Client interactions
+- Product launch preparations
+
+#### Discussion Points
+- **Client Interactions:**
+  - Reviewed feedback from recent client meetings.
+  - Discussed common client concerns regarding integration with Hyperledger Fabric.
+- **Product Launch Preparations:**
+  - Finalized timelines for product launch.
+  - Discussed marketing strategies and resource allocation.
+
+#### Next Steps
+- Samuel to draft a summary of client feedback and circulate it by 12-Jan-2023.
+- Quinn to prepare analytics insights for the product launch by 15-Jan-2023.
+- Paul to ensure infrastructure readiness by 20-Jan-2023.
+- Wendy to finalize AI models for integration by 25-Jan-2023.
+
+---
+
+### Meeting Minutes 2
+#### Date and Time
+- Date: 25-Jan-2023
+- Time: 1:00 PM - 2:00 PM
+
+#### Attendees
+- Quinn Parker (Notetaker)
+- Samuel Davis
+- Wendy Chen
+
+#### Absentees
+- Paul Hernandez
+
+#### Agenda
+- Review of analytics insights for IBM Cognos Analytics
+- Discussion on AI integration with IBM Maximo
+
+#### Discussion Points
+- **Review of Analytics Insights:**
+  - Quinn presented recent data analytics trends.
+  - Discussed how insights can improve client interactions.
+- **AI Integration with IBM Maximo:**
+  - Wendy provided an update on AI solution designs.
+  - Samuel suggested potential use cases of blockchain for AI data integrity.
+
+#### Next Steps
+- Quinn to generate a detailed analytics report by 30-Jan-2023.
+- Wendy to share AI models with the team by 01-Feb-2023.
+- Samuel to explore blockchain integration possibilities by 05-Feb-2023.
+
+---
+
+### Meeting Minutes 3
+#### Date and Time
+- Date: 10-Feb-2023
+- Time: 11:00 AM - 12:30 PM
+
+#### Attendees
+- Paul Hernandez (Notetaker)
+- Samuel Davis
+- Quinn Parker
+- Wendy Chen
+
+#### Additional Attendees
+- Clara Johnson (Cloudera - Data Scientist)
+
+#### Agenda
+- Infrastructure maintenance updates
+- Collaboration with Cloudera for machine learning integration
+
+#### Discussion Points
+- **Infrastructure Maintenance:**
+  - Paul provided updates on the IBM Z systems infrastructure.
+  - Discussed backup plans and system resilience.
+- **Collaboration with Cloudera:**
+  - Clara discussed potential integration of Cloudera's machine learning models.
+  - Wendy and Clara brainstormed on how AI models can enhance IBM Maximo.
+
+#### Next Steps
+- Paul to complete infrastructure updates by 20-Feb-2023.
+- Clara to share Cloudera’s machine learning models by 25-Feb-2023.
+- Wendy to plan the integration process by 28-Feb-2023.
+
+---
+
+### Meeting Minutes 4
+#### Date and Time
+- Date: 15-Mar-2023
+- Time: 3:00 PM - 4:30 PM
+
+#### Attendees
+- Wendy Chen (Notetaker)
+- Samuel Davis
+- Quinn Parker
+- Paul Hernandez
+
+#### Absentees
+- None
+
+#### Agenda
+- Final review of AI solutions for IBM Maximo
+- Blockchain security measures
+
+#### Discussion Points
+- **AI Solutions Review:**
+  - Wendy demonstrated the AI solutions developed.
+  - Received feedback on improving the user interface.
+- **Blockchain Security:**
+  - Samuel discussed the latest security measures in Hyperledger Fabric.
+  - Paul and Samuel brainstormed on incorporating additional security layers.
+
+#### Next Steps
+- Wendy to implement UI feedback by 20-Mar-2023.
+- Samuel to draft a security measures report by 25-Mar-2023.
+- Paul to test the updated system by 30-Mar-2023.
+
+---
+
+### Meeting Minutes 5
+#### Date and Time
+- Date: 01-Apr-2023
+- Time: 9:00 AM - 11:00 AM
+
+#### Attendees
+- Samuel Davis (Notetaker)
+- Quinn Parker
+- Paul Hernandez
+- Wendy Chen
+
+#### Absentees
+- None
+
+#### Agenda
+- Complete post-launch analysis
+- Future client interaction strategies
+
+#### Discussion Points
+- **Post-launch Analysis:**
+  - Quinn presented the post-launch performance metrics.
+  - Discussed successes and areas needing improvement.
+- **Future Client Interaction Strategies:**
+  - Brainstormed new strategies for engaging clients.
+  - Wendy suggested using AI to personalize client interactions.
+  - Samuel proposed using blockchain to secure client data.
+
+#### Next Steps
+- Quinn to compile a detailed performance report by 05-Apr-2023.
+- Wendy to develop a proposal for AI personalization by 10-Apr-2023.
+- Samuel to draft a blockchain security framework by 15-Apr-2023.
+
+---
+
+### JSON Ground Truth Data

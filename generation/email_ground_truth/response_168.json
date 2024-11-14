@@ -1,0 +1,118 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Alice Smith"
+    },
+    {
+     "name": "Jackie Lin"
+    },
+    {
+     "name": "Paul Hernandez"
+    },
+    {
+     "name": "Henry Zhou"
+    },
+    {
+     "name": "ExternalPartner"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "HashiCorp"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Chief Data Officer"
+    },
+    {
+     "title": "Cybersecurity Analyst"
+    },
+    {
+     "title": "Systems Engineer"
+    },
+    {
+     "title": "DevOps Engineer"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Security Guardium"
+    },
+    {
+     "name": "IBM Z systems"
+    },
+    {
+     "name": "IBM Kubernetes Service"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Alice Smith",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Alice Smith",
+    "role": "Chief Data Officer"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jackie Lin",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jackie Lin",
+    "role": "Cybersecurity Analyst"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Paul Hernandez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Paul Hernandez",
+    "role": "Systems Engineer"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Henry Zhou",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Henry Zhou",
+    "role": "DevOps Engineer"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "ExternalPartner",
+    "organization": "HashiCorp"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jackie Lin",
+    "product_service": "IBM Security Guardium"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Paul Hernandez",
+    "product_service": "IBM Z systems"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Henry Zhou",
+    "product_service": "IBM Kubernetes Service"
+   }
+  ]
+ }
+}

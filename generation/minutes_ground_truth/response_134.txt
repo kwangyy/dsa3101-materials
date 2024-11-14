@@ -1,0 +1,173 @@
+### Meeting Minutes 1 (Simple)
+
+**Date and Time:** 15-Sep-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Rachel Singh (Note-taker)
+- Jackie Lin
+- Yasmine Ali
+- Ivy Bennett
+
+**Agenda:**
+- Project updates
+- Client interactions
+
+**Discussion Points:**
+- **Project Updates:**
+  - Rachel provided an update on the backend development for IBM Cloud Functions. Minor bugs were resolved.
+  - Ivy shared progress on ETL pipelines for IBM Db2 Database. Efficiency increased by 20%.
+  - Yasmine mentioned the completion of a new predictive model for IBM Planning Analytics.
+- **Client Interactions:**
+  - Jackie reported no major incidents detected in threat detection for IBM Security Guardium. Clients are satisfied with the current security measures.
+
+**Next Steps:**
+- Rachel to continue backend development. (Deadline: 30-Sep-2023)
+- Ivy to optimize further the ETL pipelines. (Deadline: 30-Sep-2023)
+- Yasmine to begin work on the next predictive model iteration. (Deadline: 15-Oct-2023)
+
+---
+
+### Meeting Minutes 2 (Simple)
+
+**Date and Time:** 22-Sep-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**
+- Jackie Lin (Note-taker)
+- Yasmine Ali
+- Ivy Bennett
+
+**Absentees:**
+- Rachel Singh
+
+**Agenda:**
+- Project updates
+- Client interactions
+
+**Discussion Points:**
+- **Project Updates:**
+  - Jackie provided updates on threat detection with IBM Security Guardium, highlighting the detection of 3 new potential threats.
+  - Yasmine discussed the current performance of the predictive models and their application in IBM Planning Analytics.
+- **Client Interactions:**
+  - Ivy shared feedback from clients using the ETL pipelines, noting positive reception.
+
+**Next Steps:**
+- Jackie to investigate new threats further. (Deadline: 29-Sep-2023)
+- Yasmine to analyze model performance. (Deadline: 06-Oct-2023)
+- Ivy to gather more client feedback for improvements. (Deadline: 10-Oct-2023)
+
+---
+
+### Meeting Minutes 3 (Moderate)
+
+**Date and Time:** 01-Oct-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Rachel Singh
+- Jackie Lin
+- Yasmine Ali (Note-taker)
+- Ivy Bennett
+
+**Additional Attendees:**
+- John Doe, Security Analyst, Zscaler
+
+**Agenda:**
+- Project updates
+- Client interactions
+- Collaboration with Zscaler
+
+**Discussion Points:**
+- **Project Updates:**
+  - Rachel detailed ongoing backend improvements for IBM Cloud Functions.
+  - Ivy reported on new ETL pipelines efficiency metrics.
+  - Yasmine presented preliminary results from a new predictive model.
+- **Client Interactions:**
+  - Jackie noted positive feedback from clients on threat detection updates.
+- **Collaboration with Zscaler:**
+  - John from Zscaler discussed potential integration points between Zscaler's security solutions and IBM products.
+  - Jackie highlighted the importance of this collaboration for enhanced threat detection.
+
+**Next Steps:**
+- Rachel to implement suggested backend enhancements. (Deadline: 15-Oct-2023)
+- Ivy to collaborate with Zscaler on ETL optimization. (Deadline: 20-Oct-2023)
+- Yasmine to refine predictive model based on feedback. (Deadline: 22-Oct-2023)
+- Jackie to coordinate a follow-up meeting with Zscaler. (Deadline: 10-Oct-2023)
+
+---
+
+### Meeting Minutes 4 (Moderate)
+
+**Date and Time:** 10-Oct-2023, 1:00 PM - 2:00 PM
+
+**Attendees:**
+- Rachel Singh (Note-taker)
+- Jackie Lin
+- Ivy Bennett
+
+**Absentees:**
+- Yasmine Ali
+
+**Agenda:**
+- Project updates
+- Client interactions
+- Future projects
+
+**Discussion Points:**
+- **Project Updates:**
+  - Rachel shared ongoing backend development efforts for IBM Cloud Functions.
+  - Ivy reported minor issues detected in ETL pipelines, resolution underway.
+- **Client Interactions:**
+  - Jackie discussed new client security concerns and proposed solutions.
+- **Future Projects:**
+  - Ivy suggested a new project to enhance ETL capabilities.
+  - Rachel proposed integrating machine learning algorithms for better backend performance.
+
+**Next Steps:**
+- Rachel to research integration of machine learning algorithms. (Deadline: 25-Oct-2023)
+- Ivy to focus on resolving ETL issues. (Deadline: 20-Oct-2023)
+- Jackie to draft a client communication plan regarding new security measures. (Deadline: 17-Oct-2023)
+
+---
+
+### Meeting Minutes 5 (Detailed)
+
+**Date and Time:** 20-Oct-2023, 3:00 PM - 4:30 PM
+
+**Attendees:**
+- Rachel Singh
+- Jackie Lin (Note-taker)
+- Yasmine Ali
+- Ivy Bennett
+
+**Additional Attendees:**
+- Jane Smith, Project Manager, Zscaler
+
+**Agenda:**
+- Project updates
+- Client interactions
+- Strategic planning
+- Collaboration with Zscaler
+
+**Discussion Points:**
+- **Project Updates:**
+  - Rachel provided insights into backend development challenges and solutions.
+  - Ivy highlighted successful implementation of new ETL pipelines.
+  - Yasmine shared advanced predictive model outcomes and their impact.
+- **Client Interactions:**
+  - Jackie discussed latest client feedback on security measures.
+  - Ivy mentioned client issues with data processing and plans for resolution.
+- **Strategic Planning:**
+  - Discussion on future projects, including automation in data processing and enhancing security features.
+  - Rachel suggested a new approach for integrating cloud functions with security protocols.
+- **Collaboration with Zscaler:**
+  - Jane from Zscaler talked about upcoming features that could benefit IBM products.
+  - Jackie and Jane brainstormed potential collaborative projects for better threat detection.
+
+**Next Steps:**
+- Rachel to continue refining backend solutions. (Deadline: 01-Nov-2023)
+- Ivy to address client issues with data processing. (Deadline: 30-Oct-2023)
+- Yasmine to start working on the next iteration of predictive models. (Deadline: 10-Nov-2023)
+- Jackie to finalize collaboration plans with Zscaler. (Deadline: 05-Nov-2023)
+
+---
+
+### JSON Data

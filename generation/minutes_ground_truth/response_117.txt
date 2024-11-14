@@ -1,0 +1,152 @@
+**Meeting Minutes 1 - Simple**
+
+**Date and Time:**  
+24-Apr-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**  
+- Wendy Chen  
+- Kevin O'Reilly  
+- Derek Hill  
+- Rachel Singh (Note taker)  
+- Absentees: None  
+
+**Agenda:**  
+1. Follow-up on AI Solution developments for IBM Maximo Asset Management.
+2. Updates on client feedback for IBM Watson Studio models.
+
+**Discussion Points:**  
+- Wendy provided an update on the design progress for AI solutions for IBM Maximo.
+- Kevin shared client feedback on Watson Studio models and discussed potential improvements.
+- Derek mentioned no critical issues found in the latest testing of IBM Aspera.
+
+**Next Steps:**  
+- Wendy to complete AI solution design by 01-May-2023.
+- Kevin to implement model adjustments based on client feedback by 28-Apr-2023.
+- Derek to prepare for the next phase of testing and report by 30-Apr-2023.
+
+---
+
+**Meeting Minutes 2 - Moderate**
+
+**Date and Time:**  
+02-May-2023, 1:00 PM - 2:00 PM
+
+**Attendees:**  
+- Wendy Chen  
+- Kevin O'Reilly  
+- Derek Hill  
+- Rachel Singh (Note taker)  
+- Absentees: None  
+
+**Agenda:**  
+1. Review of latest QA test results for IBM Aspera.
+2. Strategic planning for upcoming client interactions.
+3. Cross-departmental collaboration strategies.
+
+**Discussion Points:**  
+- Derek presented the latest QA results for IBM Aspera, highlighting minor bugs that need fixing.
+- Rachel proposed a timeline for backend development tasks to support upcoming client interactions.
+- Wendy and Kevin discussed potential cross-departmental synergies to improve overall project efficiency.
+- Rachel emphasized the need for improved communication channels with the Cloud Solutions Department.
+
+**Next Steps:**  
+- Derek to fix identified bugs and retest by 05-May-2023.
+- Rachel to finalize backend development tasks and report progress by 08-May-2023.
+- Wendy and Kevin to set up a bi-weekly cross-departmental meeting starting 10-May-2023.
+
+---
+
+**Meeting Minutes 3 - Detailed**
+
+**Date and Time:**  
+09-May-2023, 3:00 PM - 4:30 PM
+
+**Attendees:**  
+- Wendy Chen  
+- Kevin O'Reilly  
+- Derek Hill  
+- Rachel Singh  
+- Special Attendees: James Turner (Nutanix, Cloud Solutions Architect)  
+- Absentees: None  
+
+**Agenda:**  
+1. Detailed review of AI solutions for IBM Maximo Asset Management.
+2. Collaborative discussion on hybrid cloud solutions with Nutanix.
+3. Analysis of client interaction strategies.
+
+**Discussion Points:**  
+- Wendy detailed the AI solution design for IBM Maximo and received feedback from the team.
+- Kevin discussed the integration of new ML models into IBM Watson Studio and shared client feedback.
+- James Turner from Nutanix provided insights into hybrid cloud solutions and how they could benefit IBM projects.
+- Rachel discussed backend infrastructure requirements for upcoming cloud initiatives.
+- Team evaluated client interaction strategies and proposed improvements to enhance client satisfaction.
+
+**Next Steps:**  
+- Wendy to incorporate team feedback into the AI solution design by 15-May-2023.
+- Kevin to integrate new ML models and test performance by 14-May-2023.
+- Rachel to work with Nutanix on hybrid cloud integration and report by 20-May-2023.
+- James Turner to provide detailed documentation on Nutanix's hybrid cloud capabilities by 12-May-2023.
+
+---
+
+**Meeting Minutes 4 - Simple**
+
+**Date and Time:**  
+16-May-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**  
+- Wendy Chen  
+- Kevin O'Reilly  
+- Derek Hill (Note taker)  
+- Rachel Singh  
+- Absentees: None  
+
+**Agenda:**  
+1. Quick follow-up on recent project updates.
+2. Immediate client feedback review.
+
+**Discussion Points:**  
+- Wendy confirmed the completion of AI solution design for IBM Maximo.
+- Kevin shared quick insights on client feedback for recent model updates.
+- Rachel mentioned the backend development progress for cloud functions.
+
+**Next Steps:**  
+- Wendy to start implementation phase immediately.
+- Kevin to monitor client feedback for further adjustments.
+- Rachel to complete backend tasks and prepare for deployment by 22-May-2023.
+
+---
+
+**Meeting Minutes 5 - Moderate**
+
+**Date and Time:**  
+23-May-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**  
+- Wendy Chen  
+- Kevin O'Reilly  
+- Derek Hill  
+- Rachel Singh  
+- Special Attendees: James Turner (Nutanix, Cloud Solutions Architect)  
+- Absentees: None  
+
+**Agenda:**  
+1. Review of hybrid cloud integration progress.
+2. Strategy discussion for next client meeting.
+3. QA testing results and bug fixes.
+
+**Discussion Points:**  
+- Rachel updated the team on the integration of hybrid cloud solutions with Nutanix.
+- James Turner discussed potential challenges and solutions related to hybrid cloud deployment.
+- Wendy and Kevin aligned strategies for the upcoming client meeting to ensure all requirements are met.
+- Derek presented the latest QA testing results, highlighting critical issues that need fixing.
+
+**Next Steps:**  
+- Rachel to finalize hybrid cloud integration and report by 28-May-2023.
+- Wendy and Kevin to prepare client presentation by 27-May-2023.
+- Derek to fix critical issues and retest by 26-May-2023.
+- James Turner to provide additional support documentation by 25-May-2023.
+
+---
+
+**JSON Data:**

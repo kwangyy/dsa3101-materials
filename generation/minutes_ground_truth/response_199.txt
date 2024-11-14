@@ -1,0 +1,136 @@
+### Meeting Minutes 1: Simple
+**Date and Time:** 02-Sep-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Benji Martinez (Notes)
+- Oliver James
+- Michael Turner
+
+**Absentees:**
+- Alice Smith
+
+**Agenda:**
+- Project updates
+- Infrastructure maintenance
+
+**Discussion Points:**
+- Benji provided a brief update on ongoing infrastructure maintenance for IBM Cloud Object Storage.
+- Oliver discussed recent improvements in natural language processing models for IBM Watson Language Translator.
+- Michael noted that security protocols for Microsoft Azure are being reviewed and updated.
+
+**Next Steps:**
+- Benji to finalize maintenance tasks by 09-Sep-2023.
+- Oliver to submit a detailed report on NLP model improvements by 10-Sep-2023.
+- Michael to complete security protocol updates by 12-Sep-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+**Date and Time:** 08-Sep-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Alice Smith (Notes)
+- Benji Martinez
+- Oliver James
+
+**Absentees:**
+- Michael Turner
+
+**Agenda:**
+- Project status updates
+- Cross-department collaboration
+
+**Discussion Points:**
+- Alice highlighted key areas in the development of Microsoft Azure and Symantec Endpoint Security.
+- Benji suggested integrating new infrastructure features for better cloud storage performance.
+- Oliver proposed potential NLP use cases that could benefit from enhanced security protocols.
+- Alice mentioned the importance of collaboration between R&D and Cybersecurity departments.
+
+**Next Steps:**
+- Benji to explore new infrastructure features by 15-Sep-2023.
+- Alice to coordinate a meeting between R&D and Cybersecurity by 17-Sep-2023.
+- Oliver to identify specific NLP use cases requiring enhanced security by 20-Sep-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+**Date and Time:** 15-Sep-2023, 3:00 PM - 4:30 PM
+
+**Attendees:**
+- Michael Turner (Notes)
+- Alice Smith
+- Oliver James
+
+**Absentees:**
+- Benji Martinez
+
+**Agenda:**
+- Security protocols update
+- AI and NLP advancements
+- Cross-department project integration
+
+**Discussion Points:**
+- Michael provided an in-depth update on new security protocols designed for Microsoft Azure.
+- Alice discussed ongoing projects in the R&D department, specifically focusing on Microsoft Azure and Symantec Endpoint Security.
+- Oliver shared recent advancements in NLP models and their potential applications in IBM Watson Language Translator.
+- Alice emphasized the importance of integrating AI advancements with enhanced security measures.
+
+**Next Steps:**
+- Michael to finalize security protocol documentation by 22-Sep-2023.
+- Alice to assess the impact of security protocols on R&D projects by 25-Sep-2023.
+- Oliver to prepare a presentation on NLP advancements for the next meeting on 29-Sep-2023.
+
+---
+
+### Meeting Minutes 4: Moderate
+**Date and Time:** 22-Sep-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**
+- Benji Martinez
+- Alice Smith
+- Michael Turner (Notes)
+
+**Absentees:**
+- Oliver James
+
+**Agenda:**
+- Project updates
+- External collaboration
+
+**Discussion Points:**
+- Benji provided updates on infrastructure projects and their progress.
+- Alice discussed the need for external collaboration with Cognex for machine vision systems in manufacturing.
+- Michael emphasized the importance of incorporating robust security measures in external collaborations.
+
+**Next Steps:**
+- Benji to complete infrastructure updates by 29-Sep-2023.
+- Alice to schedule a meeting with Cognex representatives by 05-Oct-2023.
+- Michael to draft security guidelines for external collaborations by 03-Oct-2023.
+
+---
+
+### Meeting Minutes 5: Simple
+**Date and Time:** 29-Sep-2023, 9:00 AM - 9:30 AM
+
+**Attendees:**
+- Oliver James (Notes)
+- Alice Smith
+
+**Absentees:**
+- Benji Martinez
+- Michael Turner
+
+**Agenda:**
+- Quick project updates
+
+**Discussion Points:**
+- Oliver briefed on recent progress with NLP models for IBM Watson Language Translator.
+- Alice provided updates on ongoing projects in the R&D department.
+
+**Next Steps:**
+- Oliver to continue refining NLP models, next update by 06-Oct-2023.
+- Alice to share detailed project progress in the next meeting on 06-Oct-2023.
+
+---
+
+### JSON Relationships Data

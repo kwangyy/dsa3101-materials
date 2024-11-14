@@ -1,0 +1,192 @@
+### Meeting Minutes 1: Simple
+#### Date and Time: 01-Oct-2023, 10:00 AM - 10:30 AM
+#### Attendees:
+- Ivy Bennett (Note Taker)
+- Xander Williams
+- Rachel Singh
+- Kevin O'Reilly
+
+#### Agenda:
+1. Status updates on current projects
+2. Identify any roadblocks
+3. Discuss upcoming deadlines
+
+#### Discussion Points:
+- **Ivy Bennett**:
+  - Update: ETL pipeline for IBM Db2 Database is 80% complete.
+  - Roadblock: Need access to additional data sources.
+- **Xander Williams**:
+  - Update: Developing new features for IBM MobileFirst Platform app.
+  - Roadblock: Awaiting design assets from the UX team.
+- **Rachel Singh**:
+  - Update: Backend development for IBM Cloud Functions is on track.
+  - Roadblock: None.
+- **Kevin O'Reilly**:
+  - Update: Working on new machine learning model for IBM Watson Studio.
+  - Roadblock: Initial testing shows lower accuracy than expected.
+
+#### Next Steps:
+- Ivy to request access to additional data sources by 05-Oct-2023.
+- Xander to follow up with the UX team for design assets by 03-Oct-2023.
+- Kevin to perform further testing on the machine learning model and present findings by 07-Oct-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+#### Date and Time: 05-Oct-2023, 2:00 PM - 3:00 PM
+#### Attendees:
+- Rachel Singh (Note Taker)
+- Ivy Bennett
+- Xander Williams
+- Kevin O'Reilly
+- External Attendee: John Doe (Cognex, Machine Vision Specialist)
+
+#### Agenda:
+1. Collaborate on product integration with Cognex
+2. Share updates on individual project progress
+3. Plan joint testing phase
+
+#### Discussion Points:
+- **Rachel Singh**:
+  - Update: Finalizing backend services for IBM Cloud Functions.
+  - Integration: Discussed API compatibility with Cognex systems.
+- **Ivy Bennett**:
+  - Update: ETL pipeline is now 90% complete.
+  - Integration: Ensuring data accuracy for machine vision systems.
+- **Xander Williams**:
+  - Update: UI/UX for the mobile app is being finalized.
+  - Integration: Discussed how mobile app can utilize machine vision.
+- **Kevin O'Reilly**:
+  - Update: Improving accuracy of the machine learning model.
+  - Integration: Discussed potential machine learning applications with Cognex systems.
+- **John Doe (Cognex)**:
+  - Introduction to Cognex capabilities and vision systems.
+  - Discussed the collaboration strategy and initial steps for integration.
+
+#### Next Steps:
+- Rachel to finalize API documentation and share it by 10-Oct-2023.
+- Ivy to complete ETL pipeline and verify data accuracy by 12-Oct-2023.
+- Xander to integrate vision functionality in the mobile app by 15-Oct-2023.
+- Kevin to improve machine learning model accuracy and test with Cognex data by 20-Oct-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+#### Date and Time: 12-Oct-2023, 11:00 AM - 12:30 PM
+#### Attendees:
+- Kevin O'Reilly (Note Taker)
+- Ivy Bennett
+- Xander Williams
+- Rachel Singh
+- External Attendees: Jane Smith (UX Team Lead), Mike Brown (Cognex, Technical Lead)
+
+#### Agenda:
+1. Detailed discussion on UX/UI integration for mobile app
+2. Status updates on data and machine learning progress
+3. Plan for next sprint and set priorities
+
+#### Discussion Points:
+- **Jane Smith (UX Team Lead)**:
+  - Presented new design assets for mobile app.
+  - Discussed user feedback from recent testing.
+- **Ivy Bennett**:
+  - Update: ETL pipeline is complete.
+  - Verified data accuracy and compatibility with Cognex systems.
+- **Xander Williams**:
+  - Update: Integrated new UI/UX assets into the mobile app.
+  - Discussed challenges with mobile app performance and potential optimizations.
+- **Rachel Singh**:
+  - Update: Backend services for IBM Cloud Functions are deployed.
+  - Collaboration: Worked with Cognex on API compatibility issues.
+- **Kevin O'Reilly**:
+  - Update: Machine learning model accuracy improved to 85%.
+  - Discussed potential applications in real-time scenarios with Cognex data.
+- **Mike Brown (Cognex)**:
+  - Presented data on initial testing with Cognex systems.
+  - Discussed challenges faced and proposed solutions for better integration.
+
+#### Next Steps:
+- Jane to finalize remaining design elements and deliver them by 17-Oct-2023.
+- Ivy to monitor ETL pipeline performance and report any issues by 19-Oct-2023.
+- Xander to optimize mobile app performance based on feedback by 22-Oct-2023.
+- Rachel to address any API issues and ensure smooth integration with Cognex by 24-Oct-2023.
+- Kevin to continue refining the machine learning model and conduct more tests by 27-Oct-2023.
+
+---
+
+### Meeting Minutes 4: Moderate
+#### Date and Time: 18-Oct-2023, 3:00 PM - 4:00 PM
+#### Attendees:
+- Xander Williams (Note Taker)
+- Ivy Bennett
+- Rachel Singh
+- Kevin O'Reilly
+
+#### Agenda:
+1. Review progress on ongoing projects
+2. Discuss inter-departmental collaboration
+3. Address any new challenges
+
+#### Discussion Points:
+- **Ivy Bennett**:
+  - Update: ETL pipeline running smoothly with no data issues.
+  - Collaboration: Suggests a data-sharing session with the AI Research department.
+- **Rachel Singh**:
+  - Update: Backend development stable, focusing on improving response times.
+  - Collaboration: Proposes regular meetings with the Digital Solutions team.
+- **Xander Williams**:
+  - Update: Optimized mobile app performance; user feedback is positive.
+  - Collaboration: Discusses potential features for better user experience.
+- **Kevin O'Reilly**:
+  - Update: Refining machine learning models for higher accuracy.
+  - Collaboration: Requests access to more diverse data sets from Data Management.
+
+#### Next Steps:
+- Ivy to schedule a data-sharing session with the AI Research department by 22-Oct-2023.
+- Rachel to set up regular meetings with the Digital Solutions team by 25-Oct-2023.
+- Xander to draft new feature proposals and share them by 27-Oct-2023.
+- Kevin to request access to additional data sets and begin analysis by 30-Oct-2023.
+
+---
+
+### Meeting Minutes 5: Detailed
+#### Date and Time: 25-Oct-2023, 9:30 AM - 11:00 AM
+#### Attendees:
+- Ivy Bennett (Note Taker)
+- Xander Williams
+- Rachel Singh
+- Kevin O'Reilly
+- External Attendee: David Kim (Cognex, Integration Specialist)
+
+#### Agenda:
+1. Detailed review of integration progress with Cognex
+2. Status updates on individual projects
+3. Discuss upcoming milestones and potential risks
+
+#### Discussion Points:
+- **Ivy Bennett**:
+  - Update: ETL pipeline fully operational and integrated with Cognex systems.
+  - Potential Risk: Continuous monitoring required for data consistency.
+- **Xander Williams**:
+  - Update: New features implemented; app performance is stable.
+  - Potential Risk: App scalability concerns for future updates.
+- **Rachel Singh**:
+  - Update: Backend services optimized for speed and reliability.
+  - Potential Risk: Server load management during peak times.
+- **Kevin O'Reilly**:
+  - Update: Machine learning model accuracy improved to 90%.
+  - Potential Risk: Requires diverse data for further improvements.
+- **David Kim (Cognex)**:
+  - Provided insights on integration testing results.
+  - Discussed potential challenges with real-time data processing.
+
+#### Next Steps:
+- Ivy to continue monitoring ETL pipeline and report any issues immediately.
+- Xander to work on scalability solutions and present a plan by 31-Oct-2023.
+- Rachel to implement additional server load balancing mechanisms by 03-Nov-2023.
+- Kevin to acquire more diverse data sets and refine the machine learning model by 05-Nov-2023.
+- David Kim to coordinate with internal teams for continuous integration support by 07-Nov-2023.
+
+---
+
+### JSON Data

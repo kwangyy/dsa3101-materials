@@ -1,0 +1,160 @@
+### Meeting Minutes 1
+
+**Date and Time:** 05-Sep-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Samuel Davis
+- Zachary Brooks
+- Brian Taylor (Note-taker)
+- Jackie Lin
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Project updates
+- Collaboration on threat detection using blockchain
+
+**Discussion Points:**
+- Samuel Davis updated on Hyperledger Fabric progress.
+- Jackie Lin proposed using blockchain for threat detection.
+- Brian Taylor suggested integrating data analysis tools from Microsoft Azure for real-time threat analytics.
+- Zachary Brooks volunteered to explore Cloud Pak for Integration for seamless data flow.
+
+**Next Steps:**
+- Samuel to draft initial blockchain integration plan by 12-Sep-2023.
+- Jackie to identify key threat detection criteria by 15-Sep-2023.
+- Brian to provide initial data models by 20-Sep-2023.
+- Zachary to assess integration feasibility by 22-Sep-2023.
+
+---
+
+### Meeting Minutes 2
+
+**Date and Time:** 12-Sep-2023, 02:00 PM - 03:00 PM
+
+**Attendees:**
+- Samuel Davis
+- Zachary Brooks
+- Brian Taylor
+- Jackie Lin (Note-taker)
+- External: Jane Evans (Cloudera, Machine Learning Specialist)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Review of blockchain integration plan
+- Collaboration with Cloudera for machine learning
+
+**Discussion Points:**
+- Samuel presented the draft blockchain integration plan.
+- Jane Evans introduced Cloudera's machine learning capabilities.
+- Jackie raised potential security concerns.
+- Brian suggested using Cloudera for improved data processing.
+
+**Next Steps:**
+- Samuel to finalize blockchain plan incorporating Cloudera by 19-Sep-2023.
+- Jane to provide technical specifications by 18-Sep-2023.
+- Jackie to review security measures by 20-Sep-2023.
+- Brian to propose data processing enhancements by 22-Sep-2023.
+
+---
+
+### Meeting Minutes 3
+
+**Date and Time:** 20-Sep-2023, 11:00 AM - 11:45 AM
+
+**Attendees:**
+- Samuel Davis
+- Zachary Brooks (Note-taker)
+- Brian Taylor
+- Jackie Lin
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Review of updated blockchain plan
+- Security measures for inter-department collaboration
+
+**Discussion Points:**
+- Samuel discussed the integration of Cloudera’s specifications.
+- Jackie reviewed the security measures and approved.
+- Brian shared enhancements on data processing.
+- Zachary outlined Cloud Pak for Integration implementation steps.
+
+**Next Steps:**
+- Samuel to start blockchain implementation by 25-Sep-2023.
+- Jackie to monitor security throughout implementation.
+- Brian to oversee data processing setup by 27-Sep-2023.
+- Zachary to begin Cloud Pak integration by 28-Sep-2023.
+
+---
+
+### Meeting Minutes 4
+
+**Date and Time:** 05-Oct-2023, 09:00 AM - 10:30 AM
+
+**Attendees:**
+- Samuel Davis
+- Zachary Brooks
+- Brian Taylor (Note-taker)
+- Jackie Lin
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Progress check on blockchain and integration
+- Discussion on long-term inter-department collaboration
+
+**Discussion Points:**
+- Samuel reported blockchain implementation is on schedule.
+- Zachary updated on Cloud Pak integration progress.
+- Jackie noted no major security issues detected.
+- Brian proposed a continuous improvement model for data processing.
+
+**Next Steps:**
+- Samuel to complete blockchain integration by 12-Oct-2023.
+- Zachary to finalize Cloud Pak integration by 15-Oct-2023.
+- Jackie to conduct a final security audit by 14-Oct-2023.
+- Brian to draft continuous improvement plan by 20-Oct-2023.
+
+---
+
+### Meeting Minutes 5
+
+**Date and Time:** 20-Oct-2023, 03:00 PM - 04:30 PM
+
+**Attendees:**
+- Samuel Davis (Note-taker)
+- Zachary Brooks
+- Brian Taylor
+- Jackie Lin
+- External: John Smith (Cloudera, Data Scientist)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Final review of blockchain and Cloud Pak integrations
+- Assessment of collaboration outcomes
+- Future inter-department projects
+
+**Discussion Points:**
+- Samuel confirmed successful blockchain integration.
+- Zachary reported Cloud Pak integration is complete and functional.
+- Jackie confirmed security audit passed.
+- John Smith shared insights from Cloudera’s perspective.
+- Brian reviewed the continuous improvement model.
+
+**Next Steps:**
+- Samuel to compile a final report by 25-Oct-2023.
+- Zachary to provide documentation for Cloud Pak integration by 27-Oct-2023.
+- Jackie to monitor ongoing security by 30-Oct-2023.
+- Brian to present continuous improvement model at next meeting by 05-Nov-2023.
+
+---
+
+### JSON Data for Relationships

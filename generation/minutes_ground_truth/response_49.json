@@ -1,0 +1,126 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Gina Lopez"
+    },
+    {
+     "name": "Victor Ramos"
+    },
+    {
+     "name": "David Patel"
+    },
+    {
+     "name": "Jackie Lin"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Elastic"
+    }
+   ],
+   "roles": [
+    {
+     "title": "UX Designer"
+    },
+    {
+     "title": "RPA Developer"
+    },
+    {
+     "title": "Cloud Architect"
+    },
+    {
+     "title": "Cybersecurity Analyst"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Pak for Data"
+    },
+    {
+     "name": "IBM Robotic Process Automation"
+    },
+    {
+     "name": "Amazon Web Services (AWS)"
+    },
+    {
+     "name": "IBM Security Guardium"
+    },
+    {
+     "name": "Elastic"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Gina Lopez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Victor Ramos",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "David Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jackie Lin",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Gina Lopez",
+    "role": "UX Designer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Victor Ramos",
+    "role": "RPA Developer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "David Patel",
+    "role": "Cloud Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jackie Lin",
+    "role": "Cybersecurity Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Gina Lopez",
+    "product_service": "IBM Cloud Pak for Data"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Victor Ramos",
+    "product_service": "IBM Robotic Process Automation"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "David Patel",
+    "product_service": "Amazon Web Services (AWS)"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jackie Lin",
+    "product_service": "IBM Security Guardium"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "organization": "Elastic",
+    "product_service": "Elastic"
+   }
+  ]
+ }
+}

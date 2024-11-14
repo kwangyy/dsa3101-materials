@@ -1,0 +1,150 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Samuel Davis"
+    },
+    {
+     "name": "Abigail Carter"
+    },
+    {
+     "name": "Clara Diaz"
+    },
+    {
+     "name": "Jackie Lin"
+    },
+    {
+     "name": "Sarah Thompson"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "ServiceTitan"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Blockchain Developer"
+    },
+    {
+     "title": "Business Intelligence Analyst"
+    },
+    {
+     "title": "AI Policy Researcher"
+    },
+    {
+     "title": "Cybersecurity Analyst"
+    },
+    {
+     "title": "Client"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Hyperledger Fabric"
+    },
+    {
+     "name": "IBM Blockchain Platform"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM AI OpenScale"
+    },
+    {
+     "name": "IBM Security Guardium"
+    },
+    {
+     "name": "ServiceTitan"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "HAS_ROLE",
+    "person": "Samuel Davis",
+    "role": "Blockchain Developer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Abigail Carter",
+    "role": "Business Intelligence Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Clara Diaz",
+    "role": "AI Policy Researcher"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jackie Lin",
+    "role": "Cybersecurity Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah Thompson",
+    "role": "Client"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Samuel Davis",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Abigail Carter",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Clara Diaz",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jackie Lin",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah Thompson",
+    "organization": "ServiceTitan"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "Hyperledger Fabric"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "IBM Blockchain Platform"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Abigail Carter",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Clara Diaz",
+    "product_service": "IBM AI OpenScale"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jackie Lin",
+    "product_service": "IBM Security Guardium"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Sarah Thompson",
+    "product_service": "ServiceTitan"
+   }
+  ]
+ }
+}
