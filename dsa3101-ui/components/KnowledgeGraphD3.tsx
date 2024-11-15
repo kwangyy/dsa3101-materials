@@ -60,7 +60,7 @@ const fetchWikipediaData = async (searchTerm: string) => {
       )
     }));
 
-    const goodMatches = similarities.filter(result => result.similarity > 0.8);
+    const goodMatches = similarities.filter(result => result.similarity > 0.95);
     if (!goodMatches.length) {
       wikiCache.set(searchTerm, { title: null, timestamp: now });
       return null;
