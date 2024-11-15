@@ -1,0 +1,129 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Michael Turner"
+                },
+                {
+                    "name": "David Patel"
+                },
+                {
+                    "name": "Xander Williams"
+                },
+                {
+                    "name": "Emma Lee"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Cloud Security Architect"
+                },
+                {
+                    "title": "Cloud Architect"
+                },
+                {
+                    "title": "Mobile App Developer"
+                },
+                {
+                    "title": "Product Manager"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "Main conference room on the 3rd floor"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Hybrid Cloud Security Solution"
+                },
+                {
+                    "name": "Google Cloud AI Platform"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Turner",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "David Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Xander Williams",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emma Lee",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Turner",
+                "role": "Cloud Security Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "David Patel",
+                "role": "Cloud Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Xander Williams",
+                "role": "Mobile App Developer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emma Lee",
+                "role": "Product Manager"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "Main conference room on the 3rd floor"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "Hybrid Cloud Security Solution"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "David Patel",
+                "product_service": "Hybrid Cloud Security Solution"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Xander Williams",
+                "product_service": "Hybrid Cloud Security Solution"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Emma Lee",
+                "product_service": "Hybrid Cloud Security Solution"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "Google Cloud AI Platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Emma Lee",
+                "product_service": "Google Cloud AI Platform"
+            }
+        ]
+    }
+}

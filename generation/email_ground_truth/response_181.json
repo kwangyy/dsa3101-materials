@@ -1,0 +1,129 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Emma Lee"
+    },
+    {
+     "name": "Ivy Bennett"
+    },
+    {
+     "name": "Quinn Parker"
+    },
+    {
+     "name": "Carol Nguyen"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "C3.ai"
+    },
+    {
+     "name": "Google"
+    },
+    {
+     "name": "Microsoft"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Product Manager"
+    },
+    {
+     "title": "Data Engineer"
+    },
+    {
+     "title": "Data Analyst"
+    },
+    {
+     "title": "Junior Data Scientist"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Google Cloud AI Platform"
+    },
+    {
+     "name": "IBM Db2 Database"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "Microsoft Azure"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Ivy Bennett",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Quinn Parker",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Carol Nguyen",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Lee",
+    "role": "Product Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Ivy Bennett",
+    "role": "Data Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Quinn Parker",
+    "role": "Data Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Carol Nguyen",
+    "role": "Junior Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Emma Lee",
+    "product_service": "Google Cloud AI Platform"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Ivy Bennett",
+    "product_service": "IBM Db2 Database"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Quinn Parker",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Carol Nguyen",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "PARTNER_WITH",
+    "organization": "IBM",
+    "organization_partner": "C3.ai"
+   }
+  ]
+ }
+}

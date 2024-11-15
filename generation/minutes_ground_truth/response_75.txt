@@ -1,0 +1,167 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time:** 02-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Clara Diaz
+- Ivy Bennett
+- Carol Nguyen
+- Michael Turner
+- Note taker: Carol Nguyen
+- Absentees: None
+
+**Agenda:**
+- Greetings
+- Team Updates
+
+**Discussion Points:**
+- Clara welcomed the team and initiated the meeting.
+- Each member gave a brief update on their current projects.
+  - Clara: Research on AI ethics for IBM AI OpenScale progressing well.
+  - Ivy: Building new ETL pipelines for IBM Db2 Database.
+  - Carol: Assisting in analyzing data for Microsoft Azure.
+  - Michael: Designing security protocols for Microsoft Azure.
+  
+**Next Steps:**
+- Continue with current projects.
+- Next meeting scheduled for 09-Jan-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+**Date and Time:** 15-Feb-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**
+- Clara Diaz
+- Ivy Bennett
+- Michael Turner
+- Note taker: Ivy Bennett
+- Absentees: Carol Nguyen
+
+**Agenda:**
+- Greetings
+- Project Progress
+- Team Collaboration
+
+**Discussion Points:**
+- Clara welcomed everyone and asked for updates on projects.
+  - Ivy mentioned progress on ETL pipelines and potential challenges.
+  - Michael discussed new security protocols and potential vulnerabilities.
+- Discussed ways to improve team collaboration and communication.
+  - Clara suggested weekly check-ins to ensure everyone is aligned.
+  - Michael proposed using a shared project management tool.
+  
+**Next Steps:**
+- Implement weekly check-ins starting next Monday.
+- Explore project management tools and decide on one by the next meeting.
+- Clara to follow up with Carol regarding data analysis progress.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+**Date and Time:** 01-Mar-2023, 2:00 PM - 3:30 PM
+
+**Attendees:**
+- Clara Diaz
+- Ivy Bennett
+- Carol Nguyen
+- Michael Turner
+- Note taker: Clara Diaz
+- Absentees: None
+
+**Agenda:**
+- Greetings
+- Detailed Project Updates
+- Strategy Discussion
+- External Collaboration
+
+**Discussion Points:**
+- Clara greeted the team and reviewed previous meeting action items.
+- Detailed updates from team members:
+  - Ivy: Completed new ETL pipelines; starting on optimization.
+  - Carol: Completed data analysis for Microsoft Azure, findings to be reviewed.
+  - Michael: Implemented new security protocols; awaiting feedback.
+- Strategy discussion on how to integrate new AI ethics guidelines with existing projects.
+  - Clara proposed a phased integration plan.
+  - Ivy and Carol to review the feasibility.
+- Discussed potential collaboration with Zscaler for enhanced security.
+  - Michael to initiate contact with Zscaler.
+  
+**Next Steps:**
+- Clara to draft phased integration plan by 15-Mar-2023.
+- Ivy and Carol to review and provide feedback by 20-Mar-2023.
+- Michael to schedule a meeting with Zscaler by 10-Mar-2023.
+- Next meeting scheduled for 22-Mar-2023.
+
+---
+
+### Meeting Minutes 4 (Moderate)
+**Date and Time:** 15-Apr-2023, 3:00 PM - 4:00 PM
+
+**Attendees:**
+- Clara Diaz
+- Ivy Bennett
+- Carol Nguyen
+- Michael Turner
+- Note taker: Michael Turner
+- Absentees: None
+
+**Agenda:**
+- Greetings
+- Team Morale and Management
+- Cross-Department Collaboration
+
+**Discussion Points:**
+- Clara started the meeting with greetings and appreciation for recent work.
+- Addressed team morale and management issues.
+  - Carol mentioned feeling overworked.
+  - Ivy suggested regular team-building activities.
+- Discussed cross-department collaboration opportunities.
+  - Michael suggested collaborating with the Data Science department for security improvements.
+  - Clara proposed a joint project with the Ethics department.
+  
+**Next Steps:**
+- Schedule monthly team-building activities starting May.
+- Michael to reach out to the Data Science department by 20-Apr-2023.
+- Clara to draft proposal for joint project with Ethics department by 30-Apr-2023.
+
+---
+
+### Meeting Minutes 5 (Detailed)
+**Date and Time:** 10-May-2023, 4:00 PM - 5:30 PM
+
+**Attendees:**
+- Clara Diaz
+- Ivy Bennett
+- Carol Nguyen
+- Michael Turner
+- Note taker: Ivy Bennett
+- Absentees: None
+- Additional Attendees: 
+  - John Smith - Security Consultant from Zscaler
+
+**Agenda:**
+- Greetings
+- Comprehensive Project Reviews
+- External Collaboration Review
+- Action Plan and Deadlines
+
+**Discussion Points:**
+- Clara welcomed the team and John Smith from Zscaler.
+- Comprehensive updates from team members:
+  - Ivy: Optimization of ETL pipelines completed; documenting results.
+  - Carol: Data analysis results reviewed; new insights for Microsoft Azure.
+  - Michael: Received feedback on security protocols; positive but needs minor adjustments.
+- John Smith from Zscaler discussed potential collaboration benefits.
+  - Proposed solutions for enhancing cloud security.
+- Agreed on an action plan and set deadlines for next steps.
+  
+**Next Steps:**
+- Clara to finalize documentation by 20-May-2023.
+- Ivy to submit optimization results by 25-May-2023.
+- Carol to begin new data analysis project by 01-Jun-2023.
+- Michael to implement suggested adjustments by 05-Jun-2023.
+- Clara to follow up with John Smith on collaboration details by 15-Jun-2023.
+
+---
+
+### JSON Data Representation

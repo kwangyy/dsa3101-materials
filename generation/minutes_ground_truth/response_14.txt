@@ -1,0 +1,138 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:** 05-JAN-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Yasmine Ali
+- Victor Ramos
+- Uma Patel
+- Clara Diaz
+- Note taker: Clara Diaz
+- Absentees: None
+
+**Agenda:**
+1. Collaboration proposal for predictive analytics and RPA integration.
+
+**Discussion Points:**
+- Yasmine proposed integrating predictive models with Victor's RPA bots to enhance efficiency.
+- Victor expressed interest and outlined potential challenges, such as compatibility and data flow management.
+- Uma suggested leveraging IBM Cloud Private for seamless integration.
+
+**Next Steps:**
+- Yasmine and Victor to schedule a technical meeting to discuss integration details by 10-JAN-2023.
+- Uma to provide architectural guidelines by 12-JAN-2023.
+
+### Meeting Minutes 2: Moderate
+
+**Date and Time:** 15-JAN-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**
+- Yasmine Ali
+- Victor Ramos
+- Uma Patel
+- Clara Diaz
+- Note taker: Uma Patel
+- Absentees: None
+
+**Agenda:**
+1. Review progress on predictive analytics and RPA integration.
+2. Discuss ethical considerations for AI models.
+
+**Discussion Points:**
+- Yasmine and Victor presented a successful prototype demonstrating predictive model and RPA bot integration.
+- Clara raised concerns about data privacy and ethical use of AI in automation.
+- Uma proposed implementing ethical guidelines from IBM AI OpenScale into the project.
+
+**Next Steps:**
+- Yasmine and Victor to refine the prototype and address data privacy concerns by 20-JAN-2023.
+- Clara to draft ethical guidelines and share them by 22-JAN-2023.
+- Uma to coordinate with the Ethics Department for review by 25-JAN-2023.
+
+### Meeting Minutes 3: Detailed
+
+**Date and Time:** 01-FEB-2023, 2:00 PM - 3:30 PM
+
+**Attendees:**
+- Yasmine Ali
+- Victor Ramos
+- Uma Patel
+- Clara Diaz
+- Note taker: Yasmine Ali
+- Absentees: None
+- Additional Attendees:
+  - John Smith (Zscaler) - Cloud Security Specialist
+
+**Agenda:**
+1. Final review of predictive analytics and RPA integration.
+2. Security measures for cloud-based deployment.
+3. Next phase planning.
+
+**Discussion Points:**
+- Yasmine demonstrated the final version of the integrated solution.
+- Victor highlighted improvements in process automation efficiency.
+- Clara confirmed ethical compliance based on the guidelines provided.
+- John from Zscaler discussed potential security risks and proposed solutions for secure cloud deployment.
+- Uma emphasized the need for robust security measures to protect sensitive data.
+
+**Next Steps:**
+- Victor to implement security measures as suggested by John by 05-FEB-2023.
+- Uma to oversee the final testing phase by 10-FEB-2023.
+- Clara to conduct a final ethical compliance review by 12-FEB-2023.
+- Team to present the final solution to senior management on 15-FEB-2023.
+
+### Meeting Minutes 4: Simple
+
+**Date and Time:** 10-FEB-2023, 3:00 PM - 3:30 PM
+
+**Attendees:**
+- Yasmine Ali
+- Victor Ramos
+- Uma Patel
+- Clara Diaz
+- Note taker: Victor Ramos
+- Absentees: None
+
+**Agenda:**
+1. Quick update on final testing and ethical review.
+
+**Discussion Points:**
+- Yasmine confirmed that final testing is on track.
+- Victor highlighted minor issues that are being addressed.
+- Clara reported no ethical compliance issues so far.
+
+**Next Steps:**
+- Victor to resolve the minor issues by 12-FEB-2023.
+- Uma to prepare the final presentation for senior management by 14-FEB-2023.
+
+### Meeting Minutes 5: Moderate
+
+**Date and Time:** 20-FEB-2023, 11:30 AM - 12:30 PM
+
+**Attendees:**
+- Yasmine Ali
+- Victor Ramos
+- Uma Patel
+- Clara Diaz
+- Note taker: Clara Diaz
+- Absentees: None
+- Additional Attendees:
+  - Rachel Green (Marketing Department)
+
+**Agenda:**
+1. Presentation to senior management feedback.
+2. Marketing strategy discussion.
+
+**Discussion Points:**
+- Feedback from senior management was positive, with minor suggestions for improvement.
+- Rachel from the Marketing Department discussed strategies for promoting the new solution.
+- Yasmine and Victor outlined the technical highlights to be included in marketing materials.
+- Uma stressed the importance of clear communication regarding the solution's benefits and security features.
+- Clara suggested highlighting ethical compliance as a key selling point.
+
+**Next Steps:**
+- Yasmine and Victor to incorporate senior management's suggestions by 22-FEB-2023.
+- Rachel to draft marketing materials by 25-FEB-2023.
+- Uma to review and finalize the marketing content by 28-FEB-2023.
+- Clara to prepare an ethical compliance statement for marketing by 01-MAR-2023.
+
+### JSON Data

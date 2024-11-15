@@ -1,0 +1,158 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Xander Williams"
+                },
+                {
+                    "name": "Samuel Davis"
+                },
+                {
+                    "name": "Zachary Brooks"
+                },
+                {
+                    "name": "Abigail Carter"
+                },
+                {
+                    "name": "Maria Perez"
+                },
+                {
+                    "name": "Michael Roberts"
+                },
+                {
+                    "name": "Laura Smith"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Acme Corp"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note-taker"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "Mobile Application"
+                },
+                {
+                    "name": "Blockchain Integration"
+                },
+                {
+                    "name": "Snowflake"
+                },
+                {
+                    "name": "IBM Cognos Analytics"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Xander Williams",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Samuel Davis",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Zachary Brooks",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Abigail Carter",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Maria Perez",
+                "organization": "Snowflake"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Roberts",
+                "organization": "Client"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Laura Smith",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Xander Williams",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Samuel Davis",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Zachary Brooks",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Abigail Carter",
+                "role": "Note-taker"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Xander Williams",
+                "product_service": "Mobile Application"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Blockchain Integration"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Zachary Brooks",
+                "product_service": "Snowflake"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Abigail Carter",
+                "product_service": "IBM Cognos Analytics"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Acme Corp",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Snowflake",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Client",
+                "location": "Unknown"
+            }
+        ]
+    }
+}

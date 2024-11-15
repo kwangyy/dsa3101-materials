@@ -1,0 +1,133 @@
+### Simple Meeting Minutes
+#### Date and Time: 05-Feb-2023, 10:00 AM - 10:30 AM
+- **Attendees**: 
+  - Zachary Brooks (Note Taker)
+  - Yasmine Ali
+  - Derek Hill
+  - Benji Martinez
+- **Absentees**: None
+- **Agenda**:
+  - Greeting and introductions
+  - Brief project updates
+- **Discussion Points**:
+  - Zachary Brooks shared a brief update on the implementation progress for IBM Cloud Pak for Integration.
+  - Yasmine Ali discussed the latest predictive models developed for IBM Planning Analytics.
+  - Derek Hill mentioned the recent testing cycles for IBM Aspera software.
+  - Benji Martinez talked about the current state of infrastructure for IBM Cloud Object Storage.
+- **Next Steps**:
+  - Follow up in next meeting for more detailed updates (Target: 10-Feb-2023).
+
+---
+
+### Moderate Meeting Minutes
+#### Date and Time: 15-Feb-2023, 02:00 PM - 03:00 PM
+- **Attendees**: 
+  - Zachary Brooks
+  - Yasmine Ali (Note Taker)
+  - Derek Hill
+  - Benji Martinez
+- **Absentees**: None
+- **Agenda**:
+  - Detailed project updates
+  - Upcoming product launches
+  - Cross-departmental collaboration
+- **Discussion Points**:
+  - Zachary Brooks provided an in-depth update on the current challenges and milestones for IBM Cloud Pak for Integration.
+  - Yasmine Ali shared comprehensive results from recent data analytics and predictive modeling.
+  - Derek Hill discussed significant issues found during testing and the plan to resolve them.
+  - Benji Martinez proposed infrastructure upgrades to support upcoming product launches.
+  - Emphasized importance of cross-departmental collaboration to ensure smooth product launches.
+- **Next Steps**:
+  - Zachary to document challenges faced and share by 20-Feb-2023.
+  - Yasmine to provide a detailed analytics report by 22-Feb-2023.
+  - Derek to resolve identified issues by 25-Feb-2023.
+  - Benji to prepare a proposal for infrastructure upgrades by 28-Feb-2023.
+
+---
+
+### Detailed Meeting Minutes
+#### Date and Time: 25-Feb-2023, 01:00 PM - 02:30 PM
+- **Attendees**: 
+  - Zachary Brooks
+  - Yasmine Ali
+  - Derek Hill (Note Taker)
+  - Benji Martinez
+  - Special Attendee: John Smith (Illumio, Security Consultant)
+- **Absentees**: None
+- **Agenda**:
+  - Comprehensive project updates
+  - Product launch strategies
+  - Security integration with Illumio
+- **Discussion Points**:
+  - Zachary Brooks highlighted integration issues with IBM Cloud Pak for Integration and potential solutions.
+  - Yasmine Ali presented detailed predictive models and their implications for IBM Planning Analytics.
+  - Derek Hill discussed the progress and remaining tests for IBM Aspera, highlighting the importance of seamless QA processes.
+  - Benji Martinez updated on the current infrastructure enhancements and future plans.
+  - John Smith from Illumio introduced zero-trust segmentation techniques and how they could be integrated into IBM products.
+  - Cross-departmental and external collaboration were discussed to ensure product security and efficiency.
+- **Next Steps**:
+  - Zachary to arrange a workshop on integration solutions by 05-Mar-2023.
+  - Yasmine to refine models based on feedback and share by 10-Mar-2023.
+  - Derek to finalize testing processes by 15-Mar-2023.
+  - Benji to initiate infrastructure enhancement and coordinate with John Smith for security integration by 20-Mar-2023.
+  - John Smith to provide a security integration report by 25-Mar-2023.
+
+---
+
+### Moderate Meeting Minutes
+#### Date and Time: 10-Mar-2023, 11:00 AM - 12:00 PM
+- **Attendees**: 
+  - Zachary Brooks
+  - Yasmine Ali
+  - Derek Hill (Note Taker)
+  - Benji Martinez
+- **Absentees**: None
+- **Agenda**:
+  - Review of action items from previous meeting
+  - Product launch finalization
+  - External collaboration updates
+- **Discussion Points**:
+  - Zachary Brooks reviewed the integration workshop outcomes.
+  - Yasmine Ali discussed refined predictive models and their readiness for IBM Planning Analytics.
+  - Derek Hill updated on the completed testing processes and final QA results.
+  - Benji Martinez provided updates on infrastructure enhancement progress.
+  - Discussed collaboration with external entities for product launch security and efficiency.
+- **Next Steps**:
+  - Zachary to prepare final integration document by 15-Mar-2023.
+  - Yasmine to deploy models and share results by 18-Mar-2023.
+  - Derek to complete final QA documentation by 20-Mar-2023.
+  - Benji to finalize infrastructure setup by 25-Mar-2023.
+
+---
+
+### Detailed Meeting Minutes
+#### Date and Time: 20-Mar-2023, 09:00 AM - 10:30 AM
+- **Attendees**: 
+  - Zachary Brooks
+  - Yasmine Ali
+  - Derek Hill
+  - Benji Martinez
+  - External Attendee: John Smith (Illumio, Security Consultant)
+  - External Attendee: Sarah Lee (Illumio, Integration Specialist)
+- **Absentees**: None
+- **Agenda**:
+  - Final review of product launch preparations
+  - Security protocols with Illumio
+  - Cross-departmental coordination
+- **Discussion Points**:
+  - Zachary Brooks presented the final integration document and readiness of IBM Cloud Pak for Integration.
+  - Yasmine Ali showcased deployed predictive models and their performance metrics.
+  - Derek Hill shared completed QA documentation and bug-free status of IBM Aspera.
+  - Benji Martinez confirmed the infrastructure readiness for the product launch.
+  - John Smith and Sarah Lee from Illumio discussed final security protocols and integration success.
+  - Emphasized importance of coordination among departments and with Illumio for a successful product launch.
+- **Next Steps**:
+  - Zachary to oversee the final integration phase and ensure launch by 25-Mar-2023.
+  - Yasmine to monitor model performance post-deployment and report by 30-Mar-2023.
+  - Derek to support post-launch QA by 28-Mar-2023.
+  - Benji to ensure continuous infrastructure support and coordination with Illumio by 28-Mar-2023.
+  - John Smith and Sarah Lee to conduct a final security check by 24-Mar-2023.
+
+---
+
+### JSON Data

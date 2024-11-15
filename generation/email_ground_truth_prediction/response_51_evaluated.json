@@ -1,0 +1,117 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Abigail Carter"
+                },
+                {
+                    "name": "Victor Ramos"
+                },
+                {
+                    "name": "Henry Zhou"
+                },
+                {
+                    "name": "Uma Patel"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Business Intelligence Analyst, Data Analytics"
+                },
+                {
+                    "title": "RPA Developer, Automation Department"
+                },
+                {
+                    "title": "DevOps Engineer, Operations Department"
+                },
+                {
+                    "title": "Senior Solutions Architect, Solutions Engineering Department"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "IBM Cloud Private"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Cognos Analytics"
+                },
+                {
+                    "name": "RPA bots"
+                },
+                {
+                    "name": "CI/CD pipeline"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Abigail Carter",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Henry Zhou",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Uma Patel",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Abigail Carter",
+                "role": "Business Intelligence Analyst, Data Analytics"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Victor Ramos",
+                "role": "RPA Developer, Automation Department"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Henry Zhou",
+                "role": "DevOps Engineer, Operations Department"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Uma Patel",
+                "role": "Senior Solutions Architect, Solutions Engineering Department"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Abigail Carter",
+                "product_service": "Cognos Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "RPA bots"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Henry Zhou",
+                "product_service": "CI/CD pipeline"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "IBM Cloud Private"
+            }
+        ]
+    }
+}

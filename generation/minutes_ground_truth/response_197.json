@@ -1,0 +1,176 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Ivy Bennett"
+    },
+    {
+     "name": "Quinn Parker"
+    },
+    {
+     "name": "Benji Martinez"
+    },
+    {
+     "name": "Henry Zhou"
+    },
+    {
+     "name": "Sarah Lee"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Illumio"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Data Engineer"
+    },
+    {
+     "title": "Data Analyst"
+    },
+    {
+     "title": "IT Operations Manager"
+    },
+    {
+     "title": "DevOps Engineer"
+    },
+    {
+     "title": "Cybersecurity Specialist"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Db2 Database"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM Cloud Object Storage"
+    },
+    {
+     "name": "IBM Kubernetes Service"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "ETL pipelines"
+    },
+    {
+     "name": "analytics insights"
+    },
+    {
+     "name": "infrastructure"
+    },
+    {
+     "name": "CI/CD pipelines"
+    },
+    {
+     "name": "zero-trust segmentation"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Ivy Bennett",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Ivy Bennett",
+    "role": "Data Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Ivy Bennett",
+    "product_service": "ETL pipelines"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Ivy Bennett",
+    "location": "IBM Db2 Database"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Quinn Parker",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Quinn Parker",
+    "role": "Data Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Quinn Parker",
+    "product_service": "analytics insights"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Quinn Parker",
+    "location": "IBM Cognos Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Benji Martinez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Benji Martinez",
+    "role": "IT Operations Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Benji Martinez",
+    "product_service": "infrastructure"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Benji Martinez",
+    "location": "IBM Cloud Object Storage"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Henry Zhou",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Henry Zhou",
+    "role": "DevOps Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Henry Zhou",
+    "product_service": "CI/CD pipelines"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Henry Zhou",
+    "location": "IBM Kubernetes Service"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah Lee",
+    "organization": "Illumio"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah Lee",
+    "role": "Cybersecurity Specialist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Sarah Lee",
+    "product_service": "zero-trust segmentation"
+   }
+  ]
+ }
+}

@@ -1,0 +1,159 @@
+### Meeting Minutes 1 - Simple
+
+**Date and Time:** 03-Jan-2023, 10:00 AM - 10:30 AM  
+**Attendees:**  
+- Carol Nguyen (Note-taker)  
+- Benji Martinez  
+- Rachel Singh  
+- Oliver James  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Introduction to new project initiatives  
+- Team roles and responsibilities  
+
+**Discussion Points:**  
+- Carol Nguyen introduced new data analysis techniques for Microsoft Azure.  
+- Benji Martinez discussed the current state of IBM Cloud Object Storage infrastructure.  
+- Rachel Singh provided an update on backend development for IBM Cloud Functions.  
+- Oliver James presented the latest advancements in natural language processing for IBM Watson Language Translator.  
+
+**Next Steps:**  
+- Carol to draft a detailed data analysis plan by 10-Jan-2023.  
+- Benji to perform a security audit of IBM Cloud Object Storage by 15-Jan-2023.  
+- Rachel to finalize backend modules by 20-Jan-2023.  
+- Oliver to initiate a research paper on NLP advancements by 25-Jan-2023.  
+
+---
+
+### Meeting Minutes 2 - Moderate
+
+**Date and Time:** 15-Jan-2023, 2:00 PM - 3:00 PM  
+**Attendees:**  
+- Carol Nguyen  
+- Benji Martinez (Note-taker)  
+- Rachel Singh  
+- Oliver James  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Project updates  
+- Cross-departmental collaboration  
+- Innovation initiatives  
+
+**Discussion Points:**  
+- Carol reported significant progress in data analysis for Microsoft Azure.  
+- Benji emphasized the need for enhanced security protocols for IBM Cloud Object Storage.  
+- Rachel highlighted the integration challenges faced in backend development for IBM Cloud Functions.  
+- Oliver proposed a joint initiative with Nutanix to improve multi-cloud computing infrastructure.  
+
+**Next Steps:**  
+- Carol to collaborate with Rachel on integrating data analysis features by 22-Jan-2023.  
+- Benji to schedule a meeting with Nutanix representatives by 30-Jan-2023.  
+- Rachel to resolve backend integration issues by 25-Jan-2023.  
+- Oliver to draft a proposal for the Nutanix initiative by 31-Jan-2023.  
+
+---
+
+### Meeting Minutes 3 - Detailed
+
+**Date and Time:** 01-Feb-2023, 9:00 AM - 11:00 AM  
+**Attendees:**  
+- Carol Nguyen  
+- Benji Martinez  
+- Rachel Singh  
+- Oliver James  
+- Mark Turner (Nutanix, Hybrid Cloud Specialist)  
+- Laura Kim (Nutanix, Infrastructure Engineer)  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- In-depth project analysis  
+- External collaboration with Nutanix  
+- Future innovation strategies  
+
+**Discussion Points:**  
+- Carol reviewed detailed analytics metrics for Microsoft Azure, highlighting key insights and future data trends.  
+- Benji outlined current infrastructure capabilities and potential upgrades for IBM Cloud Object Storage.  
+- Rachel discussed detailed backend architecture for IBM Cloud Functions and proposed solutions for current challenges.  
+- Oliver presented an advanced NLP model for IBM Watson Language Translator and its potential applications.  
+- Mark Turner introduced Nutanix’s hybrid and multi-cloud solutions, discussing possible synergy with IBM’s cloud infrastructure.  
+- Laura Kim detailed Nutanix’s infrastructure capabilities and proposed a collaborative project with IBM.  
+
+**Next Steps:**  
+- Carol to share detailed analytics reports with the team by 05-Feb-2023.  
+- Benji to draft a plan for infrastructure upgrades by 10-Feb-2023.  
+- Rachel to implement proposed backend solutions by 15-Feb-2023.  
+- Oliver to publish research on advanced NLP models by 20-Feb-2023.  
+- Mark Turner and Laura Kim to submit a joint project proposal by 25-Feb-2023.  
+
+---
+
+### Meeting Minutes 4 - Moderate
+
+**Date and Time:** 10-Mar-2023, 11:00 AM - 12:00 PM  
+**Attendees:**  
+- Carol Nguyen  
+- Benji Martinez  
+- Rachel Singh (Note-taker)  
+- Oliver James  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Reviewing previous action items  
+- New project discussions  
+- Collaboration on innovation  
+
+**Discussion Points:**  
+- Carol reported the completion of the detailed data analysis plan and its implementation status.  
+- Benji provided an update on the security audit of IBM Cloud Object Storage.  
+- Rachel discussed the finalization of backend modules for IBM Cloud Functions.  
+- Oliver shared progress on the NLP research paper and potential collaboration opportunities with Nutanix.  
+
+**Next Steps:**  
+- Carol to monitor the implementation of the data analysis plan by 20-Mar-2023.  
+- Benji to address any security issues identified during the audit by 25-Mar-2023.  
+- Rachel to ensure smooth deployment of the backend modules by 30-Mar-2023.  
+- Oliver to finalize and submit the NLP research paper by 05-Apr-2023.  
+
+---
+
+### Meeting Minutes 5 - Simple
+
+**Date and Time:** 25-Mar-2023, 3:00 PM - 3:30 PM  
+**Attendees:**  
+- Carol Nguyen  
+- Benji Martinez  
+- Rachel Singh  
+- Oliver James (Note-taker)  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Brief project status update  
+- Immediate action items  
+
+**Discussion Points:**  
+- Carol provided a quick update on the ongoing data analysis for Microsoft Azure.  
+- Benji mentioned the completion of the security audit for IBM Cloud Object Storage.  
+- Rachel shared the successful deployment of backend modules for IBM Cloud Functions.  
+- Oliver discussed the status of the NLP research paper submission.  
+
+**Next Steps:**  
+- Carol to continue monitoring data analysis progress by 01-Apr-2023.  
+- Benji to implement any final tweaks post-security audit by 05-Apr-2023.  
+- Rachel to conduct post-deployment testing of backend modules by 10-Apr-2023.  
+- Oliver to follow up on the research paper feedback by 15-Apr-2023.  
+
+---
+
+### JSON Data

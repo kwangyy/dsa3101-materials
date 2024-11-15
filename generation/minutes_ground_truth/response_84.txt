@@ -1,0 +1,163 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:**
+- 15-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Lily Garcia (note-taker)
+- Natalie Wu
+- Samuel Davis
+- Paul Hernandez
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Simple Greetings
+2. Discuss cross-functional collaboration opportunities
+
+**Discussion Points:**
+- Each member introduced themselves and shared recent updates on their projects.
+- Discussed the importance of collaborating across departments for better results.
+- Samuel Davis mentioned the potential of using Blockchain for data integrity in marketing campaigns.
+- Paul Hernandez suggested upgrading the infrastructure to support new collaboration tools.
+
+**Next Steps:**
+- Natalie Wu to explore Blockchain use in marketing with Samuel Davis by 22-Jan-2023.
+- Paul Hernandez to present an infrastructure upgrade plan by 29-Jan-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+
+**Date and Time:**
+- 25-Jan-2023, 02:00 PM - 03:00 PM
+
+**Attendees:**
+- Lily Garcia
+- Natalie Wu
+- Samuel Davis (note-taker)
+- Paul Hernandez
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Project Updates
+2. Exploring Collaboration with Cloudera
+3. Problem-Solving Session for Current Issues
+
+**Discussion Points:**
+- Lily Garcia updated on customer trend analysis for IBM Cloud Satellite.
+- Natalie Wu shared marketing strategies for IBM Watson Discovery.
+- Discussion on collaboration potential with Cloudera for AI and big data analytics.
+- Samuel Davis proposed integrating Hyperledger Fabric with Cloudera's data platform.
+- Paul Hernandez addressed current IT infrastructure issues impacting collaboration tools.
+
+**Next Steps:**
+- Samuel Davis to coordinate with Cloudera’s technical team by 10-Feb-2023.
+- Lily Garcia to provide a detailed customer trend report by 05-Feb-2023.
+- Paul Hernandez to resolve IT infrastructure issues by 15-Feb-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+
+**Date and Time:**
+- 05-Feb-2023, 09:00 AM - 11:00 AM
+
+**Attendees:**
+- Lily Garcia
+- Natalie Wu
+- Samuel Davis
+- Paul Hernandez (note-taker)
+
+**Additional Attendees:**
+- Alex Turner - Data Scientist, Cloudera
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Cross-functional Collaboration with Cloudera
+2. Detailed Project Updates
+3. Strategic Planning for Q2
+
+**Discussion Points:**
+- Alex Turner from Cloudera introduced new machine learning models for big data.
+- Lily Garcia analyzed how these models can be used for IBM Cloud Satellite.
+- Natalie Wu discussed leveraging these insights for IBM Watson Discovery’s marketing campaigns.
+- Samuel Davis suggested creating a joint task force with Cloudera.
+- Paul Hernandez highlighted the necessity of robust IT support for seamless collaboration.
+
+**Next Steps:**
+- Alex Turner and Samuel Davis to draft a collaboration plan by 20-Feb-2023.
+- Lily Garcia to integrate new models into her analysis by 25-Feb-2023.
+- Natalie Wu to update the marketing strategy incorporating new data by 01-Mar-2023.
+- Paul Hernandez to ensure all required IT support is in place by 28-Feb-2023.
+
+---
+
+### Meeting Minutes 4: Simple
+
+**Date and Time:**
+- 15-Mar-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**
+- Lily Garcia (note-taker)
+- Natalie Wu
+- Samuel Davis
+
+**Absentees:**
+- Paul Hernandez
+
+**Agenda:**
+1. Simple Greetings
+2. Brief Project Updates
+
+**Discussion Points:**
+- Samuel Davis shared progress on Hyperledger Fabric integration.
+- Lily Garcia provided a quick update on current customer trends.
+- Natalie Wu discussed new enterprise clients interested in IBM Watson Discovery.
+
+**Next Steps:**
+- Samuel Davis to complete Hyperledger Fabric integration by 22-Mar-2023.
+- Lily Garcia to finalize trend analysis report by 20-Mar-2023.
+- Natalie Wu to follow up with potential clients by 25-Mar-2023.
+
+---
+
+### Meeting Minutes 5: Moderate
+
+**Date and Time:**
+- 01-Apr-2023, 03:00 PM - 04:00 PM
+
+**Attendees:**
+- Lily Garcia
+- Natalie Wu (note-taker)
+- Samuel Davis
+- Paul Hernandez
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. New Collaboration Tools
+2. Q1 Review and Feedback
+3. Planning Q2 Initiatives
+
+**Discussion Points:**
+- Paul Hernandez introduced new collaboration tools to improve cross-functional work.
+- Lily Garcia reviewed Q1 customer trends, highlighting areas of improvement.
+- Natalie Wu shared feedback from enterprise clients on IBM Watson Discovery.
+- Samuel Davis discussed Q2 initiatives for Blockchain applications.
+
+**Next Steps:**
+- Paul Hernandez to train team on new collaboration tools by 10-Apr-2023.
+- Lily Garcia to identify top customer trends for Q2 by 15-Apr-2023.
+- Natalie Wu to incorporate client feedback into Q2 marketing plans by 20-Apr-2023.
+- Samuel Davis to outline Q2 Blockchain initiatives by 25-Apr-2023.
+
+---
+
+### JSON Data

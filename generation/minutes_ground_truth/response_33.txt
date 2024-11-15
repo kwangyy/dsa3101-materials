@@ -1,0 +1,133 @@
+### Meeting Minutes 1 - Simple
+**Date and Time:** 05-JAN-2023, 10:00 AM - 10:30 AM  
+**Attendees:**  
+- Jackie Lin (Note-taker)  
+- Kevin O'Reilly  
+- Xander Williams  
+- Rachel Singh  
+
+**Absentees:** None  
+
+**Agenda:**  
+- Feedback on recent threat detection improvements  
+- Discussion of new mobile app launch  
+
+**Discussion Points:**  
+- Jackie provided updates on the latest threat detection metrics for IBM Security Guardium.
+- Xander shared the current status of the new mobile app on IBM MobileFirst Platform and requested feedback.
+
+**Next Steps:**  
+- Xander to implement feedback on the mobile app by 12-JAN-2023.  
+- Jackie to continue monitoring and report on threat detection metrics by the next meeting on 19-JAN-2023.
+
+---
+
+### Meeting Minutes 2 - Moderate
+**Date and Time:** 15-JAN-2023, 11:00 AM - 12:00 PM  
+**Attendees:**  
+- Jackie Lin  
+- Kevin O'Reilly (Note-taker)  
+- Xander Williams  
+- Rachel Singh  
+
+**Absentees:** None  
+
+**Agenda:**  
+- Feedback on new machine learning models  
+- Backend development for upcoming cloud services  
+- Mobile app feature integration  
+
+**Discussion Points:**  
+- Kevin presented new machine learning models for IBM Watson Studio and requested feedback. Rachel suggested improving the data preprocessing steps.
+- Rachel provided updates on backend development for IBM Cloud Functions, emphasizing integration with new cloud services.
+- Xander discussed the need for backend support from Rachel for new features in the mobile app.
+
+**Next Steps:**  
+- Kevin to incorporate feedback and update models by 22-JAN-2023.  
+- Rachel to provide backend support for new mobile app features by 25-JAN-2023.  
+- Xander to integrate backend updates into the mobile app by 30-JAN-2023.
+
+---
+
+### Meeting Minutes 3 - Detailed
+**Date and Time:** 20-FEB-2023, 2:00 PM - 3:30 PM  
+**Attendees:**  
+- Jackie Lin  
+- Kevin O'Reilly  
+- Xander Williams  
+- Rachel Singh (Note-taker)  
+
+**Absentees:** None  
+
+**Agenda:**  
+- Threat detection enhancements feedback  
+- Machine learning model evaluation  
+- Cloud services backend improvements  
+- Mobile app feature development  
+
+**Discussion Points:**  
+- Jackie discussed enhancements in threat detection mechanisms for IBM Security Guardium and requested feedback. Kevin proposed integrating machine learning for anomaly detection.
+- Kevin shared the evaluation of recent machine learning models and their performance metrics.
+- Rachel discussed potential improvements in backend services for IBM Cloud Functions, focusing on scalability.
+- Xander presented new features for the mobile app and discussed integration challenges. Rachel offered support from the backend team.
+
+**Next Steps:**  
+- Jackie to explore integrating machine learning for anomaly detection by 01-MAR-2023.
+- Kevin to refine machine learning models based on evaluation feedback by 05-MAR-2023.
+- Rachel to implement backend improvements for scalability by 15-MAR-2023.
+- Xander to continue mobile app feature development and coordinate with Rachel by 20-MAR-2023.
+
+---
+
+### Meeting Minutes 4 - Simple
+**Date and Time:** 10-MAR-2023, 10:00 AM - 10:30 AM  
+**Attendees:**  
+- Jackie Lin (Note-taker)  
+- Kevin O'Reilly  
+- Xander Williams  
+- Rachel Singh  
+
+**Absentees:** None  
+
+**Agenda:**  
+- Feedback on recent project progress  
+- Planning next steps  
+
+**Discussion Points:**  
+- Each member provided quick updates on their respective projects.
+- Agreed on the importance of improving inter-department communication.
+
+**Next Steps:**  
+- All team members to provide detailed project updates by the next meeting on 20-MAR-2023.
+
+---
+
+### Meeting Minutes 5 - Moderate
+**Date and Time:** 25-MAR-2023, 11:00 AM - 12:00 PM  
+**Attendees:**  
+- Jackie Lin  
+- Kevin O'Reilly  
+- Xander Williams  
+- Rachel Singh (Note-taker)  
+- External Attendee: John Doe (Illumio, Senior Security Engineer)
+
+**Absentees:** None  
+
+**Agenda:**  
+- Feedback on collaborative projects with Illumio  
+- Updates on ongoing development projects  
+- Strategic alignment for future product launches  
+
+**Discussion Points:**  
+- John Doe from Illumio discussed zero-trust segmentation and provided feedback on collaborative security projects.
+- Kevin provided updates on new machine learning models and requested integration feedback.
+- Xander shared progress on mobile app development and requested backend support.
+- Rachel discussed backend improvements for IBM Cloud Functions.
+
+**Next Steps:**  
+- Jackie to follow up with Illumio on integrating zero-trust segmentation by 05-APR-2023.
+- Kevin to finalize machine learning model integration by 10-APR-2023.
+- Xander to work with Rachel on backend support for the mobile app by 15-APR-2023.
+- Next meeting scheduled for 20-APR-2023 to review progress.
+
+---

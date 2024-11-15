@@ -1,0 +1,141 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time:** 12-JAN-2023, 09:00 - 09:30
+
+**Attendees:**
+- Samuel Davis (Notes)
+- Clara Diaz
+- Wendy Chen
+- Xander Williams
+
+**Agenda:**
+1. Project Updates
+2. Informal Requests
+
+**Discussion Points:**
+- Samuel updated on the recent progress with Hyperledger Fabric.
+- Wendy shared an update on AI solutions for IBM Maximo.
+- Clara discussed the current state of AI ethics research.
+- Xander provided an update on the MobileFirst Platform.
+
+**Next Steps:**
+- Samuel to complete the next phase of Hyperledger Fabric by 25-JAN-2023.
+- Wendy to finalize AI solution architecture by 30-JAN-2023.
+- Clara to publish a research paper on AI ethics by 15-FEB-2023.
+- Xander to deploy the new app update by 20-JAN-2023.
+
+### Meeting Minutes 2 (Moderate)
+**Date and Time:** 20-FEB-2023, 14:00 - 15:00
+
+**Attendees:**
+- Samuel Davis (Notes)
+- Clara Diaz
+- Wendy Chen
+- Xander Williams
+
+**Agenda:**
+1. Strategy Discussion
+2. Cross-department Collaboration
+3. Informal Requests
+
+**Discussion Points:**
+- Wendy proposed a new AI-driven feature for IBM Maximo.
+- Clara suggested involving the Ethics Department in the feature's development.
+- Xander recommended integrating the feature into the mobile app.
+- Samuel discussed potential blockchain use cases.
+
+**Next Steps:**
+- Wendy to draft a proposal for the new feature by 28-FEB-2023.
+- Clara to review the proposal and provide ethical guidelines by 05-MAR-2023.
+- Xander to plan the integration of the feature into the mobile app by 10-MAR-2023.
+- Samuel to explore blockchain applicability and report by 15-MAR-2023.
+
+### Meeting Minutes 3 (Detailed)
+**Date and Time:** 10-MAR-2023, 11:00 - 12:30
+
+**Attendees:**
+- Samuel Davis
+- Clara Diaz (Notes)
+- Wendy Chen
+- Xander Williams
+
+**Agenda:**
+1. Project Updates
+2. Strategy and Roadmap
+3. Collaboration with External Entities (ServiceTitan)
+4. Informal Requests
+
+**Discussion Points:**
+- Wendy provided a detailed update on AI solutions, emphasizing the need for a new data pipeline.
+- Clara discussed new AI ethics guidelines impacting current projects.
+- Xander shared a proposal to enhance the MobileFirst Platform's UI/UX.
+- Samuel discussed integrating ServiceTitan's software with IBM's blockchain technology.
+
+**Next Steps:**
+- Wendy to work with the Data Department to develop the new pipeline by 30-MAR-2023.
+- Clara to finalize AI ethics guidelines by 20-MAR-2023.
+- Xander to initiate UI/UX improvements by 25-MAR-2023.
+- Samuel to coordinate with ServiceTitan and draft an integration plan by 05-APR-2023.
+
+### Meeting Minutes 4 (Moderate)
+**Date and Time:** 22-MAR-2023, 10:00 - 11:00
+
+**Attendees:**
+- Samuel Davis
+- Clara Diaz
+- Wendy Chen (Notes)
+- Xander Williams
+- John Doe (ServiceTitan)
+
+**Agenda:**
+1. Cross-department Collaboration
+2. ServiceTitan Integration
+3. Informal Requests
+
+**Discussion Points:**
+- John Doe from ServiceTitan discussed the potential benefits of integrating their software with IBM's solutions.
+- Samuel proposed a blockchain-based verification system for ServiceTitan.
+- Wendy discussed the AI implications and data management requirements.
+- Clara highlighted the ethical considerations for the integration.
+
+**Next Steps:**
+- Samuel to develop a prototype of the blockchain verification system by 15-APR-2023.
+- Wendy to draft a data management plan by 10-APR-2023.
+- Clara to evaluate the ethical aspects and report by 20-APR-2023.
+- John Doe to coordinate further discussions with ServiceTitan's technical team by 05-APR-2023.
+
+### Meeting Minutes 5 (Detailed)
+**Date and Time:** 15-APR-2023, 09:00 - 10:30
+
+**Attendees:**
+- Samuel Davis
+- Clara Diaz
+- Wendy Chen
+- Xander Williams (Notes)
+- John Doe (ServiceTitan)
+- External Collaborators from ServiceTitan: 
+  - Emily Smith (Project Manager)
+  - Mark Johnson (Lead Developer)
+
+**Agenda:**
+1. Detailed Project Updates
+2. Strategic Planning
+3. ServiceTitan Integration Follow-up
+4. Informal Requests
+
+**Discussion Points:**
+- Emily Smith discussed ServiceTitan's project timeline and integration requirements.
+- Mark Johnson provided technical insights on the integration.
+- Samuel updated on the blockchain prototype.
+- Wendy discussed data management progress and AI challenges.
+- Clara reviewed ethical guidelines for the project.
+- Xander shared feedback from the mobile app users.
+
+**Next Steps:**
+- Emily Smith to share the final project timeline and deliverables by 25-APR-2023.
+- Mark Johnson to provide technical specifications for the integration by 30-APR-2023.
+- Samuel to finalize the blockchain prototype by 10-MAY-2023.
+- Wendy to resolve AI challenges and update data management plan by 05-MAY-2023.
+- Clara to complete the ethical review by 15-MAY-2023.
+- Xander to incorporate user feedback into the app development by 20-APR-2023.
+
+### JSON Representation of Entities and Relationships

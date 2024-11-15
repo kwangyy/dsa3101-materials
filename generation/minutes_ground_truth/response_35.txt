@@ -1,0 +1,176 @@
+### Meeting Minutes 1 - Simple
+**Date and Time:** 01-JAN-2023, 10:00 AM - 10:30 AM
+
+**Attendees:** 
+- Jackie Lin (Note-taker)
+- Ivy Bennett
+- Natalie Wu
+- Uma Patel
+
+**Absentees:** None
+
+**Agenda:**
+- Project updates
+- Coordination for next steps
+
+**Discussion Points:**
+- **Project Updates:**
+  - Jackie Lin reported recent improvements in threat detection for IBM Security Guardium.
+  - Ivy Bennett shared updates on new ETL pipelines for IBM Db2 Database.
+  - Natalie Wu discussed the latest marketing efforts for IBM Watson Discovery.
+  - Uma Patel explained the architecture updates for hybrid cloud solutions for IBM Cloud Private.
+
+**Next Steps:**
+- Jackie to prepare a detailed report on threat detection improvements by 08-JAN-2023.
+- Ivy to deliver the next phase of ETL pipeline by 15-JAN-2023.
+- Natalie to develop a new marketing strategy document by 10-JAN-2023.
+- Uma to present a hybrid cloud solutions demo on 12-JAN-2023.
+
+---
+
+### Meeting Minutes 2 - Moderate
+**Date and Time:** 10-FEB-2023, 11:00 AM - 12:00 PM
+
+**Attendees:** 
+- Ivy Bennett (Note-taker)
+- Jackie Lin
+- Natalie Wu
+- Uma Patel
+
+**Absentees:** None
+
+**Agenda:**
+- Collaborative strategies for product integration
+- Data security concerns
+- Marketing campaign review
+
+**Discussion Points:**
+- **Product Integration:**
+  - Uma Patel discussed possible integration of IBM Cloud Private with IBM Watson Discovery.
+  - Ivy Bennett to explore data synchronization methods.
+
+- **Data Security Concerns:**
+  - Jackie Lin emphasized the importance of threat detection in data transfers.
+  - Proposed regular security audits.
+
+- **Marketing Campaign Review:**
+  - Natalie Wu provided feedback on the recent campaign performance.
+  - Suggested tweaks for better customer engagement.
+
+**Next Steps:**
+- Uma to prepare integration strategy document by 20-FEB-2023.
+- Ivy to draft a data synchronization plan by 18-FEB-2023.
+- Jackie to schedule the first security audit by 17-FEB-2023.
+- Natalie to finalize tweaks and update the campaign by 22-FEB-2023.
+
+---
+
+### Meeting Minutes 3 - Detailed
+**Date and Time:** 20-MAR-2023, 02:00 PM - 03:30 PM
+
+**Attendees:**
+- Uma Patel (Note-taker)
+- Jackie Lin
+- Ivy Bennett
+- Natalie Wu
+- External Attendee: Lisa Adams, Product Manager at Zscaler
+
+**Absentees:** None
+
+**Agenda:**
+- Enhancing cloud security with Zscaler
+- Data pipeline efficiency
+- Joint marketing strategies
+
+**Discussion Points:**
+- **Enhancing Cloud Security:**
+  - Lisa Adams presented Zscaler's latest cloud security solutions.
+  - Jackie Lin discussed how Zscaler can complement IBM Security Guardium.
+  - Proposed joint security protocols.
+
+- **Data Pipeline Efficiency:**
+  - Ivy Bennett highlighted bottlenecks in current ETL processes.
+  - Discussed potential for Zscaler’s tools to aid in data transport security.
+
+- **Joint Marketing Strategies:**
+  - Natalie Wu and Lisa Adams brainstormed collaborative marketing campaigns.
+  - Focused on promoting joint solutions to enterprise clients.
+
+**Next Steps:**
+- Lisa Adams to share detailed documentation on Zscaler solutions by 25-MAR-2023.
+- Jackie and Lisa to develop joint security protocols by 01-APR-2023.
+- Ivy to optimize ETL processes with potential Zscaler integration by 28-MAR-2023.
+- Natalie and Lisa to draft a joint marketing campaign by 05-APR-2023.
+
+---
+
+### Meeting Minutes 4 - Simple
+**Date and Time:** 05-APR-2023, 09:00 AM - 09:30 AM
+
+**Attendees:**
+- Natalie Wu (Note-taker)
+- Jackie Lin
+- Ivy Bennett
+- Uma Patel
+
+**Absentees:** None
+
+**Agenda:**
+- Follow-up on joint initiatives
+- Upcoming project milestones
+
+**Discussion Points:**
+- **Follow-up on Joint Initiatives:**
+  - Jackie Lin confirmed the implementation of new security protocols with Zscaler.
+  - Ivy Bennett reported initial success in optimizing ETL processes.
+
+- **Upcoming Project Milestones:**
+  - Natalie Wu outlined the next steps in the marketing campaign.
+  - Uma Patel shared the timeline for the next cloud solutions deployment.
+
+**Next Steps:**
+- Jackie to continue monitoring security protocols and report by 10-APR-2023.
+- Ivy to finalize ETL optimization by 12-APR-2023.
+- Natalie to launch the updated campaign by 15-APR-2023.
+- Uma to prepare the deployment plan by 18-APR-2023.
+
+---
+
+### Meeting Minutes 5 - Moderate
+**Date and Time:** 20-APR-2023, 03:00 PM - 04:00 PM
+
+**Attendees:**
+- Jackie Lin (Note-taker)
+- Ivy Bennett
+- Natalie Wu
+- Uma Patel
+
+**Absentees:** None
+
+**Agenda:**
+- Review of project milestones
+- Cross-department collaboration
+- Upcoming challenges and solutions
+
+**Discussion Points:**
+- **Review of Project Milestones:**
+  - Ivy Bennett shared the completion of ETL optimization.
+  - Natalie Wu discussed the performance metrics of the recent marketing campaign.
+
+- **Cross-Department Collaboration:**
+  - Uma Patel emphasized the importance of continued collaboration.
+  - Suggested regular bi-weekly meetings.
+
+- **Upcoming Challenges and Solutions:**
+  - Jackie Lin raised concerns about emerging cybersecurity threats.
+  - Discussed proactive measures and departmental support.
+
+**Next Steps:**
+- Ivy to prepare a final report on ETL optimization by 25-APR-2023.
+- Natalie to tweak the marketing campaign based on performance metrics by 28-APR-2023.
+- Uma to schedule the next bi-weekly meeting by 22-APR-2023.
+- Jackie to draft a cybersecurity threat response plan by 30-APR-2023.
+
+---
+
+### JSON Data

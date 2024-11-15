@@ -1,0 +1,176 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Tina Foster"
+    },
+    {
+     "name": "Natalie Wu"
+    },
+    {
+     "name": "Xander Williams"
+    },
+    {
+     "name": "Abigail Carter"
+    },
+    {
+     "name": "John Stevens"
+    },
+    {
+     "name": "Sarah Lee"
+    },
+    {
+     "name": "Mark Johnson"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Veeva Systems"
+    }
+   ],
+   "roles": [
+    {
+     "title": "IT Support Specialist"
+    },
+    {
+     "title": "Product Marketing Manager"
+    },
+    {
+     "title": "Mobile App Developer"
+    },
+    {
+     "title": "Business Intelligence Analyst"
+    },
+    {
+     "title": "Business Development Manager"
+    },
+    {
+     "title": "Senior Account Manager"
+    },
+    {
+     "title": "Director of Technical Operations"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Headquarters"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM QRadar SIEM"
+    },
+    {
+     "name": "IBM Watson Discovery"
+    },
+    {
+     "name": "IBM MobileFirst Platform"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Tina Foster",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Tina Foster",
+    "role": "IT Support Specialist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Tina Foster",
+    "product_service": "IBM QRadar SIEM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Natalie Wu",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Natalie Wu",
+    "role": "Product Marketing Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Natalie Wu",
+    "product_service": "IBM Watson Discovery"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Xander Williams",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Xander Williams",
+    "role": "Mobile App Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Xander Williams",
+    "product_service": "IBM MobileFirst Platform"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Abigail Carter",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Abigail Carter",
+    "role": "Business Intelligence Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Abigail Carter",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Stevens",
+    "organization": "Veeva Systems"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Stevens",
+    "role": "Business Development Manager"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah Lee",
+    "organization": "Veeva Systems"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah Lee",
+    "role": "Senior Account Manager"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Mark Johnson",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Mark Johnson",
+    "role": "Director of Technical Operations"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Headquarters"
+   }
+  ]
+ }
+}

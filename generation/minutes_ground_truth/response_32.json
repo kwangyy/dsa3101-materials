@@ -1,0 +1,158 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Yasmine Ali"
+    },
+    {
+     "name": "Victor Ramos"
+    },
+    {
+     "name": "Michael Turner"
+    },
+    {
+     "name": "Abigail Carter"
+    },
+    {
+     "name": "John Smith"
+    },
+    {
+     "name": "Emily Parker"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "HashiCorp"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "RPA Developer"
+    },
+    {
+     "title": "Cloud Security Architect"
+    },
+    {
+     "title": "Business Intelligence Analyst"
+    },
+    {
+     "title": "Infrastructure Specialist"
+    },
+    {
+     "title": "Project Manager"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "HashiCorp"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Planning Analytics"
+    },
+    {
+     "name": "IBM Robotic Process Automation"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Yasmine Ali",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Yasmine Ali",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Yasmine Ali",
+    "product_service": "IBM Planning Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Victor Ramos",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Victor Ramos",
+    "role": "RPA Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Victor Ramos",
+    "product_service": "IBM Robotic Process Automation"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Turner",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Turner",
+    "role": "Cloud Security Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Turner",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Abigail Carter",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Abigail Carter",
+    "role": "Business Intelligence Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Abigail Carter",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "HashiCorp"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "Infrastructure Specialist"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emily Parker",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emily Parker",
+    "role": "Project Manager"
+   }
+  ]
+ }
+}

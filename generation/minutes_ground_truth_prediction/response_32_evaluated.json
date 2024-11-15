@@ -1,0 +1,128 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Yasmine Ali"
+                },
+                {
+                    "name": "Victor Ramos"
+                },
+                {
+                    "name": "Michael Turner"
+                },
+                {
+                    "name": "Abigail Carter"
+                },
+                {
+                    "name": "John Smith"
+                },
+                {
+                    "name": "Emily Parker"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "HashiCorp"
+                },
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Infrastructure Specialist"
+                },
+                {
+                    "title": "Project Manager"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Predictive Model"
+                },
+                {
+                    "name": "RPA Bots"
+                },
+                {
+                    "name": "Dashboard"
+                },
+                {
+                    "name": "HashiCorp (Infrastructure Automation)"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Yasmine Ali",
+                "organization": "HashiCorp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "HashiCorp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Turner",
+                "organization": "HashiCorp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Abigail Carter",
+                "organization": "HashiCorp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "HashiCorp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emily Parker",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "John Smith",
+                "role": "Infrastructure Specialist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emily Parker",
+                "role": "Project Manager"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Yasmine Ali",
+                "product_service": "Predictive Model"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "RPA Bots"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Abigail Carter",
+                "product_service": "Dashboard"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "HashiCorp",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            }
+        ]
+    }
+}

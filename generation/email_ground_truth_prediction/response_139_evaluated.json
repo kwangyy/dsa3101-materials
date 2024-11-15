@@ -1,0 +1,129 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Brian Taylor"
+                },
+                {
+                    "name": "Michael Turner"
+                },
+                {
+                    "name": "Quinn Parker"
+                },
+                {
+                    "name": "Emma Lee"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Microsoft"
+                },
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Google"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "R&D Department"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "R&D Department"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "IBM Cognos Analytics"
+                },
+                {
+                    "name": "Google Cloud AI Platform"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Brian Taylor",
+                "organization": "Microsoft"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Turner",
+                "organization": "Microsoft"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Quinn Parker",
+                "organization": "Microsoft"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emma Lee",
+                "organization": "Google"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Brian Taylor",
+                "role": "R&D Department"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Turner",
+                "role": "R&D Department"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Quinn Parker",
+                "role": "R&D Department"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emma Lee",
+                "role": "R&D Department"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Brian Taylor",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Quinn Parker",
+                "product_service": "IBM Cognos Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Emma Lee",
+                "product_service": "Google Cloud AI Platform"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Microsoft",
+                "location": "R&D Department"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "R&D Department"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Google",
+                "location": "R&D Department"
+            }
+        ]
+    }
+}

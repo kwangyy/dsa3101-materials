@@ -1,0 +1,189 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Emma Lee"
+                },
+                {
+                    "name": "Abigail Carter"
+                },
+                {
+                    "name": "Quinn Parker"
+                },
+                {
+                    "name": "Alice Smith"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IT Department"
+                },
+                {
+                    "name": "Data Analytics Department"
+                },
+                {
+                    "name": "R&D Department"
+                },
+                {
+                    "name": "Nutanix"
+                },
+                {
+                    "name": "Google Cloud"
+                },
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Microsoft"
+                },
+                {
+                    "name": "Symantec"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Product Manager"
+                },
+                {
+                    "title": "Business Intelligence Analyst"
+                },
+                {
+                    "title": "Data Analyst"
+                },
+                {
+                    "title": "Chief Data Officer"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Google Cloud AI Platform"
+                },
+                {
+                    "name": "IBM Cognos Analytics"
+                },
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "Symantec Endpoint Security"
+                },
+                {
+                    "name": "Nutanix"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emma Lee",
+                "organization": "IT Department"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Abigail Carter",
+                "organization": "Data Analytics Department"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Quinn Parker",
+                "organization": "Data Science Department"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Alice Smith",
+                "organization": "R&D Department"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emma Lee",
+                "role": "Product Manager"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Abigail Carter",
+                "role": "Business Intelligence Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Quinn Parker",
+                "role": "Data Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Alice Smith",
+                "role": "Chief Data Officer"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Acme Corp",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IT Department",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Data Analytics Department",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "R&D Department",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Nutanix",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Google Cloud",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Microsoft",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Symantec",
+                "location": "New York"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Emma Lee",
+                "product_service": "Google Cloud AI Platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Abigail Carter",
+                "product_service": "IBM Cognos Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Quinn Parker",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Alice Smith",
+                "product_service": "Symantec Endpoint Security"
+            }
+        ]
+    }
+}

@@ -1,0 +1,179 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time:** 05-JAN-2023, 10:00 AM - 10:30 AM  
+**Attendees:**  
+- Brian Taylor (Notes)  
+- Henry Zhou  
+- Samuel Davis  
+- Abigail Carter  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Introduction  
+- Team Updates  
+- Brief Project Discussion  
+
+**Discussion Points:**  
+- **Introduction:**  
+  - Welcoming the team and setting the tone for the meeting.  
+- **Team Updates:**  
+  - Brian Taylor updated the team on recent progress with Microsoft Azure integration.  
+  - Henry Zhou discussed automating new CI/CD pipelines.  
+  - Samuel Davis shared advancements in Hyperledger Fabric.  
+  - Abigail Carter talked about upcoming dashboard enhancements in IBM Cognos Analytics.  
+
+**Next Steps:**  
+- Brian Taylor to complete Azure integration by 12-JAN-2023.  
+- Henry Zhou to finalize CI/CD pipeline setup by 15-JAN-2023.  
+- Samuel Davis to prepare a demo of Hyperledger Fabric by 20-JAN-2023.  
+- Abigail Carter to update dashboards by 18-JAN-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+**Date and Time:** 10-JAN-2023, 02:00 PM - 03:00 PM  
+**Attendees:**  
+- Brian Taylor  
+- Henry Zhou  
+- Samuel Davis (Notes)  
+- Abigail Carter  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Status Updates  
+- Problem-Solving Session  
+- Resource Allocation  
+
+**Discussion Points:**  
+- **Status Updates:**  
+  - Brian Taylor reported successful testing of the Azure integration.  
+  - Henry Zhou discussed minor issues with CI/CD pipelines that need resolution.  
+  - Samuel Davis explained new challenges in Hyperledger Fabric implementation.  
+  - Abigail Carter updated on the progress of the dashboard enhancements.  
+- **Problem-Solving Session:**  
+  - Identified specific issues in CI/CD pipelines and proposed solutions.  
+  - Discussed potential collaboration with Cloudera for machine learning insights.  
+- **Resource Allocation:**  
+  - Decided on reallocating team members for task efficiency.  
+
+**Next Steps:**  
+- Brian Taylor to assist Henry Zhou with CI/CD issues by 15-JAN-2023.  
+- Samuel Davis to engage with Cloudera for possible collaboration by 17-JAN-2023.  
+- Abigail Carter to finalize dashboard updates by 25-JAN-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+**Date and Time:** 20-JAN-2023, 09:00 AM - 11:00 AM  
+**Attendees:**  
+- Brian Taylor  
+- Henry Zhou  
+- Samuel Davis  
+- Abigail Carter (Notes)  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Project Milestones Review  
+- Strategy Discussions  
+- Inter-department Collaboration  
+
+**Discussion Points:**  
+- **Project Milestones Review:**  
+  - Reviewed the timeline and progress of ongoing projects, highlighting key achievements and areas needing attention.  
+  - Brian Taylor shared the success metrics post Azure integration.  
+  - Henry Zhou provided updates on CI/CD pipeline automation with a few unresolved bottlenecks.  
+  - Samuel Davis discussed advanced features being added to Hyperledger Fabric and their impacts.  
+  - Abigail Carter showcased preliminary dashboard designs and received feedback.  
+- **Strategy Discussions:**  
+  - Discussed long-term strategies for incorporating AI and machine learning into current projects.  
+  - Brainstormed on potential strategic partnerships, including a deeper dive with Cloudera's capabilities.  
+- **Inter-department Collaboration:**  
+  - Established clearer lines of communication and collaboration between R&D, Operations, Innovation, and Data Analytics departments.  
+
+**Next Steps:**  
+- Brian Taylor to provide a detailed report on Azure integration outcomes by 30-JAN-2023.  
+- Henry Zhou to resolve CI/CD pipeline bottlenecks with Brian’s assistance by 28-JAN-2023.  
+- Samuel Davis to finalize advanced features in Hyperledger Fabric and prepare a comprehensive demo by 05-FEB-2023.  
+- Abigail Carter to refine dashboard designs based on feedback and present final versions by 10-FEB-2023.
+
+---
+
+### Meeting Minutes 4 (Moderate)
+**Date and Time:** 01-FEB-2023, 03:00 PM - 04:00 PM  
+**Attendees:**  
+- Brian Taylor (Notes)  
+- Henry Zhou  
+- Samuel Davis  
+- Abigail Carter  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Review of Recent Deployments  
+- Upcoming Challenges and Mitigations  
+- Client Feedback  
+
+**Discussion Points:**  
+- **Review of Recent Deployments:**  
+  - Discussed the outcomes of the recent deployments across departments.  
+  - Brian Taylor highlighted the smooth deployment of Azure-related features.  
+  - Henry Zhou mentioned the efficient roll-out of the updated CI/CD pipelines.  
+  - Samuel Davis shared positive client feedback on the new Hyperledger Fabric features.  
+  - Abigail Carter noted user engagement with updated dashboards.  
+- **Upcoming Challenges and Mitigations:**  
+  - Identified potential challenges in the next phase of projects.  
+  - Discussed mitigation strategies for each identified challenge.  
+- **Client Feedback:**  
+  - Reviewed recent client feedback, noting areas of improvement and success.  
+
+**Next Steps:**  
+- Brian Taylor to monitor Azure feature performance and report back by 08-FEB-2023.  
+- Henry Zhou to continue optimizing CI/CD pipelines with the new requirements by 10-FEB-2023.  
+- Samuel Davis to address minor issues highlighted in client feedback by 12-FEB-2023.  
+- Abigail Carter to analyze user engagement data and suggest improvements by 15-FEB-2023.
+
+---
+
+### Meeting Minutes 5 (Detailed)
+**Date and Time:** 15-FEB-2023, 10:00 AM - 12:00 PM  
+**Attendees:**  
+- Brian Taylor  
+- Henry Zhou  
+- Samuel Davis  
+- Abigail Carter (Notes)  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Comprehensive Project Review  
+- Deep-Dive into Innovations  
+- Cross-Departmental Support  
+
+**Discussion Points:**  
+- **Comprehensive Project Review:**  
+  - Brian Taylor presented an in-depth review of the Azure integration’s impact on R&D productivity.  
+  - Henry Zhou discussed CI/CD pipelines' stability and proposed further improvements.  
+  - Samuel Davis elaborated on innovative uses of Hyperledger Fabric in new blockchain initiatives.  
+  - Abigail Carter shared detailed analytics reports from IBM Cognos Analytics and proposed next steps.  
+- **Deep-Dive into Innovations:**  
+  - Explored innovative approaches and technologies relevant to ongoing and future projects.  
+  - Samuel Davis suggested using Cloudera's data platform for enhancing machine learning models.  
+- **Cross-Departmental Support:**  
+  - Discussed ways departments can support each other better, focusing on knowledge sharing and resource optimization.  
+
+**Next Steps:**  
+- Brian Taylor to draft a proposal for next phase of Azure integration by 20-FEB-2023.  
+- Henry Zhou to implement further CI/CD improvements based on feedback by 25-FEB-2023.  
+- Samuel Davis to work with Cloudera’s team for machine learning enhancements by 28-FEB-2023.  
+- Abigail Carter to prepare detailed user engagement analysis and share by 01-MAR-2023.
+
+---
+
+### JSON Data for Relationships

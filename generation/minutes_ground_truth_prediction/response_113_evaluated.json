@@ -1,0 +1,180 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Carol Nguyen"
+                },
+                {
+                    "name": "David Patel"
+                },
+                {
+                    "name": "Yasmine Ali"
+                },
+                {
+                    "name": "Henry Zhou"
+                },
+                {
+                    "name": "John Smith"
+                },
+                {
+                    "name": "Sarah Brown"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Acme Corp"
+                },
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Databricks"
+                },
+                {
+                    "name": "AWS"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Notes"
+                },
+                {
+                    "title": "Data Engineering Lead"
+                },
+                {
+                    "title": "Marketing"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "IBM Planning Analytics"
+                },
+                {
+                    "name": "Apache Spark"
+                },
+                {
+                    "name": "CI/CD pipeline"
+                },
+                {
+                    "name": "AWS infrastructure"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Carol Nguyen",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "David Patel",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Yasmine Ali",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Henry Zhou",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "Databricks"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Sarah Brown",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Carol Nguyen",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "David Patel",
+                "role": "Data Engineering Lead"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Yasmine Ali",
+                "role": null
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Henry Zhou",
+                "role": null
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "John Smith",
+                "role": "Data Engineering Lead"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Sarah Brown",
+                "role": "Marketing"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Acme Corp",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": null
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Databricks",
+                "location": null
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "AWS",
+                "location": null
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Yasmine Ali",
+                "product_service": "IBM Planning Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "David Patel",
+                "product_service": "AWS infrastructure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Henry Zhou",
+                "product_service": "CI/CD pipeline"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "John Smith",
+                "product_service": "Apache Spark"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Sarah Brown",
+                "product_service": null
+            }
+        ]
+    }
+}

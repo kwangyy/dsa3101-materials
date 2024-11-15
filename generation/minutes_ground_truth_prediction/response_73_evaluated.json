@@ -1,0 +1,239 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Clara Diaz"
+                },
+                {
+                    "name": "Henry Zhou"
+                },
+                {
+                    "name": "Derek Hill"
+                },
+                {
+                    "name": "Samuel Davis"
+                },
+                {
+                    "name": "John Thompson"
+                },
+                {
+                    "name": "Lisa Brown"
+                },
+                {
+                    "name": "Jane Smith"
+                },
+                {
+                    "name": "John Smith"
+                },
+                {
+                    "name": "Emma Green"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Cognex"
+                },
+                {
+                    "name": "ABC Corp"
+                },
+                {
+                    "name": "DEF Industries"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note Taker"
+                },
+                {
+                    "title": "CEO"
+                },
+                {
+                    "title": "Marketing Manager"
+                },
+                {
+                    "title": "Client"
+                },
+                {
+                    "title": "Legal Advisor"
+                },
+                {
+                    "title": "External Consultant"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "AI ethics research"
+                },
+                {
+                    "name": "CI/CD pipeline automation"
+                },
+                {
+                    "name": "Hyperledger Fabric"
+                },
+                {
+                    "name": "IBM Aspera"
+                },
+                {
+                    "name": "Machine vision systems"
+                },
+                {
+                    "name": "Blockchain solutions"
+                },
+                {
+                    "name": "Widget X"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Clara Diaz",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Henry Zhou",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Derek Hill",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Samuel Davis",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jane Smith",
+                "organization": "Cognex"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Thompson",
+                "organization": "ABC Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "DEF Industries"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emma Green",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Clara Diaz",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Henry Zhou",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Derek Hill",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Samuel Davis",
+                "role": "Note Taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Lisa Brown",
+                "role": "Marketing Manager"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jane Smith",
+                "role": "External Consultant"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "John Smith",
+                "role": "Client"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emma Green",
+                "role": "Legal Advisor"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Cognex",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "ABC Corp",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "DEF Industries",
+                "location": "New York"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Clara Diaz",
+                "product_service": "AI ethics research"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Henry Zhou",
+                "product_service": "CI/CD pipeline automation"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Derek Hill",
+                "product_service": "Hyperledger Fabric"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Widget X"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Jane Smith",
+                "product_service": "Machine vision systems"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "John Thompson",
+                "product_service": "Blockchain solutions"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "John Smith",
+                "product_service": "Blockchain solutions"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Emma Green",
+                "product_service": "AI ethics research"
+            }
+        ]
+    }
+}

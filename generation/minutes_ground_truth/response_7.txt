@@ -1,0 +1,157 @@
+### Meeting 1: Simple
+**Date and Time:** 12-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Quinn Parker
+- Oliver James
+- Abigail Carter
+- Emma Lee
+
+**Agenda:**
+- Project status update
+- Initial discussion on new innovation initiative
+
+**Discussion Points:**
+- Project Status Update:
+  - Quinn Parker: Provided insights into the current analytics for IBM Cognos Analytics.
+  - Abigail Carter: Shared the latest reporting and dashboard updates.
+  - Oliver James: Discussed progress in NLP models for IBM Watson Language Translator.
+- Innovation Initiative:
+  - Emma Lee: Introduced the new initiative aimed at enhancing cloud AI capabilities.
+  - Agreed to brainstorm potential project ideas in the next meeting.
+
+**Next Steps:**
+- Quinn Parker and Abigail Carter to continue refining analytics and reporting.
+- Oliver James to prepare a detailed update on NLP progress.
+- Emma Lee to coordinate a brainstorming session for innovation ideas.
+- Next meeting scheduled for 19-Jan-2023.
+
+---
+
+### Meeting 2: Simple
+**Date and Time:** 19-Jan-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**
+- Quinn Parker
+- Oliver James
+- Abigail Carter
+- Emma Lee
+
+**Agenda:**
+- Follow-up on innovation initiative
+- Assign brainstorming tasks
+
+**Discussion Points:**
+- Emma Lee: Shared structured approach for brainstorming session.
+- Discussed potential collaboration with Zscaler for secure cloud solutions.
+- Assigned tasks for each member to prepare for the brainstorming session.
+
+**Next Steps:**
+- Quinn Parker to gather analytics data relevant to cloud AI.
+- Oliver James to research NLP applications in cloud security.
+- Abigail Carter to prepare dashboards for tracking progress.
+- Emma Lee to reach out to Zscaler for collaboration possibilities.
+- Next meeting scheduled for 26-Jan-2023.
+
+---
+
+### Meeting 3: Moderate
+**Date and Time:** 26-Jan-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Quinn Parker
+- Oliver James
+- Abigail Carter
+- Emma Lee
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Review brainstorming ideas
+- Discuss feasibility and resources
+- Initial planning for selected ideas
+
+**Discussion Points:**
+- Quinn Parker: Presented analytics data showing potential market trends.
+- Oliver James: Discussed possible NLP enhancements for cloud security.
+- Abigail Carter: Displayed dashboards tracking current projects and resource allocation.
+- Emma Lee: Led a discussion on feasibility and aligned resources with proposed ideas.
+- Agreed to focus on integrating NLP with cloud AI for security.
+
+**Next Steps:**
+- Quinn Parker and Abigail Carter to work together on a detailed proposal.
+- Oliver James to start preliminary development on NLP models.
+- Emma Lee to set up a meeting with Zscaler for collaboration.
+- Next meeting scheduled for 09-Feb-2023.
+
+---
+
+### Meeting 4: Detailed
+**Date and Time:** 09-Feb-2023, 1:00 PM - 2:30 PM
+
+**Attendees:**
+- Quinn Parker
+- Oliver James
+- Abigail Carter
+- Emma Lee
+
+**Additional Attendees:**
+- John Smith (Zscaler, Senior Security Consultant)
+
+**Agenda:**
+- Proposal review
+- Technical discussion on NLP and cloud security
+- Collaboration with Zscaler
+- Resource planning
+
+**Discussion Points:**
+- Emma Lee: Outlined proposal and objectives for integrating NLP with cloud AI.
+- Quinn Parker: Shared detailed analytics and market research supporting the initiative.
+- Oliver James: Provided technical insights on NLP integration and potential challenges.
+- John Smith (Zscaler): Discussed Zscaler’s capabilities and how they can support the project.
+- Abigail Carter: Demonstrated dashboards to track project progress and resource utilization.
+- All attendees agreed to move forward with the project.
+
+**Next Steps:**
+- Quinn Parker and Abigail Carter to finalize the project proposal.
+- Oliver James to begin detailed NLP model development.
+- Emma Lee to formalize collaboration agreement with Zscaler.
+- John Smith to provide Zscaler’s support plan.
+- Next meeting scheduled for 23-Feb-2023.
+
+---
+
+### Meeting 5: Detailed
+**Date and Time:** 23-Feb-2023, 3:00 PM - 4:30 PM
+
+**Attendees:**
+- Quinn Parker
+- Oliver James
+- Abigail Carter
+- Emma Lee
+
+**Absentees:**
+- John Smith (Zscaler)
+
+**Agenda:**
+- Progress update
+- Review of NLP model development
+- Resource allocation and timeline
+
+**Discussion Points:**
+- Quinn Parker: Updated on refined analytics supporting the project.
+- Oliver James: Shared progress on NLP model development, discussed encountered challenges and potential solutions.
+- Abigail Carter: Presented updated dashboards reflecting current project status and resource allocation.
+- Emma Lee: Reviewed timeline and ensured all resources are properly allocated.
+- Discussed potential delays due to resource constraints and proposed mitigation strategies.
+
+**Next Steps:**
+- Quinn Parker and Abigail Carter to monitor analytics and dashboards closely.
+- Oliver James to continue refining the NLP models.
+- Emma Lee to ensure resource constraints are addressed.
+- Next meeting scheduled for 09-Mar-2023.
+
+---
+
+### JSON Format

@@ -1,0 +1,167 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Wendy Chen"
+    },
+    {
+     "name": "Victor Ramos"
+    },
+    {
+     "name": "Franklin Moore"
+    },
+    {
+     "name": "Benji Martinez"
+    },
+    {
+     "name": "Sarah Johnson"
+    },
+    {
+     "name": "Emily Collins"
+    },
+    {
+     "name": "Richard Lee"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "ServiceTitan"
+    }
+   ],
+   "roles": [
+    {
+     "title": "AI Solutions Architect"
+    },
+    {
+     "title": "RPA Developer"
+    },
+    {
+     "title": "Senior Software Engineer"
+    },
+    {
+     "title": "IT Operations Manager"
+    },
+    {
+     "title": "Senior Project Manager"
+    },
+    {
+     "title": "Marketing Team"
+    },
+    {
+     "title": "Business Development"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Maximo Asset Management"
+    },
+    {
+     "name": "IBM Robotic Process Automation"
+    },
+    {
+     "name": "IBM Watson Assistant"
+    },
+    {
+     "name": "IBM Cloud Object Storage"
+    }
+   ],
+   "products_services": []
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Wendy Chen",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Wendy Chen",
+    "role": "AI Solutions Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Wendy Chen",
+    "location": "IBM Maximo Asset Management"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Victor Ramos",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Victor Ramos",
+    "role": "RPA Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Victor Ramos",
+    "location": "IBM Robotic Process Automation"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Franklin Moore",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Franklin Moore",
+    "role": "Senior Software Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Franklin Moore",
+    "location": "IBM Watson Assistant"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Benji Martinez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Benji Martinez",
+    "role": "IT Operations Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Benji Martinez",
+    "location": "IBM Cloud Object Storage"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah Johnson",
+    "organization": "ServiceTitan"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah Johnson",
+    "role": "Senior Project Manager"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emily Collins",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emily Collins",
+    "role": "Marketing Team"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Richard Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Richard Lee",
+    "role": "Business Development"
+   }
+  ]
+ }
+}

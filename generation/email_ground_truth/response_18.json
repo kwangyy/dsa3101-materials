@@ -1,0 +1,145 @@
+{
+    "entities": {
+        "persons": [
+            {
+                "name": "Alice Smith"
+            },
+            {
+                "name": "David Patel"
+            },
+            {
+                "name": "Franklin Moore"
+            },
+            {
+                "name": "Samuel Davis"
+            },
+            {
+                "name": "Abigail Carter"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "IBM"
+            },
+            {
+                "name": "C3.ai"
+            },
+            {
+                "name": "Nutanix"
+            }
+        ],
+        "roles": [
+            {
+                "title": "Chief Data Officer"
+            },
+            {
+                "title": "Cloud Architect"
+            },
+            {
+                "title": "Senior Software Engineer"
+            },
+            {
+                "title": "Blockchain Developer"
+            },
+            {
+                "title": "Business Intelligence Analyst"
+            }
+        ],
+        "products_services": [
+            {
+                "name": "AWS"
+            },
+            {
+                "name": "IBM Watson Assistant"
+            },
+            {
+                "name": "Hyperledger Fabric"
+            },
+            {
+                "name": "IBM Cognos Analytics"
+            }
+        ]
+    },
+    "relationships": [
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Alice Smith",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Alice Smith",
+            "role": "Chief Data Officer"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "David Patel",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "David Patel",
+            "role": "Cloud Architect"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "David Patel",
+            "product_service": "AWS"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Franklin Moore",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Franklin Moore",
+            "role": "Senior Software Engineer"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Franklin Moore",
+            "product_service": "IBM Watson Assistant"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Samuel Davis",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Samuel Davis",
+            "role": "Blockchain Developer"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Samuel Davis",
+            "product_service": "Hyperledger Fabric"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Abigail Carter",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Abigail Carter",
+            "role": "Business Intelligence Analyst"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Abigail Carter",
+            "product_service": "IBM Cognos Analytics"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "organization": "C3.ai",
+            "location": "External"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "organization": "Nutanix",
+            "location": "External"
+        }
+    ]
+}

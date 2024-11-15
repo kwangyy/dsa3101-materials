@@ -1,0 +1,168 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Lily Garcia"
+    },
+    {
+     "name": "Natalie Wu"
+    },
+    {
+     "name": "Samuel Davis"
+    },
+    {
+     "name": "Paul Hernandez"
+    },
+    {
+     "name": "Alex Turner"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Cloudera"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Marketing Analyst"
+    },
+    {
+     "title": "Product Marketing Manager"
+    },
+    {
+     "title": "Blockchain Developer"
+    },
+    {
+     "title": "Systems Engineer"
+    },
+    {
+     "title": "Data Scientist"
+    }
+   ],
+   "locations": [
+    {
+     "name": "Business Strategy Department"
+    },
+    {
+     "name": "Marketing Department"
+    },
+    {
+     "name": "Innovation Department"
+    },
+    {
+     "name": "IT Support Department"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Satellite"
+    },
+    {
+     "name": "IBM Watson Discovery"
+    },
+    {
+     "name": "Hyperledger Fabric"
+    },
+    {
+     "name": "IBM Blockchain Platform"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Lily Garcia",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Natalie Wu",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Samuel Davis",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Paul Hernandez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Alex Turner",
+    "organization": "Cloudera"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Lily Garcia",
+    "role": "Marketing Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Natalie Wu",
+    "role": "Product Marketing Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Samuel Davis",
+    "role": "Blockchain Developer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Paul Hernandez",
+    "role": "Systems Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Alex Turner",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Lily Garcia",
+    "location": "Business Strategy Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Natalie Wu",
+    "location": "Marketing Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Samuel Davis",
+    "location": "Innovation Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Paul Hernandez",
+    "location": "IT Support Department"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Lily Garcia",
+    "product_service": "IBM Cloud Satellite"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Natalie Wu",
+    "product_service": "IBM Watson Discovery"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "Hyperledger Fabric"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "IBM Blockchain Platform"
+   }
+  ]
+ }
+}

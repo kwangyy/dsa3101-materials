@@ -1,0 +1,137 @@
+{
+    "entities": {
+        "persons": [
+            {
+                "name": "Wendy Chen"
+            },
+            {
+                "name": "Oliver James"
+            },
+            {
+                "name": "Derek Hill"
+            },
+            {
+                "name": "Victor Ramos"
+            },
+            {
+                "name": "Lily Garcia"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "IBM"
+            }
+        ],
+        "roles": [
+            {
+                "title": "AI Solutions Architect"
+            },
+            {
+                "title": "AI Research Scientist"
+            },
+            {
+                "title": "QA Engineer"
+            },
+            {
+                "title": "RPA Developer"
+            },
+            {
+                "title": "Marketing Analyst"
+            }
+        ],
+        "products_services": [
+            {
+                "name": "IBM Maximo Asset Management"
+            },
+            {
+                "name": "IBM Watson Language Translator"
+            },
+            {
+                "name": "IBM Aspera"
+            },
+            {
+                "name": "IBM Robotic Process Automation"
+            },
+            {
+                "name": "IBM Cloud Satellite"
+            }
+        ]
+    },
+    "relationships": [
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Wendy Chen",
+            "organization": "IBM"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Oliver James",
+            "organization": "IBM"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Derek Hill",
+            "organization": "IBM"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Victor Ramos",
+            "organization": "IBM"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Lily Garcia",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Wendy Chen",
+            "role": "AI Solutions Architect"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Oliver James",
+            "role": "AI Research Scientist"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Derek Hill",
+            "role": "QA Engineer"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Victor Ramos",
+            "role": "RPA Developer"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Lily Garcia",
+            "role": "Marketing Analyst"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Wendy Chen",
+            "product_service": "IBM Maximo Asset Management"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Oliver James",
+            "product_service": "IBM Watson Language Translator"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Derek Hill",
+            "product_service": "IBM Aspera"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Victor Ramos",
+            "product_service": "IBM Robotic Process Automation"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Lily Garcia",
+            "product_service": "IBM Cloud Satellite"
+        }
+    ]
+}

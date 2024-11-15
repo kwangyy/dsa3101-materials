@@ -1,0 +1,175 @@
+### Meeting Minutes 1
+**Date and Time:** 12-Jan-2023, 09:00 AM - 09:30 AM  
+**Attendees:**  
+- Benji Martinez (Note Taker)
+- Victor Ramos
+- Emma Lee
+- David Patel
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+- Project updates
+- Strategy discussions
+
+**Discussion Points:**  
+- **Project Updates:**
+  - Benji reported on the current status of IBM Cloud Object Storage infrastructure, noting recent improvements in system uptime.
+  - Emma provided an update on product strategy for Google Cloud AI Platform and mentioned the upcoming features that are in the pipeline.
+
+- **Strategy Discussions:**
+  - Victor proposed integrating new RPA bots to streamline internal IT processes.
+  - David discussed the potential for enhancing AWS infrastructure to support new applications.
+
+**Next Steps:**  
+- Benji to prepare a detailed report on system uptime improvements by 15-Jan-2023.
+- Emma to share a roadmap of upcoming Google Cloud AI Platform features by 20-Jan-2023.
+- Victor to begin development on new RPA bots and present an initial prototype by 25-Jan-2023.
+- David to draft a proposal for enhancing AWS infrastructure by 30-Jan-2023.
+
+---
+
+### Meeting Minutes 2
+**Date and Time:** 24-Feb-2023, 02:00 PM - 03:00 PM  
+**Attendees:**  
+- Benji Martinez
+- Victor Ramos (Note Taker)
+- Emma Lee
+
+**Absentees:**  
+- David Patel
+
+**Agenda:**  
+- Collaboration proposals
+- Team management
+
+**Discussion Points:**  
+- **Collaboration Proposals:**
+  - Emma suggested collaborating with Cloudera to leverage their machine learning and AI capabilities for big data analysis.
+  - Benji agreed to explore the technical feasibility of the proposed collaboration.
+
+- **Team Management:**
+  - Victor raised concerns about workload distribution and suggested a weekly check-in to ensure tasks are on track.
+
+**Next Steps:**  
+- Emma to contact Cloudera for an initial meeting by 01-Mar-2023.
+- Benji to conduct a technical feasibility study by 05-Mar-2023.
+- Victor to schedule weekly team check-ins starting from 27-Feb-2023.
+
+---
+
+### Meeting Minutes 3
+**Date and Time:** 15-Mar-2023, 11:00 AM - 12:30 PM  
+**Attendees:**  
+- Benji Martinez
+- Victor Ramos
+- Emma Lee
+- David Patel (Note Taker)
+- Guest: Sarah Johnson (Cloudera, Data Scientist)
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+- Project updates
+- Potential challenges
+- External collaboration
+
+**Discussion Points:**  
+- **Project Updates:**
+  - Benji reported progress on IBM Cloud Object Storage.
+  - Emma updated on Google Cloud AI Platform, highlighting new ML features.
+
+- **Potential Challenges:**
+  - Victor noted technical challenges in RPA bot development.
+  - David discussed potential issues with AWS infrastructure scalability.
+
+- **External Collaboration:**
+  - Sarah from Cloudera presented potential collaboration benefits and how Cloudera’s tools could assist IBM’s data analysis.
+  - Emma proposed a pilot project with Cloudera to test compatibility.
+
+**Next Steps:**  
+- Benji to document current progress and challenges by 18-Mar-2023.
+- Victor to focus on resolving technical challenges with RPA bots by 22-Mar-2023.
+- David to draft a plan to address scalability issues by 25-Mar-2023.
+- Emma to coordinate with Sarah for a pilot project proposal by 30-Mar-2023.
+
+---
+
+### Meeting Minutes 4
+**Date and Time:** 10-Apr-2023, 01:00 PM - 02:00 PM  
+**Attendees:**  
+- Benji Martinez
+- Victor Ramos
+- Emma Lee
+- David Patel (Note Taker)
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+- Strategy discussions
+- Team management
+- Collaboration proposals
+
+**Discussion Points:**  
+- **Strategy Discussions:**
+  - Benji discussed strategies to improve IBM Cloud Object Storage resilience.
+  - Emma talked about incorporating customer feedback into Google Cloud AI Platform.
+
+- **Team Management:**
+  - Victor suggested rotating team leads to provide leadership experience across the team.
+  - David proposed a mentorship program for new team members.
+
+- **Collaboration Proposals:**
+  - Emma mentioned the positive outcomes from the initial meeting with Cloudera and suggested formalizing the partnership.
+  
+**Next Steps:**  
+- Benji to implement resilience strategies and report by 15-Apr-2023.
+- Emma to draft a customer feedback integration plan by 20-Apr-2023.
+- Victor to set up a team lead rotation schedule by 25-Apr-2023.
+- David to create a mentorship program outline by 30-Apr-2023.
+- Emma to formalize the partnership with Cloudera by 05-May-2023.
+
+---
+
+### Meeting Minutes 5
+**Date and Time:** 28-May-2023, 03:00 PM - 04:30 PM  
+**Attendees:**  
+- Benji Martinez (Note Taker)
+- Victor Ramos
+- Emma Lee
+- David Patel
+- Guest: Mark Thompson (Google, Cloud Solutions Architect)
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+- Project updates
+- Strategy discussions
+- External entity collaboration
+
+**Discussion Points:**  
+- **Project Updates:**
+  - Benji presented current status and future plans for IBM Cloud Object Storage.
+  - Emma shared the latest developments and user adoption metrics for Google Cloud AI Platform.
+
+- **Strategy Discussions:**
+  - Victor discussed automating more processes using advanced RPA bots.
+  - David reviewed AWS infrastructure enhancements and user feedback.
+
+- **External Entity Collaboration:**
+  - Mark Thompson from Google discussed potential integrations between IBM's infrastructure and Google Cloud services.
+  - Emma emphasized the benefits of such integration for enhanced performance and scalability.
+
+**Next Steps:**  
+- Benji to prepare a detailed project status report by 01-Jun-2023.
+- Victor to develop a plan for advanced RPA bots by 05-Jun-2023.
+- David to document AWS infrastructure enhancements by 10-Jun-2023.
+- Emma to draft an integration proposal with Google Cloud by 15-Jun-2023.
+
+---
+
+### JSON Data

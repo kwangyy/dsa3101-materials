@@ -1,0 +1,134 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Alice Smith"
+    },
+    {
+     "name": "Ivy Bennett"
+    },
+    {
+     "name": "Quinn Parker"
+    },
+    {
+     "name": "Gina Lopez"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Microsoft"
+    },
+    {
+     "name": "Symantec"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Chief Data Officer"
+    },
+    {
+     "title": "Data Engineer"
+    },
+    {
+     "title": "Data Analyst"
+    },
+    {
+     "title": "UX Designer"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Pak for Data"
+    },
+    {
+     "name": "IBM Db2 Database"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "Symantec Endpoint Security"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Alice Smith",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Alice Smith",
+    "role": "Chief Data Officer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "IBM Cloud Pak for Data"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Ivy Bennett",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Ivy Bennett",
+    "role": "Data Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Ivy Bennett",
+    "product_service": "IBM Db2 Database"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Quinn Parker",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Quinn Parker",
+    "role": "Data Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Quinn Parker",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Gina Lopez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Gina Lopez",
+    "role": "UX Designer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Gina Lopez",
+    "product_service": "IBM Cloud Pak for Data"
+   },
+   {
+    "type": "PROVIDES",
+    "organization": "Microsoft",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "PROVIDES",
+    "organization": "Symantec",
+    "product_service": "Symantec Endpoint Security"
+   }
+  ]
+ }
+}

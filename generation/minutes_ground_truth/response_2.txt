@@ -1,0 +1,163 @@
+### Meeting Minutes 1: Simple
+
+#### Date and Time
+- Date: 15-Mar-2023
+- Time: 10:00 AM - 10:30 AM
+
+#### Attendees
+- Clara Diaz (Note taker)
+- Franklin Moore
+- Victor Ramos
+- Abigail Carter
+
+#### Agenda
+- Project updates
+- Inter-department collaboration proposal
+
+#### Discussion Points
+- Clara Diaz provided an update on recent AI ethics research.
+- Franklin Moore discussed new API developments for IBM Watson Assistant.
+- Victor Ramos presented updates on RPA developments.
+- Abigail Carter reviewed recent updates on Cognos Analytics dashboards.
+
+#### Next Steps
+- Clara to send a detailed report on AI ethics research by 20-Mar-2023.
+- Franklin to provide API documentation to the team by 22-Mar-2023.
+- Victor to schedule a demo of the new RPA bots by 25-Mar-2023.
+- Abigail to share updated dashboards with the team by 23-Mar-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+
+#### Date and Time
+- Date: 29-Mar-2023
+- Time: 2:00 PM - 3:00 PM
+
+#### Attendees
+- Clara Diaz
+- Franklin Moore (Note taker)
+- Victor Ramos
+- Abigail Carter
+- John Smith (Elastic, Senior Data Scientist)
+
+#### Agenda
+- Project updates
+- Potential collaboration with Elastic
+- AI OpenScale enhancements
+
+#### Discussion Points
+- Clara Diaz discussed ongoing work on AI ethics and potential enhancements.
+- Franklin Moore shared progress on the new API for Watson Assistant.
+- Victor Ramos talked about recent success in developing new RPA bots.
+- Abigail Carter discussed new features in Cognos Analytics dashboards.
+- John Smith from Elastic explained possible collaborations for real-time insights.
+
+#### Next Steps
+- Clara to prepare a collaboration proposal with Elastic by 05-Apr-2023.
+- Franklin to provide API performance metrics by 02-Apr-2023.
+- Victor to coordinate with Abigail on integrating RPA bots with Cognos Analytics by 10-Apr-2023.
+- John Smith to draft a preliminary agreement for collaboration by 08-Apr-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+
+#### Date and Time
+- Date: 12-Apr-2023
+- Time: 9:00 AM - 10:30 AM
+
+#### Attendees
+- Clara Diaz
+- Franklin Moore
+- Victor Ramos
+- Abigail Carter (Note taker)
+- Sarah Johnson (AI Ethics Consultant)
+
+#### Agenda
+- Project updates
+- Inter-department collaboration proposals
+- AI ethics policy review
+- Real-time analytics integration
+
+#### Discussion Points
+- Clara Diaz presented recent findings in AI ethics and their implications.
+- Franklin Moore discussed API enhancements and their expected impact.
+- Victor Ramos presented the latest RPA bot functionalities and demoed a new bot.
+- Abigail Carter discussed improvements in reporting accuracy for Cognos Analytics.
+- Sarah Johnson reviewed AI ethics policies and suggested updates for compliance.
+
+#### Next Steps
+- Clara to finalize AI ethics policy updates with Sarah by 18-Apr-2023.
+- Franklin to integrate new API features by 20-Apr-2023.
+- Victor to prepare a detailed report on bot performance by 22-Apr-2023.
+- Abigail to enhance data visualization for dashboards by 25-Apr-2023.
+- Sarah to provide a finalized ethics policy document by 19-Apr-2023.
+
+---
+
+### Meeting Minutes 4: Simple
+
+#### Date and Time
+- Date: 26-Apr-2023
+- Time: 11:00 AM - 11:30 AM
+
+#### Attendees
+- Clara Diaz
+- Franklin Moore
+- Victor Ramos (Note taker)
+- Abigail Carter
+
+#### Agenda
+- Project updates
+- Future project planning
+
+#### Discussion Points
+- Clara Diaz shared insights on new AI ethics research.
+- Franklin Moore discussed minor updates to the Watson Assistant API.
+- Victor Ramos provided a quick update on RPA bot developments.
+- Abigail Carter discussed new dashboard features.
+
+#### Next Steps
+- Clara to compile a summary of AI ethics research by 30-Apr-2023.
+- Franklin to implement minor API updates by 28-Apr-2023.
+- Victor to test the latest RPA bot functionalities by 01-May-2023.
+- Abigail to update dashboard features by 02-May-2023.
+
+---
+
+### Meeting Minutes 5: Detailed
+
+#### Date and Time
+- Date: 10-May-2023
+- Time: 1:00 PM - 2:30 PM
+
+#### Attendees
+- Clara Diaz (Note taker)
+- Franklin Moore
+- Victor Ramos
+- Abigail Carter
+- External: Maria Lee (Data Analytics Expert, Elastic)
+
+#### Agenda
+- Project updates
+- Collaboration with Elastic
+- Strategy discussions for upcoming quarter
+
+#### Discussion Points
+- Clara Diaz discussed ongoing ethics research and presented a draft for upcoming compliance.
+- Franklin Moore gave a detailed overview of the new API functionalities.
+- Victor Ramos showcased a new, advanced RPA bot and its potential applications.
+- Abigail Carter discussed new metrics and visualization techniques for dashboards.
+- Maria Lee from Elastic proposed a joint project for real-time data analytics integration.
+
+#### Next Steps
+- Clara to finalize the ethics research draft by 15-May-2023.
+- Franklin to deploy new API features by 17-May-2023.
+- Victor to refine RPA bot features and document them by 20-May-2023.
+- Abigail to work with Maria Lee on the real-time analytics project proposal by 22-May-2023.
+- Maria to draft initial project scope and timelines by 18-May-2023.
+
+---
+
+### JSON Representation

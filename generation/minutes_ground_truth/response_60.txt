@@ -1,0 +1,168 @@
+### Meeting Minutes 1: Simple
+#### Date and Time
+- Date: 01-Sep-2023
+- Time: 10:00 AM - 10:30 AM
+
+#### Attendees
+- Emma Lee
+- Lily Garcia
+- Kevin O'Reilly
+- Oliver James
+- Note taker: Emma Lee
+- Absentees: None
+
+#### Agenda
+- Project updates from each department
+- Brief discussion on enterprise collaboration
+
+#### Discussion Points
+- Emma Lee updated on Google Cloud AI Platform strategy alignment.
+- Lily Garcia shared insights on customer trends for IBM Cloud Satellite.
+- Kevin O'Reilly discussed ongoing development of models for IBM Watson Studio.
+- Oliver James provided an update on natural language processing efforts for IBM Watson Language Translator.
+- Discussed potential collaboration opportunities between departments.
+
+#### Next Steps
+- Emma to schedule a follow-up meeting to dive deeper into collaboration strategies by 15-Sep-2023.
+- Lily to prepare a detailed trend analysis report by 10-Sep-2023.
+- Kevin to provide a development roadmap by 12-Sep-2023.
+- Oliver to propose potential integration points for AI models by 10-Sep-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+#### Date and Time
+- Date: 08-Sep-2023
+- Time: 2:00 PM - 3:00 PM
+
+#### Attendees
+- Emma Lee
+- Lily Garcia
+- Kevin O'Reilly
+- Oliver James
+- Note taker: Lily Garcia
+- Absentees: None
+
+#### Agenda
+- Detailed project status updates
+- Strategy discussions for Q4 2023
+- Cross-departmental collaboration
+
+#### Discussion Points
+- Emma Lee presented the current status of the Google Cloud AI Platform and outlined key objectives for Q4.
+- Lily Garcia analyzed recent customer trends and how they could influence marketing strategies.
+- Kevin O'Reilly discussed the progress of developing machine learning models and identified potential bottlenecks.
+- Oliver James shared advancements in natural language processing and highlighted some challenges.
+- Identified areas where marketing analysis could inform AI model development, and vice versa.
+
+#### Next Steps
+- Emma to draft a Q4 strategic plan incorporating inputs from all departments by 20-Sep-2023.
+- Lily to work with Kevin to align customer trends with model development by 18-Sep-2023.
+- Kevin to address identified bottlenecks and report back by 15-Sep-2023.
+- Oliver to investigate solutions for NLP challenges and update by 20-Sep-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+#### Date and Time
+- Date: 15-Sep-2023
+- Time: 1:00 PM - 3:00 PM
+
+#### Attendees
+- Emma Lee
+- Lily Garcia
+- Kevin O'Reilly
+- Oliver James
+- Note taker: Kevin O'Reilly
+- Absentees: None
+- Additional Attendees: John Doe (Illumio, Security Consultant)
+
+#### Agenda
+- Comprehensive project updates
+- Integration of cybersecurity measures into AI projects
+- External collaboration opportunities with Illumio
+- Long-term strategy planning
+
+#### Discussion Points
+- Emma Lee detailed the product strategy for the Google Cloud AI Platform, emphasizing recent achievements and roadblocks.
+- Lily Garcia presented an in-depth analysis of customer trends and the impact on IBM Cloud Satellite.
+- Kevin O'Reilly reviewed the progress of machine learning models for IBM Watson Studio, highlighting areas needing improvement.
+- Oliver James elaborated on advancements in NLP for IBM Watson Language Translator and discussed potential integrations with other projects.
+- John Doe from Illumio introduced their cybersecurity solutions and discussed how zero-trust segmentation could benefit IBM's AI projects.
+- Explored collaboration opportunities with Illumio to enhance security in AI applications.
+
+#### Next Steps
+- Emma to schedule a workshop with Illumio for further integration planning by 25-Sep-2023.
+- Lily to develop a marketing campaign focusing on security features by 30-Sep-2023.
+- Kevin to begin integrating Illumio's security solutions into AI models and report progress by 30-Sep-2023.
+- Oliver to collaborate with Illumio on enhancing NLP security by 30-Sep-2023.
+
+---
+
+### Meeting Minutes 4: Simple
+#### Date and Time
+- Date: 22-Sep-2023
+- Time: 11:00 AM - 11:30 AM
+
+#### Attendees
+- Emma Lee
+- Lily Garcia
+- Kevin O'Reilly
+- Oliver James
+- Note taker: Oliver James
+- Absentees: None
+
+#### Agenda
+- Quick project status updates
+- Immediate action items for upcoming deadlines
+
+#### Discussion Points
+- Emma Lee provided a brief update on the Google Cloud AI Platform.
+- Lily Garcia shared the latest customer trend insights.
+- Kevin O'Reilly discussed recent developments in machine learning models.
+- Oliver James gave a quick overview of progress in NLP tasks.
+
+#### Next Steps
+- Emma to finalize the project status report by 25-Sep-2023.
+- Lily to update the trend analysis dashboard by 24-Sep-2023.
+- Kevin to fix recent issues with AI models by 27-Sep-2023.
+- Oliver to complete the NLP module by 28-Sep-2023.
+
+---
+
+### Meeting Minutes 5: Moderate
+#### Date and Time
+- Date: 29-Sep-2023
+- Time: 3:00 PM - 4:30 PM
+
+#### Attendees
+- Emma Lee
+- Lily Garcia
+- Kevin O'Reilly
+- Oliver James
+- Note taker: Emma Lee
+- Absentees: None
+- Additional Attendees: Sarah White (Illumio, Technical Advisor)
+
+#### Agenda
+- Project updates
+- Review of integration with Illumio's solutions
+- Planning for next quarter
+
+#### Discussion Points
+- Emma Lee presented an updated strategy for Google Cloud AI Platform.
+- Lily Garcia discussed recent customer behavior trends and their implications.
+- Kevin O'Reilly shared updates on machine learning models, highlighting recent improvements.
+- Oliver James discussed the current status of NLP projects.
+- Sarah White from Illumio reviewed the integration of their cybersecurity solutions into IBM's AI projects.
+- Discussed strategies for improving cross-departmental collaboration and incorporating Illumio’s feedback.
+
+#### Next Steps
+- Emma to incorporate Sarah's feedback into the next strategic draft by 05-Oct-2023.
+- Lily to coordinate with Illumio's marketing team for joint campaigns by 10-Oct-2023.
+- Kevin to continue refining AI models with a focus on security by 15-Oct-2023.
+- Oliver to integrate cybersecurity improvements into the NLP tasks by 15-Oct-2023.
+
+---
+
+### JSON Format of Relationships

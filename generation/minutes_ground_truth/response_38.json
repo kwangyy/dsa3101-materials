@@ -1,0 +1,168 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Rachel Singh"
+    },
+    {
+     "name": "Uma Patel"
+    },
+    {
+     "name": "Jackie Lin"
+    },
+    {
+     "name": "Clara Diaz"
+    },
+    {
+     "name": "John Doe"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Elastic"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Software Engineer"
+    },
+    {
+     "title": "Senior Solutions Architect"
+    },
+    {
+     "title": "Cybersecurity Analyst"
+    },
+    {
+     "title": "AI Policy Researcher"
+    },
+    {
+     "title": "Senior Product Manager"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Cloud Solutions Department"
+    },
+    {
+     "name": "IBM Solutions Engineering Department"
+    },
+    {
+     "name": "IBM Security Department"
+    },
+    {
+     "name": "IBM Ethics Department"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Functions"
+    },
+    {
+     "name": "IBM Cloud Private"
+    },
+    {
+     "name": "IBM Security Guardium"
+    },
+    {
+     "name": "IBM AI OpenScale"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Singh",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Uma Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jackie Lin",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Clara Diaz",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Doe",
+    "organization": "Elastic"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Singh",
+    "role": "Software Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Uma Patel",
+    "role": "Senior Solutions Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jackie Lin",
+    "role": "Cybersecurity Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Clara Diaz",
+    "role": "AI Policy Researcher"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Doe",
+    "role": "Senior Product Manager"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Rachel Singh",
+    "location": "IBM Cloud Solutions Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Uma Patel",
+    "location": "IBM Solutions Engineering Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Jackie Lin",
+    "location": "IBM Security Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Clara Diaz",
+    "location": "IBM Ethics Department"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Rachel Singh",
+    "product_service": "IBM Cloud Functions"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Uma Patel",
+    "product_service": "IBM Cloud Private"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jackie Lin",
+    "product_service": "IBM Security Guardium"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Clara Diaz",
+    "product_service": "IBM AI OpenScale"
+   }
+  ]
+ }
+}

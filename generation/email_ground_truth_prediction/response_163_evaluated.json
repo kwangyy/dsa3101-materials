@@ -1,0 +1,125 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Michael Turner"
+                },
+                {
+                    "name": "Carol Nguyen"
+                },
+                {
+                    "name": "Natalie Wu"
+                },
+                {
+                    "name": "Ivy Bennett"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Cloud Security Architect"
+                },
+                {
+                    "title": "Junior Data Scientist"
+                },
+                {
+                    "title": "Data Engineer"
+                },
+                {
+                    "title": "Product Marketing Manager"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "Microsoft Azure"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Azure Data Analysis"
+                },
+                {
+                    "name": "IBM Watson Discovery"
+                },
+                {
+                    "name": "ETL pipelines"
+                },
+                {
+                    "name": "IBM Db2 Database"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Turner",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Carol Nguyen",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Natalie Wu",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Ivy Bennett",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Turner",
+                "role": "Cloud Security Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Carol Nguyen",
+                "role": "Junior Data Scientist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Ivy Bennett",
+                "role": "Data Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Natalie Wu",
+                "role": "Product Marketing Manager"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "Azure Data Analysis"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Carol Nguyen",
+                "product_service": "Azure Data Analysis"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Natalie Wu",
+                "product_service": "IBM Watson Discovery"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "ETL pipelines"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "Microsoft Azure"
+            }
+        ]
+    }
+}

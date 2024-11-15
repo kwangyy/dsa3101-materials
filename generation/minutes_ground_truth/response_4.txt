@@ -1,0 +1,148 @@
+### Meeting Minutes 1 (Simple)
+
+**Date and Time:** 01-Aug-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Abigail Carter (Note-taker)
+- Oliver James
+- Paul Hernandez
+
+**Absentees:**
+- Michael Turner
+
+**Agenda:**
+- Introduction of collaboration proposal
+- Initial thoughts on service integration
+
+**Discussion Points:**
+- Abigail introduced the collaboration proposal for integrating reporting dashboards with AI-driven insights.
+- Oliver highlighted the potential of using NLP for generating dynamic reports.
+- Paul mentioned the importance of seamless integration with the existing IBM Z systems.
+
+**Next Steps:**
+- Abigail to draft a detailed proposal document by 05-Aug-2023.
+- Oliver to research potential NLP models by 07-Aug-2023.
+- Paul to evaluate system requirements for integration by 09-Aug-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+
+**Date and Time:** 15-Aug-2023, 02:00 PM - 03:00 PM
+
+**Attendees:**
+- Abigail Carter
+- Oliver James (Note-taker)
+- Paul Hernandez
+- Michael Turner
+
+**Agenda:**
+- Review of draft collaboration proposal
+- Security concerns and considerations
+- Feedback and suggestions
+
+**Discussion Points:**
+- Abigail presented the draft proposal highlighting the integration points.
+- Michael raised concerns about cloud security and suggested protocols for ensuring data safety.
+- Oliver provided feedback on using NLP for real-time analytics.
+- Paul noted the need for additional IT support to handle the integration.
+
+**Next Steps:**
+- Michael to develop security protocols by 20-Aug-2023.
+- Abigail to incorporate feedback and finalize the proposal by 22-Aug-2023.
+- Paul to prepare an IT support plan by 24-Aug-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+
+**Date and Time:** 01-Sep-2023, 09:00 AM - 10:30 AM
+
+**Attendees:**
+- Abigail Carter
+- Oliver James
+- Paul Hernandez (Note-taker)
+- Michael Turner
+- External Attendee: John Smith (ServiceTitan)
+
+**Agenda:**
+- Final review of collaboration proposal
+- Integration plan with ServiceTitan
+- Allocation of responsibilities and timelines
+
+**Discussion Points:**
+- Abigail reviewed the finalized proposal and its benefits for IBM Cognos Analytics and Watson Language Translator.
+- John Smith from ServiceTitan discussed potential integration touchpoints and their software capabilities.
+- Michael emphasized the critical role of cloud security measures.
+- Oliver elaborated on the use of NLP for enhancing user experience.
+- Paul discussed the technical requirements and support needed for a smooth integration.
+
+**Next Steps:**
+- John Smith to provide ServiceTitan's API documentation by 05-Sep-2023.
+- Michael to finalize cloud security measures by 07-Sep-2023.
+- Abigail and Oliver to start initial integration tests by 10-Sep-2023.
+- Paul to oversee the IT infrastructure setup by 12-Sep-2023.
+
+---
+
+### Meeting Minutes 4 (Moderate)
+
+**Date and Time:** 15-Sep-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**
+- Abigail Carter
+- Oliver James
+- Paul Hernandez (Note-taker)
+- Michael Turner
+
+**Agenda:**
+- Progress review on initial integration tests
+- Discussion on encountered challenges
+- Planning next phase of integration
+
+**Discussion Points:**
+- Abigail provided an update on the initial integration tests, highlighting successful and unsuccessful areas.
+- Oliver identified challenges related to NLP model performance.
+- Paul mentioned technical issues with the IBM Z systems during the integration.
+- Michael reassured that the security protocols were functioning as expected.
+
+**Next Steps:**
+- Abigail to troubleshoot unsuccessful integration areas by 18-Sep-2023.
+- Oliver to optimize NLP models by 20-Sep-2023.
+- Paul to resolve technical issues by 22-Sep-2023.
+- Michael to continue monitoring security protocols.
+
+---
+
+### Meeting Minutes 5 (Detailed)
+
+**Date and Time:** 01-Oct-2023, 09:30 AM - 11:00 AM
+
+**Attendees:**
+- Abigail Carter
+- Oliver James (Note-taker)
+- Paul Hernandez
+- Michael Turner
+- External Attendee: Sarah Lee (ServiceTitan)
+
+**Agenda:**
+- Final integration review
+- Post-integration support and maintenance plan
+- Roles and responsibilities
+
+**Discussion Points:**
+- Abigail reviewed the final integration outcomes and reported full functionality with IBM Cognos Analytics.
+- Sarah Lee discussed ongoing support from ServiceTitan for maintenance and updates.
+- Oliver demonstrated the enhanced NLP-driven reports.
+- Paul outlined the IT support structure for maintaining the integration.
+- Michael confirmed that the cloud security protocols were adhered to during the integration process.
+
+**Next Steps:**
+- Sarah Lee to provide monthly update reports from ServiceTitan starting 05-Oct-2023.
+- Abigail and Oliver to monitor and report on user feedback by 10-Oct-2023.
+- Paul to ensure continuous IT support and address any emerging issues.
+- Michael to conduct security audits quarterly, with the first audit scheduled for 15-Oct-2023.
+
+---
+
+### JSON Data

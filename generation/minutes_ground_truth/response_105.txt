@@ -1,0 +1,161 @@
+### Meeting 1: Simple
+**Date and Time:** 02-JAN-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Quinn Parker
+- Alice Smith
+- Derek Hill
+- Uma Patel (Note-taker)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Project updates
+- Team roles and responsibilities
+
+**Discussion Points:**
+- **Project Updates:**
+  - Quinn provided insights into data analytics for the ongoing project.
+  - Derek highlighted recent software testing results.
+- **Team Roles and Responsibilities:**
+  - Alice reviewed the roles to ensure everyone understands their responsibilities.
+  - Uma suggested cross-training to improve team versatility.
+
+**Next Steps:**
+- Quinn to prepare a detailed analytics report by 07-JAN-2023.
+- Derek to continue software testing and report next week.
+- Alice to circulate an updated responsibility chart by 04-JAN-2023.
+
+### Meeting 2: Simple
+**Date and Time:** 16-JAN-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**
+- Quinn Parker
+- Alice Smith
+- Uma Patel
+
+**Absentees:**
+- Derek Hill
+
+**Agenda:**
+- Follow-up on previous tasks
+- New project assignments
+
+**Discussion Points:**
+- **Follow-up:**
+  - Quinn completed the analytics report; shared key insights.
+  - Alice distributed the updated responsibility chart.
+- **New Project Assignments:**
+  - Uma to lead a new hybrid cloud solution project.
+  - Assignments divided to ensure efficient collaboration.
+
+**Next Steps:**
+- Uma to outline project plan by 20-JAN-2023.
+- Quinn to provide data support for the new project.
+- Alice to schedule the next review meeting.
+
+### Meeting 3: Moderate
+**Date and Time:** 30-JAN-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Quinn Parker
+- Alice Smith
+- Derek Hill
+- Uma Patel (Note-taker)
+- Jane Doe (Illumio - Cybersecurity Specialist)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Cross-functional collaboration 
+- Cybersecurity integration with Illumio
+
+**Discussion Points:**
+- **Cross-functional Collaboration:**
+  - Discussed the need for better synergy between departments.
+  - Quinn and Derek suggested regular inter-departmental meetings.
+- **Cybersecurity Integration:**
+  - Jane from Illumio provided insights on zero-trust segmentation.
+  - Discussed potential integration with IBM’s security protocols.
+
+**Next Steps:**
+- Uma to coordinate regular cross-departmental meetings.
+- Alice to evaluate Illumio’s proposal and revert by 05-FEB-2023.
+- Derek to collaborate with Jane on cybersecurity measures.
+
+### Meeting 4: Detailed
+**Date and Time:** 13-FEB-2023, 9:00 AM - 10:30 AM
+
+**Attendees:**
+- Quinn Parker
+- Alice Smith
+- Derek Hill
+- Uma Patel
+- John Roe (IBM - Project Manager)
+- Jane Doe (Illumio - Cybersecurity Specialist)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Detailed project updates
+- Strategy discussions
+- Inter-departmental support
+
+**Discussion Points:**
+- **Detailed Project Updates:**
+  - Quinn presented detailed analytics dashboards.
+  - Derek shared comprehensive testing results, highlighting issues.
+- **Strategy Discussions:**
+  - Alice proposed new strategies for the ongoing projects.
+  - Discussed resource allocation and budget considerations.
+- **Inter-departmental Support:**
+  - Uma suggested more efficient use of shared resources.
+  - Jane discussed further cybersecurity measures, ensuring compliance.
+
+**Next Steps:**
+- Quinn to refine dashboards as per feedback by 18-FEB-2023.
+- Derek to prioritize and fix reported issues by 20-FEB-2023.
+- Alice and John to finalize new strategies and budget plan by 25-FEB-2023.
+- Uma to ensure resource optimization by next meeting.
+- Jane to provide additional cybersecurity guidelines by 15-FEB-2023.
+
+### Meeting 5: Detailed
+**Date and Time:** 27-FEB-2023, 3:00 PM - 4:30 PM
+
+**Attendees:**
+- Quinn Parker
+- Alice Smith
+- Derek Hill
+- Uma Patel
+- Jane Doe (Illumio - Cybersecurity Specialist)
+- Mark Brown (Microsoft Azure - Cloud Services Expert)
+
+**Absentees:**
+- John Roe
+
+**Agenda:**
+- Finalizing cybersecurity measures
+- Integration with external services
+- Long-term team management
+
+**Discussion Points:**
+- **Cybersecurity Measures:**
+  - Jane discussed final cybersecurity protocols.
+  - Team agreed on implementing Illumio’s solutions.
+- **Integration with External Services:**
+  - Mark from Microsoft Azure discussed integration capabilities.
+  - Uma and Mark discussed how Azure can enhance hybrid cloud solutions.
+- **Long-term Team Management:**
+  - Alice proposed a long-term plan for team growth.
+  - Quinn and Derek agreed to mentor junior staff.
+
+**Next Steps:**
+- Jane to oversee the implementation of Illumio’s solutions by 10-MAR-2023.
+- Uma to coordinate with Mark on Azure integration by 15-MAR-2023.
+- Alice to finalize long-term team management plan by 05-MAR-2023.
+- Quinn and Derek to start mentoring sessions from 01-MAR-2023.
+
+### JSON Data

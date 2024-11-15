@@ -1,0 +1,167 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Emma Lee"
+    },
+    {
+     "name": "Rachel Singh"
+    },
+    {
+     "name": "Tina Foster"
+    },
+    {
+     "name": "Lily Garcia"
+    },
+    {
+     "name": "John Doe"
+    },
+    {
+     "name": "Alan Smith"
+    },
+    {
+     "name": "Mark Evans"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Databricks"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Product Manager"
+    },
+    {
+     "title": "Software Engineer"
+    },
+    {
+     "title": "IT Support Specialist"
+    },
+    {
+     "title": "Marketing Analyst"
+    },
+    {
+     "title": "External Consultant"
+    },
+    {
+     "title": "Sales Representative"
+    },
+    {
+     "title": "Finance Manager"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Google Cloud AI Platform"
+    },
+    {
+     "name": "IBM Cloud Functions"
+    },
+    {
+     "name": "IBM QRadar SIEM"
+    },
+    {
+     "name": "IBM Cloud Satellite"
+    }
+   ],
+   "locations": []
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Lee",
+    "role": "Product Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Emma Lee",
+    "product_service": "Google Cloud AI Platform"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Singh",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Singh",
+    "role": "Software Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Rachel Singh",
+    "product_service": "IBM Cloud Functions"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Tina Foster",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Tina Foster",
+    "role": "IT Support Specialist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Tina Foster",
+    "product_service": "IBM QRadar SIEM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Lily Garcia",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Lily Garcia",
+    "role": "Marketing Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Lily Garcia",
+    "product_service": "IBM Cloud Satellite"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Doe",
+    "organization": "Databricks"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Doe",
+    "role": "External Consultant"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Alan Smith",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Alan Smith",
+    "role": "Sales Representative"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Mark Evans",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Mark Evans",
+    "role": "Finance Manager"
+   }
+  ]
+ }
+}

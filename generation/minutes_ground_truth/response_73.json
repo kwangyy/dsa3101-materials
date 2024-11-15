@@ -1,0 +1,209 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Clara Diaz"
+    },
+    {
+     "name": "Henry Zhou"
+    },
+    {
+     "name": "Derek Hill"
+    },
+    {
+     "name": "Samuel Davis"
+    },
+    {
+     "name": "Jane Smith"
+    },
+    {
+     "name": "Lisa Brown"
+    },
+    {
+     "name": "John Thompson"
+    },
+    {
+     "name": "John Smith"
+    },
+    {
+     "name": "Emma Green"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Cognex"
+    },
+    {
+     "name": "ABC Corp"
+    },
+    {
+     "name": "DEF Industries"
+    }
+   ],
+   "roles": [
+    {
+     "title": "AI Policy Researcher"
+    },
+    {
+     "title": "DevOps Engineer"
+    },
+    {
+     "title": "QA Engineer"
+    },
+    {
+     "title": "Blockchain Developer"
+    },
+    {
+     "title": "External Consultant"
+    },
+    {
+     "title": "Marketing Manager"
+    },
+    {
+     "title": "Client"
+    },
+    {
+     "title": "Legal Advisor"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Headquarters"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM AI OpenScale"
+    },
+    {
+     "name": "IBM Kubernetes Service"
+    },
+    {
+     "name": "IBM Aspera"
+    },
+    {
+     "name": "Hyperledger Fabric"
+    },
+    {
+     "name": "Machine vision systems"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Clara Diaz",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Henry Zhou",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Derek Hill",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Samuel Davis",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Smith",
+    "organization": "Cognex"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Thompson",
+    "organization": "ABC Corp"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "DEF Industries"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Clara Diaz",
+    "role": "AI Policy Researcher"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Henry Zhou",
+    "role": "DevOps Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Derek Hill",
+    "role": "QA Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Samuel Davis",
+    "role": "Blockchain Developer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Smith",
+    "role": "External Consultant"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Lisa Brown",
+    "role": "Marketing Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Thompson",
+    "role": "Client"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "Client"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Green",
+    "role": "Legal Advisor"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Clara Diaz",
+    "product_service": "IBM AI OpenScale"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Henry Zhou",
+    "product_service": "IBM Kubernetes Service"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Derek Hill",
+    "product_service": "IBM Aspera"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "Hyperledger Fabric"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jane Smith",
+    "product_service": "Machine vision systems"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Headquarters"
+   }
+  ]
+ }
+}

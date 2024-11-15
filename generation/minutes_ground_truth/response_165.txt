@@ -1,0 +1,138 @@
+### Meeting Minutes 1: Simple
+**Date and Time:** 05-Oct-2023, 09:00 AM - 09:30 AM
+
+**Attendees:**
+- Emma Lee (Product Manager, IT Department)
+- Abigail Carter (Business Intelligence Analyst, Data Analytics Department)
+- Quinn Parker (Data Analyst, Data Science Department)
+- Alice Smith (Chief Data Officer, R&D Department)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Greetings and Introductions
+- Brief Project Updates
+
+**Discussion Points:**
+- Emma Lee opened the meeting with a welcome message.
+- Each attendee provided a brief update on their current project status:
+  - Emma Lee discussed ongoing strategy plans for Google Cloud AI Platform.
+  - Abigail Carter mentioned enhancements in reporting for IBM Cognos Analytics.
+  - Quinn Parker shared insights from recent data analysis.
+  - Alice Smith talked about the latest developments in Microsoft Azure and Symantec Endpoint Security.
+
+**Next Steps:**
+- Each team member to prepare detailed project updates for the next meeting.
+
+### Meeting Minutes 2: Moderate
+**Date and Time:** 12-Oct-2023, 10:00 AM - 11:00 AM
+
+**Attendees:**
+- Emma Lee (Product Manager, IT Department)
+- Abigail Carter (Business Intelligence Analyst, Data Analytics Department)
+- Quinn Parker (Data Analyst, Data Science Department)
+
+**Absentees:**
+- Alice Smith (Chief Data Officer, R&D Department)
+
+**Agenda:**
+- Project Collaboration Opportunities
+- Resource Allocation
+
+**Discussion Points:**
+- Emma Lee proposed a collaborative project between IT and Data Analytics departments.
+- Abigail Carter discussed the need for advanced reporting features in IBM Cognos Analytics.
+- Quinn Parker suggested potential data sources for enhanced analytics.
+- Decision to allocate additional resources to the collaborative project was made.
+
+**Next Steps:**
+- Emma Lee to draft a project proposal by 20-Oct-2023.
+- Abigail Carter to identify specific reporting needs by 15-Oct-2023.
+- Quinn Parker to gather required data sources by 18-Oct-2023.
+
+### Meeting Minutes 3: Detailed
+**Date and Time:** 20-Oct-2023, 09:00 AM - 10:30 AM
+
+**Attendees:**
+- Emma Lee (Product Manager, IT Department)
+- Abigail Carter (Business Intelligence Analyst, Data Analytics Department)
+- Alice Smith (Chief Data Officer, R&D Department)
+
+**Absentees:**
+- Quinn Parker (Data Analyst, Data Science Department)
+
+**Agenda:**
+- Enterprise-Level Collaboration with Nutanix
+- Enhancing Cloud Solutions
+- Progress Review
+
+**Discussion Points:**
+- Emma Lee welcomed the attendees and introduced the purpose of enterprise-level collaboration.
+- Alice Smith presented the latest advancements in Microsoft Azure and Symantec Endpoint Security.
+- Abigail Carter discussed how enhanced analytics can improve overall performance.
+- Emma Lee proposed collaboration with Nutanix for hybrid and multi-cloud computing infrastructure.
+- Potential challenges in integration with Nutanix were identified and solutions were proposed.
+
+**Next Steps:**
+- Emma Lee to contact Nutanix for potential collaboration by 25-Oct-2023.
+- Alice Smith to evaluate technical feasibility by 30-Oct-2023.
+- Abigail Carter to prepare a performance improvement report by 28-Oct-2023.
+
+### Meeting Minutes 4: Moderate
+**Date and Time:** 02-Nov-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**
+- Emma Lee (Product Manager, IT Department)
+- Abigail Carter (Business Intelligence Analyst, Data Analytics Department)
+- Quinn Parker (Data Analyst, Data Science Department)
+
+**Absentees:**
+- Alice Smith (Chief Data Officer, R&D Department)
+
+**Agenda:**
+- Review of Collaborative Project with Nutanix
+- Next Phases of Implementation
+
+**Discussion Points:**
+- Emma Lee reviewed the progress with Nutanix collaboration.
+- Abigail Carter presented initial performance metrics.
+- Quinn Parker discussed further data analytics opportunities.
+- Decision to move to the next phase of implementation was made.
+
+**Next Steps:**
+- Emma Lee to oversee the next phase of implementation starting 05-Nov-2023.
+- Abigail Carter to update performance metrics weekly.
+- Quinn Parker to provide additional data analysis by 10-Nov-2023.
+
+### Meeting Minutes 5: Detailed
+**Date and Time:** 15-Nov-2023, 09:30 AM - 11:00 AM
+
+**Attendees:**
+- Emma Lee (Product Manager, IT Department)
+- Abigail Carter (Business Intelligence Analyst, Data Analytics Department)
+- Quinn Parker (Data Analyst, Data Science Department)
+- Alice Smith (Chief Data Officer, R&D Department)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Full Review of Current Projects
+- Strategy Discussion
+- Future Roadmap
+
+**Discussion Points:**
+- Emma Lee initiated the meeting by reviewing all current projects.
+- Abigail Carter provided a comprehensive report on the performance of IBM Cognos Analytics.
+- Quinn Parker shared detailed analytics insights and suggested improvements.
+- Alice Smith discussed future developments and potential collaborations.
+- Strategic decisions were made regarding the future roadmap of Google Cloud AI Platform, Microsoft Azure, and Symantec Endpoint Security.
+
+**Next Steps:**
+- Emma Lee to finalize the strategy document by 20-Nov-2023.
+- Abigail Carter to continue monitoring IBM Cognos Analytics performance.
+- Quinn Parker to implement suggested improvements by 25-Nov-2023.
+- Alice Smith to explore further collaboration opportunities by 30-Nov-2023.
+
+### JSON Data

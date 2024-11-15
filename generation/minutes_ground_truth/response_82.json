@@ -1,0 +1,219 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Samuel Davis"
+    },
+    {
+     "name": "Lily Garcia"
+    },
+    {
+     "name": "Clara Diaz"
+    },
+    {
+     "name": "Kevin O'Reilly"
+    },
+    {
+     "name": "David Kim"
+    },
+    {
+     "name": "Nathan Brown"
+    },
+    {
+     "name": "Emma Stone"
+    },
+    {
+     "name": "Olivia Martinez"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Elastic"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Blockchain Developer"
+    },
+    {
+     "title": "Marketing Analyst"
+    },
+    {
+     "title": "AI Policy Researcher"
+    },
+    {
+     "title": "Machine Learning Engineer"
+    },
+    {
+     "title": "AI Ethics Team Lead"
+    },
+    {
+     "title": "Data Analytics Lead"
+    },
+    {
+     "title": "IBM Blockchain Manager"
+    },
+    {
+     "title": "Cloud Solutions Architect"
+    }
+   ],
+   "locations": [
+    {
+     "name": "Innovation Department"
+    },
+    {
+     "name": "Business Strategy Department"
+    },
+    {
+     "name": "Ethics Department"
+    },
+    {
+     "name": "AI Research Department"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Hyperledger Fabric"
+    },
+    {
+     "name": "IBM Blockchain Platform"
+    },
+    {
+     "name": "IBM Cloud Satellite"
+    },
+    {
+     "name": "IBM AI OpenScale"
+    },
+    {
+     "name": "IBM Watson Studio"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Samuel Davis",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Samuel Davis",
+    "role": "Blockchain Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "Hyperledger Fabric"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Lily Garcia",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Lily Garcia",
+    "role": "Marketing Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Lily Garcia",
+    "product_service": "IBM Cloud Satellite"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Clara Diaz",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Clara Diaz",
+    "role": "AI Policy Researcher"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Clara Diaz",
+    "product_service": "IBM AI OpenScale"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Kevin O'Reilly",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Kevin O'Reilly",
+    "role": "Machine Learning Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Kevin O'Reilly",
+    "product_service": "IBM Watson Studio"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "David Kim",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "David Kim",
+    "role": "AI Ethics Team Lead"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Nathan Brown",
+    "organization": "Elastic"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Nathan Brown",
+    "role": "Data Analytics Lead"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Stone",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Stone",
+    "role": "IBM Blockchain Manager"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Olivia Martinez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Olivia Martinez",
+    "role": "Cloud Solutions Architect"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Innovation Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Business Strategy Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Ethics Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "AI Research Department"
+   }
+  ]
+ }
+}

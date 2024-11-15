@@ -1,0 +1,182 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Lily Garcia"
+    },
+    {
+     "name": "Alice Smith"
+    },
+    {
+     "name": "Paul Hernandez"
+    },
+    {
+     "name": "Carol Nguyen"
+    },
+    {
+     "name": "John Doe"
+    },
+    {
+     "name": "Jane Brown"
+    },
+    {
+     "name": "Jim Green"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "C3.ai"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Marketing Analyst"
+    },
+    {
+     "title": "Chief Data Officer"
+    },
+    {
+     "title": "Systems Engineer"
+    },
+    {
+     "title": "Junior Data Scientist"
+    },
+    {
+     "title": "IT Project Manager"
+    },
+    {
+     "title": "C3.ai representative"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Cloud Satellite"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "Symantec Endpoint Security"
+    },
+    {
+     "name": "IBM Z systems"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Satellite"
+    },
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "Symantec Endpoint Security"
+    },
+    {
+     "name": "IBM Z systems"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Lily Garcia",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Lily Garcia",
+    "role": "Marketing Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Lily Garcia",
+    "product_service": "IBM Cloud Satellite"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Alice Smith",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Alice Smith",
+    "role": "Chief Data Officer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Alice Smith",
+    "product_service": "Symantec Endpoint Security"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Paul Hernandez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Paul Hernandez",
+    "role": "Systems Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Paul Hernandez",
+    "product_service": "IBM Z systems"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Carol Nguyen",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Carol Nguyen",
+    "role": "Junior Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Carol Nguyen",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Doe",
+    "organization": "C3.ai"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Doe",
+    "role": "C3.ai representative"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Brown",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Brown",
+    "role": "IT Project Manager"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jim Green",
+    "organization": "C3.ai"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jim Green",
+    "role": "C3.ai representative"
+   }
+  ]
+ }
+}

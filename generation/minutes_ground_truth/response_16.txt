@@ -1,0 +1,173 @@
+### Meeting Minutes 1: Simple
+**Date and Time**: 12-Oct-2023, 09:00 AM - 09:30 AM
+
+**Attendees**:
+- Victor Ramos (Note taker)
+- Emma Lee
+- David Patel
+- Oliver James
+
+**Agenda**:
+1. Brief project updates
+2. Service integration issues
+
+**Discussion Points**:
+- **Project Updates**:
+  - Victor: Completed a new bot to streamline internal reporting.
+  - Emma: Ongoing discussions with Google Cloud AI team for new features.
+  - David: Working on improving AWS architecture for new client.
+  - Oliver: Recent advancements in natural language processing for IBM Watson Language Translator.
+
+- **Service Integration**:
+  - Discussed the challenges of integrating new services into existing platforms.
+  - Emma highlighted the need for seamless integration with Google Cloud AI.
+  - David suggested using specific AWS tools to facilitate the integration process.
+
+**Next Steps**:
+- Victor to run tests on the new bot by 14-Oct-2023.
+- Emma to schedule a meeting with the Google Cloud AI team by 16-Oct-2023.
+- David to prepare a detailed plan for AWS architecture improvements by 18-Oct-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+**Date and Time**: 15-Oct-2023, 10:00 AM - 11:00 AM
+
+**Attendees**:
+- Victor Ramos
+- Emma Lee
+- David Patel (Note taker)
+- Oliver James
+- Jane Smith (Illumio, Cybersecurity Specialist)
+
+**Agenda**:
+1. Service integration strategies
+2. Security concerns with new integrations
+3. Collaboration opportunities with Illumio
+
+**Discussion Points**:
+- **Service Integration Strategies**:
+  - Reviewed best practices for integrating services into IBM’s platforms.
+  - Emma stressed the importance of aligning product strategy with integration plans.
+  - David proposed using AWS CloudFormation templates for easier integration.
+
+- **Security Concerns**:
+  - Jane Smith from Illumio discussed potential security risks.
+  - Recommended implementing zero-trust segmentation to enhance security.
+
+- **Collaboration with Illumio**:
+  - Discussed potential areas of collaboration.
+  - Agreed to set up a follow-up meeting with the Illumio team.
+
+**Next Steps**:
+- Emma to align product strategy with integration plans by 20-Oct-2023.
+- David to implement AWS CloudFormation templates by 22-Oct-2023.
+- Jane to send a detailed security report by 18-Oct-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+**Date and Time**: 20-Oct-2023, 02:00 PM - 03:30 PM
+
+**Attendees**:
+- Victor Ramos
+- Emma Lee
+- David Patel
+- Oliver James (Note taker)
+- Sarah Johnson (Cloud Consultant)
+
+**Agenda**:
+1. Advanced service integration techniques
+2. RPA development updates
+3. AI research advancements
+
+**Discussion Points**:
+- **Advanced Service Integration**:
+  - Sarah Johnson discussed advanced techniques for service integration.
+  - Highlighted the importance of microservices architecture for scalability.
+
+- **RPA Development**:
+  - Victor shared updates on recent RPA developments.
+  - Discussed potential areas for automation using IBM RPA.
+
+- **AI Research**:
+  - Oliver presented recent research findings in natural language processing.
+  - Discussed the implications of these advancements for IBM Watson Language Translator.
+
+**Next Steps**:
+- Sarah to provide a detailed report on microservices architecture by 25-Oct-2023.
+- Victor to identify new areas for RPA implementation by 28-Oct-2023.
+- Oliver to prepare a white paper on AI research findings by 30-Oct-2023.
+
+---
+
+### Meeting Minutes 4: Simple
+**Date and Time**: 25-Oct-2023, 11:00 AM - 11:30 AM
+
+**Attendees**:
+- Victor Ramos
+- Emma Lee (Note taker)
+- David Patel
+- Oliver James
+
+**Agenda**:
+1. Quick project updates
+2. Follow-up on previous meeting actions
+
+**Discussion Points**:
+- **Project Updates**:
+  - Victor: Successful test run of the new bot.
+  - Emma: Product strategy meeting with Google Cloud AI scheduled.
+  - David: AWS architecture plan completed.
+  - Oliver: White paper on AI research in progress.
+
+- **Follow-up**:
+  - Reviewed action items from the previous meeting.
+  - Ensured all deadlines are on track.
+
+**Next Steps**:
+- Oliver to finalize the white paper by 30-Oct-2023.
+- Emma to meet with Google Cloud AI team as planned on 16-Oct-2023.
+- Victor to deploy the new bot by 27-Oct-2023.
+
+---
+
+### Meeting Minutes 5: Detailed
+**Date and Time**: 30-Oct-2023, 03:00 PM - 04:30 PM
+
+**Attendees**:
+- Victor Ramos
+- Emma Lee
+- David Patel (Note taker)
+- Oliver James
+- Sarah Johnson
+- Jane Smith
+
+**Agenda**:
+1. Final review of integration projects
+2. Security assessment and recommendations
+3. Future collaboration opportunities
+
+**Discussion Points**:
+- **Integration Projects**:
+  - Reviewed the progress of ongoing service integrations.
+  - Emma emphasized aligning with the latest Google Cloud AI features.
+  - David discussed optimization of AWS infrastructure.
+
+- **Security Assessment**:
+  - Jane Smith provided a comprehensive security assessment.
+  - Recommended deploying additional security measures.
+
+- **Collaboration Opportunities**:
+  - Discussed potential future projects with Illumio and other partners.
+  - Identified key areas for collaboration in AI and cloud technologies.
+
+**Next Steps**:
+- Emma to align new features with Google Cloud AI by 05-Nov-2023.
+- David to implement security recommendations by 07-Nov-2023.
+- Jane to provide additional security training by 10-Nov-2023.
+- Sarah to draft a proposal for future collaborations by 12-Nov-2023.
+
+---
+
+### JSON Ground Truth Data

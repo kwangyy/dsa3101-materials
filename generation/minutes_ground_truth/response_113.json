@@ -1,0 +1,158 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Carol Nguyen"
+    },
+    {
+     "name": "David Patel"
+    },
+    {
+     "name": "Yasmine Ali"
+    },
+    {
+     "name": "Henry Zhou"
+    },
+    {
+     "name": "John Smith"
+    },
+    {
+     "name": "Sarah Brown"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Databricks"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Junior Data Scientist"
+    },
+    {
+     "title": "Cloud Architect"
+    },
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "DevOps Engineer"
+    },
+    {
+     "title": "Data Engineering Lead"
+    },
+    {
+     "title": "Marketing"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "Amazon Web Services (AWS)"
+    },
+    {
+     "name": "IBM Planning Analytics"
+    },
+    {
+     "name": "IBM Kubernetes Service"
+    },
+    {
+     "name": "Apache Spark"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Carol Nguyen",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "David Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Yasmine Ali",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Henry Zhou",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "Databricks"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah Brown",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Carol Nguyen",
+    "role": "Junior Data Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "David Patel",
+    "role": "Cloud Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Yasmine Ali",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Henry Zhou",
+    "role": "DevOps Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "Data Engineering Lead"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah Brown",
+    "role": "Marketing"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Carol Nguyen",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "David Patel",
+    "product_service": "Amazon Web Services (AWS)"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Yasmine Ali",
+    "product_service": "IBM Planning Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Henry Zhou",
+    "product_service": "IBM Kubernetes Service"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Smith",
+    "product_service": "Apache Spark"
+   }
+  ]
+ }
+}

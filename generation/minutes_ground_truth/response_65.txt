@@ -1,0 +1,159 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time:** 01-Oct-2023, 09:00 - 09:30
+
+**Attendees:**
+- Rachel Singh
+- Michael Turner (Note Taker)
+- Alice Smith
+
+**Absentees:**
+- Wendy Chen
+
+**Agenda:**
+- Project updates
+
+**Discussion Points:**
+- Rachel provided an update on the backend development for IBM Cloud Functions.
+  - Progress: 70% completed.
+  - Challenges: Integration with existing systems.
+- Michael discussed security protocols for Microsoft Azure.
+  - Status: Initial draft completed.
+  - Challenges: Compatibility with existing IBM frameworks.
+- Alice briefly mentioned the oversight on Microsoft Azure development.
+  - Progress: On track.
+  - Issues: None.
+
+**Next Steps:**
+- Rachel to complete integration by 10-Oct-2023.
+- Michael to finalize security protocols by 15-Oct-2023.
+- Alice to review overall progress in the next meeting on 20-Oct-2023.
+
+
+### Meeting Minutes 2 (Moderate)
+**Date and Time:** 10-Oct-2023, 14:00 - 15:00
+
+**Attendees:**
+- Rachel Singh
+- Michael Turner
+- Wendy Chen (Note Taker)
+- Alice Smith
+
+**Agenda:**
+- Project updates
+- Inter-department collaboration proposals
+
+**Discussion Points:**
+- Rachel updated on backend development:
+  - 80% completed.
+  - Proposed a new tool for better integration.
+- Michael discussed enhanced security protocols for Azure.
+  - Suggested collaboration with Wendy for AI-based security solutions.
+- Wendy shared AI solutions progress for IBM Maximo Asset Management.
+  - AI predictive analytics model developed.
+  - Open to collaborating with the Cloud Solutions team for data sharing.
+- Alice provided an overview of data management across departments.
+
+**Next Steps:**
+- Rachel to investigate the new integration tool by 17-Oct-2023.
+- Michael and Wendy to set up a meeting for AI-security collaboration by 15-Oct-2023.
+- Alice to ensure data consistency across departments by 20-Oct-2023.
+
+
+### Meeting Minutes 3 (Detailed)
+**Date and Time:** 20-Oct-2023, 10:00 - 11:30
+
+**Attendees:**
+- Rachel Singh
+- Michael Turner
+- Wendy Chen
+- Alice Smith (Note Taker)
+- John Doe (Data Engineer from Databricks)
+
+**Agenda:**
+- Detailed project updates
+- Collaboration with external entities (Databricks)
+- Potential challenges and solutions
+
+**Discussion Points:**
+- Rachel provided a comprehensive update:
+  - Backend development at 90%.
+  - Integration tool tested and implemented.
+  - Action: Full deployment by 30-Oct-2023.
+- Michael discussed updated security protocols:
+  - Collaboration with Wendy resulted in AI-enhanced security.
+  - Challenges in real-time data monitoring.
+  - Proposed Solution: Utilize Databricks for real-time analytics.
+- Wendy shared AI advancements:
+  - Predictive model accuracy improved by 15%.
+  - Integration with Cloud solutions for better data flow.
+- John Doe from Databricks discussed potential collaboration:
+  - Offered real-time data analytics support.
+  - Action: Set up a pilot project by 01-Nov-2023.
+- Alice provided an overview of ongoing research and development:
+  - Data consistency maintained.
+  - Future projects to involve cross-departmental teams.
+
+**Next Steps:**
+- Rachel to complete backend deployment by 30-Oct-2023.
+- Michael and Wendy to monitor AI-based security in real-time with Databricks support by 05-Nov-2023.
+- John Doe to initiate pilot project setup by 01-Nov-2023.
+- Alice to ensure successful data integration across new projects by 10-Nov-2023.
+
+
+### Meeting Minutes 4 (Simple)
+**Date and Time:** 05-Nov-2023, 09:00 - 09:30
+
+**Attendees:**
+- Rachel Singh
+- Michael Turner (Note Taker)
+
+**Absentees:**
+- Wendy Chen
+- Alice Smith
+
+**Agenda:**
+- Quick project status check
+
+**Discussion Points:**
+- Rachel confirmed backend deployment completion.
+  - No issues reported post-deployment.
+- Michael updated on real-time security monitoring:
+  - Initial results positive.
+  - Action: Continue monitoring for another two weeks.
+
+**Next Steps:**
+- Rachel to start next backend module by 15-Nov-2023.
+- Michael to provide detailed monitoring report by 20-Nov-2023.
+
+
+### Meeting Minutes 5 (Moderate)
+**Date and Time:** 15-Nov-2023, 14:00 - 15:00
+
+**Attendees:**
+- Rachel Singh
+- Michael Turner (Note Taker)
+- Wendy Chen
+- Alice Smith
+
+**Agenda:**
+- Project updates
+- Strategy discussion
+
+**Discussion Points:**
+- Rachel began the new backend module:
+  - Early stages, no issues yet.
+- Michael discussed continued success of AI-enhanced security monitoring:
+  - Real-time analytics with Databricks proving effective.
+- Wendy shared updates on AI solutions:
+  - Next phase of predictive analytics to start soon.
+- Alice discussed strategic direction:
+  - Future focus on stronger cross-departmental collaboration.
+
+**Next Steps:**
+- Rachel to provide initial results of new backend module by 25-Nov-2023.
+- Michael to finalize the security report by 20-Nov-2023.
+- Wendy to start the next phase of AI solutions by 01-Dec-2023.
+- Alice to draft a strategic plan for cross-departmental projects by 30-Nov-2023.
+
+
+### JSON Relationship Data

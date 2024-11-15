@@ -1,0 +1,166 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Paul Hernandez"
+    },
+    {
+     "name": "Wendy Chen"
+    },
+    {
+     "name": "Derek Hill"
+    },
+    {
+     "name": "Emma Lee"
+    },
+    {
+     "name": "Mark Johnson"
+    },
+    {
+     "name": "Sarah Adams"
+    },
+    {
+     "name": "John Davis"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "DigitalOcean"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Systems Engineer"
+    },
+    {
+     "title": "AI Solutions Architect"
+    },
+    {
+     "title": "QA Engineer"
+    },
+    {
+     "title": "Product Manager"
+    },
+    {
+     "title": "Cloud Solutions Architect"
+    },
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "Cloud Operations Manager"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Z systems infrastructure"
+    },
+    {
+     "name": "IBM Maximo Asset Management"
+    },
+    {
+     "name": "IBM Aspera"
+    },
+    {
+     "name": "Google Cloud AI Platform"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Paul Hernandez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Paul Hernandez",
+    "role": "Systems Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Paul Hernandez",
+    "product_service": "IBM Z systems infrastructure"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Wendy Chen",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Wendy Chen",
+    "role": "AI Solutions Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Wendy Chen",
+    "product_service": "IBM Maximo Asset Management"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Derek Hill",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Derek Hill",
+    "role": "QA Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Derek Hill",
+    "product_service": "IBM Aspera"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Lee",
+    "role": "Product Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Emma Lee",
+    "product_service": "Google Cloud AI Platform"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Mark Johnson",
+    "organization": "DigitalOcean"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Mark Johnson",
+    "role": "Cloud Solutions Architect"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Sarah Adams",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Sarah Adams",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Davis",
+    "organization": "DigitalOcean"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Davis",
+    "role": "Cloud Operations Manager"
+   }
+  ]
+ }
+}

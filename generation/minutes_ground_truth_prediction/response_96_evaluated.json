@@ -1,0 +1,155 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Ivy Bennett"
+                },
+                {
+                    "name": "Paul Hernandez"
+                },
+                {
+                    "name": "Victor Ramos"
+                },
+                {
+                    "name": "Brian Taylor"
+                },
+                {
+                    "name": "John Smith"
+                },
+                {
+                    "name": "Sarah White"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Data Management"
+                },
+                {
+                    "name": "Automation Department"
+                },
+                {
+                    "name": "Nutanix"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Notes"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "ETL pipeline"
+                },
+                {
+                    "name": "IBM Db2"
+                },
+                {
+                    "name": "IBM Z systems"
+                },
+                {
+                    "name": "RPA bots"
+                },
+                {
+                    "name": "Azure data science models"
+                },
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "Azure Machine Learning"
+                },
+                {
+                    "name": "Nutanix infrastructure"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Ivy Bennett",
+                "organization": "Data Management"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Paul Hernandez",
+                "organization": "Automation Department"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "Automation Department"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Brian Taylor",
+                "organization": "Data Management"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "Nutanix"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Ivy Bennett",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Paul Hernandez",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Victor Ramos",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Brian Taylor",
+                "role": "Notes"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "ETL pipeline"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Paul Hernandez",
+                "product_service": "IBM Db2"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "RPA bots"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Brian Taylor",
+                "product_service": "Azure data science models"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Data Management",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Automation Department",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Nutanix",
+                "location": "New York"
+            }
+        ]
+    }
+}

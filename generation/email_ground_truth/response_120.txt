@@ -1,0 +1,67 @@
+### Email Thread
+
+#### Email 1: From Abigail Carter to Quinn Parker, CC: Brian Taylor
+**Subject:** Update on IBM Cognos Analytics Reporting
+
+Hi Quinn,
+
+I hope you are doing well. I wanted to share the latest updates on the reporting and dashboards for IBM Cognos Analytics. We've implemented new KPIs and metrics that our clients have been asking for. 
+
+Could you please provide some insights on how these updates have impacted the overall analytics performance? Any trends or anomalies you can spot?
+
+Thanks,
+Abigail Carter
+Business Intelligence Analyst, Data Analytics Department
+IBM
+
+---
+
+#### Email 2: From Quinn Parker to Abigail Carter, CC: Brian Taylor
+**Subject:** Re: Update on IBM Cognos Analytics Reporting
+
+Hi Abigail,
+
+Thanks for the update. I have analyzed the latest data and I see a significant improvement in user engagement with the new KPIs and metrics. There are also some interesting trends in user interactions that I'd like to discuss further.
+
+Brian, could you assist in verifying some of these trends using Microsoft Azure? Your expertise would be invaluable.
+
+Best,
+Quinn Parker
+Data Analyst, Data Science Department
+IBM
+
+---
+
+#### Email 3: From Brian Taylor to Quinn Parker and Abigail Carter
+**Subject:** Re: Update on IBM Cognos Analytics Reporting
+
+Hi Quinn, Abigail,
+
+I reviewed the data on Microsoft Azure, and I can confirm the trends you've identified. There are some interesting patterns in user behavior that align with the recent updates. I suggest we set up a meeting to discuss these findings and next steps.
+
+Paul, could you ensure our IBM Z systems infrastructure is optimized for these analytics tasks? We might need to handle increased data loads.
+
+Best,
+Brian Taylor
+Senior Data Scientist, R&D Department
+IBM
+
+---
+
+#### Email 4: From Paul Hernandez to Brian Taylor, Quinn Parker, and Abigail Carter
+**Subject:** Re: Update on IBM Cognos Analytics Reporting
+
+Hi Team,
+
+I’ve checked our IBM Z systems, and we are well-prepared to handle the increased data load. I will continue to monitor the systems to ensure everything runs smoothly.
+
+Please let me know if there's anything else you need from the IT Support side.
+
+Regards,
+Paul Hernandez
+Systems Engineer, IT Support Department
+IBM
+
+---
+
+### JSON Object

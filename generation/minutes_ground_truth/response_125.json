@@ -1,0 +1,173 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Brian Taylor"
+    },
+    {
+     "name": "Michael Turner"
+    },
+    {
+     "name": "Henry Zhou"
+    },
+    {
+     "name": "Yasmine Ali"
+    },
+    {
+     "name": "Jane Doe"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Cognex"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Senior Data Scientist"
+    },
+    {
+     "title": "Cloud Security Architect"
+    },
+    {
+     "title": "DevOps Engineer"
+    },
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "Machine Vision Specialist"
+    }
+   ],
+   "locations": [
+    {
+     "name": "R&D Department"
+    },
+    {
+     "name": "Cybersecurity Department"
+    },
+    {
+     "name": "Operations Department"
+    },
+    {
+     "name": "Research & Analytics Department"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Planning Analytics"
+    },
+    {
+     "name": "IBM Kubernetes Service"
+    },
+    {
+     "name": "Machine Vision Systems"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Brian Taylor",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Brian Taylor",
+    "role": "Senior Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Brian Taylor",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Brian Taylor",
+    "location": "R&D Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Turner",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Turner",
+    "role": "Cloud Security Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Turner",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Michael Turner",
+    "location": "Cybersecurity Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Henry Zhou",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Henry Zhou",
+    "role": "DevOps Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Henry Zhou",
+    "product_service": "IBM Kubernetes Service"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Henry Zhou",
+    "location": "Operations Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Yasmine Ali",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Yasmine Ali",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Yasmine Ali",
+    "product_service": "IBM Planning Analytics"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Yasmine Ali",
+    "location": "Research & Analytics Department"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Doe",
+    "organization": "Cognex"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Doe",
+    "role": "Machine Vision Specialist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jane Doe",
+    "product_service": "Machine Vision Systems"
+   }
+  ]
+ }
+}

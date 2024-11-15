@@ -1,0 +1,147 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:** 01-Sep-2023, 10:00 AM - 10:30 AM  
+**Attendees:**  
+- Abigail Carter  
+- Benji Martinez  
+- David Patel  
+- Kevin O'Reilly  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Project updates  
+- Inter-department collaboration  
+
+**Discussion Points:**  
+- Abigail provided updates on current reporting and dashboard projects.  
+- Benji discussed infrastructure improvements for IBM Cloud Object Storage.  
+- David mentioned recent AWS architecture enhancements.  
+- Kevin shared developments in machine learning models for IBM Watson Studio.  
+
+**Next Steps:**  
+- Abigail to finalize new dashboard by 10-Sep-2023.  
+- Benji to implement infrastructure changes by 15-Sep-2023.  
+- David to review AWS enhancements and report back by 20-Sep-2023.  
+- Kevin to test new ML models and share results by 25-Sep-2023.  
+
+---
+
+### Meeting Minutes 2: Moderate
+
+**Date and Time:** 15-Sep-2023, 11:00 AM - 12:00 PM  
+**Attendees:**  
+- Abigail Carter  
+- Benji Martinez  
+- David Patel  
+
+**Absentees:**  
+- Kevin O'Reilly  
+
+**Agenda:**  
+- Collaboration on IBM Cloud Object Storage and AWS  
+- Potential integration with Cognex  
+
+**Discussion Points:**  
+- Benji proposed a joint project for improving data storage solutions using AWS.  
+- David highlighted challenges in cloud architecture but agreed to collaborate.  
+- Abigail suggested incorporating Cognex for enhanced automation and analytics.  
+- Group discussed potential benefits and challenges of the Cognex integration.  
+
+**Next Steps:**  
+- Benji to draft project plan by 20-Sep-2023.  
+- David to conduct a feasibility study on Cognex integration by 22-Sep-2023.  
+- Abigail to prepare a presentation on Cognex benefits by 25-Sep-2023.  
+
+---
+
+### Meeting Minutes 3: Detailed
+
+**Date and Time:** 01-Oct-2023, 2:00 PM - 3:30 PM  
+**Attendees:**  
+- Abigail Carter  
+- Benji Martinez  
+- Kevin O'Reilly  
+
+**Absentees:**  
+- David Patel  
+
+**Agenda:**  
+- IBM Watson Studio updates  
+- Infrastructure for new ML models  
+- Future collaboration with external entities  
+
+**Discussion Points:**  
+- Kevin presented new machine learning models and their potential applications.  
+- Benji discussed the infrastructure requirements for deploying these models.  
+- Abigail suggested integrating these models into existing dashboards for better insights.  
+- Group identified potential external collaborations, including Cognex for advanced automation.  
+
+**Next Steps:**  
+- Kevin to refine ML models and share with Benji by 10-Oct-2023.  
+- Benji to ensure infrastructure readiness by 15-Oct-2023.  
+- Abigail to update dashboards incorporating new models by 20-Oct-2023.  
+- Team to reach out to Cognex for potential collaboration by 25-Oct-2023.  
+
+---
+
+### Meeting Minutes 4: Simple
+
+**Date and Time:** 15-Oct-2023, 9:00 AM - 9:30 AM  
+**Attendees:**  
+- Abigail Carter  
+- David Patel  
+
+**Absentees:**  
+- Benji Martinez  
+- Kevin O'Reilly  
+
+**Agenda:**  
+- Quick follow-up on ongoing projects  
+
+**Discussion Points:**  
+- Abigail updated on dashboard enhancements.  
+- David shared progress on AWS infrastructure improvements.  
+
+**Next Steps:**  
+- Abigail to complete enhancements by 20-Oct-2023.  
+- David to finalize infrastructure changes by 25-Oct-2023.  
+
+---
+
+### Meeting Minutes 5: Detailed
+
+**Date and Time:** 01-Nov-2023, 3:00 PM - 4:30 PM  
+**Attendees:**  
+- Abigail Carter  
+- Benji Martinez  
+- David Patel  
+- Kevin O'Reilly  
+- John Doe (Cognex, Automation Specialist)
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Review of recent projects  
+- Collaboration with Cognex  
+- Strategy for next quarter  
+
+**Discussion Points:**  
+- Abigail reviewed the status of reporting and dashboard projects.  
+- Benji detailed improvements in IBM Cloud Object Storage infrastructure.  
+- David discussed AWS architecture updates and potential challenges.  
+- Kevin shared advancements in ML models and potential new applications.  
+- John Doe from Cognex discussed the capabilities of machine vision systems for automation.  
+- Group explored collaboration opportunities with Cognex to enhance analytics and automation.  
+
+**Next Steps:**  
+- Abigail to integrate Cognex systems into dashboards by 10-Nov-2023.  
+- Benji to evaluate infrastructure compatibility with Cognex by 15-Nov-2023.  
+- David to work with Cognex team to align AWS architecture by 20-Nov-2023.  
+- Kevin to develop new ML models incorporating Cognex data by 25-Nov-2023.  
+
+---
+
+### JSON Data

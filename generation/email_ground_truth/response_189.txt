@@ -1,0 +1,99 @@
+### Email Thread:
+
+**Email 1:**
+
+From: Rachel Singh <rachel.singh@ibm.com>  
+To: David Patel <david.patel@ibm.com>  
+CC: Kevin O'Reilly <kevin.oreilly@ibm.com>, Yasmine Ali <yasmine.ali@ibm.com>  
+Subject: Collaboration on AWS Infrastructure for New Project
+
+Hi David,
+
+I hope this email finds you well. As we discussed last week, our team in the Cloud Solutions Department is kicking off a new project that will leverage IBM Cloud Functions to build a serverless backend. We need your expertise in architecting the AWS infrastructure to ensure seamless integration and scalability.
+
+Kevin and Yasmine will also be involved as we’ll need to incorporate machine learning models from IBM Watson Studio and predictive analytics from IBM Planning Analytics.
+
+Could we schedule a meeting later this week to go over the requirements and draft an initial plan?
+
+Best regards,  
+Rachel Singh  
+Software Engineer, Cloud Solutions Department  
+IBM
+
+---
+
+**Email 2:**
+
+From: David Patel <david.patel@ibm.com>  
+To: Rachel Singh <rachel.singh@ibm.com>  
+CC: Kevin O'Reilly <kevin.oreilly@ibm.com>, Yasmine Ali <yasmine.ali@ibm.com>  
+Subject: Re: Collaboration on AWS Infrastructure for New Project
+
+Hi Rachel,
+
+Thank you for reaching out. I’m excited to collaborate on this project. Integrating IBM Cloud Functions with AWS is a crucial step, and I believe our combined efforts will ensure its success.
+
+I’m available for a meeting on Thursday at 2 PM. Does this time work for everyone?
+
+Best,  
+David Patel  
+Cloud Architect, IT Department  
+IBM
+
+---
+
+**Email 3:**
+
+From: Yasmine Ali <yasmine.ali@ibm.com>  
+To: David Patel <david.patel@ibm.com>, Rachel Singh <rachel.singh@ibm.com>  
+CC: Kevin O'Reilly <kevin.oreilly@ibm.com>  
+Subject: Re: Collaboration on AWS Infrastructure for New Project
+
+Hi David, Rachel,
+
+Thursday at 2 PM works for me. I’ll prepare an overview of the predictive models we plan to use with IBM Planning Analytics.
+
+Looking forward to our meeting.
+
+Best,  
+Yasmine Ali  
+Data Scientist, Research & Analytics Department  
+IBM
+
+---
+
+**Email 4:**
+
+From: Kevin O'Reilly <kevin.oreilly@ibm.com>  
+To: David Patel <david.patel@ibm.com>, Rachel Singh <rachel.singh@ibm.com>, Yasmine Ali <yasmine.ali@ibm.com>  
+Subject: Re: Collaboration on AWS Infrastructure for New Project
+
+Hi everyone,
+
+Thursday at 2 PM works for me as well. I’ll bring a demo of the machine learning models we’ve developed using IBM Watson Studio to the meeting.
+
+Looking forward to collaborating with all of you.
+
+Best regards,  
+Kevin O'Reilly  
+Machine Learning Engineer, AI Research Department  
+IBM
+
+---
+
+**Email 5:**
+
+From: Rachel Singh <rachel.singh@ibm.com>  
+To: David Patel <david.patel@ibm.com>, Yasmine Ali <yasmine.ali@ibm.com>, Kevin O'Reilly <kevin.oreilly@ibm.com>  
+Subject: Re: Collaboration on AWS Infrastructure for New Project
+
+Thank you all for confirming. I’ll send out a calendar invite for our meeting on Thursday at 2 PM.
+
+Best regards,  
+Rachel Singh  
+Software Engineer, Cloud Solutions Department  
+IBM
+
+---
+
+### JSON Object:

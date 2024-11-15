@@ -1,0 +1,176 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Tina Foster"
+    },
+    {
+     "name": "Oliver James"
+    },
+    {
+     "name": "Kevin O'Reilly"
+    },
+    {
+     "name": "Xander Williams"
+    },
+    {
+     "name": "George Patterson"
+    },
+    {
+     "name": "Clara Robertson"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "HashiCorp"
+    }
+   ],
+   "roles": [
+    {
+     "title": "IT Support Specialist"
+    },
+    {
+     "title": "AI Research Scientist"
+    },
+    {
+     "title": "Machine Learning Engineer"
+    },
+    {
+     "title": "Mobile App Developer"
+    },
+    {
+     "title": "Project Manager"
+    },
+    {
+     "title": "Cybersecurity Specialist"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM QRadar SIEM"
+    },
+    {
+     "name": "IBM Watson Language Translator"
+    },
+    {
+     "name": "IBM Watson Studio"
+    },
+    {
+     "name": "IBM MobileFirst Platform"
+    },
+    {
+     "name": "HashiCorp Infrastructure Automation"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Headquarters"
+    },
+    {
+     "name": "HashiCorp Offices"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Tina Foster",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Tina Foster",
+    "role": "IT Support Specialist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Tina Foster",
+    "product_service": "IBM QRadar SIEM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Oliver James",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Oliver James",
+    "role": "AI Research Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Oliver James",
+    "product_service": "IBM Watson Language Translator"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Kevin O'Reilly",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Kevin O'Reilly",
+    "role": "Machine Learning Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Kevin O'Reilly",
+    "product_service": "IBM Watson Studio"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Xander Williams",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Xander Williams",
+    "role": "Mobile App Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Xander Williams",
+    "product_service": "IBM MobileFirst Platform"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "George Patterson",
+    "organization": "HashiCorp"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "George Patterson",
+    "role": "Project Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "George Patterson",
+    "product_service": "HashiCorp Infrastructure Automation"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Clara Robertson",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Clara Robertson",
+    "role": "Cybersecurity Specialist"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Headquarters"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "HashiCorp",
+    "location": "HashiCorp Offices"
+   }
+  ]
+ }
+}

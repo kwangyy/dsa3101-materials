@@ -1,0 +1,166 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:** 12-Jul-2023, 10:00 AM - 10:30 AM  
+**Attendees:**
+- Yasmine Ali (Note taker)
+- Samuel Davis
+- Oliver James
+- Franklin Moore
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Project updates
+- Innovation initiatives
+
+**Discussion Points:**
+- Yasmine Ali provided updates on predictive model development for IBM Planning Analytics.
+- Samuel Davis shared progress on Hyperledger Fabric projects for IBM Blockchain Platform.
+- Franklin Moore discussed new APIs being developed for IBM Watson Assistant.
+- Oliver James spoke about advancements in natural language processing for IBM Watson Language Translator.
+
+**Next Steps:**
+- Yasmine to complete predictive model development by 20-Jul-2023.
+- Samuel to finish blockchain project documentation by 25-Jul-2023.
+- Franklin to deploy new APIs by 22-Jul-2023.
+- Oliver to finalize NLP improvements by 28-Jul-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+
+**Date and Time:** 25-Jul-2023, 02:00 PM - 03:00 PM  
+**Attendees:**
+- Yasmine Ali
+- Samuel Davis (Note taker)
+- Oliver James
+- Franklin Moore
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Project updates
+- Cross-departmental collaboration
+- Innovation initiatives
+
+**Discussion Points:**
+- Yasmine Ali presented a detailed update on the performance of new predictive models.
+- Samuel Davis discussed integration challenges with external blockchain solutions.
+- Oliver James highlighted recent NLP algorithm optimizations.
+- Franklin Moore proposed a new API framework for better scalability.
+
+**Next Steps:**
+- Yasmine to present predictive model findings at the next team meeting on 01-Aug-2023.
+- Samuel to coordinate with external partners (Cloudera) for blockchain integration by 05-Aug-2023.
+- Oliver to submit a report on NLP algorithm performance by 10-Aug-2023.
+- Franklin to implement new API framework by 15-Aug-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+
+**Date and Time:** 08-Aug-2023, 09:00 AM - 10:30 AM  
+**Attendees:**
+- Yasmine Ali
+- Samuel Davis
+- Oliver James
+- Franklin Moore (Note taker)
+
+**Additional Attendees:**
+- Peter Johnson (Cloudera, Data Scientist)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Project updates
+- Collaboration with Cloudera
+- Innovation initiatives
+- Risk assessment
+
+**Discussion Points:**
+- Yasmine Ali shared improvements in model accuracy for IBM Planning Analytics.
+- Samuel Davis discussed a successful pilot with Cloudera's data platform.
+- Peter Johnson provided insights into Cloudera's machine learning capabilities and potential collaborations.
+- Oliver James suggested applying NLP models for new use cases within IBM Watson.
+- Franklin Moore presented a risk assessment for the new API framework and discussed mitigation strategies.
+
+**Next Steps:**
+- Yasmine to share improved model metrics by 15-Aug-2023.
+- Samuel and Peter to draft a collaboration proposal by 20-Aug-2023.
+- Oliver to explore new NLP applications and report findings by 25-Aug-2023.
+- Franklin to refine API risk mitigation plan by 18-Aug-2023.
+
+---
+
+### Meeting Minutes 4: Moderate
+
+**Date and Time:** 22-Aug-2023, 11:00 AM - 12:00 PM  
+**Attendees:**
+- Yasmine Ali
+- Samuel Davis
+- Oliver James (Note taker)
+- Franklin Moore
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Project updates
+- Departmental synergies
+- Innovation initiatives
+
+**Discussion Points:**
+- Yasmine Ali presented a predictive analysis report and its business impact.
+- Samuel Davis discussed blockchain security enhancements.
+- Franklin Moore proposed integrating new APIs into existing systems to streamline operations.
+- Oliver James shared feedback on NLP model performance in new applications.
+
+**Next Steps:**
+- Yasmine to distribute predictive analysis report to stakeholders by 29-Aug-2023.
+- Samuel to conduct a security audit by 05-Sep-2023.
+- Franklin to begin API integration process by 01-Sep-2023.
+- Oliver to prepare a detailed performance review by 05-Sep-2023.
+
+---
+
+### Meeting Minutes 5: Detailed
+
+**Date and Time:** 05-Sep-2023, 03:00 PM - 04:30 PM  
+**Attendees:**
+- Yasmine Ali
+- Samuel Davis
+- Oliver James
+- Franklin Moore (Note taker)
+
+**Additional Attendees:**
+- Lisa Roberts (External Consultant, Cloudera)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Project updates
+- External collaboration review
+- Innovation initiatives
+- Budget discussions
+
+**Discussion Points:**
+- Yasmine Ali highlighted the success of predictive models in recent projects.
+- Samuel Davis reviewed blockchain project outcomes and next steps.
+- Oliver James discussed further potential for NLP models in new market segments.
+- Lisa Roberts provided an external review of collaboration efforts and suggested improvements.
+- Franklin Moore led a discussion on budget allocation for upcoming innovation initiatives.
+
+**Next Steps:**
+- Yasmine to prepare a detailed project success report by 12-Sep-2023.
+- Samuel to draft a new blockchain proposal by 15-Sep-2023.
+- Oliver to identify and assess new market segments for NLP applications by 20-Sep-2023.
+- Franklin to finalize budget proposal by 18-Sep-2023.
+- Lisa Roberts to send a collaboration improvement plan by 22-Sep-2023.
+
+---
+
+### JSON Data

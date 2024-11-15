@@ -1,0 +1,140 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Xander Williams"
+                },
+                {
+                    "name": "Yasmine Ali"
+                },
+                {
+                    "name": "Wendy Chen"
+                },
+                {
+                    "name": "Abigail Carter"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Mobile App Developer"
+                },
+                {
+                    "title": "Data Scientist"
+                },
+                {
+                    "title": "AI Solutions Architect"
+                },
+                {
+                    "title": "Business Intelligence Analyst"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "Main conference room"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM MobileFirst Platform"
+                },
+                {
+                    "name": "IBM Planning Analytics"
+                },
+                {
+                    "name": "IBM Maximo Asset Management"
+                },
+                {
+                    "name": "IBM Cognos Analytics"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Xander Williams",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Yasmine Ali",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Wendy Chen",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Abigail Carter",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Xander Williams",
+                "role": "Mobile App Developer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Yasmine Ali",
+                "role": "Data Scientist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Wendy Chen",
+                "role": "AI Solutions Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Abigail Carter",
+                "role": "Business Intelligence Analyst"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Xander Williams",
+                "product_service": "IBM MobileFirst Platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Yasmine Ali",
+                "product_service": "IBM Planning Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Wendy Chen",
+                "product_service": "IBM Maximo Asset Management"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Abigail Carter",
+                "product_service": "IBM Cognos Analytics"
+            },
+            {
+                "type": "LOCATED_AT",
+                "person": "Xander Williams",
+                "location": "Main conference room"
+            },
+            {
+                "type": "LOCATED_AT",
+                "person": "Yasmine Ali",
+                "location": "Main conference room"
+            },
+            {
+                "type": "LOCATED_AT",
+                "person": "Wendy Chen",
+                "location": "Main conference room"
+            },
+            {
+                "type": "LOCATED_AT",
+                "person": "Abigail Carter",
+                "location": "Main conference room"
+            }
+        ]
+    }
+}

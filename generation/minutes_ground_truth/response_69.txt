@@ -1,0 +1,151 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time:** 01-Sep-2023, 10:00 AM - 10:30 AM  
+**Attendees:**  
+- Rachel Singh  
+- Gina Lopez  
+- Zachary Brooks (Note Taker)  
+- Jackie Lin  
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Project Updates  
+- Client Interactions  
+
+**Discussion Points:**  
+- Rachel Singh provided an update on backend development for IBM Cloud Functions.
+- Gina Lopez shared new designs for the IBM Cloud Pak for Data interface.
+- Zachary Brooks mentioned recent client feedback on IBM Cloud Pak for Integration.
+- Jackie Lin discussed the importance of threat detection for IBM Security Guardium.
+
+**Next Steps:**  
+- Rachel to finalize backend updates by 15-Sep-2023.
+- Gina to incorporate feedback and finalize designs by 10-Sep-2023.
+- Zachary to follow up with clients and gather more feedback by 05-Sep-2023.
+- Jackie to enhance threat detection parameters by 20-Sep-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+**Date and Time:** 15-Sep-2023, 2:00 PM - 3:00 PM  
+**Attendees:**  
+- Rachel Singh  
+- Gina Lopez (Note Taker)  
+- Zachary Brooks  
+- Jackie Lin  
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Project Progress  
+- Strategy Discussion  
+- Upcoming Product Launch  
+
+**Discussion Points:**  
+- Rachel Singh reported the completion of backend development tasks.
+- Gina Lopez demonstrated updated UX designs for IBM Cloud Pak for Data.
+- Zachary Brooks discussed implementation strategies for IBM Cloud Pak for Integration.
+- Jackie Lin reviewed recent cybersecurity threats and mitigation strategies.
+- Cross-departmental collaboration was discussed to enhance product functionality.
+  
+**Next Steps:**  
+- Rachel to perform final testing by 30-Sep-2023.
+- Gina to prepare a user testing plan by 25-Sep-2023.
+- Zachary to finalize client solutions by 28-Sep-2023.
+- Jackie to update threat detection protocols by 22-Sep-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+**Date and Time:** 01-Oct-2023, 9:00 AM - 11:00 AM  
+**Attendees:**  
+- Rachel Singh (Note Taker)  
+- Gina Lopez  
+- Zachary Brooks  
+- Jackie Lin  
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Project Updates  
+- Strategy Discussions  
+- Client Interaction Plan  
+- Product Launch Preparation  
+
+**Discussion Points:**  
+- Rachel Singh detailed backend improvements and potential integration challenges.
+- Gina Lopez presented final UX designs and discussed user feedback.
+- Zachary Brooks outlined client onboarding processes for IBM Cloud Pak for Integration.
+- Jackie Lin discussed recent security audits and necessary adjustments.
+- External collaboration with ServiceTitan on user experience improvement.
+- Potential challenges such as resource allocation and inter-departmental communication.
+  
+**Next Steps:**  
+- Rachel to troubleshoot backend issues by 15-Oct-2023.
+- Gina to begin a pilot test with user group by 10-Oct-2023.
+- Zachary to schedule client training sessions by 05-Oct-2023.
+- Jackie to implement new security measures by 20-Oct-2023.
+- All to prepare for product launch event on 30-Oct-2023.
+
+---
+
+### Meeting Minutes 4 (Simple)
+**Date and Time:** 15-Oct-2023, 11:00 AM - 11:30 AM  
+**Attendees:**  
+- Rachel Singh  
+- Gina Lopez (Note Taker)  
+- Zachary Brooks  
+- Jackie Lin  
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Quick Project Check-in  
+- Client Follow-up  
+
+**Discussion Points:**  
+- Rachel Singh confirmed backend issues have been resolved.
+- Gina Lopez reported positive feedback from the pilot test group.
+- Zachary Brooks shared new client onboarding progress.
+- Jackie Lin noted no new cybersecurity threats detected.
+
+**Next Steps:**  
+- Rachel to prepare final backend report by 20-Oct-2023.
+- Gina to finalize UX design adjustments by 18-Oct-2023.
+- Zachary to complete client onboarding by 25-Oct-2023.
+- Jackie to conduct another security audit by 23-Oct-2023.
+
+---
+
+### Meeting Minutes 5 (Moderate)
+**Date and Time:** 01-Nov-2023, 2:00 PM - 3:00 PM  
+**Attendees:**  
+- Rachel Singh (Note Taker)  
+- Gina Lopez  
+- Zachary Brooks  
+- Jackie Lin  
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Final Product Launch Review  
+- Strategy for Client Feedback  
+- Team Collaboration  
+
+**Discussion Points:**  
+- Rachel Singh reviewed backend performance post-integration.
+- Gina Lopez discussed user feedback and minor UX improvements.
+- Zachary Brooks detailed client support plans post-launch.
+- Jackie Lin shared the results of the latest security audit.
+- Discussed collaboration with ServiceTitan for post-launch support.
+
+**Next Steps:**  
+- Rachel to oversee backend monitoring by 15-Nov-2023.
+- Gina to implement minor UX tweaks by 10-Nov-2023.
+- Zachary to establish a client support hotline by 05-Nov-2023.
+- Jackie to update security protocols by 12-Nov-2023.
+- All to conduct a post-launch review meeting on 20-Nov-2023.
+
+---
+
+### JSON Data

@@ -1,0 +1,137 @@
+{
+    "entities": {
+        "persons": [
+            {
+                "name": "Michael Turner"
+            },
+            {
+                "name": "Franklin Moore"
+            },
+            {
+                "name": "Natalie Wu"
+            },
+            {
+                "name": "Brian Taylor"
+            },
+            {
+                "name": "Abigail Carter"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "IBM"
+            },
+            {
+                "name": "Microsoft"
+            }
+        ],
+        "roles": [
+            {
+                "title": "Cloud Security Architect"
+            },
+            {
+                "title": "Senior Software Engineer"
+            },
+            {
+                "title": "Product Marketing Manager"
+            },
+            {
+                "title": "Senior Data Scientist"
+            },
+            {
+                "title": "Business Intelligence Analyst"
+            }
+        ],
+        "products_services": [
+            {
+                "name": "IBM Watson Assistant"
+            },
+            {
+                "name": "IBM Watson Discovery"
+            },
+            {
+                "name": "IBM Cognos Analytics"
+            },
+            {
+                "name": "Microsoft Azure"
+            }
+        ]
+    },
+    "relationships": [
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Michael Turner",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Michael Turner",
+            "role": "Cloud Security Architect"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Michael Turner",
+            "product_service": "Microsoft Azure"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Franklin Moore",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Franklin Moore",
+            "role": "Senior Software Engineer"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Franklin Moore",
+            "product_service": "IBM Watson Assistant"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Natalie Wu",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Natalie Wu",
+            "role": "Product Marketing Manager"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Natalie Wu",
+            "product_service": "IBM Watson Discovery"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Brian Taylor",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Brian Taylor",
+            "role": "Senior Data Scientist"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Brian Taylor",
+            "product_service": "Microsoft Azure"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Abigail Carter",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Abigail Carter",
+            "role": "Business Intelligence Analyst"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Abigail Carter",
+            "product_service": "IBM Cognos Analytics"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+### Email Thread
+
+**Email 1:**
+
+**From:** Ivy Bennett  
+**To:** Brian Taylor, Paul Hernandez, Abigail Carter  
+**Cc:** Mary Johnson (Snowflake)  
+**Subject:** Status Update on IBM Db2 Integration with Microsoft Azure and Snowflake Collaboration  
+
+Hi Team,
+
+I hope this email finds you well.
+
+I wanted to provide a quick update on the progress of the IBM Db2 integration with Microsoft Azure. The ETL pipelines I’ve been working on are running smoothly, and we are currently in the final testing phase. 
+
+Additionally, I had a productive call with Mary Johnson from Snowflake yesterday. We discussed how Snowflake can enhance our data warehousing capabilities and its potential integration with IBM Cognos Analytics.
+
+Brian, could you please review the data models on Microsoft Azure to ensure they align with our R&D objectives?
+
+Paul, I’d appreciate it if you could verify that our IBM Z systems infrastructure is capable of handling the new data loads.
+
+Abigail, once we get the green light from Brian and Paul, it would be great if you could start working on some preliminary dashboards in IBM Cognos Analytics to visualize the data.
+
+Best regards,  
+Ivy Bennett  
+Data Engineer, Data Management Department  
+IBM  
+
+---
+
+**Email 2:**
+
+**From:** Brian Taylor  
+**To:** Ivy Bennett  
+**Cc:** Paul Hernandez, Abigail Carter, Mary Johnson (Snowflake)  
+**Subject:** Re: Status Update on IBM Db2 Integration with Microsoft Azure and Snowflake Collaboration  
+
+Hi Ivy,
+
+Thanks for the update.
+
+I have reviewed the data models on Microsoft Azure, and everything looks great from an R&D perspective. The models are well-structured and should serve our analysis purposes effectively.
+
+Paul, could you confirm the IBM Z systems' readiness for these new integrations?
+
+Abigail, once Paul gives his approval, let’s discuss the key metrics we need to focus on for the initial dashboards.
+
+Best,  
+Brian Taylor  
+Senior Data Scientist, R&D Department  
+IBM  
+
+---
+
+**Email 3:**
+
+**From:** Paul Hernandez  
+**To:** Ivy Bennett, Brian Taylor  
+**Cc:** Abigail Carter, Mary Johnson (Snowflake)  
+**Subject:** Re: Status Update on IBM Db2 Integration with Microsoft Azure and Snowflake Collaboration  
+
+Hi Team,
+
+I’ve conducted a thorough check on our IBM Z systems, and I’m happy to report that we are fully capable of handling the increased data loads from the new integrations.
+
+Abigail, feel free to start working on the preliminary dashboards in IBM Cognos Analytics.
+
+Best regards,  
+Paul Hernandez  
+Systems Engineer, IT Support Department  
+IBM  
+
+---
+
+**Email 4:**
+
+**From:** Abigail Carter  
+**To:** Ivy Bennett, Brian Taylor, Paul Hernandez  
+**Cc:** Mary Johnson (Snowflake)  
+**Subject:** Re: Status Update on IBM Db2 Integration with Microsoft Azure and Snowflake Collaboration  
+
+Hi Everyone,
+
+Thanks for the updates.
+
+I will begin working on the preliminary dashboards in IBM Cognos Analytics right away. Mary, I might need some assistance with Snowflake integration for more complex analytics.
+
+I’ll keep you all updated on the progress.
+
+Best,  
+Abigail Carter  
+Business Intelligence Analyst, Data Analytics Department  
+IBM  
+
+---
+
+### JSON Object

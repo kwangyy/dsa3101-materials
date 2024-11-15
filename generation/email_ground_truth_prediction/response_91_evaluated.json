@@ -1,0 +1,173 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Brian Taylor"
+                },
+                {
+                    "name": "Franklin Moore"
+                },
+                {
+                    "name": "Michael Turner"
+                },
+                {
+                    "name": "Lily Garcia"
+                },
+                {
+                    "name": "Jane Smith"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                },
+                {
+                    "name": "Veeva Systems"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Senior Data Scientist"
+                },
+                {
+                    "title": "Senior Software Engineer"
+                },
+                {
+                    "title": "Cloud Security Architect"
+                },
+                {
+                    "title": "Marketing Analyst"
+                },
+                {
+                    "title": "Partner Manager"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "IBM R&D Department"
+                },
+                {
+                    "name": "IBM AI Department"
+                },
+                {
+                    "name": "IBM Cybersecurity Department"
+                },
+                {
+                    "name": "IBM Business Strategy Department"
+                },
+                {
+                    "name": "Microsoft Azure"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Watson Assistant"
+                },
+                {
+                    "name": "Veeva Systems cloud solutions"
+                },
+                {
+                    "name": "IBM Cloud Satellite"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Brian Taylor",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Franklin Moore",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Turner",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Lily Garcia",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jane Smith",
+                "organization": "Veeva Systems"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Brian Taylor",
+                "role": "Senior Data Scientist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Franklin Moore",
+                "role": "Senior Software Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Turner",
+                "role": "Cloud Security Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Lily Garcia",
+                "role": "Marketing Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jane Smith",
+                "role": "Partner Manager"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM R&D Department",
+                "location": "IBM"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM AI Department",
+                "location": "IBM"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM Cybersecurity Department",
+                "location": "IBM"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM Business Strategy Department",
+                "location": "IBM"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Brian Taylor",
+                "product_service": "IBM Watson Assistant"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Franklin Moore",
+                "product_service": "IBM Watson Assistant"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "IBM Watson Assistant"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Lily Garcia",
+                "product_service": "IBM Cloud Satellite"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Jane Smith",
+                "product_service": "Veeva Systems cloud solutions"
+            }
+        ]
+    }
+}

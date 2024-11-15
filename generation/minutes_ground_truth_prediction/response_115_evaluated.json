@@ -1,0 +1,99 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Ivy Bennett"
+                },
+                {
+                    "name": "Derek Hill"
+                },
+                {
+                    "name": "Jackie Lin"
+                },
+                {
+                    "name": "Clara Diaz"
+                },
+                {
+                    "name": "Mark Spencer"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Alteryx"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note-taker"
+                }
+            ],
+            "locations": [],
+            "products_services": [
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "Alteryx"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Ivy Bennett",
+                "organization": "Alteryx"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Ivy Bennett",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Derek Hill",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jackie Lin",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Clara Diaz",
+                "role": "Note-taker"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Alteryx",
+                "location": ""
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "Alteryx"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Derek Hill",
+                "product_service": "Alteryx"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Jackie Lin",
+                "product_service": "Alteryx"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Clara Diaz",
+                "product_service": "Alteryx"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Mark Spencer",
+                "product_service": "Alteryx"
+            }
+        ]
+    }
+}

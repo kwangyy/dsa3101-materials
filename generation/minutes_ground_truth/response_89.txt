@@ -1,0 +1,142 @@
+### Meeting Minutes 1
+**Date and Time:** 12-Jan-2023, 09:00 - 09:30
+
+**Attendees:**
+- Yasmine Ali (Note Taker)
+- Gina Lopez
+- David Patel
+- Victor Ramos
+
+**Agenda:**
+- Client feedback on IBM Planning Analytics
+- UX improvements for IBM Cloud Pak for Data
+
+**Discussion Points:**
+- **Client Feedback on IBM Planning Analytics:**
+  - Yasmine reported that client feedback is overall positive, but there are some concerns regarding predictive model accuracy.
+  - Action: Yasmine to refine the predictive models based on client feedback by 25-Jan-2023.
+  
+- **UX Improvements for IBM Cloud Pak for Data:**
+  - Gina suggested a new interface design to improve user experience.
+  - David mentioned that the new design would require minor infrastructure changes.
+  - Action: Gina to finalize the design by 20-Jan-2023 and collaborate with David for implementation.
+
+**Next Steps:**
+- Yasmine to refine predictive models by 25-Jan-2023.
+- Gina to finalize the UX design by 20-Jan-2023 and work with David on necessary infrastructure adjustments.
+
+### Meeting Minutes 2
+**Date and Time:** 15-Feb-2023, 10:00 - 11:00
+
+**Attendees:**
+- Yasmine Ali
+- Gina Lopez
+- David Patel (Note Taker)
+- Victor Ramos
+
+**Agenda:**
+- Integration of AWS infrastructure with IBM Robotic Process Automation
+- Enhancements for user interaction in IBM Cloud Pak for Data
+
+**Discussion Points:**
+- **Integration of AWS infrastructure with IBM Robotic Process Automation:**
+  - David discussed the current architecture and the potential challenges with AWS integration.
+  - Victor emphasized the importance of seamless integration for better bot performance.
+  - Action: David to draft an integration plan by 01-Mar-2023 and share with the team.
+
+- **Enhancements for User Interaction in IBM Cloud Pak for Data:**
+  - Gina proposed new interactive elements to improve the user interface.
+  - Yasmine suggested running A/B tests to measure the effectiveness of these enhancements.
+  - Action: Gina to prepare interactive elements and Yasmine to set up A/B testing framework by 05-Mar-2023.
+
+**Next Steps:**
+- David to draft AWS integration plan by 01-Mar-2023.
+- Gina to prepare new interactive elements and Yasmine to set up A/B testing framework by 05-Mar-2023.
+
+### Meeting Minutes 3
+**Date and Time:** 22-Mar-2023, 14:00 - 15:30
+
+**Attendees:**
+- Yasmine Ali
+- Gina Lopez
+- David Patel
+- Victor Ramos (Note Taker)
+- Jane Smith (Illumio, Cybersecurity Specialist)
+
+**Agenda:**
+- Security protocols for client data in IBM Planning Analytics
+- Collaborative project with Illumio
+
+**Discussion Points:**
+- **Security Protocols for Client Data:**
+  - Jane highlighted the importance of zero-trust segmentation to protect client data.
+  - David suggested incorporating Illumio’s cybersecurity features into IBM Planning Analytics.
+  - Action: David and Jane to draft a security protocol proposal by 10-Apr-2023.
+
+- **Collaborative Project with Illumio:**
+  - Victor discussed potential collaboration opportunities with Illumio’s cybersecurity team.
+  - Gina mentioned the necessity of ensuring the UX remains intuitive despite new security measures.
+  - Action: Victor to coordinate with Illumio for a detailed collaboration plan by 15-Apr-2023.
+
+**Next Steps:**
+- David and Jane to draft security protocol proposal by 10-Apr-2023.
+- Victor to coordinate with Illumio for a detailed collaboration plan by 15-Apr-2023.
+
+### Meeting Minutes 4
+**Date and Time:** 25-Apr-2023, 11:00 - 12:30
+
+**Attendees:**
+- Yasmine Ali
+- Gina Lopez
+- David Patel
+- Victor Ramos
+- Mike Johnson (Sales Manager)
+
+**Agenda:**
+- Sales insights and their impact on predictive models
+- UI updates based on sales feedback
+
+**Discussion Points:**
+- **Sales Insights and Predictive Models:**
+  - Mike shared recent sales trends and their implications for predictive modeling.
+  - Yasmine discussed incorporating these insights to improve model accuracy.
+  - Action: Yasmine to update predictive models with new sales data by 10-May-2023.
+
+- **UI Updates Based on Sales Feedback:**
+  - Gina highlighted the need for UI changes based on customer feedback from the sales team.
+  - David noted that some changes might require backend adjustments.
+  - Action: Gina to draft UI updates and David to check for backend compatibility by 15-May-2023.
+
+**Next Steps:**
+- Yasmine to update predictive models by 10-May-2023.
+- Gina to draft UI updates and David to check for backend compatibility by 15-May-2023.
+
+### Meeting Minutes 5
+**Date and Time:** 30-Jun-2023, 13:00 - 15:00
+
+**Attendees:**
+- Yasmine Ali
+- Gina Lopez
+- David Patel
+- Victor Ramos
+- John Doe (Note Taker, Marketing Specialist)
+- Sarah Thompson (External Consultant, UX Expert)
+
+**Agenda:**
+- Marketing strategies and their impact on product development
+- External UX review for IBM Cloud Pak for Data
+
+**Discussion Points:**
+- **Marketing Strategies:**
+  - John presented new marketing strategies aimed at increasing user engagement.
+  - Yasmine discussed how these strategies could influence data requirements.
+  - Action: Yasmine and John to analyze data trends and adjust strategies accordingly by 20-Jul-2023.
+
+- **External UX Review:**
+  - Sarah provided feedback on the current UI/UX of IBM Cloud Pak for Data.
+  - Gina discussed potential improvements based on the feedback.
+  - Action: Gina to implement suggested UX changes by 30-Jul-2023.
+
+**Next Steps:**
+- Yasmine and John to analyze data trends and adjust marketing strategies by 20-Jul-2023.
+- Gina to implement UX changes suggested by Sarah by 30-Jul-2023.

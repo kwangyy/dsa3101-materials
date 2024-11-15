@@ -1,0 +1,155 @@
+{
+    "entities": {
+        "persons": [
+            {
+                "name": "David Patel"
+            },
+            {
+                "name": "Uma Patel"
+            },
+            {
+                "name": "Kevin O'Reilly"
+            },
+            {
+                "name": "Oliver James"
+            },
+            {
+                "name": "Carol Nguyen"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "IBM"
+            },
+            {
+                "name": "Amazon Web Services"
+            },
+            {
+                "name": "Microsoft Azure"
+            }
+        ],
+        "roles": [
+            {
+                "title": "Cloud Architect"
+            },
+            {
+                "title": "Senior Solutions Architect"
+            },
+            {
+                "title": "Machine Learning Engineer"
+            },
+            {
+                "title": "AI Research Scientist"
+            },
+            {
+                "title": "Junior Data Scientist"
+            }
+        ],
+        "products_services": [
+            {
+                "name": "IBM Cloud Private"
+            },
+            {
+                "name": "IBM Watson Studio"
+            },
+            {
+                "name": "IBM Watson Language Translator"
+            },
+            {
+                "name": "Microsoft Azure"
+            }
+        ]
+    },
+    "relationships": [
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "David Patel",
+            "organization": "IBM"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Uma Patel",
+            "organization": "IBM"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Kevin O'Reilly",
+            "organization": "IBM"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Oliver James",
+            "organization": "IBM"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Carol Nguyen",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "David Patel",
+            "role": "Cloud Architect"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Uma Patel",
+            "role": "Senior Solutions Architect"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Kevin O'Reilly",
+            "role": "Machine Learning Engineer"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Oliver James",
+            "role": "AI Research Scientist"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Carol Nguyen",
+            "role": "Junior Data Scientist"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "David Patel",
+            "product_service": "IBM Cloud Private"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Kevin O'Reilly",
+            "product_service": "IBM Watson Studio"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Oliver James",
+            "product_service": "IBM Watson Language Translator"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Carol Nguyen",
+            "product_service": "Microsoft Azure"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "organization": "IBM",
+            "product_service": "IBM Cloud Private"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "organization": "IBM",
+            "product_service": "IBM Watson Studio"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "organization": "IBM",
+            "product_service": "IBM Watson Language Translator"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "organization": "Microsoft Azure",
+            "product_service": "Microsoft Azure"
+        }
+    ]
+}

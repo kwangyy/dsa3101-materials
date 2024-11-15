@@ -1,0 +1,211 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Brian Taylor"
+                },
+                {
+                    "name": "Emma Lee"
+                },
+                {
+                    "name": "Abigail Carter"
+                },
+                {
+                    "name": "Samuel Davis"
+                },
+                {
+                    "name": "John Smith"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Acme Corp"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note taker"
+                },
+                {
+                    "title": "Data Architect"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Google Cloud AI platform"
+                },
+                {
+                    "name": "IBM Cognos Analytics"
+                },
+                {
+                    "name": "Blockchain"
+                },
+                {
+                    "name": "Cloudera"
+                },
+                {
+                    "name": "Proof of concept"
+                },
+                {
+                    "name": "Automated notification system"
+                },
+                {
+                    "name": "Detailed analytics reports"
+                },
+                {
+                    "name": "Dedicated support team"
+                },
+                {
+                    "name": "Blockchain prototype"
+                },
+                {
+                    "name": "New feature"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Brian Taylor",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emma Lee",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Abigail Carter",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Samuel Davis",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Smith",
+                "organization": "Cloudera"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Brian Taylor",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Abigail Carter",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Samuel Davis",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emma Lee",
+                "role": "Data Architect"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Brian Taylor",
+                "product_service": "Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Emma Lee",
+                "product_service": "Google Cloud AI platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Abigail Carter",
+                "product_service": "IBM Cognos Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Samuel Davis",
+                "product_service": "Blockchain"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Acme Corp",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Cloudera",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "product_service": "Azure",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "product_service": "Google Cloud AI platform",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "product_service": "IBM Cognos Analytics",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "product_service": "Blockchain",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "product_service": "Cloudera",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "product_service": "Proof of concept",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "product_service": "Automated notification system",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "product_service": "Detailed analytics reports",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "product_service": "Dedicated support team",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "product_service": "Blockchain prototype",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "product_service": "New feature",
+                "location": "New York"
+            }
+        ]
+    }
+}

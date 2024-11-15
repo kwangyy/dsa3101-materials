@@ -1,0 +1,166 @@
+{
+    "entities": {
+        "persons": [
+            {
+                "name": "Jackie Lin"
+            },
+            {
+                "name": "Abigail Carter"
+            },
+            {
+                "name": "Derek Hill"
+            },
+            {
+                "name": "Emma Lee"
+            },
+            {
+                "name": "Lily Garcia"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "IBM"
+            },
+            {
+                "name": "Google"
+            },
+            {
+                "name": "C3.ai"
+            },
+            {
+                "name": "Nutanix"
+            },
+            {
+                "name": "Splunk"
+            }
+        ],
+        "roles": [
+            {
+                "title": "Cybersecurity Analyst"
+            },
+            {
+                "title": "Business Intelligence Analyst"
+            },
+            {
+                "title": "QA Engineer"
+            },
+            {
+                "title": "Product Manager"
+            },
+            {
+                "title": "Marketing Analyst"
+            }
+        ],
+        "products_services": [
+            {
+                "name": "IBM Security Guardium"
+            },
+            {
+                "name": "IBM Cognos Analytics"
+            },
+            {
+                "name": "IBM Aspera"
+            },
+            {
+                "name": "Google Cloud AI Platform"
+            },
+            {
+                "name": "IBM Cloud Satellite"
+            }
+        ],
+        "locations": []
+    },
+    "relationships": [
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Jackie Lin",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Jackie Lin",
+            "role": "Cybersecurity Analyst"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Jackie Lin",
+            "product_service": "IBM Security Guardium"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Abigail Carter",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Abigail Carter",
+            "role": "Business Intelligence Analyst"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Abigail Carter",
+            "product_service": "IBM Cognos Analytics"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Derek Hill",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Derek Hill",
+            "role": "QA Engineer"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Derek Hill",
+            "product_service": "IBM Aspera"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Emma Lee",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Emma Lee",
+            "role": "Product Manager"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Emma Lee",
+            "product_service": "Google Cloud AI Platform"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Lily Garcia",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Lily Garcia",
+            "role": "Marketing Analyst"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Lily Garcia",
+            "product_service": "IBM Cloud Satellite"
+        },
+        {
+            "type": "PARTNER_WITH",
+            "organization": "Google"
+        },
+        {
+            "type": "PARTNER_WITH",
+            "organization": "C3.ai"
+        },
+        {
+            "type": "PARTNER_WITH",
+            "organization": "Nutanix"
+        },
+        {
+            "type": "PARTNER_WITH",
+            "organization": "Splunk"
+        }
+    ]
+}

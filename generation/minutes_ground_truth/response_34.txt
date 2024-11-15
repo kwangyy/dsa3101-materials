@@ -1,0 +1,149 @@
+### Meeting Minutes 1
+
+**Date and Time:** 02-Oct-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Uma Patel (Note Taker)
+- Derek Hill
+- Quinn Parker
+- Michael Turner
+- Absentees: None
+
+**Agenda:**
+- Introduction to new inter-department collaboration tools.
+- Project updates from each department.
+- Discussion on upcoming deadlines and milestones.
+
+**Discussion Points:**
+- Uma introduced new collaboration tools that could help streamline communication between departments.
+- Derek discussed the latest test results from IBM Aspera and highlighted a few bugs that need addressing.
+- Quinn shared recent analytics insights that could help in improving project timelines.
+- Michael proposed new security measures for collaborative tools, emphasizing the need for robust encryption.
+
+**Next Steps:**
+- Uma to schedule a follow-up meeting in two weeks (16-Oct-2023).
+- Derek to work on resolving the identified bugs by 09-Oct-2023.
+- Quinn to provide a detailed analytics report to the team by 06-Oct-2023.
+- Michael to draft a security protocol document by 13-Oct-2023.
+
+---
+
+### Meeting Minutes 2
+
+**Date and Time:** 09-Oct-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Derek Hill (Note Taker)
+- Uma Patel
+- Quinn Parker
+- Michael Turner
+- External: Sarah Johnson (Illumio, Cybersecurity Specialist)
+
+**Agenda:**
+- Review of collaboration tools implementation.
+- Discussion on cybersecurity improvements with Illumio.
+- Updates on project milestones.
+
+**Discussion Points:**
+- Derek provided an update on the implementation of new collaboration tools, noting successful integration with existing systems.
+- Sarah Johnson from Illumio suggested specific zero-trust segmentation practices that could enhance cybersecurity.
+- Michael expressed interest in integrating Illumio’s solutions with Microsoft Azure.
+- Uma and Quinn discussed the impact of new tools on project timelines and data analytics.
+
+**Next Steps:**
+- Derek to compile a report on the implementation status by 11-Oct-2023.
+- Michael and Sarah to collaborate on a proposal for integrating Illumio’s solutions by 16-Oct-2023.
+- Quinn to assess the analytics impact of the new tools and report by 13-Oct-2023.
+
+---
+
+### Meeting Minutes 3
+
+**Date and Time:** 16-Oct-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**
+- Quinn Parker (Note Taker)
+- Derek Hill
+- Uma Patel
+- Michael Turner
+- Absentees: None
+
+**Agenda:**
+- Detailed analysis of data from the new collaboration tools.
+- Review of the cybersecurity proposal with Illumio.
+- Finalizing next quarter’s project deadlines.
+
+**Discussion Points:**
+- Quinn presented a detailed analysis showing increased productivity due to new tools.
+- Michael reviewed the cybersecurity proposal with Illumio, highlighting key benefits and potential challenges.
+- Uma and Derek agreed on the importance of integrating security measures before the next quarter.
+- The team discussed finalizing project deadlines and aligning them with the new tools and security measures.
+
+**Next Steps:**
+- Quinn to share the detailed analysis with all departments by 20-Oct-2023.
+- Michael to finalize the cybersecurity proposal with Illumio by 23-Oct-2023.
+- Uma and Derek to draft the next quarter’s project timeline by 18-Oct-2023.
+
+---
+
+### Meeting Minutes 4
+
+**Date and Time:** 23-Oct-2023, 9:00 AM - 9:45 AM
+
+**Attendees:**
+- Michael Turner (Note Taker)
+- Uma Patel
+- Derek Hill
+- Quinn Parker
+- External: John Doe (IBM, Senior Product Manager)
+
+**Agenda:**
+- Progress review on cybersecurity integration.
+- Discussion with Senior Product Manager on new feature requests.
+- Addressing inter-departmental challenges.
+
+**Discussion Points:**
+- Michael updated the team on the progress of the cybersecurity integration, noting that initial tests are positive.
+- John Doe presented new feature requests for IBM Cloud Private and IBM Aspera.
+- Uma and Derek discussed the challenges of meeting these new feature requests and the need for prioritization.
+- Quinn highlighted the need for better data synchronization between departments to avoid duplication of efforts.
+
+**Next Steps:**
+- Michael to continue monitoring cybersecurity integration and report by 30-Oct-2023.
+- Uma and Derek to prioritize the feature requests and provide a timeline by 27-Oct-2023.
+- Quinn to work on improving data synchronization processes by 01-Nov-2023.
+
+---
+
+### Meeting Minutes 5
+
+**Date and Time:** 30-Oct-2023, 3:00 PM - 4:30 PM
+
+**Attendees:**
+- Uma Patel (Note Taker)
+- Derek Hill
+- Quinn Parker
+- Michael Turner
+- External: Jane Smith (IBM, Senior Data Scientist), Bob Lee (IBM, Infrastructure Engineer)
+
+**Agenda:**
+- Final review of project timelines for the next quarter.
+- Discussion on data management with the Senior Data Scientist.
+- Infrastructure requirements for upcoming projects.
+
+**Discussion Points:**
+- Uma reviewed and confirmed the project timelines for the next quarter.
+- Jane Smith discussed advanced data management techniques that could help streamline operations.
+- Quinn emphasized the importance of implementing these techniques for better analytics.
+- Bob Lee addressed infrastructure requirements for upcoming projects, including potential upgrades to support increased data loads.
+- Michael discussed the alignment of security protocols with the new infrastructure.
+
+**Next Steps:**
+- Uma to circulate the final project timelines by 01-Nov-2023.
+- Quinn and Jane to work on a detailed plan for implementing advanced data management techniques by 10-Nov-2023.
+- Bob Lee to draft a proposal for infrastructure upgrades by 08-Nov-2023.
+- Michael to ensure security protocols are updated and aligned with the new infrastructure by 15-Nov-2023.
+
+---
+
+### JSON Data

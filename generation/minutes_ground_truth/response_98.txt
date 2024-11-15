@@ -1,0 +1,160 @@
+### Meeting Minutes 1 - Simple
+
+**Date and Time:**  
+09-Oct-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**  
+- Abigail Carter (Notes)
+- Emma Lee
+- Tina Foster
+- Brian Taylor (Absent)
+
+**Agenda:**
+- Project updates
+- Service integration
+
+**Discussion Points:**
+- **Project Updates:**
+  - Abigail provided updates on the dashboard reports for IBM Cognos Analytics.
+  - Emma shared progress on the Google Cloud AI Platform strategy.
+- **Service Integration:**
+  - Tina discussed preliminary steps for IBM QRadar SIEM implementation.
+
+**Next Steps:**
+- Emma to draft the next phase of the Google Cloud AI Platform by 16-Oct-2023.
+- Abigail to circulate updated dashboard reports by 13-Oct-2023.
+
+---
+
+### Meeting Minutes 2 - Simple
+
+**Date and Time:**  
+16-Oct-2023, 2:00 PM - 2:45 PM
+
+**Attendees:**  
+- Abigail Carter
+- Emma Lee
+- Tina Foster (Notes)
+- Brian Taylor
+
+**Agenda:**
+- Service integration with Zscaler
+- Cross-departmental collaboration
+
+**Discussion Points:**
+- **Service Integration with Zscaler:**
+  - Tina discussed Zscaler for secure internet access.
+  - Brian suggested a trial integration with minimal impact on ongoing projects.
+- **Cross-Departmental Collaboration:**
+  - Emma emphasized the need for closer work between Data Analytics and IT Support.
+  - Abigail agreed to facilitate regular check-ins.
+
+**Next Steps:**
+- Brian to prepare a trial integration plan by 20-Oct-2023.
+- Emma to schedule bi-weekly check-ins between departments starting 23-Oct-2023.
+
+---
+
+### Meeting Minutes 3 - Moderate
+
+**Date and Time:**  
+23-Oct-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**  
+- Abigail Carter (Notes)
+- Emma Lee
+- Tina Foster
+- Brian Taylor
+
+**Agenda:**
+- Status of trial integration with Zscaler
+- Future service enhancements
+
+**Discussion Points:**
+- **Status of Trial Integration with Zscaler:**
+  - Brian reported successful preliminary tests.
+  - Emma noted initial feedback from IT teams is positive.
+- **Future Service Enhancements:**
+  - Tina proposed additional security measures.
+  - Abigail discussed potential analytics improvements.
+
+**Next Steps:**
+- Brian to complete the full integration plan by 30-Oct-2023.
+- Tina to draft a proposal for enhanced security measures by 27-Oct-2023.
+
+---
+
+### Meeting Minutes 4 - Detailed
+
+**Date and Time:**  
+30-Oct-2023, 1:00 PM - 2:30 PM
+
+**Attendees:**  
+- Abigail Carter
+- Emma Lee
+- Tina Foster
+- Brian Taylor (Notes)
+- James Wilson (External, Zscaler - Integration Specialist)
+
+**Agenda:**
+- Review of completed integration plan
+- Risk assessment for service enhancements
+- Coordination with Zscaler
+
+**Discussion Points:**
+- **Review of Completed Integration Plan:**
+  - Brian presented the finalized plan for Zscaler integration.
+  - James Wilson confirmed Zscaler's readiness to support the plan.
+- **Risk Assessment for Service Enhancements:**
+  - Tina highlighted potential risks, including data breaches.
+  - Abigail suggested additional metrics for monitoring.
+- **Coordination with Zscaler:**
+  - Emma coordinated next steps for Zscaler support.
+  - James detailed Zscaler's timeline for rollout.
+
+**Next Steps:**
+- Brian to oversee the integration starting 05-Nov-2023.
+- Tina to implement enhanced security measures by 10-Nov-2023.
+- Abigail to develop new monitoring metrics by 12-Nov-2023.
+- Emma to coordinate a follow-up meeting with Zscaler by 03-Nov-2023.
+
+---
+
+### Meeting Minutes 5 - Detailed
+
+**Date and Time:**  
+06-Nov-2023, 3:00 PM - 4:30 PM
+
+**Attendees:**  
+- Abigail Carter
+- Emma Lee (Notes)
+- Tina Foster
+- Brian Taylor
+- John Smith (External, Zscaler - Cybersecurity Expert)
+
+**Agenda:**
+- Implementation progress check
+- New dashboard features
+- Future roadmap planning
+
+**Discussion Points:**
+- **Implementation Progress Check:**
+  - Brian reported successful integration steps taken so far.
+  - Tina provided feedback from the IT Support team.
+  - John Smith highlighted key security checks from Zscaler.
+- **New Dashboard Features:**
+  - Abigail introduced new features for IBM Cognos Analytics dashboards.
+  - Emma suggested alignment with Google Cloud AI strategy.
+- **Future Roadmap Planning:**
+  - Cross-departmental teams discussed future enhancements.
+  - Emma proposed timelines for upcoming projects.
+
+**Next Steps:**
+- Brian to continue monitoring integration, report on 13-Nov-2023.
+- Abigail to finalize new dashboard features by 15-Nov-2023.
+- Emma to draft a new project roadmap by 20-Nov-2023.
+- John Smith to provide a detailed security assessment by 10-Nov-2023.
+
+---
+
+### JSON Representation

@@ -1,0 +1,172 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Brian Taylor"
+                },
+                {
+                    "name": "Henry Zhou"
+                },
+                {
+                    "name": "Yasmine Ali"
+                },
+                {
+                    "name": "Victor Ramos"
+                },
+                {
+                    "name": "Michael Smith"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Data Science"
+                },
+                {
+                    "name": "DevOps"
+                },
+                {
+                    "name": "Snowflake"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note taker"
+                },
+                {
+                    "title": "Data Warehousing Specialist"
+                }
+            ],
+            "locations": [],
+            "products_services": [
+                {
+                    "name": "predictive modeling"
+                },
+                {
+                    "name": "automated data pipelines"
+                },
+                {
+                    "name": "CI/CD pipeline"
+                },
+                {
+                    "name": "Planning Analytics"
+                },
+                {
+                    "name": "RPA"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Brian Taylor",
+                "organization": "Data Science"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Brian Taylor",
+                "organization": "DevOps"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Henry Zhou",
+                "organization": "Data Science"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Henry Zhou",
+                "organization": "DevOps"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Yasmine Ali",
+                "organization": "Data Science"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Yasmine Ali",
+                "organization": "DevOps"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "Data Science"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "DevOps"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Smith",
+                "organization": "Snowflake"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Brian Taylor",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Henry Zhou",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Yasmine Ali",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Victor Ramos",
+                "role": "Note taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Smith",
+                "role": "Data Warehousing Specialist"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Brian Taylor",
+                "product_service": "predictive modeling"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Brian Taylor",
+                "product_service": "automated data pipelines"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Henry Zhou",
+                "product_service": "CI/CD pipeline"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Yasmine Ali",
+                "product_service": "Planning Analytics"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "RPA"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Data Science",
+                "location": ""
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "DevOps",
+                "location": ""
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Snowflake",
+                "location": ""
+            }
+        ]
+    }
+}

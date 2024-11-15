@@ -1,0 +1,186 @@
+### Meeting Minutes 1: Simple
+**Date and Time:** 05-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Tina Foster (Note taker)
+- Zachary Brooks
+- Clara Diaz
+- Samuel Davis
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Project status updates
+- Brief discussion on innovation initiatives
+
+**Discussion Points:**
+- **Project Status Updates:**
+  - Tina reported that the IBM QRadar SIEM implementation is on schedule.
+  - Zachary updated on the ongoing deployment of IBM Cloud Pak for Integration.
+  - Clara shared recent findings in AI ethics research.
+  - Samuel provided an update on the progress of Hyperledger Fabric development.
+
+- **Innovation Initiatives:**
+  - Briefly discussed the need for more integrated efforts in innovation projects.
+  - Consideration of cross-departmental collaboration to enhance results.
+
+**Next Steps:**
+- **Tina:** Ensure the final testing of IBM QRadar SIEM by 15-Jan-2023.
+- **Zachary:** Complete the deployment phase of IBM Cloud Pak for Integration by 20-Jan-2023.
+- **Clara:** Submit a detailed report on AI ethics research by 22-Jan-2023.
+- **Samuel:** Prepare a progress report on Hyperledger Fabric by 25-Jan-2023.
+
+---
+
+### Meeting Minutes 2: Simple
+**Date and Time:** 15-Mar-2023, 2:00 PM - 2:45 PM
+
+**Attendees:**
+- Zachary Brooks (Note taker)
+- Tina Foster
+- Clara Diaz
+- Samuel Davis
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Progress check on current projects
+- Initial discussion on upcoming innovation initiatives
+
+**Discussion Points:**
+- **Project Updates:**
+  - Tina mentioned successful client feedback on IBM QRadar SIEM.
+  - Zachary discussed minor issues in IBM Cloud Pak for Integration deployment.
+  - Clara highlighted new ethical concerns in AI research.
+  - Samuel shared new features added to Hyperledger Fabric.
+
+- **Upcoming Innovation Initiatives:**
+  - Brainstorming session on potential new projects.
+  - Emphasis on maintaining inter-departmental communication.
+
+**Next Steps:**
+- **Tina:** Resolve client feedback issues by 20-Mar-2023.
+- **Zachary:** Address minor deployment issues by 25-Mar-2023.
+- **Clara:** Investigate and document new ethical concerns by 30-Mar-2023.
+- **Samuel:** Finalize new features for Hyperledger Fabric by 5-Apr-2023.
+
+---
+
+### Meeting Minutes 3: Moderate
+**Date and Time:** 12-May-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**
+- Clara Diaz (Note taker)
+- Tina Foster
+- Zachary Brooks
+- Samuel Davis
+
+**Absentees:**
+- None
+
+**Agenda:**
+- In-depth project updates
+- Strategy discussion on innovation initiatives
+- Collaboration with external entities
+
+**Discussion Points:**
+- **Project Updates:**
+  - Tina highlighted the completion of IBM QRadar SIEM implementation for key clients.
+  - Zachary discussed the successful integration of IBM Cloud Pak for Integration with ServiceTitan.
+  - Clara reviewed recent policy recommendations in AI ethics.
+  - Samuel mentioned blockchain implementation for a new financial client.
+
+- **Innovation Initiatives:**
+  - Focused discussion on the need for a unified strategy.
+  - Proposal for a joint task force for innovation.
+
+- **Collaboration with External Entities:**
+  - Discussion on expanding cooperation with ServiceTitan.
+  - Identifying potential benefits and challenges.
+
+**Next Steps:**
+- **Tina:** Develop post-implementation support plan by 20-May-2023.
+- **Zachary:** Document integration process with ServiceTitan by 25-May-2023.
+- **Clara:** Create a comprehensive report on policy recommendations by 30-May-2023.
+- **Samuel:** Ensure blockchain solution is fully operational by 1-Jun-2023.
+
+---
+
+### Meeting Minutes 4: Moderate
+**Date and Time:** 20-Jul-2023, 3:00 PM - 4:15 PM
+
+**Attendees:**
+- Samuel Davis (Note taker)
+- Tina Foster
+- Zachary Brooks
+- Clara Diaz
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Mid-year project review
+- Detailed discussion on innovation initiatives
+
+**Discussion Points:**
+- **Project Reviews:**
+  - Tina provided an update on the status of IBM QRadar SIEM maintenance.
+  - Zachary discussed the scalability of IBM Cloud Pak for Integration.
+  - Clara reviewed the impact of recent AI ethics guidelines.
+  - Samuel shared insights on blockchain developments.
+
+- **Innovation Initiatives:**
+  - Detailed brainstorming session on new project ideas.
+  - Agreement on increased cross-departmental collaboration.
+
+**Next Steps:**
+- **Tina:** Evaluate the ongoing maintenance procedures by 30-Jul-2023.
+- **Zachary:** Prepare a scalability report by 5-Aug-2023.
+- **Clara:** Assess the implementation of AI ethics guidelines by 10-Aug-2023.
+- **Samuel:** Develop a roadmap for future blockchain projects by 15-Aug-2023.
+
+---
+
+### Meeting Minutes 5: Detailed
+**Date and Time:** 30-Sep-2023, 9:00 AM - 11:00 AM
+
+**Attendees:**
+- Tina Foster (Note taker)
+- Zachary Brooks
+- Clara Diaz
+- Samuel Davis
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Quarterly project updates
+- Strategic planning for innovation initiatives
+- Collaboration with external and internal teams
+
+**Discussion Points:**
+- **Quarterly Project Updates:**
+  - **Tina:** Provided detailed feedback from IBM QRadar SIEM clients. Highlighted minor issues and proposed solutions.
+  - **Zachary:** Discussed the integration success with ServiceTitan. Detailed performance metrics and future scalability plans.
+  - **Clara:** Presented comprehensive findings on AI ethics research and policy recommendations.
+  - **Samuel:** Shared detailed progress on blockchain projects. Mentioned upcoming features and client feedback.
+
+- **Strategic Planning:**
+  - Discussion on aligning innovation initiatives with business goals.
+  - Proposal for a more structured approach to innovation.
+
+- **Collaboration:**
+  - **Internal Teams:** Discussed roles and responsibilities for upcoming projects.
+  - **External Teams:** Talked about further collaboration with ServiceTitan and other potential partners.
+
+**Next Steps:**
+- **Tina:** Address client issues in IBM QRadar SIEM by 10-Oct-2023.
+- **Zachary:** Draft a scalability plan for future integration projects by 15-Oct-2023.
+- **Clara:** Finalize policy recommendations by 20-Oct-2023.
+- **Samuel:** Implement upcoming blockchain features by 25-Oct-2023.
+
+---
+
+### JSON Format

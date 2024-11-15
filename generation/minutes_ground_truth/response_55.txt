@@ -1,0 +1,156 @@
+### Meeting Minutes 1 (Simple)
+
+**Date and Time:** 10-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Clara Diaz (Notes)
+- Victor Ramos
+- Wendy Chen
+
+**Absentees:**
+- Emma Lee
+
+**Agenda:**
+- Project updates
+- Follow-ups on previous action items
+
+**Discussion Points:**
+- Clara shared updates on recent AI ethics research.
+- Victor provided a brief overview of progress in RPA development.
+- Wendy discussed new AI solutions designed for IBM Maximo.
+
+**Next Steps:**
+- Clara to circulate the research report by 15-Jan-2023.
+- Victor to continue development and provide next update on 20-Jan-2023.
+- Wendy to prepare a demo of new AI solutions by 18-Jan-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+
+**Date and Time:** 15-Feb-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Clara Diaz
+- Victor Ramos (Notes)
+- Wendy Chen
+- Emma Lee
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Review of current project milestones
+- Collaboration with Nutanix
+
+**Discussion Points:**
+- Clara provided an update on the latest findings in AI ethics.
+- Victor discussed enhancements to the RPA bots and received feedback from Wendy.
+- Wendy highlighted the integration of AI solutions with IBM Maximo and potential improvements.
+- Emma proposed a strategic partnership with Nutanix for leveraging their hybrid cloud infrastructure.
+
+**Next Steps:**
+- Clara to set up a meeting with Nutanix for further discussion by 20-Feb-2023.
+- Victor to integrate feedback and present updated RPA bots by 25-Feb-2023.
+- Wendy to work on the integration plan and report back by 22-Feb-2023.
+- Emma to draft a proposal for Nutanix partnership by 28-Feb-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+
+**Date and Time:** 10-Mar-2023, 9:00 AM - 11:00 AM
+
+**Attendees:**
+- Clara Diaz
+- Victor Ramos
+- Wendy Chen
+- Emma Lee (Notes)
+- Additional Attendee: Michael Brown (Nutanix, Strategic Partnerships Manager)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- In-depth project updates
+- Strategy discussion for Nutanix partnership
+- Problem-solving session for inter-departmental collaboration
+
+**Discussion Points:**
+- Clara detailed the impact of recent AI ethics research on current projects.
+- Victor demonstrated new RPA bots and discussed potential challenges.
+- Wendy showcased AI solutions for IBM Maximo and highlighted customer feedback.
+- Emma discussed strategic initiatives and how they align with Nutanix’s offerings.
+- Michael Brown from Nutanix shared insights on hybrid cloud benefits and proposed collaborative efforts.
+- Discussed potential challenges, such as data security and resource allocation, and proposed solutions.
+
+**Next Steps:**
+- Clara to prepare a comprehensive ethics report and share by 15-Mar-2023.
+- Victor to address identified challenges and present a refined demo on 20-Mar-2023.
+- Wendy to integrate customer feedback into the next version of AI solutions by 25-Mar-2023.
+- Emma to finalize strategic initiatives and collaborate with Michael to outline a detailed partnership plan by 30-Mar-2023.
+- Michael to arrange a follow-up meeting with Nutanix technical team by 20-Mar-2023.
+
+---
+
+### Meeting Minutes 4 (Moderate)
+
+**Date and Time:** 12-Apr-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**
+- Clara Diaz (Notes)
+- Victor Ramos
+- Wendy Chen
+- Emma Lee
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Quarterly project review
+- Feedback on Nutanix partnership
+- Next quarter planning
+
+**Discussion Points:**
+- Clara reviewed the progress on AI ethics research and its implications.
+- Victor provided an update on RPA developments and future plans.
+- Wendy shared feedback on AI solutions and discussed next steps for enhancements.
+- Emma evaluated the initial phase of the Nutanix partnership and outlined next quarter’s objectives.
+
+**Next Steps:**
+- Clara to draft a quarterly report and distribute by 18-Apr-2023.
+- Victor to plan the next phase of RPA development and share the roadmap by 25-Apr-2023.
+- Wendy to incorporate feedback into the AI solutions and prepare a presentation by 20-Apr-2023.
+- Emma to align next quarter’s objectives with Nutanix and draft a strategic plan by 30-Apr-2023.
+
+---
+
+### Meeting Minutes 5 (Simple)
+
+**Date and Time:** 15-May-2023, 3:00 PM - 3:30 PM
+
+**Attendees:**
+- Clara Diaz
+- Victor Ramos (Notes)
+- Wendy Chen
+
+**Absentees:**
+- Emma Lee
+
+**Agenda:**
+- Brief project updates
+- Review of follow-up actions
+
+**Discussion Points:**
+- Clara shared concise updates on AI ethics research progress.
+- Victor provided a brief status on RPA bot developments.
+- Wendy discussed minor updates on AI solutions for IBM Maximo.
+
+**Next Steps:**
+- Clara to finalize the research summary and distribute by 20-May-2023.
+- Victor to complete current RPA development phase by 25-May-2023.
+- Wendy to finalize updates and prepare for the next project phase by 22-May-2023.
+
+---
+
+### JSON Data

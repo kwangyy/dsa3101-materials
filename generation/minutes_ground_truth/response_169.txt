@@ -1,0 +1,149 @@
+### Meeting Minutes 1 - Simple
+**Date and Time:** 10-Jan-2023, 10:00 AM - 10:30 AM  
+**Attendees:**  
+- Jackie Lin  
+- Clara Diaz  
+- Benji Martinez (Note-taker)  
+- Oliver James  
+- Absentees: None  
+
+**Agenda:**  
+- Project updates  
+- Collaboration strategies  
+
+**Discussion Points:**  
+- **Project Updates:**  
+  - Jackie Lin provided an update on threat detection progress for IBM Security Guardium.  
+  - Clara Diaz discussed recent findings on AI ethics for IBM AI OpenScale.  
+  - Benji Martinez reported on infrastructure improvements for IBM Cloud Object Storage.  
+  - Oliver James gave an update on the development of natural language processing models for IBM Watson Language Translator.
+
+- **Collaboration Strategies:**  
+  - Discussed potential for cross-departmental collaboration to enhance project outcomes.
+
+**Next Steps:**  
+- Jackie Lin to prepare a detailed threat report by 20-Jan-2023.  
+- Clara Diaz to share AI ethics research findings in the next meeting on 17-Jan-2023.  
+- Benji Martinez to coordinate with Oliver James on infrastructure needs for NLP models by 15-Jan-2023.
+
+### Meeting Minutes 2 - Moderate
+**Date and Time:** 20-Feb-2023, 2:00 PM - 3:00 PM  
+**Attendees:**  
+- Jackie Lin  
+- Clara Diaz  
+- Benji Martinez  
+- Oliver James (Note-taker)  
+- Absentees: None  
+
+**Agenda:**  
+- Status updates on ongoing projects  
+- Challenges and proposed solutions  
+- External collaboration with Elastic  
+
+**Discussion Points:**  
+- **Status Updates:**  
+  - All attendees provided brief updates on their respective projects.
+
+- **Challenges and Proposed Solutions:**  
+  - Clara Diaz discussed ethical concerns regarding data privacy in AI models. Proposed solution: tighter data governance.
+  - Benji Martinez faced infrastructure scalability issues. Proposed solution: increase server capacity.
+
+- **External Collaboration:**  
+  - Oliver James suggested potential collaboration with Elastic to leverage real-time analytics for large datasets.  
+  - Jackie Lin agreed to initiate contact with Elastic representatives.
+
+**Next Steps:**  
+- Clara Diaz to draft a data governance policy by 01-Mar-2023.  
+- Benji Martinez to submit a proposal for increased server capacity by 25-Feb-2023.  
+- Jackie Lin to schedule a meeting with Elastic by 28-Feb-2023.  
+
+### Meeting Minutes 3 - Detailed
+**Date and Time:** 15-Mar-2023, 11:00 AM - 12:30 PM  
+**Attendees:**  
+- Jackie Lin (Note-taker)  
+- Clara Diaz  
+- Benji Martinez  
+- Oliver James  
+- External: Samantha Lee from Elastic (Data Analyst)
+
+**Agenda:**  
+- Detailed project reviews  
+- Ethical concerns in AI projects  
+- Infrastructure scalability  
+- Elastic collaboration insights  
+
+**Discussion Points:**  
+- **Detailed Project Reviews:**  
+  - Each attendee provided in-depth reviews of their projects, highlighting key milestones and roadblocks.
+
+- **Ethical Concerns in AI Projects:**  
+  - Clara Diaz outlined concerns about bias in AI training data. Proposed solution: Diverse and inclusive datasets.
+  
+- **Infrastructure Scalability:**  
+  - Benji Martinez discussed current server load and future requirements. Proposed a phased upgrade plan.
+
+- **Elastic Collaboration Insights:**  
+  - Samantha Lee presented how Elastic's analytics engine could benefit IBM projects.  
+  - Jackie Lin suggested pilot testing Elastic's solution on IBM Security Guardium.
+
+**Next Steps:**  
+- Clara Diaz to initiate a review of AI datasets for diversity by 22-Mar-2023.  
+- Benji Martinez to start phase one of server upgrades by 01-Apr-2023.  
+- Jackie Lin to lead a pilot test of Elastic's engine on IBM Security Guardium by 05-Apr-2023.  
+- Samantha Lee to provide additional data analytics resources by 20-Mar-2023.  
+
+### Meeting Minutes 4 - Moderate
+**Date and Time:** 10-Apr-2023, 3:00 PM - 4:00 PM  
+**Attendees:**  
+- Jackie Lin  
+- Clara Diaz  
+- Benji Martinez  
+- Oliver James  
+- Absentees: None  
+
+**Agenda:**  
+- Progress review  
+- Coordination across departments  
+- External resource allocation  
+
+**Discussion Points:**  
+- **Progress Review:**  
+  - Individual updates from each team member on their ongoing projects.
+
+- **Coordination Across Departments:**  
+  - Discussed ways to improve inter-departmental communication and resource sharing.
+
+- **External Resource Allocation:**  
+  - Focused on how to effectively use Elastic's analytics tools.
+
+**Next Steps:**  
+- Oliver James to draft a communication protocol by 17-Apr-2023.  
+- Benji Martinez to finalize server upgrade plans by 15-Apr-2023.  
+- Jackie Lin to provide feedback on Elastic's pilot test by 25-Apr-2023.  
+
+### Meeting Minutes 5 - Simple
+**Date and Time:** 01-May-2023, 9:00 AM - 9:30 AM  
+**Attendees:**  
+- Jackie Lin  
+- Clara Diaz  
+- Benji Martinez  
+- Oliver James (Note-taker)  
+- Absentees: None  
+
+**Agenda:**  
+- Quick project updates  
+- Immediate action items  
+
+**Discussion Points:**  
+- **Quick Project Updates:**  
+  - Each attendee provided a brief update on their project status.
+
+- **Immediate Action Items:**  
+  - Agreed on key tasks to focus on for the upcoming week.
+
+**Next Steps:**  
+- Clara Diaz to share the latest AI ethics research paper by 03-May-2023.  
+- Jackie Lin to update threat detection metrics by 05-May-2023.  
+- Benji Martinez to check server performance post-upgrade by 07-May-2023.
+
+### JSON Relationships Data

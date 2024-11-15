@@ -1,0 +1,141 @@
+### Meeting 1 - Simple
+**Date and Time:** 15-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Oliver James
+- Rachel Singh
+- Derek Hill
+- Note Taker: Rachel Singh
+- Absentees: Uma Patel
+
+**Agenda:**
+- Project updates
+
+**Discussion Points:**
+- Oliver James provided an update on the natural language processing module for IBM Watson Language Translator. The module is 80% complete.
+- Rachel Singh discussed the backend development progress for IBM Cloud Functions, indicating that the team is currently addressing performance issues.
+- Derek Hill shared that the QA testing for IBM Aspera is halfway done, with several bugs identified and being fixed.
+
+**Next Steps:**
+- Oliver James to finalize the NLP module by 30-Jan-2023.
+- Rachel Singh's team to resolve performance issues by 25-Jan-2023.
+- Derek Hill to complete QA testing by 20-Jan-2023.
+
+---
+
+### Meeting 2 - Moderate
+**Date and Time:** 01-Feb-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Oliver James
+- Rachel Singh
+- Uma Patel
+- Derek Hill
+- Note Taker: Oliver James
+- Absentees: None
+
+**Agenda:**
+- Project updates
+- Strategy discussion for cross-department collaboration
+
+**Discussion Points:**
+- Oliver James announced the completion of the NLP module.
+- Rachel Singh reported the successful optimization of backend performance for IBM Cloud Functions.
+- Uma Patel provided an update on the hybrid cloud solutions, indicating ongoing discussions with potential clients.
+- Derek Hill mentioned the completion of QA for IBM Aspera and flagged several issues for follow-up development.
+
+**Next Steps:**
+- Uma Patel to share detailed client feedback by 10-Feb-2023.
+- Derek Hill to provide a detailed QA report by 05-Feb-2023.
+- Schedule a follow-up meeting for 15-Feb-2023.
+
+---
+
+### Meeting 3 - Detailed
+**Date and Time:** 15-Feb-2023, 10:00 AM - 11:30 AM
+
+**Attendees:**
+- Oliver James
+- Rachel Singh
+- Uma Patel
+- Derek Hill
+- External Attendee: John Smith (Alteryx, Data Analyst)
+- Note Taker: Uma Patel
+- Absentees: None
+
+**Agenda:**
+- Project updates
+- Integration with Alteryx for data analytics
+- Problem-solving session
+
+**Discussion Points:**
+- Oliver James reported that the NLP module has been integrated into IBM Watson and is functioning as expected.
+- Rachel Singh shared that the backend system for IBM Cloud Functions is now fully operational and handling increased load efficiently.
+- Uma Patel discussed potential hybrid cloud solutions for new clients, focusing on customization options.
+- John Smith from Alteryx presented possible integration scenarios between IBM Cloud and Alteryx for enhanced data analytics.
+- Derek Hill noted the completion of QA and highlighted the need for some code refactoring.
+
+**Next Steps:**
+- Oliver James to prepare a demo of the NLP module for internal review by 20-Feb-2023.
+- Rachel Singh to collaborate with John Smith on a pilot project for data analytics integration by 25-Feb-2023.
+- Uma Patel to finalize client customization details by 28-Feb-2023.
+- Derek Hill to lead a team to address code refactoring by 22-Feb-2023.
+
+---
+
+### Meeting 4 - Simple
+**Date and Time:** 01-Mar-2023, 9:30 AM - 10:00 AM
+
+**Attendees:**
+- Oliver James
+- Rachel Singh
+- Derek Hill
+- Note Taker: Derek Hill
+- Absentees: Uma Patel
+
+**Agenda:**
+- Quick project updates
+
+**Discussion Points:**
+- Oliver James mentioned a minor bug in the NLP module being addressed.
+- Rachel Singh confirmed the pilot project with Alteryx is on track.
+- Derek Hill reported progress on code refactoring.
+
+**Next Steps:**
+- Oliver James to fix the bug by 05-Mar-2023.
+- Rachel Singh to deliver a progress report on the Alteryx pilot by 10-Mar-2023.
+- Derek Hill to complete code refactoring by 08-Mar-2023.
+
+---
+
+### Meeting 5 - Moderate
+**Date and Time:** 15-Mar-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**
+- Oliver James
+- Rachel Singh
+- Uma Patel
+- Derek Hill
+- Note Taker: Rachel Singh
+- Absentees: None
+
+**Agenda:**
+- Project updates
+- Strategy for client presentations
+- Potential challenges and solutions
+
+**Discussion Points:**
+- Oliver James confirmed that the bug in the NLP module is resolved.
+- Rachel Singh shared that the Alteryx pilot project is successful and can be scaled up.
+- Uma Patel discussed upcoming client presentations and potential areas of focus.
+- Derek Hill highlighted some ongoing minor issues in the code base and recommended regular code reviews.
+
+**Next Steps:**
+- Oliver James to assist with client presentations by 20-Mar-2023.
+- Rachel Singh to prepare a full report on the Alteryx integration by 18-Mar-2023.
+- Uma Patel to coordinate with the sales team for client presentations by 22-Mar-2023.
+- Derek Hill to schedule and lead regular code reviews starting 25-Mar-2023.
+
+---
+
+### JSON Data

@@ -1,0 +1,208 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:**
+- Date: 01-OCT-2023
+- Time: 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Rachel Singh
+- Xander Williams
+- Jackie Lin (Note taker)
+- Benji Martinez
+
+**Agenda:**
+- Greetings and introductions
+- Project updates
+
+**Discussion Points:**
+- **Greetings and Introductions:**
+  - Everyone exchanged brief greetings.
+  
+- **Project Updates:**
+  - **Rachel Singh:** Provided a quick update on backend development for IBM Cloud Functions. Mentioned that the new API endpoint was successfully integrated.
+  - **Xander Williams:** Shared progress on the IBM MobileFirst Platform application. Highlighted that the new feature for offline mode is almost ready for testing.
+  - **Jackie Lin:** Gave an update on threat detection improvements for IBM Security Guardium. Mentioned new threat signatures were successfully added.
+  - **Benji Martinez:** Discussed infrastructure updates for IBM Cloud Object Storage, focusing on recent performance optimizations.
+
+**Next Steps:**
+- All team members to continue working on their respective projects and prepare for the next update meeting in two weeks.
+
+---
+
+### Meeting Minutes 2: Moderate
+
+**Date and Time:**
+- Date: 08-OCT-2023
+- Time: 11:00 AM - 12:00 PM
+
+**Attendees:**
+- Rachel Singh
+- Xander Williams (Note taker)
+- Jackie Lin
+- Benji Martinez
+
+**Agenda:**
+- Project updates
+- Discussion on cross-department collaboration
+- Identify potential challenges and solutions
+
+**Discussion Points:**
+- **Project Updates:**
+  - **Rachel Singh:** Reported progress on backend tasks, including the successful deployment of the latest microservices.
+  - **Xander Williams:** Informed the team about the recent UI/UX improvements in the mobile app.
+  - **Jackie Lin:** Mentioned the deployment of new security patches.
+  - **Benji Martinez:** Discussed the recent server maintenance and its impact on system performance.
+
+- **Cross-Department Collaboration:**
+  - Discussed potential synergies between Cloud Solutions and Digital Solutions departments.
+  - Identified the need for a common API to facilitate better integration between mobile and backend services.
+
+- **Challenges and Solutions:**
+  - **Rachel Singh:** Raised the issue of latency in cloud functions. Proposed working with the IT Operations team to optimize server response time.
+  - **Jackie Lin:** Highlighted the need for regular security audits. Suggested scheduling monthly reviews.
+
+**Next Steps:**
+- Rachel Singh to coordinate with Benji Martinez for optimizing server response time. Deadline: 15-OCT-2023.
+- Xander Williams to share UI/UX improvements with the Cloud Solutions team for feedback. Deadline: 12-OCT-2023.
+- Jackie Lin to set up monthly security audits. Deadline: 20-OCT-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+
+**Date and Time:**
+- Date: 15-OCT-2023
+- Time: 2:00 PM - 3:30 PM
+
+**Attendees:**
+- Rachel Singh
+- Xander Williams
+- Jackie Lin (Note taker)
+- Benji Martinez
+- External Attendee: Jane Doe, Elastic - Data Analytics Specialist
+
+**Agenda:**
+- Project updates
+- Strategy discussion for integrating Elastic search capabilities
+- Detailed analysis of current project hurdles
+- Future planning and resource allocation
+
+**Discussion Points:**
+- **Project Updates:**
+  - **Rachel Singh:** Discussed backend improvements and the recent challenges faced during API integrations. Noted an increase in API response times.
+  - **Xander Williams:** Updated the team on the completed features and upcoming milestones for the mobile app.
+  - **Jackie Lin:** Provided an overview of recent security enhancements and their effectiveness.
+  - **Benji Martinez:** Talked about recent infrastructure changes and their impact on performance.
+
+- **Integration with Elastic:**
+  - **Jane Doe:** Provided insights on how Elastic search capabilities can enhance real-time data analytics for IBM projects.
+  - **Rachel Singh:** Showed interest in incorporating Elastic for faster search functionalities in cloud functions.
+
+- **Current Project Hurdles:**
+  - **Xander Williams:** Mentioned the difficulty in ensuring offline mode stability.
+  - **Jackie Lin:** Highlighted the need for faster threat detection and response mechanisms.
+  - **Benji Martinez:** Discussed server downtime and maintenance scheduling issues.
+
+- **Future Planning:**
+  - **Rachel Singh:** Proposed a plan for optimizing API performance using Elastic's analytics.
+  - **Xander Williams:** Suggested a phased approach for offline mode testing.
+  - **Jackie Lin:** Recommended increasing the frequency of security drills.
+  - **Benji Martinez:** Agreed to allocate more resources for server uptime and maintenance.
+
+**Next Steps:**
+- Rachel Singh to collaborate with Jane Doe for Elastic integration. Deadline: 30-OCT-2023.
+- Xander Williams to initiate offline mode testing. Deadline: 25-OCT-2023.
+- Jackie Lin to schedule additional security drills. Deadline: 22-OCT-2023.
+- Benji Martinez to revise server maintenance schedules. Deadline: 20-OCT-2023.
+
+---
+
+### Meeting Minutes 4: Moderate
+
+**Date and Time:**
+- Date: 22-OCT-2023
+- Time: 10:00 AM - 11:00 AM
+
+**Attendees:**
+- Rachel Singh (Note taker)
+- Xander Williams
+- Jackie Lin
+- Benji Martinez
+
+**Agenda:**
+- Project updates
+- Review of previous action items
+- Team collaboration and resource sharing
+
+**Discussion Points:**
+- **Project Updates:**
+  - **Rachel Singh:** Shared progress on the Elastic integration. Mentioned initial test results are promising.
+  - **Xander Williams:** Provided an update on offline mode testing.
+  - **Jackie Lin:** Discussed the outcomes of recent security drills.
+  - **Benji Martinez:** Updated the team on revised maintenance schedules.
+
+- **Review of Action Items:**
+  - Rachel Singh: Coordinated with Jane Doe and completed initial Elastic integration tests.
+  - Xander Williams: Began offline mode testing with positive initial results.
+  - Jackie Lin: Conducted additional security drills as planned.
+  - Benji Martinez: Implemented new server maintenance schedules.
+
+- **Collaboration and Resource Sharing:**
+  - Discussed ways to enhance collaboration between departments.
+  - Agreed on sharing testing resources for offline mode and security drills.
+
+**Next Steps:**
+- Rachel Singh to finalize Elastic integration. Deadline: 05-NOV-2023.
+- Xander Williams to complete offline mode testing. Deadline: 01-NOV-2023.
+- Jackie Lin to compile a report on recent security drills. Deadline: 29-OCT-2023.
+- Benji Martinez to monitor the impact of revised maintenance schedules. Deadline: 05-NOV-2023.
+
+---
+
+### Meeting Minutes 5: Detailed
+
+**Date and Time:**
+- Date: 29-OCT-2023
+- Time: 3:00 PM - 4:30 PM
+
+**Attendees:**
+- Rachel Singh
+- Xander Williams (Note taker)
+- Jackie Lin
+- Benji Martinez
+- External Attendee: John Smith, Elastic - Solutions Architect
+
+**Agenda:**
+- Project updates
+- Detailed review of Elastic integration
+- Long-term strategic planning
+- Analysis of cross-departmental dependencies
+
+**Discussion Points:**
+- **Project Updates:**
+  - **Rachel Singh:** Discussed final stages of Elastic integration. Highlighted the need for further testing.
+  - **Xander Williams:** Shared the progress on offline mode testing and the latest improvements.
+  - **Jackie Lin:** Provided a detailed report on the effectiveness of the recent security drills.
+  - **Benji Martinez:** Talked about the impact of new server maintenance schedules on overall performance.
+
+- **Elastic Integration:**
+  - **John Smith:** Provided a comprehensive overview of the benefits and best practices for Elastic integration.
+  - **Rachel Singh:** Discussed potential challenges and solutions for full-scale deployment.
+
+- **Long-term Strategic Planning:**
+  - Discussed future project timelines and resource allocation.
+  - Agreed on the need for continuous updates and regular check-ins to ensure alignment with goals.
+
+- **Cross-Departmental Dependencies:**
+  - Identified critical interdependencies between Cloud Solutions, Digital Solutions, and Security departments.
+  - Discussed the importance of maintaining clear communication and regular updates.
+
+**Next Steps:**
+- Rachel Singh to complete full-scale deployment of Elastic integration. Deadline: 15-NOV-2023.
+- Xander Williams to finalize and deploy offline mode. Deadline: 10-NOV-2023.
+- Jackie Lin to schedule and conduct new security drills. Deadline: 12-NOV-2023.
+- Benji Martinez to continue monitoring server performance and update the team. Deadline: 10-NOV-2023.
+
+---
+
+### JSON Representation of Relationships

@@ -1,0 +1,170 @@
+### Meeting Minutes 1 (Simple)
+#### Date: 01-Feb-2023
+#### Time: 10:00 - 10:30 AM
+
+**Attendees:**
+- Wendy Chen
+- Victor Ramos
+- Franklin Moore (note-taker)
+- Benji Martinez
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Review of ongoing AI and automation initiatives.
+- Discussion of potential collaboration with external entities.
+
+**Discussion Points:**
+- Wendy Chen provided a brief update on the latest enhancements in IBM Maximo Asset Management.
+- Victor Ramos discussed progress on developing new bots for internal processes.
+- Franklin Moore shared updates on API development for IBM Watson Assistant.
+- Benji Martinez talked about the recent infrastructure upgrades for IBM Cloud Object Storage.
+
+**Next Steps:**
+- Wendy to document AI enhancements by 07-Feb-2023.
+- Victor to complete bot development by 15-Feb-2023.
+- Franklin to finalize API by 10-Feb-2023.
+- Benji to monitor infrastructure performance and report by 05-Feb-2023.
+
+
+### Meeting Minutes 2 (Moderate)
+#### Date: 15-Feb-2023
+#### Time: 2:00 - 3:00 PM
+
+**Attendees:**
+- Wendy Chen
+- Victor Ramos
+- Franklin Moore
+- Benji Martinez
+- External Attendee: Sarah Johnson (ServiceTitan, Senior Project Manager)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Discuss potential collaboration with ServiceTitan.
+- Updates on innovation initiatives.
+
+**Discussion Points:**
+- Wendy Chen presented the latest AI solutions for IBM Maximo Asset Management and their potential applications in ServiceTitan.
+- Sarah Johnson highlighted ServiceTitan's need for robust AI and automation solutions.
+- Victor Ramos showcased current RPA projects and explored how bots could be integrated with ServiceTitan's systems.
+- Franklin Moore discussed API capabilities and potential customizations for ServiceTitan.
+- Benji Martinez mentioned infrastructure considerations and how the IBM Cloud could support ServiceTitan's needs.
+
+**Next Steps:**
+- Wendy and Sarah to hold a detailed requirements meeting by 22-Feb-2023.
+- Victor to create a prototype bot for ServiceTitan by 05-Mar-2023.
+- Franklin to develop a custom API integration by 10-Mar-2023.
+- Benji to draft an infrastructure support plan by 28-Feb-2023.
+
+
+### Meeting Minutes 3 (Detailed)
+#### Date: 01-Mar-2023
+#### Time: 3:00 - 4:30 PM
+
+**Attendees:**
+- Wendy Chen
+- Victor Ramos
+- Franklin Moore
+- Benji Martinez
+- Guest: Emily Collins (Marketing Team, IBM)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Deep dive into current innovation projects.
+- Marketing strategies for new AI and automation solutions.
+- Cross-departmental support and resource allocation.
+
+**Discussion Points:**
+- Wendy Chen gave a detailed presentation on the recent advancements in IBM Maximo Asset Management.
+  - Discussed potential AI features that could attract new clients.
+- Victor Ramos elaborated on the effectiveness of current RPA bots and their ROI.
+  - Proposed new bot features to enhance automation.
+- Franklin Moore reviewed API enhancements and their impact on customer interaction.
+  - Discussed possible challenges in API integration.
+- Benji Martinez outlined infrastructure readiness for upcoming projects.
+  - Proposed scaling strategies for peak demands.
+- Emily Collins shared insights from the marketing team's perspective.
+  - Discussed targeted marketing campaigns for new solutions.
+
+**Next Steps:**
+- Wendy to develop AI feature demo by 15-Mar-2023.
+- Victor to finalize new bot features by 20-Mar-2023.
+- Franklin to address API integration challenges by 10-Mar-2023.
+- Benji to implement scaling strategies by 25-Mar-2023.
+- Emily to launch the first marketing campaign by 30-Mar-2023.
+
+
+### Meeting Minutes 4 (Simple)
+#### Date: 15-Mar-2023
+#### Time: 11:00 - 11:30 AM
+
+**Attendees:**
+- Wendy Chen
+- Victor Ramos
+- Franklin Moore (note-taker)
+- Benji Martinez
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Quick check-in on project statuses.
+
+**Discussion Points:**
+- Wendy Chen updated on AI demo development.
+- Victor Ramos discussed finalization of new bot features.
+- Franklin Moore reviewed API integration progress.
+- Benji Martinez provided a brief on infrastructure scaling.
+
+**Next Steps:**
+- Wendy to finalize AI demo by 20-Mar-2023.
+- Victor to complete bot features by 25-Mar-2023.
+- Franklin to finish API integration by 18-Mar-2023.
+- Benji to continue monitoring and report scaling progress by 22-Mar-2023.
+
+
+### Meeting Minutes 5 (Detailed)
+#### Date: 01-Apr-2023
+#### Time: 1:00 - 2:30 PM
+
+**Attendees:**
+- Wendy Chen
+- Victor Ramos
+- Franklin Moore
+- Benji Martinez
+- Guest: Richard Lee (Business Development, IBM)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Review of Q1 performance.
+- Strategic planning for Q2.
+- Identifying new client opportunities and partnerships.
+
+**Discussion Points:**
+- Wendy Chen provided a comprehensive review of Q1 AI project performance.
+  - Highlighted successful client deployments.
+- Victor Ramos discussed RPA initiatives' performance metrics.
+  - Identified areas for process improvement.
+- Franklin Moore reviewed API utilization and customer feedback.
+  - Proposed enhancements based on feedback.
+- Benji Martinez outlined infrastructure performance and future upgrades.
+  - Discussed potential risks and mitigation plans.
+- Richard Lee shared insights on new client opportunities.
+  - Proposed strategies for approaching potential partnerships.
+
+**Next Steps:**
+- Wendy to draft Q2 AI project plan by 10-Apr-2023.
+- Victor to outline RPA process improvements by 15-Apr-2023.
+- Franklin to implement API enhancements by 20-Apr-2023.
+- Benji to begin infrastructure upgrades by 30-Apr-2023.
+- Richard to initiate contact with potential partners by 15-Apr-2023.
+
+
+### JSON Representation of Relationships

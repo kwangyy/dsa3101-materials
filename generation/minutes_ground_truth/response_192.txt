@@ -1,0 +1,138 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:** 15-Jan-2023, 10:00 AM - 10:30 AM  
+**Attendees:**  
+- Natalie Wu (Notes)  
+- Clara Diaz  
+- Uma Patel  
+
+**Absentees:**  
+- Ivy Bennett  
+
+**Agenda:**  
+- Introduction to AI ethics guidelines  
+- Review of current marketing strategies for IBM Watson Discovery  
+
+**Discussion Points:**  
+- Clara introduced the new AI ethics guidelines being developed by the Ethics Department for IBM AI OpenScale.  
+- Natalie discussed the ongoing marketing strategies and initial client feedback for IBM Watson Discovery.  
+- Uma suggested integrating AI ethics guidelines into marketing materials to appeal to ethically-conscious clients.
+
+**Next Steps:**  
+- Clara to send a detailed report on AI ethics guidelines by 20-Jan-2023.  
+- Natalie to update marketing strategies with an ethical focus and present the draft in the next meeting on 25-Jan-2023.
+
+---
+
+### Meeting Minutes 2: Simple
+
+**Date and Time:** 20-Feb-2023, 11:00 AM - 11:30 AM  
+**Attendees:**  
+- Natalie Wu  
+- Clara Diaz (Notes)  
+- Ivy Bennett  
+
+**Absentees:**  
+- Uma Patel  
+
+**Agenda:**  
+- Review of ETL pipeline performance  
+- Discussion on future collaboration with external entities  
+
+**Discussion Points:**  
+- Ivy presented the performance metrics of current ETL pipelines for IBM Db2 Database.
+- Clara brought up potential collaborations with Alteryx for data analytics and automation.
+
+**Next Steps:**  
+- Ivy to explore optimization techniques for ETL pipelines and report back on 27-Feb-2023.  
+- Clara to draft a proposal for collaboration with Alteryx by 01-Mar-2023.
+
+---
+
+### Meeting Minutes 3: Moderate
+
+**Date and Time:** 10-Mar-2023, 2:00 PM - 3:00 PM  
+**Attendees:**  
+- Natalie Wu  
+- Clara Diaz  
+- Uma Patel (Notes)  
+- Ivy Bennett  
+
+**Agenda:**  
+- AI policy updates  
+- Hybrid cloud solutions presentation  
+- Marketing campaigns for new product launch  
+
+**Discussion Points:**  
+- Clara shared updates on AI policy changes and their potential impact on product marketing.
+- Uma presented a new hybrid cloud solution for IBM Cloud Private, emphasizing its scalability and security features.
+- Natalie discussed upcoming marketing campaigns for the new product launch, suggesting a collaboration with the Solutions Engineering team for a technical blog series.
+
+**Next Steps:**  
+- Clara to provide a detailed AI policy update document by 17-Mar-2023.
+- Uma to work with Natalie on the technical blog series, draft due by 24-Mar-2023.
+- Ivy to analyze the data needs for the blog series and assist in data extraction, report due by 20-Mar-2023.
+
+---
+
+### Meeting Minutes 4: Detailed
+
+**Date and Time:** 05-Apr-2023, 9:00 AM - 10:30 AM  
+**Attendees:**  
+- Natalie Wu  
+- Clara Diaz  
+- Uma Patel  
+- Ivy Bennett (Notes)  
+
+**Additional Attendees:**  
+- Jake Miller (Alteryx, Data Analyst)  
+
+**Agenda:**  
+- Project updates  
+- Strategy for AI ethics in marketing  
+- Collaboration with Alteryx  
+
+**Discussion Points:**  
+- Natalie provided updates on the ongoing marketing projects and discussed the need to incorporate AI ethics into marketing content.
+- Clara emphasized the importance of AI transparency and proposed a framework for ethical marketing.
+- Uma discussed the role of hybrid cloud solutions in enhancing the efficiency of marketing data analytics.
+- Jake Miller from Alteryx introduced their latest data analytics tools that can be leveraged for IBM's marketing campaigns.
+
+**Next Steps:**  
+- Clara to finalize the ethical marketing framework and share it with the team by 12-Apr-2023.
+- Uma to set up a demo for the hybrid cloud solution in collaboration with the marketing team, scheduled for 15-Apr-2023.
+- Jake Miller to arrange a follow-up meeting with Alteryx team for deeper collaboration by 20-Apr-2023.
+- Ivy to integrate Alteryx tools into the ETL pipeline, initial tests to be conducted by 22-Apr-2023.
+
+---
+
+### Meeting Minutes 5: Detailed
+
+**Date and Time:** 18-May-2023, 1:00 PM - 2:30 PM  
+**Attendees:**  
+- Natalie Wu  
+- Clara Diaz  
+- Uma Patel (Notes)  
+- Ivy Bennett  
+
+**Absentees:**  
+None  
+
+**Agenda:**  
+- Detailed review of hybrid cloud projects  
+- AI ethics training plan  
+- Data pipeline improvements and future-proofing  
+
+**Discussion Points:**  
+- Uma provided an in-depth review of current hybrid cloud projects, highlighting successes and areas for improvement.
+- Clara presented a comprehensive AI ethics training plan aimed at all departments, emphasizing the importance of these guidelines.
+- Ivy discussed the current state of data pipelines and proposed several improvements to future-proof them, including the integration of new tools from Alteryx.
+
+**Next Steps:**  
+- Uma to prepare a detailed report on the hybrid cloud project improvements and share it by 25-May-2023.
+- Clara to initiate the AI ethics training program, with the first session scheduled for 01-Jun-2023.
+- Ivy to start the implementation of pipeline improvements, targeting completion by 10-Jun-2023, and work closely with the Alteryx team for tool integration.
+
+---
+
+### JSON Representation

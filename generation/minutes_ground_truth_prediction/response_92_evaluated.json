@@ -1,0 +1,192 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Rachel Singh"
+                },
+                {
+                    "name": "Kevin O'Reilly"
+                },
+                {
+                    "name": "Oliver James"
+                },
+                {
+                    "name": "Paul Hernandez"
+                },
+                {
+                    "name": "Jane Roberts"
+                },
+                {
+                    "name": "Michael Brown"
+                },
+                {
+                    "name": "Linda White"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Took notes"
+                },
+                {
+                    "title": "Data Platform Specialist"
+                },
+                {
+                    "title": "Project Manager"
+                },
+                {
+                    "title": "Technical Lead"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "Unknown"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cloud Functions"
+                },
+                {
+                    "name": "IBM Watson Studio"
+                },
+                {
+                    "name": "IBM Watson Language Translator"
+                },
+                {
+                    "name": "IBM Z systems"
+                },
+                {
+                    "name": "Cloudera's platform"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Rachel Singh",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Kevin O'Reilly",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Oliver James",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Paul Hernandez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jane Roberts",
+                "organization": "Cloudera"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Brown",
+                "organization": "External Client"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Linda White",
+                "organization": "External Client"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Rachel Singh",
+                "role": "Took notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Kevin O'Reilly",
+                "role": "Unknown"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Oliver James",
+                "role": "Unknown"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Paul Hernandez",
+                "role": "Unknown"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jane Roberts",
+                "role": "Data Platform Specialist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Brown",
+                "role": "Project Manager"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Linda White",
+                "role": "Technical Lead"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Cloudera",
+                "location": "Unknown"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "External Client",
+                "location": "Unknown"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Rachel Singh",
+                "product_service": "IBM Cloud Functions"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Kevin O'Reilly",
+                "product_service": "IBM Watson Studio"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Oliver James",
+                "product_service": "IBM Watson Language Translator"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Paul Hernandez",
+                "product_service": "IBM Z systems"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Jane Roberts",
+                "product_service": "Cloudera's platform"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Brown",
+                "product_service": "Unknown"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Linda White",
+                "product_service": "Unknown"
+            }
+        ]
+    }
+}

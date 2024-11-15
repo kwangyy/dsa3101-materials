@@ -1,0 +1,143 @@
+### Meeting Minutes 1
+#### Date and Time: 01-SEP-2023, 09:00 - 09:30
+#### Attendees:
+- Alice Smith (Chief Data Officer) - Note taker
+- Jackie Lin (Cybersecurity Analyst)
+- Zachary Brooks (Solutions Engineer)
+- Franklin Moore (Senior Software Engineer)
+- Absentees: None
+
+#### Agenda:
+- Simple greetings
+- Brief updates on individual projects
+
+#### Discussion Points:
+- **Greetings:** All attendees exchanged brief greetings.
+- **Project Updates:**
+  - **Alice Smith:** Provided an update on the latest development for Microsoft Azure and Symantec Endpoint Security.
+  - **Jackie Lin:** Discussed threat detection improvements for IBM Security Guardium.
+  - **Zachary Brooks:** Shared recent solutions implemented for IBM Cloud Pak for Integration.
+  - **Franklin Moore:** Presented new API developments for IBM Watson Assistant.
+
+#### Next Steps:
+- Continue working on respective projects.
+- Schedule the next update meeting in two weeks.
+
+---
+
+### Meeting Minutes 2
+#### Date and Time: 10-SEP-2023, 14:00 - 14:45
+#### Attendees:
+- Alice Smith (Chief Data Officer) - Note taker
+- Jackie Lin (Cybersecurity Analyst)
+- Zachary Brooks (Solutions Engineer)
+- Franklin Moore (Senior Software Engineer)
+- Absentees: None
+
+#### Agenda:
+- Simple greetings
+- Upcoming product launch for IBM Cloud Pak for Integration
+
+#### Discussion Points:
+- **Greetings:** Brief greetings exchanged.
+- **Product Launch:**
+  - **Zachary Brooks:** Detailed the plan for the upcoming product launch of IBM Cloud Pak for Integration.
+  - **Alice Smith:** Discussed potential data integration and analytics features.
+  - **Jackie Lin:** Emphasized the need for enhanced security measures.
+  - **Franklin Moore:** Suggested API improvements to support the new features.
+
+#### Next Steps:
+- **Zachary Brooks:** Finalize the product launch plan by 15-SEP-2023.
+- **Alice Smith and Jackie Lin:** Review and enhance security and data features by 20-SEP-2023.
+- **Franklin Moore:** Complete API improvements by 25-SEP-2023.
+
+---
+
+### Meeting Minutes 3
+#### Date and Time: 20-SEP-2023, 10:00 - 11:00
+#### Attendees:
+- Alice Smith (Chief Data Officer) - Note taker
+- Jackie Lin (Cybersecurity Analyst)
+- Zachary Brooks (Solutions Engineer)
+- Franklin Moore (Senior Software Engineer)
+- External Attendee: David Johnson (Data Engineer, Cloudera)
+
+#### Agenda:
+- Simple greetings
+- Collaboration on AI and Big Data projects with Cloudera
+
+#### Discussion Points:
+- **Greetings:** Brief introductions and greetings.
+- **Collaboration:**
+  - **David Johnson:** Introduced Cloudera’s capabilities in AI and Big Data.
+  - **Alice Smith:** Discussed potential areas for collaboration, particularly for Microsoft Azure.
+  - **Jackie Lin:** Highlighted security aspects and data protection.
+  - **Franklin Moore:** Explored API integration possibilities between IBM Watson Assistant and Cloudera’s platform.
+
+#### Next Steps:
+- **Alice Smith:** Prepare a detailed collaboration proposal by 30-SEP-2023.
+- **David Johnson:** Share Cloudera’s technical specifications by 25-SEP-2023.
+- **Jackie Lin:** Conduct a security review by 05-OCT-2023.
+- **Franklin Moore:** Draft API integration plan by 10-OCT-2023.
+
+---
+
+### Meeting Minutes 4
+#### Date and Time: 01-OCT-2023, 15:00 - 16:00
+#### Attendees:
+- Alice Smith (Chief Data Officer) - Note taker
+- Jackie Lin (Cybersecurity Analyst)
+- Zachary Brooks (Solutions Engineer)
+- Franklin Moore (Senior Software Engineer)
+- Absentees: None
+
+#### Agenda:
+- Simple greetings
+- Strategy discussion for Q4 2023
+
+#### Discussion Points:
+- **Greetings:** Warm greetings exchanged.
+- **Q4 Strategy:**
+  - **Alice Smith:** Presented key data strategy initiatives for Q4, including Microsoft Azure updates.
+  - **Jackie Lin:** Outlined the security roadmap focusing on IBM Security Guardium.
+  - **Zachary Brooks:** Discussed customer feedback and proposed solution enhancements.
+  - **Franklin Moore:** Proposed new AI functionalities for IBM Watson Assistant.
+
+#### Next Steps:
+- **Alice Smith:** Finalize data strategy documents by 15-OCT-2023.
+- **Jackie Lin:** Draft security roadmap by 20-OCT-2023.
+- **Zachary Brooks:** Compile customer feedback report by 10-OCT-2023.
+- **Franklin Moore:** Develop AI functionality prototypes by 30-OCT-2023.
+
+---
+
+### Meeting Minutes 5
+#### Date and Time: 15-OCT-2023, 11:00 - 12:30
+#### Attendees:
+- Alice Smith (Chief Data Officer) - Note taker
+- Jackie Lin (Cybersecurity Analyst)
+- Zachary Brooks (Solutions Engineer)
+- Franklin Moore (Senior Software Engineer)
+- Absentees: None
+
+#### Agenda:
+- Simple greetings
+- Problem-solving session for recent cyber threat
+
+#### Discussion Points:
+- **Greetings:** Brief greetings and immediate focus on the issue.
+- **Cyber Threat:**
+  - **Jackie Lin:** Provided details on the recent cyber threat detected in IBM Security Guardium.
+  - **Alice Smith:** Discussed potential data vulnerabilities.
+  - **Zachary Brooks:** Suggested customer communication strategies.
+  - **Franklin Moore:** Proposed API updates to enhance security.
+
+#### Next Steps:
+- **Jackie Lin:** Implement immediate threat mitigation measures by 18-OCT-2023.
+- **Alice Smith:** Conduct a data vulnerability assessment by 20-OCT-2023.
+- **Zachary Brooks:** Prepare customer communication drafts by 17-OCT-2023.
+- **Franklin Moore:** Update APIs for increased security by 25-OCT-2023.
+
+---
+
+### JSON Data

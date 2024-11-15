@@ -1,0 +1,180 @@
+### Meeting Minutes 1 (Simple)
+
+**Date and Time:**  
+15-Mar-2023  
+Start Time: 10:00 AM  
+End Time: 10:30 AM  
+
+**Attendees:**  
+- David Patel (Notes)  
+- Henry Zhou  
+- Brian Taylor  
+- Xander Williams  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+1. Greetings  
+2. Introduction to Collaboration Proposals  
+
+**Discussion Points:**  
+- David Patel welcomed everyone and introduced the meeting's purpose.  
+- Henry Zhou suggested collaborating on automating CI/CD pipelines for better efficiency.  
+- Xander Williams proposed integrating mobile app solutions into existing cloud infrastructure.
+
+**Next Steps:**  
+- David Patel to draft initial collaboration plan by 20-Mar-2023.  
+- Henry Zhou to identify specific areas for CI/CD integration by 25-Mar-2023.  
+- Xander Williams to outline mobile integration strategies by 22-Mar-2023.  
+
+---
+
+### Meeting Minutes 2 (Moderate)
+
+**Date and Time:**  
+05-Apr-2023  
+Start Time: 2:00 PM  
+End Time: 3:00 PM  
+
+**Attendees:**  
+- David Patel  
+- Henry Zhou (Notes)  
+- Brian Taylor  
+- Xander Williams  
+- External Attendee: Jane Smith (Cloudera, Data Scientist)  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+1. Collaboration with Cloudera  
+2. Enhancing Data Processing Pipelines  
+3. Mobile App Integration  
+
+**Discussion Points:**  
+- David Patel discussed potential collaboration with Cloudera on data processing.  
+- Jane Smith explained Cloudera's capabilities in handling big data and machine learning.  
+- Brian Taylor emphasized the need for robust data pipelines on Azure.  
+- Xander Williams suggested potential mobile app functionalities for data visualization.
+
+**Next Steps:**  
+- David Patel and Jane Smith to arrange a follow-up meeting for detailed collaboration plan by 10-Apr-2023.  
+- Brian Taylor to draft enhanced data pipeline requirements by 15-Apr-2023.  
+- Xander Williams to create a prototype of mobile app integration by 18-Apr-2023.  
+
+---
+
+### Meeting Minutes 3 (Detailed)
+
+**Date and Time:**  
+12-May-2023  
+Start Time: 9:00 AM  
+End Time: 11:00 AM  
+
+**Attendees:**  
+- David Patel  
+- Henry Zhou  
+- Brian Taylor (Notes)  
+- Xander Williams  
+- External Attendee: Emily Johnson (IBM, Senior Cloud Engineer)
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+1. Review of Current Projects  
+2. Strategy for Cross-Department Collaboration  
+3. Addressing Potential Challenges  
+
+**Discussion Points:**  
+- David Patel provided an overview of current AWS infrastructure projects.  
+- Emily Johnson introduced new cloud engineering advancements.  
+- Henry Zhou highlighted the importance of seamless CI/CD integration for ongoing projects.  
+- Brian Taylor presented data-driven insights using Azure.  
+- Xander Williams showcased a demo of the latest mobile app developed for internal use.
+
+**Next Steps:**  
+- David Patel to compile a comprehensive report on AWS projects by 20-May-2023.  
+- Emily Johnson to circulate recent cloud advancements documentation by 15-May-2023.  
+- Henry Zhou to develop a detailed CI/CD integration strategy by 25-May-2023.  
+- Brian Taylor to provide data insights for upcoming projects by 18-May-2023.  
+- Xander Williams to finalize mobile app features based on feedback by 22-May-2023.
+
+---
+
+### Meeting Minutes 4 (Simple)
+
+**Date and Time:**  
+24-Jun-2023  
+Start Time: 11:00 AM  
+End Time: 11:30 AM  
+
+**Attendees:**  
+- David Patel  
+- Henry Zhou  
+- Brian Taylor (Notes)  
+- Xander Williams  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+1. Team Introductions  
+2. Quick Updates on Ongoing Work  
+
+**Discussion Points:**  
+- Brief introductions and sharing of individual roles by each team member.  
+- Henry Zhou updated the team on recent improvements in CI/CD pipelines.  
+- Brian Taylor shared progress on a data analysis project on Azure.  
+- Xander Williams mentioned updates to the mobile app interface.
+
+**Next Steps:**  
+- David Patel to schedule a more detailed follow-up meeting by 01-Jul-2023.  
+- Henry Zhou to provide documentation on CI/CD pipeline improvements by 27-Jun-2023.  
+- Brian Taylor to prepare a detailed data analysis report by 30-Jun-2023.  
+- Xander Williams to release the updated app interface to internal testers by 28-Jun-2023.  
+
+---
+
+### Meeting Minutes 5 (Detailed)
+
+**Date and Time:**  
+07-Jul-2023  
+Start Time: 1:00 PM  
+End Time: 3:00 PM  
+
+**Attendees:**  
+- David Patel  
+- Henry Zhou  
+- Brian Taylor  
+- Xander Williams (Notes)  
+- External Attendee: Sarah Lee (IBM, Project Manager)  
+- External Attendee: Michael Brown (IBM, Data Analyst)
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+1. Detailed Project Status Review  
+2. Cross-Department Collaboration Strategies  
+3. Addressing Challenges and Solutions  
+
+**Discussion Points:**  
+- David Patel gave a comprehensive status update on cloud infrastructure projects.  
+- Sarah Lee outlined project management strategies to streamline collaboration.  
+- Michael Brown presented data analytics results that could enhance current projects.  
+- Henry Zhou discussed advanced automation techniques for CI/CD pipelines.  
+- Brian Taylor shared insights on integrating machine learning models on Azure.  
+- Xander Williams proposed further enhancements to the mobile application.
+
+**Next Steps:**  
+- David Patel and Sarah Lee to develop a unified project plan by 14-Jul-2023.  
+- Michael Brown to share detailed analytics reports with all team members by 12-Jul-2023.  
+- Henry Zhou to implement advanced automation techniques by 20-Jul-2023.  
+- Brian Taylor to finalize machine learning integration by 18-Jul-2023.  
+- Xander Williams to incorporate proposed app enhancements by 22-Jul-2023.
+
+---
+
+### JSON Data for Relationships

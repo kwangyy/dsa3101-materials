@@ -1,0 +1,200 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Brian Taylor"
+    },
+    {
+     "name": "Benji Martinez"
+    },
+    {
+     "name": "Kevin O'Reilly"
+    },
+    {
+     "name": "Emma Lee"
+    },
+    {
+     "name": "Jane Smith"
+    },
+    {
+     "name": "Tom Jenkins"
+    },
+    {
+     "name": "Lisa Brown"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Elastic"
+    },
+    {
+     "name": "Google Cloud AI Platform"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Senior Data Scientist"
+    },
+    {
+     "title": "IT Operations Manager"
+    },
+    {
+     "title": "Machine Learning Engineer"
+    },
+    {
+     "title": "Product Manager"
+    },
+    {
+     "title": "Data Insights Lead"
+    },
+    {
+     "title": "Product Strategist"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Cloud Object Storage"
+    },
+    {
+     "name": "IBM Watson Studio"
+    },
+    {
+     "name": "Google Cloud AI Platform"
+    }
+   ],
+   "locations": [
+    {
+     "name": "R&D Department"
+    },
+    {
+     "name": "Infrastructure Department"
+    },
+    {
+     "name": "AI Research Department"
+    },
+    {
+     "name": "IT Department"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Brian Taylor",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Benji Martinez",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Kevin O'Reilly",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Smith",
+    "organization": "Elastic"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Tom Jenkins",
+    "organization": "Google Cloud AI Platform"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Lisa Brown",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Brian Taylor",
+    "role": "Senior Data Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Benji Martinez",
+    "role": "IT Operations Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Kevin O'Reilly",
+    "role": "Machine Learning Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Lee",
+    "role": "Product Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Smith",
+    "role": "Data Insights Lead"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Tom Jenkins",
+    "role": "Product Strategist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Lisa Brown",
+    "role": "Marketing"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Brian Taylor",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Benji Martinez",
+    "product_service": "IBM Cloud Object Storage"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Kevin O'Reilly",
+    "product_service": "IBM Watson Studio"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Emma Lee",
+    "product_service": "Google Cloud AI Platform"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "R&D Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Infrastructure Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "AI Research Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IT Department"
+   }
+  ]
+ }
+}

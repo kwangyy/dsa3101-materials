@@ -1,0 +1,157 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Ivy Bennett"
+                },
+                {
+                    "name": "Paul Hernandez"
+                },
+                {
+                    "name": "Michael Turner"
+                },
+                {
+                    "name": "Victor Ramos"
+                },
+                {
+                    "name": "Emily Smith"
+                },
+                {
+                    "name": "Jane Doe"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Elastic"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Notes"
+                },
+                {
+                    "title": "CEO"
+                },
+                {
+                    "title": "Data Analyst"
+                },
+                {
+                    "title": "Technical Lead"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "IBM Z"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "IBM Db2"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Widget X"
+                },
+                {
+                    "name": "RPA bots"
+                },
+                {
+                    "name": "ETL pipeline"
+                },
+                {
+                    "name": "Elastic's analytics engine"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Ivy Bennett",
+                "organization": "Elastic"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Paul Hernandez",
+                "organization": "Elastic"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Turner",
+                "organization": "Elastic"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "Elastic"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Emily Smith",
+                "organization": "Elastic"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Jane Doe",
+                "organization": "Elastic"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Ivy Bennett",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Paul Hernandez",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Victor Ramos",
+                "role": "Notes"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Turner",
+                "role": "CEO"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Emily Smith",
+                "role": "Data Analyst"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Jane Doe",
+                "role": "Technical Lead"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Ivy Bennett",
+                "product_service": "ETL pipeline"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "RPA bots"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Emily Smith",
+                "product_service": "Elastic's analytics engine"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Elastic",
+                "location": "Azure"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM Z",
+                "location": "IBM Db2"
+            }
+        ]
+    }
+}

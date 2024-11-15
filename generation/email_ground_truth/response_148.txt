@@ -1,0 +1,89 @@
+### Email Thread
+
+#### Email 1: 
+**From:** Abigail Carter  
+**To:** Ivy Bennett, Quinn Parker  
+**Subject:** Proposal for Integrated Dashboard Project
+
+Hi Ivy and Quinn,
+
+I hope you're both doing well.
+
+I wanted to discuss a new project proposal that focuses on creating an integrated dashboard combining data from IBM Cognos Analytics and IBM Db2 Database. This will streamline reporting and provide more insightful analytics for our internal teams as well as our external clients.
+
+Ivy, given your expertise with ETL pipelines, your role will be crucial for extracting and loading data efficiently. Quinn, your skills in providing analytics insights will be essential for developing the dashboard features.
+
+Could we set up a meeting this week to discuss the requirements and timeline?
+
+Best,  
+Abigail Carter  
+Business Intelligence Analyst  
+IBM
+
+#### Email 2:  
+**From:** Ivy Bennett  
+**To:** Abigail Carter, Quinn Parker  
+**Subject:** Re: Proposal for Integrated Dashboard Project
+
+Hi Abigail and Quinn,
+
+This sounds like a great initiative. I’m available on Thursday afternoon for a meeting. I'll start mapping out the initial ETL pipeline requirements for IBM Db2 Database.
+
+Looking forward to collaborating on this.
+
+Best,  
+Ivy Bennett  
+Data Engineer  
+IBM
+
+#### Email 3:  
+**From:** Quinn Parker  
+**To:** Abigail Carter, Ivy Bennett  
+**Subject:** Re: Proposal for Integrated Dashboard Project
+
+Hi Abigail and Ivy,
+
+Thursday works for me as well. I'll start compiling data insights from our current IBM Cognos Analytics reports to brainstorm dashboard features.
+
+See you both then.
+
+Best,  
+Quinn Parker  
+Data Analyst  
+IBM
+
+#### Email 4:  
+**From:** Yasmine Ali  
+**To:** Abigail Carter, Ivy Bennett, Quinn Parker  
+**Subject:** Predictive Models for Dashboard Enhancement
+
+Hi Team,
+
+I heard about your dashboard project and wanted to offer my assistance. I can contribute by building predictive models using IBM Planning Analytics to enhance the dashboard's capabilities.
+
+Please let me know if you're interested in this integration.
+
+Best,  
+Yasmine Ali  
+Data Scientist  
+IBM
+
+#### Email 5:  
+**From:** Abigail Carter  
+**To:** Yasmine Ali, Ivy Bennett, Quinn Parker  
+**Subject:** Re: Predictive Models for Dashboard Enhancement
+
+Hi Yasmine, Ivy, and Quinn,
+
+Thank you, Yasmine, for your willingness to contribute. Integrating predictive models would add significant value. Let's include this in our discussion on Thursday.
+
+Thanks, everyone, for your collaboration.
+
+Best,  
+Abigail Carter  
+Business Intelligence Analyst  
+IBM
+
+---
+
+### JSON Object

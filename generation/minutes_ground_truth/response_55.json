@@ -1,0 +1,176 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Clara Diaz"
+    },
+    {
+     "name": "Victor Ramos"
+    },
+    {
+     "name": "Wendy Chen"
+    },
+    {
+     "name": "Emma Lee"
+    },
+    {
+     "name": "Michael Brown"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Nutanix"
+    }
+   ],
+   "roles": [
+    {
+     "title": "AI Policy Researcher"
+    },
+    {
+     "title": "RPA Developer"
+    },
+    {
+     "title": "AI Solutions Architect"
+    },
+    {
+     "title": "Product Manager"
+    },
+    {
+     "title": "Strategic Partnerships Manager"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM AI OpenScale"
+    },
+    {
+     "name": "IBM Robotic Process Automation"
+    },
+    {
+     "name": "IBM Maximo Asset Management"
+    },
+    {
+     "name": "Google Cloud AI Platform"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "AI Ethics Research"
+    },
+    {
+     "name": "RPA Bots"
+    },
+    {
+     "name": "AI Solutions for IBM Maximo"
+    },
+    {
+     "name": "Google Cloud AI Platform"
+    },
+    {
+     "name": "Nutanix Hybrid Cloud"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Clara Diaz",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Victor Ramos",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Wendy Chen",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Brown",
+    "organization": "Nutanix"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Clara Diaz",
+    "role": "AI Policy Researcher"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Victor Ramos",
+    "role": "RPA Developer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Wendy Chen",
+    "role": "AI Solutions Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Lee",
+    "role": "Product Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Brown",
+    "role": "Strategic Partnerships Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Clara Diaz",
+    "product_service": "AI Ethics Research"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Victor Ramos",
+    "product_service": "RPA Bots"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Wendy Chen",
+    "product_service": "AI Solutions for IBM Maximo"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Emma Lee",
+    "product_service": "Google Cloud AI Platform"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Michael Brown",
+    "product_service": "Nutanix Hybrid Cloud"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM AI OpenScale"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Robotic Process Automation"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Maximo Asset Management"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "Google Cloud AI Platform"
+   }
+  ]
+ }
+}

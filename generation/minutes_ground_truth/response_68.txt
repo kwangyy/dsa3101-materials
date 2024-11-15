@@ -1,0 +1,144 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time:** 12-Sep-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Natalie Wu (Product Marketing Manager, took notes)
+- Kevin O'Reilly (Machine Learning Engineer)
+- Gina Lopez (UX Designer)
+- Xander Williams (Mobile App Developer)
+
+**Agenda:**
+1. Feedback request on Watson Discovery
+2. Initial product development brainstorming
+
+**Discussion Points:**
+- Natalie requested feedback on the current marketing strategies for Watson Discovery.
+- Kevin suggested enhancing model explainability features.
+- Gina emphasized the need for a more intuitive user interface.
+- Xander mentioned the importance of mobile compatibility.
+
+**Next Steps:**
+- Kevin to explore model explainability enhancements by 25-Sep-2023.
+- Gina to draft UI improvements by 30-Sep-2023.
+- Xander to provide a mobile compatibility report by 20-Sep-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+**Date and Time:** 19-Sep-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Natalie Wu (Product Marketing Manager, took notes)
+- Kevin O'Reilly (Machine Learning Engineer)
+- Gina Lopez (UX Designer)
+- Xander Williams (Mobile App Developer)
+
+**Agenda:**
+1. Review of feedback on Watson Discovery
+2. Integration with IBM Cloud Pak for Data
+3. Collaboration with ServiceTitan
+
+**Discussion Points:**
+- Kevin shared initial findings on model explainability; team agreed to proceed with the proposed enhancements.
+- Gina presented UI drafts; feedback was positive with minor adjustments suggested.
+- Natalie introduced potential collaboration with ServiceTitan to integrate Watson Discovery features.
+- Xander explained the technical requirements for mobile integration with IBM Cloud Pak for Data.
+
+**Next Steps:**
+- Kevin to start implementing model explainability features by 05-Oct-2023.
+- Gina to finalize UI designs by 10-Oct-2023.
+- Natalie to coordinate a meeting with ServiceTitan by 25-Sep-2023.
+- Xander to begin mobile integration testing by 15-Oct-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+**Date and Time:** 26-Sep-2023, 11:00 AM - 12:30 PM
+
+**Attendees:**
+- Natalie Wu (Product Marketing Manager, took notes)
+- Kevin O'Reilly (Machine Learning Engineer)
+- Gina Lopez (UX Designer)
+- Xander Williams (Mobile App Developer)
+- External Attendee: Sarah Mitchell (Product Manager, ServiceTitan)
+
+**Agenda:**
+1. Detailed discussion on Watson Discovery feedback
+2. Product development roadmap
+3. Potential partnership with ServiceTitan
+
+**Discussion Points:**
+- Natalie provided a comprehensive overview of customer feedback on Watson Discovery.
+- Kevin explained the technical roadmap for integrating model explainability features.
+- Gina showcased the updated UI designs and received final approvals.
+- Xander discussed the challenges and potential solutions for mobile compatibility.
+- Sarah Mitchell from ServiceTitan expressed interest in a partnership and outlined their requirements.
+
+**Next Steps:**
+- Kevin to finalize and test model enhancements by 20-Oct-2023.
+- Gina to implement UI changes by 15-Oct-2023.
+- Natalie to draft a partnership proposal with ServiceTitan by 30-Sep-2023.
+- Xander to complete mobile integration by 25-Oct-2023.
+- Follow-up meeting with ServiceTitan scheduled for 10-Oct-2023.
+
+---
+
+### Meeting Minutes 4 (Moderate)
+**Date and Time:** 03-Oct-2023, 1:00 PM - 2:00 PM
+
+**Attendees:**
+- Natalie Wu (Product Marketing Manager, took notes)
+- Kevin O'Reilly (Machine Learning Engineer)
+- Gina Lopez (UX Designer)
+- Xander Williams (Mobile App Developer)
+
+**Agenda:**
+1. Review of partnership proposal with ServiceTitan
+2. Progress on model explainability features
+3. Mobile integration updates
+
+**Discussion Points:**
+- Natalie reviewed the draft partnership proposal; received feedback to refine.
+- Kevin shared progress on model explainability; testing phase underway.
+- Gina provided an update on UI implementation; on track for the deadline.
+- Xander discussed initial mobile integration test results; identified a few bugs to resolve.
+
+**Next Steps:**
+- Natalie to finalize the partnership proposal by 07-Oct-2023.
+- Kevin to complete testing of model features by 15-Oct-2023.
+- Gina to complete UI changes by 15-Oct-2023.
+- Xander to resolve mobile integration bugs by 20-Oct-2023.
+
+---
+
+### Meeting Minutes 5 (Detailed)
+**Date and Time:** 10-Oct-2023, 3:00 PM - 4:30 PM
+
+**Attendees:**
+- Natalie Wu (Product Marketing Manager, took notes)
+- Kevin O'Reilly (Machine Learning Engineer)
+- Gina Lopez (UX Designer)
+- Xander Williams (Mobile App Developer)
+- External Attendee: Sarah Mitchell (Product Manager, ServiceTitan)
+
+**Agenda:**
+1. Final review of Watson Discovery enhancements
+2. Partnership agreement with ServiceTitan
+3. User acceptance testing (UAT) planning
+
+**Discussion Points:**
+- Natalie summarized the final customer feedback and confirmed the completion of feedback-driven changes.
+- Kevin presented the final model explainability enhancements; all tests passed.
+- Gina showed the final UI; received positive feedback.
+- Xander confirmed mobile compatibility; resolved all major bugs.
+- Sarah Mitchell discussed the terms of the partnership agreement; both parties agreed on collaboration terms.
+
+**Next Steps:**
+- Natalie to announce the partnership with ServiceTitan by 15-Oct-2023.
+- Kevin to monitor post-deployment performance until 30-Oct-2023.
+- Gina to support user acceptance testing starting from 20-Oct-2023.
+- Xander to assist in UAT for mobile integration from 20-Oct-2023.
+
+---
+
+### JSON Data

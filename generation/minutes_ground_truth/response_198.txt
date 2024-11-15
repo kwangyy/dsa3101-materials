@@ -1,0 +1,120 @@
+### Meeting Minutes 1 - Simple
+
+**Date and Time:** 01-Sep-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Alice Smith (Chief Data Officer) - Note Taker
+- Michael Turner (Cloud Security Architect)
+- Yasmine Ali (Data Scientist)
+- Oliver James (AI Research Scientist)
+
+**Agenda:**
+1. Team introductions
+2. Project updates
+
+**Discussion Points:**
+- Each team member briefly introduced themselves and their roles.
+- Alice Smith provided updates on the development of Microsoft Azure and Symantec Endpoint Security.
+
+**Next Steps:**
+- Schedule follow-up meetings for detailed project discussions.
+- Each team member to prepare a brief report on their current tasks by 08-Sep-2023.
+
+### Meeting Minutes 2 - Moderate
+
+**Date and Time:** 15-Sep-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**
+- Alice Smith (Chief Data Officer)
+- Michael Turner (Cloud Security Architect) - Note Taker
+- Yasmine Ali (Data Scientist)
+- Oliver James (AI Research Scientist)
+- Jack Liao (Representative from DigitalOcean)
+
+**Agenda:**
+1. Collaboration opportunities with DigitalOcean
+2. Security protocols for Microsoft Azure
+
+**Discussion Points:**
+- Jack Liao discussed potential collaboration opportunities between IBM and DigitalOcean.
+- Michael Turner detailed the new security protocols for Microsoft Azure.
+- Yasmine Ali proposed predictive models for enhanced security measures.
+
+**Next Steps:**
+- Alice Smith to draft a collaboration proposal with DigitalOcean by 22-Sep-2023.
+- Michael Turner to finalize and implement the new security protocols by 29-Sep-2023.
+
+### Meeting Minutes 3 - Detailed
+
+**Date and Time:** 30-Sep-2023, 2:00 PM - 3:30 PM
+
+**Attendees:**
+- Alice Smith (Chief Data Officer)
+- Michael Turner (Cloud Security Architect)
+- Yasmine Ali (Data Scientist) - Note Taker
+- Oliver James (AI Research Scientist)
+- External Attendee: Sarah Brown (Cybersecurity Specialist from DigitalOcean)
+
+**Agenda:**
+1. Deep dive into security measures
+2. Integration of AI in security protocols
+3. Predictive models for IBM Planning Analytics
+
+**Discussion Points:**
+- Sarah Brown shared insights on security trends and best practices in the industry.
+- Michael Turner and Sarah Brown discussed integration points between IBM and DigitalOcean security systems.
+- Oliver James explained how natural language processing can improve threat detection.
+- Yasmine Ali presented predictive models that could be integrated into IBM Planning Analytics for better forecasting.
+
+**Next Steps:**
+- Alice Smith to coordinate a workshop with DigitalOcean to explore advanced security integration by 10-Oct-2023.
+- Oliver James to develop a prototype for using natural language processing in threat detection by 15-Oct-2023.
+- Yasmine Ali to refine predictive models based on feedback and present the final model by 20-Oct-2023.
+
+### Meeting Minutes 4 - Simple
+
+**Date and Time:** 10-Oct-2023, 9:00 AM - 9:30 AM
+
+**Attendees:**
+- Alice Smith (Chief Data Officer) - Note Taker
+- Michael Turner (Cloud Security Architect)
+- Yasmine Ali (Data Scientist)
+- Oliver James (AI Research Scientist)
+
+**Agenda:**
+1. Quick project check-ins
+2. Upcoming deadlines
+
+**Discussion Points:**
+- Brief updates from each member on their ongoing projects.
+- Discussion of upcoming deadlines and deliverables.
+
+**Next Steps:**
+- Alice Smith to compile a summary report by 15-Oct-2023.
+- Michael Turner to ensure all security measures are in place by 20-Oct-2023.
+
+### Meeting Minutes 5 - Moderate
+
+**Date and Time:** 25-Oct-2023, 1:00 PM - 2:00 PM
+
+**Attendees:**
+- Alice Smith (Chief Data Officer)
+- Michael Turner (Cloud Security Architect)
+- Yasmine Ali (Data Scientist) - Note Taker
+- Oliver James (AI Research Scientist)
+
+**Agenda:**
+1. Review of previous action items
+2. Planning for Q4
+
+**Discussion Points:**
+- Review of the collaboration proposal with DigitalOcean.
+- Status updates on the integration of AI in security protocols.
+- Discussion of predictive models’ performance in IBM Planning Analytics.
+
+**Next Steps:**
+- Alice Smith to finalize the DigitalOcean collaboration agreement by 01-Nov-2023.
+- Michael Turner to complete the full integration of AI security protocols by 05-Nov-2023.
+- Yasmine Ali to continue monitoring and refining predictive models with bi-weekly updates.
+
+### JSON Relationships

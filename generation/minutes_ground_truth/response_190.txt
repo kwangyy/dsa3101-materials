@@ -1,0 +1,188 @@
+### Meeting Minutes 1 (Simple)
+
+**Date and Time:**  
+10-MAR-2023  
+Start Time: 10:00 AM  
+End Time: 10:30 AM
+
+**Attendees:**  
+- Rachel Singh (Note taker)
+- Ivy Bennett  
+- Uma Patel  
+- Wendy Chen  
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+1. Follow-up on ongoing cloud function developments.
+2. Initial discussion on innovation initiatives.
+
+**Discussion Points:**  
+- Rachel provided updates on backend development for IBM Cloud Functions.  
+- Ivy discussed the current state of ETL pipeline builds for IBM Db2 Database.
+- Uma suggested brainstorming sessions for new hybrid cloud solutions.  
+- Wendy emphasized integrating AI solutions in existing IBM Maximo Asset Management processes.
+
+**Next Steps:**  
+- Rachel to continue backend development and present an update in the next meeting by 24-MAR-2023.
+- Ivy to optimize ETL pipelines and prepare a performance report by 17-MAR-2023.
+- Uma to organize a brainstorming session for hybrid cloud solutions by 15-MAR-2023.
+- Wendy to propose integration strategies for AI solutions by 20-MAR-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+
+**Date and Time:**  
+20-MAR-2023  
+Start Time: 2:00 PM  
+End Time: 3:00 PM
+
+**Attendees:**  
+- Rachel Singh  
+- Ivy Bennett  
+- Uma Patel (Note taker)  
+- Wendy Chen  
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+1. Review of previous action items.
+2. Discussion on new innovation initiatives.
+3. Collaboration with Veeva Systems.
+
+**Discussion Points:**  
+- Rachel reported on the progress of backend development, highlighting challenges with API integrations.
+- Ivy shared improvements in ETL pipelines and emphasized data processing efficiency gains.
+- Uma facilitated a discussion on potential innovation initiatives, focusing on hybrid cloud solutions.
+- Wendy proposed leveraging AI for predictive maintenance in IBM Maximo Asset Management.
+- Discussed potential collaboration with Veeva Systems to integrate cloud solutions for the life sciences industry.
+
+**Next Steps:**  
+- Rachel to resolve API integration issues and update the team by 27-MAR-2023.
+- Ivy to continue refining ETL pipelines and share results in the next meeting by 03-APR-2023.
+- Uma to draft a proposal for hybrid cloud innovation initiatives by 25-MAR-2023.
+- Wendy to conduct a feasibility study on predictive maintenance AI solutions by 28-MAR-2023.
+- Uma to set up a meeting with Veeva Systems representatives by 30-MAR-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+
+**Date and Time:**  
+05-APR-2023  
+Start Time: 1:00 PM  
+End Time: 2:30 PM
+
+**Attendees:**  
+- Rachel Singh (Note taker)
+- Ivy Bennett  
+- Uma Patel  
+- Wendy Chen  
+- Dr. John Baker (Veeva Systems, Cloud Solutions Consultant)  
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+1. Detailed review of ongoing projects.
+2. Advanced discussion on innovation initiatives.
+3. Collaboration strategy with Veeva Systems.
+
+**Discussion Points:**  
+- Rachel provided an in-depth update on backend development, detailing recent improvements and persisting issues.
+- Ivy presented a comprehensive analysis of ETL pipeline performance, suggesting further optimizations.
+- Uma led a deep dive into hybrid cloud innovation initiatives, exploring technical feasibility and resource allocation.
+- Wendy discussed the integration of advanced AI algorithms for predictive maintenance, proposing potential benefits and challenges.
+- Dr. John Baker from Veeva Systems provided insights into their cloud solutions for the life sciences industry, exploring potential areas of collaboration with IBM's cloud services.
+
+**Next Steps:**  
+- Rachel to finalize backend development enhancements and prepare a demo for the next meeting by 19-APR-2023.
+- Ivy to implement suggested optimizations and report back with updated metrics by 12-APR-2023.
+- Uma to allocate resources for hybrid cloud initiatives and start preliminary work by 10-APR-2023.
+- Wendy to refine the AI integration plan and present a detailed proposal by 17-APR-2023.
+- Uma to follow up with Dr. John Baker to establish a formal collaboration plan with Veeva Systems by 20-APR-2023.
+
+---
+
+### Meeting Minutes 4 (Moderate)
+
+**Date and Time:**  
+12-APR-2023  
+Start Time: 11:00 AM  
+End Time: 12:00 PM
+
+**Attendees:**  
+- Rachel Singh  
+- Ivy Bennett  
+- Uma Patel (Note taker)  
+- Wendy Chen  
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+1. Update on project milestones.
+2. Further discussions on innovation initiatives.
+3. Strategy for collaboration with Veeva Systems.
+
+**Discussion Points:**  
+- Rachel shared the progress of backend development, focusing on new API endpoints.
+- Ivy updated the team on ETL pipeline enhancements, stressing data integrity and processing speed.
+- Uma proposed initial project plans for hybrid cloud solutions.
+- Wendy presented a preliminary AI solution integration plan for IBM Maximo Asset Management.
+- Discussed potential joint webinars or workshops with Veeva Systems to showcase collaborative solutions.
+
+**Next Steps:**  
+- Rachel to finalize and test new API endpoints by 19-APR-2023.
+- Ivy to complete data integrity tests and share results by 19-APR-2023.
+- Uma to kick off hybrid cloud solution projects and update the team by 26-APR-2023.
+- Wendy to refine AI solution proposals and submit a detailed plan by 24-APR-2023.
+- Uma to coordinate with Veeva Systems for potential webinars/workshops by 30-APR-2023.
+
+---
+
+### Meeting Minutes 5 (Detailed)
+
+**Date and Time:**  
+25-APR-2023  
+Start Time: 3:00 PM  
+End Time: 4:30 PM
+
+**Attendees:**  
+- Rachel Singh  
+- Ivy Bennett  
+- Uma Patel  
+- Wendy Chen (Note taker)  
+- Mark Johnson (IBM, Cloud Security Specialist)  
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+1. Progress review on current projects.
+2. Detailed discussion on innovation initiatives.
+3. Security considerations for cloud solutions.
+4. Partnership strategy with Veeva Systems.
+
+**Discussion Points:**  
+- Rachel provided a detailed update on backend development progress and highlighted new security concerns.
+- Ivy presented the latest performance metrics for ETL pipelines and suggested further optimizations.
+- Uma discussed resource allocation and timelines for hybrid cloud initiatives.
+- Wendy detailed the AI integration plan for IBM Maximo Asset Management, emphasizing potential use cases and expected outcomes.
+- Mark Johnson highlighted key security considerations for cloud solutions and proposed a security review process.
+- Discussed the progress of collaboration with Veeva Systems and potential new areas of joint development.
+
+**Next Steps:**  
+- Rachel to address security concerns in backend development and report back by 02-MAY-2023.
+- Ivy to implement further ETL optimizations and present updated metrics by 30-APR-2023.
+- Uma to finalize resource allocation and project timelines for hybrid cloud initiatives by 03-MAY-2023.
+- Wendy to develop detailed use cases for AI integration and share with the team by 05-MAY-2023.
+- Mark to conduct a security review for ongoing projects and provide recommendations by 07-MAY-2023.
+- Uma to coordinate with Veeva Systems for a joint development plan and update the team by 10-MAY-2023.
+
+---
+
+### JSON Data

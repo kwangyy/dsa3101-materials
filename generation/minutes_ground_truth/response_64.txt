@@ -1,0 +1,186 @@
+### Meeting Minutes 1 - Simple
+
+**Date and Time:** 15-Aug-2023, 10:00 AM - 10:30 AM
+
+**Attendees:** 
+- Alice Smith (Chief Data Officer, Note-taker)
+- Franklin Moore (Senior Software Engineer)
+- Emma Lee (Product Manager)
+- Paul Hernandez (Systems Engineer)
+
+**Absentees:** 
+- None
+
+**Agenda:**
+1. Project updates on Microsoft Azure development
+2. Current issues with IBM Z systems infrastructure
+
+**Discussion Points:**
+- **Microsoft Azure Development:**
+  - Alice reported that the development is on schedule.
+  - Franklin shared recent improvements in API integration.
+
+- **IBM Z Systems:**
+  - Paul mentioned a minor issue with system performance.
+  - Emma suggested a temporary fix until a long-term solution is found.
+
+**Next Steps:**
+- Paul to implement the suggested temporary fix by 17-Aug-2023.
+- Alice and Franklin to continue monitoring the Azure project.
+
+---
+
+### Meeting Minutes 2 - Moderate
+
+**Date and Time:** 20-Aug-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Alice Smith (Chief Data Officer)
+- Franklin Moore (Senior Software Engineer, Note-taker)
+- Emma Lee (Product Manager)
+- Paul Hernandez (Systems Engineer)
+
+**Absentees:** 
+- None
+
+**Agenda:**
+1. Updates on Symantec Endpoint Security.
+2. Discussion on enhancing IBM Watson Assistant APIs.
+3. Maintenance scheduling for IBM Z systems.
+
+**Discussion Points:**
+- **Symantec Endpoint Security:**
+  - Alice presented the current status and upcoming features.
+  - Emma mentioned client feedback indicating a need for more robust security features.
+
+- **IBM Watson Assistant APIs:**
+  - Franklin suggested potential API enhancements to improve user experience.
+  - Emma agreed and proposed a joint meeting with the IT Department to discuss implementation.
+
+- **IBM Z Systems Maintenance:**
+  - Paul outlined the maintenance schedule and upcoming downtime.
+  - Alice emphasized the importance of clear communication with all departments to minimize disruptions.
+
+**Next Steps:**
+- Alice to gather and address client feedback on Symantec Endpoint Security by 25-Aug-2023.
+- Franklin to organize a meeting with the IT Department by 22-Aug-2023.
+- Paul to finalize the maintenance schedule and inform all relevant departments by 24-Aug-2023.
+
+---
+
+### Meeting Minutes 3 - Detailed
+
+**Date and Time:** 01-Sep-2023, 9:00 AM - 10:30 AM
+
+**Attendees:**
+- Alice Smith (Chief Data Officer)
+- Franklin Moore (Senior Software Engineer)
+- Emma Lee (Product Manager, Note-taker)
+- Paul Hernandez (Systems Engineer)
+
+**Absentees:** 
+- None
+
+**External Attendees:**
+- John Doe (Data Scientist, Alteryx)
+- Jane Roe (Project Manager, Alteryx)
+
+**Agenda:**
+1. Collaborative project with Alteryx on data analytics.
+2. Status update on Google Cloud AI Platform.
+3. Addressing potential risks in IBM Z systems.
+
+**Discussion Points:**
+- **Collaborative Project with Alteryx:**
+  - Alice introduced the project scope and objectives.
+  - John Doe discussed the analytics tools available from Alteryx.
+  - Jane Roe outlined a preliminary timeline for project deliverables.
+
+- **Google Cloud AI Platform:**
+  - Emma updated on the ongoing developments and milestones achieved.
+  - Franklin proposed integrating more AI-driven features.
+
+- **IBM Z Systems Risks:**
+  - Paul identified potential risks and mitigation strategies.
+  - Alice recommended involving the Risk Management team for a comprehensive review.
+
+**Next Steps:**
+- Alice and John to finalize the project timeline by 10-Sep-2023.
+- Franklin and Emma to start integration of new AI features by 15-Sep-2023.
+- Paul to set up a meeting with the Risk Management team by 05-Sep-2023.
+
+---
+
+### Meeting Minutes 4 - Simple
+
+**Date and Time:** 10-Sep-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**
+- Alice Smith (Chief Data Officer, Note-taker)
+- Franklin Moore (Senior Software Engineer)
+- Emma Lee (Product Manager)
+- Paul Hernandez (Systems Engineer)
+
+**Absentees:** 
+- None
+
+**Agenda:**
+1. Quick updates on all ongoing projects.
+
+**Discussion Points:**
+- **Microsoft Azure Development:**
+  - Alice confirmed the project is progressing as planned.
+
+- **IBM Watson Assistant APIs:**
+  - Franklin mentioned minor adjustments made for better performance.
+
+- **Google Cloud AI Platform:**
+  - Emma reported the successful implementation of new features.
+
+- **IBM Z Systems Maintenance:**
+  - Paul confirmed the maintenance was completed successfully without major issues.
+
+**Next Steps:**
+- Continue monitoring all projects for any emerging issues.
+- Schedule the next meeting in two weeks.
+
+---
+
+### Meeting Minutes 5 - Moderate
+
+**Date and Time:** 18-Sep-2023, 1:00 PM - 2:00 PM
+
+**Attendees:**
+- Alice Smith (Chief Data Officer)
+- Franklin Moore (Senior Software Engineer)
+- Emma Lee (Product Manager)
+- Paul Hernandez (Systems Engineer, Note-taker)
+
+**Absentees:** 
+- None
+
+**Agenda:**
+1. Review of completed projects.
+2. Strategic planning for Q4 2023.
+3. Allocation of resources for upcoming projects.
+
+**Discussion Points:**
+- **Review of Completed Projects:**
+  - Each attendee provided a brief summary of their completed projects and key takeaways.
+
+- **Strategic Planning for Q4 2023:**
+  - Alice outlined the primary goals for the next quarter.
+  - Emma suggested focusing on customer-driven enhancements for Google Cloud AI Platform.
+
+- **Resource Allocation:**
+  - Franklin highlighted the need for additional resources for the IBM Watson Assistant API development.
+  - Paul agreed and suggested reallocating some IT Support resources temporarily.
+
+**Next Steps:**
+- Alice to draft a detailed strategic plan by 25-Sep-2023.
+- Emma to gather customer feedback for upcoming enhancements by 22-Sep-2023.
+- Franklin and Paul to coordinate resource reallocation by 20-Sep-2023.
+
+---
+
+### JSON Format

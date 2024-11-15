@@ -1,0 +1,207 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time:**
+- 10-JAN-2023
+- 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Natalie Wu (Note Taker)
+- Abigail Carter
+- Quinn Parker
+- Jackie Lin
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Introduction and Welcome
+2. Project Updates
+3. Inter-department Collaboration Proposals
+
+**Discussion Points:**
+- **Introduction and Welcome:** Natalie welcomed everyone and outlined the agenda.
+- **Project Updates:**
+  - Natalie provided an update on the promotion of IBM Watson Discovery.
+  - Abigail shared the latest analytics reports for IBM Cognos Analytics.
+  - Quinn discussed recent data insights and findings.
+  - Jackie gave an update on recent threat detection activities for IBM Security Guardium.
+- **Inter-department Collaboration Proposals:**
+  - Natalie proposed more frequent data sharing between marketing and data analytics departments.
+  - Abigail suggested joint dashboards to better visualize cross-department metrics.
+  - Quinn supported the idea, emphasizing the benefits of integrated analytics.
+  - Jackie mentioned the importance of cybersecurity in collaborative platforms.
+
+**Next Steps:**
+- **Action Items:**
+  - Natalie to arrange a follow-up meeting with detailed data-sharing protocols by 20-JAN-2023.
+  - Abigail to develop a prototype for the joint dashboard by 25-JAN-2023.
+  - Jackie to evaluate security measures for the proposed collaborative platform by 30-JAN-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+**Date and Time:**
+- 17-JAN-2023
+- 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Natalie Wu
+- Abigail Carter (Note Taker)
+- Quinn Parker
+- Jackie Lin
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Review of Previous Meeting's Action Items
+2. Deep Dive into Collaborative Dashboard Proposal
+3. Cybersecurity Measures
+
+**Discussion Points:**
+- **Review of Previous Meeting's Action Items:**
+  - Natalie confirmed the data-sharing protocols document is in progress.
+  - Abigail shared initial designs for the joint dashboard.
+  - Jackie highlighted preliminary security assessments.
+- **Deep Dive into Collaborative Dashboard Proposal:**
+  - Abigail presented a draft of the dashboard design.
+  - Quinn provided feedback on data integration points.
+  - Natalie emphasized the need for real-time updates to support marketing campaigns.
+- **Cybersecurity Measures:**
+  - Jackie detailed necessary security enhancements for the dashboard.
+  - Suggested involving IT team for implementation.
+
+**Next Steps:**
+- **Action Items:**
+  - Abigail to finalize the dashboard design by 01-FEB-2023.
+  - Quinn to integrate data sources by 05-FEB-2023.
+  - Jackie to coordinate with IT for security implementations by 10-FEB-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+**Date and Time:**
+- 24-JAN-2023
+- 11:00 AM - 12:30 PM
+
+**Attendees:**
+- Natalie Wu
+- Abigail Carter
+- Quinn Parker
+- Jackie Lin (Note Taker)
+- Special Guest: John Smith, Director of IT Security at IBM
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Recap of Previous Meetings
+2. Detailed Discussion on Collaborative Dashboard Development
+3. Security Protocols and IT Involvement
+4. External Partnership Opportunities
+
+**Discussion Points:**
+- **Recap of Previous Meetings:**
+  - Natalie recapped the progress on data sharing and dashboard development.
+  - Abigail confirmed the dashboard design is nearing completion.
+  - Jackie reviewed the security measures discussed.
+- **Detailed Discussion on Collaborative Dashboard Development:**
+  - Abigail walked through the latest design revisions.
+  - Quinn suggested additional data visualizations to support marketing and security needs.
+  - John Smith provided insights on technical feasibility and potential challenges.
+- **Security Protocols and IT Involvement:**
+  - Jackie and John Smith discussed advanced security protocols.
+  - Emphasized the importance of encryption and access controls.
+- **External Partnership Opportunities:**
+  - Natalie mentioned potential collaboration with Cognex for enhancing data automation in marketing.
+  - Group discussed the benefits and potential challenges of integrating Cognex's machine vision systems.
+
+**Next Steps:**
+- **Action Items:**
+  - Natalie to explore partnership details with Cognex and present findings by 15-FEB-2023.
+  - Abigail to finalize the dashboard and schedule user testing by 20-FEB-2023.
+  - Quinn to prepare data for testing by 25-FEB-2023.
+  - Jackie and John Smith to implement and test enhanced security protocols by 28-FEB-2023.
+
+---
+
+### Meeting Minutes 4 (Moderate)
+**Date and Time:**
+- 02-FEB-2023
+- 3:00 PM - 4:00 PM
+
+**Attendees:**
+- Natalie Wu (Note Taker)
+- Abigail Carter
+- Quinn Parker
+- Jackie Lin
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Project Status Updates
+2. Dashboard User Testing Preparation
+3. Review of Security Measures
+
+**Discussion Points:**
+- **Project Status Updates:**
+  - Natalie discussed the progress on marketing campaigns.
+  - Abigail confirmed the dashboard design is complete.
+  - Quinn has finalized data preparation for testing.
+  - Jackie reviewed the implementation of security protocols.
+- **Dashboard User Testing Preparation:**
+  - Abigail outlined the testing plan.
+  - Quinn highlighted key metrics to be evaluated.
+  - Natalie suggested including a diverse group of users for comprehensive feedback.
+- **Review of Security Measures:**
+  - Jackie confirmed that all security measures are in place.
+  - Emphasized the importance of continuous monitoring.
+
+**Next Steps:**
+- **Action Items:**
+  - Abigail to commence user testing by 10-FEB-2023.
+  - Quinn to monitor data accuracy during testing.
+  - Jackie to provide ongoing security support throughout the testing phase.
+  - Natalie to prepare a report on user feedback by 20-FEB-2023.
+
+---
+
+### Meeting Minutes 5 (Simple)
+**Date and Time:**
+- 10-FEB-2023
+- 1:00 PM - 1:30 PM
+
+**Attendees:**
+- Natalie Wu
+- Abigail Carter
+- Quinn Parker (Note Taker)
+- Jackie Lin
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. User Testing Progress
+2. Initial Feedback Review
+3. Next Steps
+
+**Discussion Points:**
+- **User Testing Progress:**
+  - Abigail reported the dashboard testing is underway with positive initial feedback.
+  - Quinn confirmed data accuracy and identified minor issues.
+  - Natalie emphasized the importance of thorough testing.
+- **Initial Feedback Review:**
+  - Abigail shared preliminary user feedback.
+  - Suggested minor adjustments based on user comments.
+- **Next Steps:**
+  - Group agreed on the importance of addressing feedback promptly.
+
+**Next Steps:**
+- **Action Items:**
+  - Abigail to compile a detailed feedback report by 15-FEB-2023.
+  - Quinn to resolve identified data issues by 17-FEB-2023.
+  - Natalie to schedule a follow-up meeting to review final feedback and plan next phases by 20-FEB-2023.
+
+---
+
+### JSON Relationships Data

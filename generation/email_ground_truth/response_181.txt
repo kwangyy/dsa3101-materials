@@ -1,0 +1,76 @@
+### Email Thread
+
+#### Email 1
+**From:** Emma Lee <emma.lee@ibm.com>  
+**To:** Quinn Parker <quinn.parker@ibm.com>, Ivy Bennett <ivy.bennett@ibm.com>  
+**Cc:** Carol Nguyen <carol.nguyen@ibm.com>  
+**Subject:** Collaboration on Google Cloud AI Integration with IBM Db2
+
+Hi Team,
+
+I hope everyone is doing well. As we continue to integrate Google Cloud AI Platform with our IBM Db2 Database, I wanted to provide some updates and align on next steps.
+
+Ivy, I need you to ensure the ETL pipelines are optimized for the new datasets we received from our partners at C3.ai. These datasets are crucial for our analytics insights.
+
+Quinn, could you prepare a preliminary analysis using IBM Cognos Analytics, highlighting any potential bottlenecks?
+
+Carol, I'd appreciate it if you could assist Quinn with this analysis and also keep an eye on the data quality. We might need some additional support for further analysis on Microsoft Azure.
+
+Thanks, everyone. Looking forward to your updates.
+
+Best regards,  
+Emma Lee  
+Product Manager, IT Department  
+IBM
+
+#### Email 2
+**From:** Ivy Bennett <ivy.bennett@ibm.com>  
+**To:** Emma Lee <emma.lee@ibm.com>  
+**Cc:** Quinn Parker <quinn.parker@ibm.com>, Carol Nguyen <carol.nguyen@ibm.com>  
+**Subject:** Re: Collaboration on Google Cloud AI Integration with IBM Db2
+
+Hi Emma,
+
+Thanks for the update. I've started working on optimizing the ETL pipelines for the new datasets from C3.ai. We should have a preliminary version ready by early next week.
+
+Quinn, I'll share the optimized data with you as soon as it's available. Carol, I'll keep you in the loop as well for the data quality checks.
+
+Best,  
+Ivy Bennett  
+Data Engineer, Data Management Department  
+IBM
+
+#### Email 3
+**From:** Quinn Parker <quinn.parker@ibm.com>  
+**To:** Emma Lee <emma.lee@ibm.com>, Ivy Bennett <ivy.bennett@ibm.com>  
+**Cc:** Carol Nguyen <carol.nguyen@ibm.com>  
+**Subject:** Re: Collaboration on Google Cloud AI Integration with IBM Db2
+
+Hi Emma, Ivy, and Carol,
+
+Thanks, Ivy. I'll wait for your data and begin the analysis as soon as I receive it. Carol, let’s connect once Ivy shares the data to discuss our approach.
+
+Emma, I'll keep you posted on our progress and any findings using IBM Cognos Analytics.
+
+Best,  
+Quinn Parker  
+Data Analyst, Data Science Department  
+IBM
+
+#### Email 4
+**From:** Carol Nguyen <carol.nguyen@ibm.com>  
+**To:** Quinn Parker <quinn.parker@ibm.com>, Emma Lee <emma.lee@ibm.com>, Ivy Bennett <ivy.bennett@ibm.com>  
+**Subject:** Re: Collaboration on Google Cloud AI Integration with IBM Db2
+
+Hi Team,
+
+I’m available to help with the analysis and data quality checks. Quinn, let’s sync up once we have the data from Ivy. Emma, I’ll also run some preliminary checks on Microsoft Azure to ensure we’re covering all bases.
+
+Looking forward to working on this.
+
+Best,  
+Carol Nguyen  
+Junior Data Scientist, R&D Department  
+IBM
+
+### JSON Object

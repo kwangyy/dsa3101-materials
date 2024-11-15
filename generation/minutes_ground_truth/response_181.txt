@@ -1,0 +1,146 @@
+### Meeting Minutes 1: Simple
+**Date and Time:** 10-Feb-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Clara Diaz (Note-taker)
+- Ivy Bennett
+- Michael Turner
+- Samuel Davis
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Scheduling of next project meeting
+- Initial discussion on inter-department collaboration
+
+**Discussion Points:**
+- Agreed to meet bi-weekly for project updates
+- Discussed potential for collaboration between Ethics and Cybersecurity departments
+  - Clara and Michael to explore synergies in AI ethics and cloud security
+
+**Next Steps:**
+- Clara and Michael to draft a proposal on collaboration: Due by 24-Feb-2023
+
+---
+
+### Meeting Minutes 2: Moderate
+**Date and Time:** 24-Feb-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Clara Diaz
+- Ivy Bennett
+- Michael Turner
+- Samuel Davis (Note-taker)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Finalize project timeline
+- Discuss partnership with external entities (Nutanix)
+- Review initial collaboration proposal between departments
+
+**Discussion Points:**
+- Finalized project milestones and deadlines for Q1 2023
+- Agreed to schedule a meeting with Nutanix to discuss hybrid cloud solutions
+  - Ivy to coordinate with Nutanix representative
+- Reviewed initial draft proposal on AI ethics and cloud security collaboration
+  - Minor adjustments suggested
+
+**Next Steps:**
+- Ivy to set up a meeting with Nutanix by 03-Mar-2023
+- Clara and Michael to incorporate feedback into the proposal: Due by 10-Mar-2023
+
+---
+
+### Meeting Minutes 3: Detailed
+**Date and Time:** 10-Mar-2023, 9:00 AM - 10:30 AM
+
+**Attendees:**
+- Clara Diaz
+- Ivy Bennett
+- Michael Turner (Note-taker)
+- Samuel Davis
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Final review of collaboration proposal
+- Progress update on ETL pipelines and security protocols
+- Discuss potential blockchain applications in AI ethics
+
+**Discussion Points:**
+- Finalized collaboration proposal between Ethics and Cybersecurity departments
+  - Proposal to be submitted to senior management for approval
+- Ivy provided an update on ETL pipeline progress for IBM Db2 Database
+  - On track with current timeline
+- Michael reported on the development of new security protocols for Microsoft Azure
+  - Identified potential areas for improvement
+- Discussed possible blockchain applications in AI ethics research
+  - Samuel to investigate further
+
+**Next Steps:**
+- Clara and Michael to submit the final proposal to senior management by 15-Mar-2023
+- Samuel to present initial findings on blockchain applications in AI ethics at the next meeting: Due by 24-Mar-2023
+
+---
+
+### Meeting Minutes 4: Simple
+**Date and Time:** 24-Mar-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**
+- Clara Diaz
+- Ivy Bennett (Note-taker)
+- Michael Turner
+- Samuel Davis
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Follow-up on proposal submission
+- Initial findings on blockchain applications
+
+**Discussion Points:**
+- Proposal submitted to senior management, awaiting feedback
+- Samuel presented initial findings on blockchain applications in AI ethics
+  - Potential for enhancing transparency and accountability in AI systems
+
+**Next Steps:**
+- Samuel to develop a detailed report on blockchain applications: Due by 07-Apr-2023
+
+---
+
+### Meeting Minutes 5: Moderate
+**Date and Time:** 07-Apr-2023, 1:00 PM - 2:00 PM
+
+**Attendees:**
+- Clara Diaz
+- Ivy Bennett
+- Michael Turner
+- Samuel Davis (Note-taker)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Review feedback from senior management
+- Discuss detailed report on blockchain applications
+- Plan next steps for inter-department collaboration
+
+**Discussion Points:**
+- Received positive feedback from senior management on the collaboration proposal
+  - Approval granted to proceed with implementation
+- Samuel presented detailed report on blockchain applications
+  - Highlighted key benefits and implementation challenges
+- Discussed next steps for implementing collaboration initiatives
+
+**Next Steps:**
+- Clara and Michael to begin implementation of collaboration initiatives: Ongoing
+- Samuel to share detailed report with Ethics and Cybersecurity departments by 14-Apr-2023
+
+---
+
+### JSON Data

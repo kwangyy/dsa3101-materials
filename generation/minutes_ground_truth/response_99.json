@@ -1,0 +1,183 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Xander Williams"
+    },
+    {
+     "name": "Samuel Davis"
+    },
+    {
+     "name": "Zachary Brooks"
+    },
+    {
+     "name": "Abigail Carter"
+    },
+    {
+     "name": "Maria Perez"
+    },
+    {
+     "name": "Michael Roberts"
+    },
+    {
+     "name": "Laura Smith"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Snowflake"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Mobile App Developer"
+    },
+    {
+     "title": "Blockchain Developer"
+    },
+    {
+     "title": "Solutions Engineer"
+    },
+    {
+     "title": "Business Intelligence Analyst"
+    },
+    {
+     "title": "Data Analytics Specialist"
+    },
+    {
+     "title": "Client Representative"
+    },
+    {
+     "title": "Cybersecurity Specialist"
+    }
+   ],
+   "locations": [],
+   "products_services": [
+    {
+     "name": "IBM MobileFirst Platform"
+    },
+    {
+     "name": "Hyperledger Fabric"
+    },
+    {
+     "name": "IBM Blockchain Platform"
+    },
+    {
+     "name": "IBM Cloud Pak for Integration"
+    },
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "Snowflake"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Xander Williams",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Xander Williams",
+    "role": "Mobile App Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Xander Williams",
+    "product_service": "IBM MobileFirst Platform"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Samuel Davis",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Samuel Davis",
+    "role": "Blockchain Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "Hyperledger Fabric"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "IBM Blockchain Platform"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Zachary Brooks",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Zachary Brooks",
+    "role": "Solutions Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Zachary Brooks",
+    "product_service": "IBM Cloud Pak for Integration"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Abigail Carter",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Abigail Carter",
+    "role": "Business Intelligence Analyst"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Abigail Carter",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Maria Perez",
+    "organization": "Snowflake"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Maria Perez",
+    "role": "Data Analytics Specialist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Maria Perez",
+    "product_service": "Snowflake"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Roberts",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Roberts",
+    "role": "Client Representative"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Laura Smith",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Laura Smith",
+    "role": "Cybersecurity Specialist"
+   }
+  ]
+ }
+}

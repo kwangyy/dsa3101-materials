@@ -1,0 +1,197 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Rachel Singh"
+    },
+    {
+     "name": "Jackie Lin"
+    },
+    {
+     "name": "Yasmine Ali"
+    },
+    {
+     "name": "Ivy Bennett"
+    },
+    {
+     "name": "John Doe"
+    },
+    {
+     "name": "Jane Smith"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Zscaler"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Software Engineer"
+    },
+    {
+     "title": "Cybersecurity Analyst"
+    },
+    {
+     "title": "Data Scientist"
+    },
+    {
+     "title": "Data Engineer"
+    },
+    {
+     "title": "Security Analyst"
+    },
+    {
+     "title": "Project Manager"
+    }
+   ],
+   "locations": [
+    {
+     "name": "Cloud Solutions Department"
+    },
+    {
+     "name": "Security Department"
+    },
+    {
+     "name": "Research & Analytics Department"
+    },
+    {
+     "name": "Data Management Department"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cloud Functions"
+    },
+    {
+     "name": "IBM Security Guardium"
+    },
+    {
+     "name": "IBM Planning Analytics"
+    },
+    {
+     "name": "IBM Db2 Database"
+    },
+    {
+     "name": "Zscaler Security Solutions"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Singh",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jackie Lin",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Yasmine Ali",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Ivy Bennett",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Doe",
+    "organization": "Zscaler"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Smith",
+    "organization": "Zscaler"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Singh",
+    "role": "Software Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jackie Lin",
+    "role": "Cybersecurity Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Yasmine Ali",
+    "role": "Data Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Ivy Bennett",
+    "role": "Data Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Doe",
+    "role": "Security Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Smith",
+    "role": "Project Manager"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Rachel Singh",
+    "location": "Cloud Solutions Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Jackie Lin",
+    "location": "Security Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Yasmine Ali",
+    "location": "Research & Analytics Department"
+   },
+   {
+    "type": "LOCATED_AT",
+    "person": "Ivy Bennett",
+    "location": "Data Management Department"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Rachel Singh",
+    "product_service": "IBM Cloud Functions"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jackie Lin",
+    "product_service": "IBM Security Guardium"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Yasmine Ali",
+    "product_service": "IBM Planning Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Ivy Bennett",
+    "product_service": "IBM Db2 Database"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Doe",
+    "product_service": "Zscaler Security Solutions"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jane Smith",
+    "product_service": "Zscaler Security Solutions"
+   }
+  ]
+ }
+}

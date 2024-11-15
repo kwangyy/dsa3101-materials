@@ -1,0 +1,161 @@
+### Meeting Minutes 1: Simple
+#### Date and Time: 01-JUN-2023, 10:00 AM - 10:30 AM
+#### Attendees:
+- Alice Smith (Note Taker)
+- Tina Foster
+- Clara Diaz
+- Samuel Davis
+- Absentees: None
+
+#### Agenda:
+- Project Updates
+- Product Launch Discussion
+
+#### Discussion Points:
+- **Project Updates:**
+  - Tina updated on QRadar SIEM client implementations.
+  - Samuel shared progress on Hyperledger Fabric developments.
+  - Clara provided insights on new findings in AI ethics research.
+
+- **Product Launch Discussion:**
+  - Alice proposed new strategies for the Microsoft Azure and Symantec Endpoint Security launch.
+  - Clara suggested incorporating ethical AI guidelines in the marketing materials.
+  - Samuel emphasized the importance of blockchain security during launch.
+
+#### Next Steps:
+- Tina to prepare a detailed report on QRadar SIEM implementations by 05-JUN-2023.
+- Clara to draft ethical guidelines for the new product by 07-JUN-2023.
+- Samuel to finalize blockchain security features by 10-JUN-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+#### Date and Time: 15-JUN-2023, 2:00 PM - 3:00 PM
+#### Attendees:
+- Alice Smith
+- Tina Foster (Note Taker)
+- Samuel Davis
+- Clara Diaz
+- Absentees: None
+
+#### Agenda:
+- AI Ethics Workshop Planning
+- Collaborations with External Entities
+
+#### Discussion Points:
+- **AI Ethics Workshop Planning:**
+  - Clara discussed the importance of hosting an AI Ethics Workshop.
+  - Alice recommended inviting experts from Cloudera for guest sessions.
+  - Tina suggested focusing on practical implementations.
+
+- **Collaborations with External Entities:**
+  - Samuel proposed a partnership with Cloudera for machine learning integration in blockchain projects.
+  - Alice highlighted the potential benefits of collaborating with Cloudera's AI platform.
+
+#### Next Steps:
+- Clara to develop an initial workshop agenda by 20-JUN-2023.
+- Alice to contact Cloudera representatives by 22-JUN-2023.
+- Samuel to create a proposal for the partnership by 25-JUN-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+#### Date and Time: 20-JUN-2023, 11:00 AM - 12:30 PM
+#### Attendees:
+- Alice Smith
+- Clara Diaz (Note Taker)
+- Tina Foster
+- Samuel Davis
+- External Attendees: John Brown (Cloudera, AI Specialist)
+
+#### Agenda:
+- Product Launch Coordination
+- Integrating Machine Learning and AI
+- Ethical Considerations in AI
+
+#### Discussion Points:
+- **Product Launch Coordination:**
+  - Alice reviewed the timeline for launching Microsoft Azure and Symantec Endpoint Security.
+  - John Brown suggested leveraging Cloudera's data platform for better analytics.
+  - Tina highlighted the technical requirements for seamless integration.
+
+- **Integrating Machine Learning and AI:**
+  - Samuel discussed the technical feasibility of integrating Cloudera's machine learning models with Hyperledger Fabric.
+  - John Brown emphasized the advantages of using Cloudera’s enterprise data platform.
+  
+- **Ethical Considerations in AI:**
+  - Clara stressed the importance of embedding ethical guidelines in AI product development.
+  - Alice agreed to include an ethics review phase in the project lifecycle.
+
+#### Next Steps:
+- Alice to finalize the product launch timeline by 25-JUN-2023.
+- Tina to prepare a technical integration plan by 28-JUN-2023.
+- Samuel to draft a detailed feasibility study by 30-JUN-2023.
+- Clara to compile a comprehensive ethics guideline document by 02-JUL-2023.
+
+---
+
+### Meeting Minutes 4: Simple
+#### Date and Time: 01-JUL-2023, 9:00 AM - 9:30 AM
+#### Attendees:
+- Samuel Davis (Note Taker)
+- Alice Smith
+- Clara Diaz
+- Tina Foster
+- Absentees: None
+
+#### Agenda:
+- Quick Project Status Updates
+- Preparation for Upcoming Meeting
+
+#### Discussion Points:
+- **Quick Project Status Updates:**
+  - Alice reported on the final stages of product development.
+  - Clara shared recent ethical considerations research.
+  - Tina mentioned improvements in QRadar SIEM performance.
+  - Samuel discussed blockchain project milestones.
+
+- **Preparation for Upcoming Meeting:**
+  - Alice outlined the key points for the upcoming meeting with Cloudera.
+  - Clara suggested focusing on AI ethics as a major discussion point.
+
+#### Next Steps:
+- Alice to prepare the meeting agenda by 03-JUL-2023.
+- Clara to compile relevant research findings by 04-JUL-2023.
+- Tina to ensure all technical requirements are met by 05-JUL-2023.
+- Samuel to finalize presentation materials by 06-JUL-2023.
+
+---
+
+### Meeting Minutes 5: Moderate
+#### Date and Time: 15-JUL-2023, 3:00 PM - 4:00 PM
+#### Attendees:
+- Alice Smith
+- Tina Foster (Note Taker)
+- Clara Diaz
+- Samuel Davis
+- Absentees: None
+
+#### Agenda:
+- Final Product Launch Preparation
+- Inter-Department Collaboration
+
+#### Discussion Points:
+- **Final Product Launch Preparation:**
+  - Alice presented the final launch plan.
+  - Clara discussed the ethical review phase completion.
+  - Tina updated on the technical readiness for the launch.
+
+- **Inter-Department Collaboration:**
+  - Samuel emphasized the need for coordinated efforts between the technical and ethical teams.
+  - Alice agreed to set up a cross-department task force.
+
+#### Next Steps:
+- Alice to lead the final review meeting on 18-JUL-2023.
+- Tina to ensure all technical checks are completed by 20-JUL-2023.
+- Clara to present the ethical review findings by 21-JUL-2023.
+- Samuel to coordinate task force activities starting 22-JUL-2023.
+
+---
+
+### JSON Data

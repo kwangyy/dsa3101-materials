@@ -1,0 +1,180 @@
+### Meeting 1: Simple
+
+**Date and Time:** 
+- 12-Apr-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- David Patel (Note taker)
+- Yasmine Ali
+- Lily Garcia
+- Benji Martinez
+
+**Agenda:**
+1. Project updates
+2. Cross-functional collaboration 
+3. Client feedback discussion 
+
+**Discussion Points:**
+- **Project Updates:** 
+  - David reported progress on AWS infrastructure setup.
+  - Yasmine shared preliminary results from predictive models.
+- **Cross-Functional Collaboration:** 
+  - Discussed the need for better data sharing between departments.
+  - Benji suggested using IBM Cloud Object Storage for easier access.
+- **Client Feedback Discussion:** 
+  - Lily brought up client feedback on IBM Cloud Satellite, indicating a need for improvements in user interface design.
+
+**Next Steps:**
+- David to complete AWS infrastructure setup by 20-Apr-2023.
+- Yasmine to finalize predictive models by 25-Apr-2023.
+- Benji to ensure IBM Cloud Object Storage access for all teams by 18-Apr-2023.
+- Lily to prepare a report on client feedback and potential improvements by 22-Apr-2023.
+
+---
+
+### Meeting 2: Moderate
+
+**Date and Time:** 
+- 19-May-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- David Patel
+- Yasmine Ali
+- Lily Garcia
+- Benji Martinez
+
+**Agenda:**
+1. New project initiation
+2. Resource allocation
+3. Risk assessment
+4. External collaboration with Zscaler
+
+**Discussion Points:**
+- **New Project Initiation:** 
+  - David introduced a new project for AWS optimization.
+  - Yasmine discussed the integration of new data analytics tools.
+- **Resource Allocation:** 
+  - Benji emphasized the need for additional resources for infrastructure management.
+- **Risk Assessment:** 
+  - Identified potential challenges in project timelines.
+  - Yasmine highlighted risks related to data security.
+- **External Collaboration with Zscaler:** 
+  - Lily proposed a collaboration with Zscaler for enhanced security.
+  - Benji to coordinate with Zscaler representatives.
+
+**Next Steps:**
+- David to outline AWS optimization project plan by 30-May-2023.
+- Yasmine to evaluate new data analytics tools by 28-May-2023.
+- Benji to draft a resource requirement document by 27-May-2023.
+- Lily to set up a meeting with Zscaler by 25-May-2023.
+
+---
+
+### Meeting 3: Detailed
+
+**Date and Time:** 
+- 05-Jun-2023, 1:30 PM - 3:30 PM
+
+**Attendees:**
+- David Patel (Note taker)
+- Yasmine Ali
+- Lily Garcia
+- Benji Martinez
+- John Doe (Zscaler Representative)
+
+**Agenda:**
+1. Detailed project review
+2. Security enhancements
+3. Client service improvements
+4. Cross-departmental alignment
+
+**Discussion Points:**
+- **Detailed Project Review:** 
+  - David presented the status of AWS infrastructure.
+  - Yasmine detailed the performance of predictive models.
+- **Security Enhancements:** 
+  - John Doe from Zscaler explained potential security solutions.
+  - Benji suggested integration points with IBM Cloud Object Storage.
+- **Client Service Improvements:** 
+  - Lily discussed feedback on IBM Cloud Satellite and proposed changes.
+  - David suggested involving UX designers.
+- **Cross-Departmental Alignment:** 
+  - Emphasized the need for weekly meetings to ensure alignment.
+  - Yasmine proposed a shared dashboard for project tracking.
+
+**Next Steps:**
+- David to finalize AWS infrastructure by 15-Jun-2023.
+- Yasmine to implement new predictive model features by 20-Jun-2023.
+- Benji to create an integration plan with Zscaler by 18-Jun-2023.
+- Lily to coordinate with UX designers for IBM Cloud Satellite improvements by 22-Jun-2023.
+- Weekly alignment meetings to start from 08-Jun-2023.
+
+---
+
+### Meeting 4: Moderate
+
+**Date and Time:** 
+- 15-Jul-2023, 11:00 AM - 12:30 PM
+
+**Attendees:**
+- David Patel
+- Yasmine Ali
+- Lily Garcia
+- Benji Martinez
+
+**Agenda:**
+1. Mid-year performance review
+2. Budget reallocation
+3. Client interaction strategies
+
+**Discussion Points:**
+- **Mid-Year Performance Review:** 
+  - David summarized progress on AWS infrastructure.
+  - Yasmine highlighted key insights from data models.
+- **Budget Reallocation:** 
+  - Benji proposed reallocating budget towards cloud infrastructure.
+  - Lily suggested additional funds for marketing analytics.
+- **Client Interaction Strategies:** 
+  - Discussed improving client onboarding processes.
+  - Yasmine proposed using data-driven insights for personalized client interactions.
+
+**Next Steps:**
+- David to prepare mid-year infrastructure report by 20-Jul-2023.
+- Yasmine to compile data insights report by 25-Jul-2023.
+- Benji to submit budget reallocation proposal by 22-Jul-2023.
+- Lily to draft new client interaction strategies by 27-Jul-2023.
+
+---
+
+### Meeting 5: Simple
+
+**Date and Time:** 
+- 22-Aug-2023, 9:00 AM - 9:30 AM
+
+**Attendees:**
+- David Patel
+- Yasmine Ali
+- Lily Garcia (Note taker)
+- Benji Martinez
+
+**Agenda:**
+1. Quick project status check
+2. Immediate client issues
+
+**Discussion Points:**
+- **Quick Project Status Check:** 
+  - David reported minor delays in AWS infrastructure updates.
+  - Yasmine confirmed models are performing as expected.
+- **Immediate Client Issues:** 
+  - Benji mentioned a critical issue with IBM Cloud Object Storage.
+  - Lily suggested a temporary workaround and contacting affected clients.
+
+**Next Steps:**
+- David to resolve infrastructure delays by 29-Aug-2023.
+- Yasmine to monitor model performance closely.
+- Benji to fix IBM Cloud Object Storage issue by 24-Aug-2023.
+- Lily to communicate with clients about the issue and resolution plan by 23-Aug-2023.
+
+---
+
+### JSON Ground Truth Data

@@ -1,0 +1,86 @@
+### Simple Meeting Minutes
+
+**Date and Time**: 05-Sep-2023, 10:00 AM - 10:30 AM
+
+**Attendees**:
+- Ivy Bennett
+- Lily Garcia
+- Natalie Wu
+- Uma Patel
+- Note-taker: Lily Garcia
+
+**Agenda**:
+1. Scheduling next team meeting
+2. Review of project timelines
+
+**Discussion Points**:
+- Ivy emphasized the need for a regular bi-weekly check-in.
+- Natalie suggested Wednesday afternoons for better alignment with Marketing schedules.
+- Uma pointed out the overlap with client meetings and proposed moving it to Thursday mornings.
+
+**Next Steps**:
+- Schedule next meeting for 19-Sep-2023 at 10:00 AM.
+- Ivy to send calendar invites.
+- Lily to circulate the updated project timelines by 08-Sep-2023.
+
+### Moderate Meeting Minutes
+
+**Date and Time**: 15-Sep-2023, 1:00 PM - 2:00 PM
+
+**Attendees**:
+- Ivy Bennett
+- Lily Garcia
+- Natalie Wu
+- Uma Patel
+- Note-taker: Uma Patel
+
+**Agenda**:
+1. Collaboration with Snowflake on data analytics
+2. Scheduling next team meeting
+3. Review of marketing strategy for IBM Watson Discovery
+
+**Discussion Points**:
+- Ivy discussed the technical capabilities of Snowflake and its compatibility with IBM Db2.
+- Lily presented customer trend data that can be leveraged with Snowflake's platform.
+- Natalie emphasized the importance of highlighting the IBM Watson Discovery features in the upcoming marketing campaign.
+- Uma suggested a joint webinar with Snowflake to showcase hybrid cloud solutions.
+
+**Next Steps**:
+- Ivy to coordinate with Snowflake's technical team by 20-Sep-2023.
+- Lily to analyze potential customer segments by 18-Sep-2023.
+- Natalie to draft the marketing strategy by 22-Sep-2023.
+- Uma to set up a meeting with Snowflake's team for 25-Sep-2023.
+
+### Detailed Meeting Minutes
+
+**Date and Time**: 30-Sep-2023, 3:00 PM - 4:30 PM
+
+**Attendees**:
+- Ivy Bennett
+- Lily Garcia
+- Natalie Wu
+- Uma Patel
+- External Attendee: John Smith, Data Engineer, Snowflake
+- Note-taker: Natalie Wu
+
+**Agenda**:
+1. Detailed review of ETL pipelines for new data sets
+2. Scheduling next team meeting
+3. Strategic partnership with Snowflake
+4. Marketing campaign for IBM Watson Discovery
+
+**Discussion Points**:
+- Ivy explained the new ETL pipeline improvements and their impact on data processing speed.
+- John Smith provided insights on Snowflake's data warehousing capabilities and how it can enhance current processes.
+- Lily shared new customer trend data and how it aligns with IBM Cloud Satellite.
+- Natalie reviewed the initial draft of the IBM Watson Discovery marketing campaign.
+- Uma discussed potential hybrid cloud solutions that can be co-marketed with Snowflake.
+
+**Next Steps**:
+- Ivy and John to collaborate on a pilot project by 10-Oct-2023.
+- Lily to update customer trend analysis by 05-Oct-2023.
+- Natalie to finalize the marketing campaign draft by 08-Oct-2023.
+- Uma to prepare a proposal for the joint hybrid cloud solution by 12-Oct-2023.
+- Schedule next meeting for 14-Oct-2023 at 3:00 PM.
+
+### JSON Format Representation

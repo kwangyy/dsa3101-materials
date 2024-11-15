@@ -1,0 +1,147 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Clara Diaz"
+                },
+                {
+                    "name": "Alice Smith"
+                },
+                {
+                    "name": "Derek Hill"
+                },
+                {
+                    "name": "Xander Williams"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM Ethics Department"
+                },
+                {
+                    "name": "IBM R&D Department"
+                },
+                {
+                    "name": "IBM Quality Assurance Department"
+                },
+                {
+                    "name": "IBM Digital Solutions Department"
+                },
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "AI Policy Researcher"
+                },
+                {
+                    "title": "Chief Data Officer"
+                },
+                {
+                    "title": "QA Engineer"
+                },
+                {
+                    "title": "Mobile App Developer"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Aspera"
+                },
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "IBM MobileFirst Platform"
+                },
+                {
+                    "name": "IBM Aspera"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Clara Diaz",
+                "organization": "IBM Ethics Department"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Alice Smith",
+                "organization": "IBM R&D Department"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Derek Hill",
+                "organization": "IBM Quality Assurance Department"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Xander Williams",
+                "organization": "IBM Digital Solutions Department"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Clara Diaz",
+                "role": "AI Policy Researcher"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Alice Smith",
+                "role": "Chief Data Officer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Derek Hill",
+                "role": "QA Engineer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Xander Williams",
+                "role": "Mobile App Developer"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM",
+                "location": "IBM"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Clara Diaz",
+                "product_service": "IBM Aspera"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Alice Smith",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Xander Williams",
+                "product_service": "IBM MobileFirst Platform"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM R&D Department",
+                "location": "IBM"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM Quality Assurance Department",
+                "location": "IBM"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM Digital Solutions Department",
+                "location": "IBM"
+            }
+        ]
+    }
+}

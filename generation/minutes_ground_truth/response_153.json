@@ -1,0 +1,168 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Quinn Parker"
+    },
+    {
+     "name": "Jackie Lin"
+    },
+    {
+     "name": "Rachel Singh"
+    },
+    {
+     "name": "Uma Patel"
+    },
+    {
+     "name": "Jason Kim"
+    },
+    {
+     "name": "Maria Chen"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "DigitalOcean"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Data Analyst"
+    },
+    {
+     "title": "Cybersecurity Analyst"
+    },
+    {
+     "title": "Software Engineer"
+    },
+    {
+     "title": "Senior Solutions Architect"
+    },
+    {
+     "title": "Cloud Engineer"
+    },
+    {
+     "title": "Senior Marketing Manager"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "DigitalOcean"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM Security Guardium"
+    },
+    {
+     "name": "IBM Cloud Functions"
+    },
+    {
+     "name": "IBM Cloud Private"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Quinn Parker",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jackie Lin",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Singh",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Uma Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jason Kim",
+    "organization": "DigitalOcean"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Maria Chen",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Quinn Parker",
+    "role": "Data Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jackie Lin",
+    "role": "Cybersecurity Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Singh",
+    "role": "Software Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Uma Patel",
+    "role": "Senior Solutions Architect"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jason Kim",
+    "role": "Cloud Engineer"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Maria Chen",
+    "role": "Senior Marketing Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Quinn Parker",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jackie Lin",
+    "product_service": "IBM Security Guardium"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Rachel Singh",
+    "product_service": "IBM Cloud Functions"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Uma Patel",
+    "product_service": "IBM Cloud Private"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "DigitalOcean",
+    "location": "DigitalOcean"
+   }
+  ]
+ }
+}

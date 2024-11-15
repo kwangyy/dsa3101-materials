@@ -1,0 +1,146 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:** 10-Aug-2023, 10:00 AM - 10:30 AM  
+**Attendees:**  
+- Henry Zhou (Note Taker)  
+- Gina Lopez  
+- Uma Patel  
+- Xander Williams  
+**Absentees:**  
+- None  
+
+**Agenda:**  
+1. Project updates  
+2. Cross-functional collaboration
+
+**Discussion Points:**  
+- Henry provided an update on the automation of CI/CD pipelines for the IBM Kubernetes Service.
+- Gina discussed the latest user interface designs for IBM Cloud Pak for Data.
+- Uma outlined upcoming hybrid cloud solutions for IBM Cloud Private.
+- Xander highlighted progress in developing applications for the IBM MobileFirst Platform.
+
+**Next Steps:**  
+- Henry to integrate new automation scripts by 17-Aug-2023.
+- Gina to finalize UI designs by 20-Aug-2023.
+- Uma to prepare a detailed architecture document by 25-Aug-2023.
+- Xander to complete the next development milestone by 22-Aug-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+
+**Date and Time:** 25-Aug-2023, 2:00 PM - 3:00 PM  
+**Attendees:**  
+- Henry Zhou  
+- Gina Lopez (Note Taker)  
+- Uma Patel  
+**Absentees:**  
+- Xander Williams
+
+**Agenda:**  
+1. Review of project milestones  
+2. Strategy discussion for cross-departmental support  
+3. Client feedback incorporation
+
+**Discussion Points:**  
+- Henry shared milestones achieved in CI/CD automation and future plans.
+- Gina presented a mock-up of the new UI and collected feedback.
+- Uma proposed collaboration opportunities with the Digital Solutions Department to integrate hybrid cloud features into mobile applications.
+- Discussed client feedback received for IBM Cloud Pak for Data and how to incorporate it into the next iteration.
+
+**Next Steps:**  
+- Henry to review and implement feedback into the CI/CD pipelines by 01-Sep-2023.
+- Gina to revise UI mock-ups based on team feedback by 03-Sep-2023.
+- Uma to arrange a meeting with the Digital Solutions Department for further collaboration by 28-Aug-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+
+**Date and Time:** 05-Sep-2023, 11:00 AM - 12:30 PM  
+**Attendees:**  
+- Henry Zhou  
+- Gina Lopez  
+- Uma Patel  
+- Xander Williams  
+**Absentees:**  
+- None
+
+**Agenda:**  
+1. Detailed project review  
+2. Inter-departmental collaboration with Solutions Engineering  
+3. Security integration with Illumio
+
+**Discussion Points:**  
+- Henry detailed the latest enhancements in CI/CD pipeline automation, including new security measures.
+- Gina shared final UI designs and discussed potential challenges related to user feedback.
+- Uma presented a comprehensive plan for hybrid cloud integration and emphasized the importance of security.
+- Xander provided insights on how mobile applications can benefit from hybrid cloud solutions.
+- Discussed potential collaboration with Illumio for enhanced security in enterprise systems.
+
+**Next Steps:**  
+- Henry to ensure compliance with security measures by 15-Sep-2023.
+- Gina to address user feedback in the final UI by 10-Sep-2023.
+- Uma to initiate security collaboration with Illumio by 08-Sep-2023.
+- Xander to explore mobile app enhancements using hybrid cloud features by 12-Sep-2023.
+
+---
+
+### Meeting Minutes 4: Simple
+
+**Date and Time:** 15-Sep-2023, 9:00 AM - 9:30 AM  
+**Attendees:**  
+- Gina Lopez  
+- Uma Patel  
+- Xander Williams (Note Taker)  
+**Absentees:**  
+- Henry Zhou  
+
+**Agenda:**  
+1. Brief project updates  
+2. Next steps
+
+**Discussion Points:**  
+- Gina discussed ongoing refinements to the UI for IBM Cloud Pak for Data.
+- Uma talked about upcoming hybrid cloud solution demos.
+- Xander shared progress in app development for IBM MobileFirst Platform.
+
+**Next Steps:**  
+- Gina to complete UI refinements by 20-Sep-2023.
+- Uma to schedule demos for 25-Sep-2023.
+- Xander to reach the next app development milestone by 22-Sep-2023.
+
+---
+
+### Meeting Minutes 5: Moderate
+
+**Date and Time:** 01-Oct-2023, 3:00 PM - 4:00 PM  
+**Attendees:**  
+- Henry Zhou  
+- Gina Lopez  
+- Uma Patel (Note Taker)  
+- Xander Williams  
+**Absentees:**  
+- None  
+
+**Agenda:**  
+1. Review of recent client interactions  
+2. Strategy for improved client satisfaction  
+3. Cross-functional support
+
+**Discussion Points:**  
+- Henry reviewed feedback from recent client interactions regarding CI/CD pipelines.
+- Gina discussed client reception of the new UI designs.
+- Uma shared client responses to hybrid cloud solutions and identified areas for improvement.
+- Xander highlighted the need for better client support in mobile applications.
+- Discussed ways departments can support each other to improve overall client satisfaction.
+
+**Next Steps:**  
+- Henry to address client feedback in CI/CD pipelines by 05-Oct-2023.
+- Gina to incorporate client suggestions into the UI by 10-Oct-2023.
+- Uma to refine hybrid cloud solutions based on client feedback by 12-Oct-2023.
+- Xander to enhance client support features in mobile apps by 15-Oct-2023.
+
+---
+
+### JSON Data for Relationships

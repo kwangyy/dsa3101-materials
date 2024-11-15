@@ -1,0 +1,145 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time:** 15-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Paul Hernandez (Note taker)
+- Tina Foster
+- Natalie Wu
+
+**Absentees:**
+- Carol Nguyen
+
+**Agenda:**
+- Feedback on recent IBM QRadar SIEM implementation
+- Discuss potential service integration with ServiceTitan
+
+**Discussion Points:**
+- Tina provided an overview of the recent QRadar SIEM implementation for clients.
+- Natalie inquired about potential improvements and gathered feedback from Paul and Tina.
+- Paul mentioned challenges with IBM Z systems infrastructure that could affect integration with ServiceTitan.
+- General agreement on the need for better communication between departments.
+
+**Next Steps:**
+- Tina to compile feedback and send a summary by 17-Jan-2023.
+- Paul to assess the infrastructure needs for potential integration with ServiceTitan by 20-Jan-2023.
+- Natalie to set up a follow-up meeting with ServiceTitan representatives.
+
+### Meeting Minutes 2 (Moderate)
+**Date and Time:** 01-Feb-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Paul Hernandez
+- Carol Nguyen (Note taker)
+- Tina Foster
+- Natalie Wu
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Review performance metrics of IBM Watson Discovery
+- Discuss feedback on data analytics
+- Service integration opportunities with Microsoft Azure and ServiceTitan
+
+**Discussion Points:**
+- Natalie shared performance metrics of IBM Watson Discovery.
+- Carol discussed data analytics improvements and received feedback.
+- Tina highlighted how the IT Support Department can assist in integrating with ServiceTitan and Microsoft Azure.
+- Paul emphasized the importance of maintaining system stability during integrations.
+
+**Next Steps:**
+- Carol to provide detailed data analytics report by 05-Feb-2023.
+- Tina to coordinate with the IT Support Department for integration testing by 10-Feb-2023.
+- Natalie to organize a joint meeting with Microsoft and ServiceTitan representatives.
+
+### Meeting Minutes 3 (Detailed)
+**Date and Time:** 15-Feb-2023, 3:00 PM - 4:30 PM
+
+**Attendees:**
+- Paul Hernandez
+- Carol Nguyen
+- Tina Foster (Note taker)
+- Natalie Wu
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Feedback on recent service integration projects
+- Detailed discussion on IBM Z systems and Microsoft Azure integration
+- Marketing strategy for IBM Watson Discovery
+
+**Discussion Points:**
+- Paul reported on the IBM Z systems stability post-integration with Microsoft Azure.
+- Carol presented a detailed data analysis on how the integration affected system performance.
+- Natalie proposed a new marketing strategy for IBM Watson Discovery based on collected user feedback.
+- Tina discussed the technical challenges faced during the integration and potential solutions.
+- Collaborative efforts between the IT Support and Marketing departments to enhance client satisfaction.
+
+**Next Steps:**
+- Paul to monitor system performance and report weekly updates starting 18-Feb-2023.
+- Carol to finalize data analysis and share insights by 20-Feb-2023.
+- Natalie to implement the new marketing strategy and track results by 28-Feb-2023.
+- Tina to address technical challenges and work with ServiceTitan's technical team by 25-Feb-2023.
+
+### Meeting Minutes 4 (Moderate)
+**Date and Time:** 01-Mar-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**
+- Paul Hernandez (Note taker)
+- Carol Nguyen
+- Natalie Wu
+
+**Absentees:**
+- Tina Foster
+
+**Agenda:**
+- Feedback on IBM Watson Discovery marketing campaign
+- Review of data analytics post-campaign
+- Future service integration plans
+
+**Discussion Points:**
+- Natalie shared feedback on the IBM Watson Discovery marketing campaign.
+- Carol reviewed data analytics results post-campaign, highlighting successes and areas for improvement.
+- Paul provided an update on IBM Z systems' readiness for future integrations.
+- Discussion on potential collaborations with other departments for enhanced service delivery.
+
+**Next Steps:**
+- Natalie to adjust marketing strategies based on feedback by 05-Mar-2023.
+- Carol to conduct further data analysis and share results by 10-Mar-2023.
+- Paul to prepare a detailed report on system readiness for the next integration phase by 15-Mar-2023.
+
+### Meeting Minutes 5 (Detailed)
+**Date and Time:** 15-Mar-2023, 2:00 PM - 3:30 PM
+
+**Attendees:**
+- Paul Hernandez
+- Carol Nguyen
+- Tina Foster
+- Natalie Wu (Note taker)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Comprehensive feedback session on recent service integrations
+- Detailed strategy discussion for IBM Watson Discovery
+- Collaboration opportunities with external entities like ServiceTitan
+
+**Discussion Points:**
+- Paul detailed feedback from the recent service integrations, highlighting key issues and successes.
+- Carol presented an in-depth analysis of data collected during the integration processes.
+- Tina discussed the technical hurdles faced and proposed solutions to prevent future issues.
+- Natalie outlined a comprehensive marketing strategy for IBM Watson Discovery, incorporating feedback from internal and external stakeholders.
+- Collaborative discussion on how different departments can support the ongoing and future integration projects.
+
+**Next Steps:**
+- Paul to compile a comprehensive feedback report and share it by 20-Mar-2023.
+- Carol to finalize data analysis and insights and present it by 22-Mar-2023.
+- Tina to implement the proposed technical solutions by 25-Mar-2023.
+- Natalie to finalize and roll out the new marketing strategy by 30-Mar-2023.
+- Joint meeting with ServiceTitan to discuss collaboration opportunities by 01-Apr-2023.
+
+---
+
+### Synthetic Minutes Data in JSON Format

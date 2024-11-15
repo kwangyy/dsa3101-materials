@@ -1,0 +1,204 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Brian Taylor"
+    },
+    {
+     "name": "Benji Martinez"
+    },
+    {
+     "name": "Samuel Davis"
+    },
+    {
+     "name": "Uma Patel"
+    },
+    {
+     "name": "John Smith"
+    },
+    {
+     "name": "Jane Doe"
+    },
+    {
+     "name": "Rachel Green"
+    },
+    {
+     "name": "Michael Lee"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Elastic"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Senior Data Scientist"
+    },
+    {
+     "title": "IT Operations Manager"
+    },
+    {
+     "title": "Blockchain Developer"
+    },
+    {
+     "title": "Senior Solutions Architect"
+    },
+    {
+     "title": "Senior Engineer"
+    },
+    {
+     "title": "Client Relations Manager"
+    },
+    {
+     "title": "Security Expert"
+    },
+    {
+     "title": "Infrastructure Consultant"
+    }
+   ],
+   "locations": [],
+   "products_services": [
+    {
+     "name": "Microsoft Azure"
+    },
+    {
+     "name": "IBM Cloud Object Storage"
+    },
+    {
+     "name": "Hyperledger Fabric"
+    },
+    {
+     "name": "IBM Blockchain Platform"
+    },
+    {
+     "name": "IBM Cloud Private"
+    },
+    {
+     "name": "Elastic"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Brian Taylor",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Brian Taylor",
+    "role": "Senior Data Scientist"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Brian Taylor",
+    "product_service": "Microsoft Azure"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Benji Martinez",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Benji Martinez",
+    "role": "IT Operations Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Benji Martinez",
+    "product_service": "IBM Cloud Object Storage"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Samuel Davis",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Samuel Davis",
+    "role": "Blockchain Developer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "Hyperledger Fabric"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Samuel Davis",
+    "product_service": "IBM Blockchain Platform"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Uma Patel",
+    "organization": "IBM"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Uma Patel",
+    "role": "Senior Solutions Architect"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Uma Patel",
+    "product_service": "IBM Cloud Private"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "Elastic"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "Senior Engineer"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "John Smith",
+    "product_service": "Elastic"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Jane Doe",
+    "organization": "Elastic"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Jane Doe",
+    "role": "Client Relations Manager"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Jane Doe",
+    "product_service": "Elastic"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Rachel Green",
+    "organization": "External Consultant"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Rachel Green",
+    "role": "Security Expert"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Michael Lee",
+    "organization": "External Consultant"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Michael Lee",
+    "role": "Infrastructure Consultant"
+   }
+  ]
+ }
+}

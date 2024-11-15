@@ -1,0 +1,179 @@
+### Meeting Minutes 1 - Simple
+**Date and Time:** 12-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees:** 
+- Tina Foster (Note taker)
+- Alice Smith
+- Brian Taylor
+- Lily Garcia
+
+**Absentees:** None
+
+**Agenda:**
+- Quick project updates
+- Market analysis
+
+**Discussion Points:**
+- **Project Updates:**
+  - Alice Smith provided an update on the development of Microsoft Azure, highlighting recent milestones.
+  - Tina Foster mentioned successful IBM QRadar SIEM implementations for two clients.
+
+- **Market Analysis:**
+  - Lily Garcia discussed recent trends in customer behavior related to IBM Cloud Satellite.
+  - Brian Taylor suggested integrating more data sources for better analytics.
+
+**Next Steps:**
+- Alice to share detailed project timelines by 20-Jan-2023.
+- Tina to prepare a report on recent SIEM implementations by 18-Jan-2023.
+- Lily to conduct deeper analysis and present findings by 25-Jan-2023.
+
+---
+
+### Meeting Minutes 2 - Moderate
+**Date and Time:** 25-Jan-2023, 2:00 PM - 3:00 PM
+
+**Attendees:** 
+- Alice Smith (Note taker)
+- Brian Taylor
+- Lily Garcia
+
+**Absentees:** 
+- Tina Foster (on leave)
+
+**Agenda:**
+- Project updates
+- Market analysis
+- Collaboration with Snowflake
+
+**Discussion Points:**
+- **Project Updates:**
+  - Alice reported on new developments in Symantec Endpoint Security.
+  - Brian discussed the progress on data models for Microsoft Azure.
+
+- **Market Analysis:**
+  - Lily presented an overview of the current market trends affecting IBM Cloud Satellite.
+  - Discussion on the implications of these trends for future strategies.
+
+- **Collaboration with Snowflake:**
+  - Exploring potential partnership opportunities with Snowflake for advanced data warehousing and analytics.
+  - Alice to set up a preliminary meeting with Snowflake representatives.
+
+**Next Steps:**
+- Alice to share Symantec project updates by 01-Feb-2023.
+- Brian to refine data models and share updates by 05-Feb-2023.
+- Lily to prepare a detailed report on market trends by 30-Jan-2023.
+- Alice to arrange a meeting with Snowflake by 28-Jan-2023.
+
+---
+
+### Meeting Minutes 3 - Detailed
+**Date and Time:** 10-Feb-2023, 9:00 AM - 10:30 AM
+
+**Attendees:** 
+- Tina Foster (Note taker)
+- Alice Smith
+- Brian Taylor
+- Lily Garcia
+
+**Absentees:** None
+
+**Agenda:**
+- Project updates
+- Market analysis
+- Strategy discussions
+- External collaboration updates
+
+**Discussion Points:**
+- **Project Updates:**
+  - Alice gave an update on both Microsoft Azure and Symantec Endpoint Security projects.
+  - Brian shared insights into new algorithms being tested for Azure data models.
+  - Tina provided feedback from clients regarding QRadar SIEM performance.
+
+- **Market Analysis:**
+  - Lily presented a comprehensive report on customer trends for IBM Cloud Satellite.
+  - Discussed potential challenges and opportunities.
+
+- **Strategy Discussions:**
+  - Brainstorming session on how to leverage market analysis findings.
+  - Proposed solutions for identified challenges and how different departments can help.
+
+- **External Collaboration Updates:**
+  - Alice updated the team on the initial discussions with Snowflake representatives.
+  - Potential outcomes of the partnership were discussed, including enhanced data analytics capabilities.
+
+**Next Steps:**
+- Alice to finalize project timelines and share by 15-Feb-2023.
+- Brian to complete algorithm tests and report findings by 20-Feb-2023.
+- Tina to prepare client feedback documentation by 18-Feb-2023.
+- Lily to keep monitoring market trends and provide monthly updates.
+- Alice to continue discussions with Snowflake and draft a potential collaboration proposal by 28-Feb-2023.
+
+---
+
+### Meeting Minutes 4 - Simple
+**Date and Time:** 15-Feb-2023, 3:00 PM - 3:30 PM
+
+**Attendees:** 
+- Tina Foster
+- Alice Smith
+- Brian Taylor (Note taker)
+- Lily Garcia
+
+**Absentees:** None
+
+**Agenda:**
+- Brief project updates
+- Quick market analysis
+
+**Discussion Points:**
+- **Project Updates:**
+  - Alice shared short updates on Microsoft Azure and Symantec Endpoint Security.
+
+- **Market Analysis:**
+  - Lily presented key points from her latest market trend report.
+
+**Next Steps:**
+- Alice to provide full updates in the next meeting on 20-Feb-2023.
+- Lily to send a summarized market trend report to the team by 18-Feb-2023.
+
+---
+
+### Meeting Minutes 5 - Moderate
+**Date and Time:** 20-Feb-2023, 11:00 AM - 12:00 PM
+
+**Attendees:** 
+- Tina Foster
+- Alice Smith (Note taker)
+- Brian Taylor
+- Lily Garcia
+
+**Absentees:** None
+
+**Agenda:**
+- Project updates
+- In-depth market analysis
+- Follow-up on Snowflake collaboration
+
+**Discussion Points:**
+- **Project Updates:**
+  - Alice provided in-depth updates on ongoing projects.
+  - Brian discussed potential improvements in the Azure data models.
+  - Tina shared feedback from recent client interactions.
+
+- **In-depth Market Analysis:**
+  - Lily provided detailed insights from the latest market analysis, emphasizing new trends and potential impacts.
+
+- **Follow-up on Snowflake Collaboration:**
+  - Alice briefed the team on the progress of discussions with Snowflake.
+  - Discussed how the collaboration could enhance IBM's data analytics capabilities.
+
+**Next Steps:**
+- Alice to continue project oversight and provide next updates by 25-Feb-2023.
+- Brian to implement suggested improvements in Azure models by 28-Feb-2023.
+- Tina to compile recent client feedback into a report by 22-Feb-2023.
+- Lily to conduct further analysis on emerging market trends and update by 25-Feb-2023.
+- Alice to draft a collaboration proposal with Snowflake by 28-Feb-2023.
+
+---
+
+### JSON Data for Entities and Relationships

@@ -1,0 +1,155 @@
+### Meeting 1: Simple
+
+#### Date and Time: 15-JAN-2023, 10:00 AM - 10:30 AM
+#### Attendees:
+- Clara Diaz (Note Taker)
+- David Patel
+- Gina Lopez
+- Tina Foster
+
+#### Absentees:
+- None
+
+#### Agenda:
+1. Introduction
+2. Collaboration proposals for upcoming projects
+
+#### Discussion Points:
+- Clara suggested collaborating on an AI ethics module for IBM Cloud Pak for Data.
+- David highlighted the need for a robust cloud infrastructure to support the module.
+- Gina proposed an intuitive UX design to make the module user-friendly.
+- Tina emphasized the importance of seamless IT support for the implementation.
+
+#### Next Steps:
+- Clara will draft the initial AI ethics module proposal by 22-JAN-2023.
+- David will provide an infrastructure plan by 25-JAN-2023.
+- Gina will sketch initial UX designs by 28-JAN-2023.
+- Tina will prepare an IT support plan by 30-JAN-2023.
+
+---
+
+### Meeting 2: Moderate
+
+#### Date and Time: 20-JAN-2023, 2:00 PM - 3:00 PM
+#### Attendees:
+- Clara Diaz
+- David Patel
+- Gina Lopez (Note Taker)
+- Tina Foster
+
+#### Absentees:
+- None
+
+#### Agenda:
+1. Review of initial collaboration proposals
+2. Integration of IBM QRadar SIEM with AWS
+
+#### Discussion Points:
+- Clara presented the draft of the AI ethics module, received feedback from the team.
+- David discussed the cloud infrastructure requirements.
+- Gina showcased initial UX designs.
+- Tina explained the potential challenges in integrating QRadar SIEM with AWS.
+- External Input: John Smith from ServiceTitan provided insights on similar integration efforts.
+
+#### Next Steps:
+- Clara to incorporate feedback into the AI ethics module by 27-JAN-2023.
+- David to finalize the cloud infrastructure requirements by 30-JAN-2023.
+- Gina to refine UX designs based on feedback by 01-FEB-2023.
+- Tina to research solutions for QRadar SIEM integration challenges by 03-FEB-2023.
+
+---
+
+### Meeting 3: Detailed
+
+#### Date and Time: 05-FEB-2023, 1:00 PM - 2:30 PM
+#### Attendees:
+- Clara Diaz
+- David Patel
+- Gina Lopez
+- Tina Foster (Note Taker)
+
+#### Absentees:
+- None
+
+#### Agenda:
+1. Final review of AI ethics module proposal
+2. Cloud infrastructure planning
+3. UX design finalization
+4. IT support for QRadar SIEM
+
+#### Discussion Points:
+- Clara presented the final draft of the AI ethics module, which was approved by the team.
+- David detailed the cloud infrastructure plan, including cost estimates and timelines.
+- Gina presented the final UX designs, focusing on user accessibility and feedback mechanisms.
+- Tina highlighted the IT support structure required for the seamless implementation of QRadar SIEM.
+- External Feedback: Alice Jones from ServiceTitan shared best practices for cloud infrastructure and security.
+
+#### Next Steps:
+- Clara to submit the final AI ethics module proposal to the Ethics Department by 08-FEB-2023.
+- David to begin cloud infrastructure setup by 10-FEB-2023.
+- Gina to create detailed UX documentation by 12-FEB-2023.
+- Tina to prepare IT support training materials by 15-FEB-2023.
+
+---
+
+### Meeting 4: Simple
+
+#### Date and Time: 10-MAR-2023, 11:00 AM - 11:30 AM
+#### Attendees:
+- Clara Diaz
+- David Patel (Note Taker)
+- Gina Lopez
+- Tina Foster
+
+#### Absentees:
+- None
+
+#### Agenda:
+1. Status update on collaboration proposals
+2. Next steps and timelines
+
+#### Discussion Points:
+- Clara reported the submission of the AI ethics module proposal.
+- David updated on the cloud infrastructure setup progress.
+- Gina shared the progress on UX documentation.
+- Tina outlined the preparation of IT support training materials.
+
+#### Next Steps:
+- David to complete cloud infrastructure setup by 20-MAR-2023.
+- Gina to finalize UX documentation by 22-MAR-2023.
+- Tina to finalize IT support training materials by 25-MAR-2023.
+
+---
+
+### Meeting 5: Moderate
+
+#### Date and Time: 25-MAR-2023, 3:00 PM - 4:00 PM
+#### Attendees:
+- Clara Diaz (Note Taker)
+- David Patel
+- Gina Lopez
+- Tina Foster
+
+#### Absentees:
+- None
+
+#### Agenda:
+1. Review of completed tasks
+2. Discussion on future collaboration projects
+
+#### Discussion Points:
+- Clara confirmed the approval of the AI ethics module.
+- David reported the completion of cloud infrastructure setup.
+- Gina presented the finalized UX documentation.
+- Tina provided an overview of IT support training materials.
+- Future projects: AI ethics integration with QRadar SIEM and AWS.
+
+#### Next Steps:
+- Clara to initiate discussion on AI ethics integration with relevant departments by 30-MAR-2023.
+- David to prepare a project plan for QRadar SIEM and AWS integration by 05-APR-2023.
+- Gina to start preliminary UX design work for new projects by 10-APR-2023.
+- Tina to align IT support resources for upcoming projects by 12-APR-2023.
+
+---
+
+### JSON Data

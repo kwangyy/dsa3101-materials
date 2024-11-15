@@ -1,0 +1,104 @@
+### Email Thread
+
+#### Email 1: 
+
+**Subject:** Quarterly Meeting: IBM Cloud Object Storage
+
+**From:** Benji Martinez  
+**To:** David Patel, Abigail Carter  
+**Cc:** Franklin Moore  
+**Date:** October 1, 2023
+
+---
+
+Hi Team,
+
+I hope this email finds you well. As the IT Operations Manager, I wanted to schedule a meeting to discuss our quarterly review on IBM Cloud Object Storage, particularly focusing on infrastructure improvements and the integration with AWS.
+
+David, as our Cloud Architect, your insights on integrating AWS services would be invaluable. Abigail, your expertise in reporting will help us understand the performance metrics more thoroughly. Franklin, your input on potential API improvements for IBM Watson Assistant would also be highly beneficial.
+
+Looking forward to your availability.
+
+Best Regards,  
+Benji Martinez  
+IT Operations Manager, Infrastructure Department  
+IBM
+
+---
+
+#### Email 2:
+
+**Subject:** Re: Quarterly Meeting: IBM Cloud Object Storage
+
+**From:** David Patel  
+**To:** Benji Martinez, Abigail Carter  
+**Cc:** Franklin Moore  
+**Date:** October 2, 2023
+
+---
+
+Hi Benji,
+
+Thank you for setting this up. I am available this Thursday at 10 AM EST. I have some initial thoughts on how we can optimize our AWS integration to better support IBM Cloud Object Storage.
+
+Abigail, I would also like to discuss how your dashboards in IBM Cognos Analytics can incorporate the new data points we'll be collecting.
+
+Franklin, it would be great if you could provide an update on any new API developments for IBM Watson Assistant that could impact our infrastructure.
+
+Best,  
+David Patel  
+Cloud Architect, IT Department  
+IBM
+
+---
+
+#### Email 3:
+
+**Subject:** Re: Quarterly Meeting: IBM Cloud Object Storage
+
+**From:** Abigail Carter  
+**To:** Benji Martinez, David Patel  
+**Cc:** Franklin Moore  
+**Date:** October 2, 2023
+
+---
+
+Hi Team,
+
+Thursday at 10 AM EST works for me as well. I'll prepare the latest performance metrics and dashboards from IBM Cognos Analytics for our discussion.
+
+Franklin, any updates on the IBM Watson Assistant APIs would be helpful to incorporate into our reporting.
+
+Looking forward to the meeting.
+
+Best,  
+Abigail Carter  
+Business Intelligence Analyst, Data Analytics Department  
+IBM
+
+---
+
+#### Email 4:
+
+**Subject:** Re: Quarterly Meeting: IBM Cloud Object Storage
+
+**From:** Franklin Moore  
+**To:** Benji Martinez, David Patel, Abigail Carter  
+**Date:** October 2, 2023
+
+---
+
+Hi Everyone,
+
+I can make it on Thursday at 10 AM EST. I have some exciting updates on new APIs for IBM Watson Assistant that could enhance our data processing capabilities. I look forward to discussing how these can be integrated with our current infrastructure.
+
+See you then.
+
+Best,  
+Franklin Moore  
+Senior Software Engineer, AI Department  
+IBM
+
+---
+
+### JSON Object

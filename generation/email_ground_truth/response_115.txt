@@ -1,0 +1,88 @@
+### Email Thread
+
+#### Email 1
+
+**From:** Abigail Carter  
+**To:** Quinn Parker, Benji Martinez  
+**Subject:** Analytics Integration for IBM Cloud Object Storage
+
+Hi Quinn and Benji,
+
+I hope you're both doing well.
+
+I wanted to discuss the integration of analytics reporting with IBM Cloud Object Storage. Quinn, I believe your insights from the Data Science Department could be invaluable. Benji, your understanding of the infrastructure would help ensure that everything runs smoothly.
+
+Could we set up a meeting this week to brainstorm some ideas? Please let me know your availability.
+
+Best regards,  
+Abigail Carter  
+Business Intelligence Analyst, Data Analytics Department  
+IBM
+
+#### Email 2
+
+**From:** Benji Martinez  
+**To:** Abigail Carter, Quinn Parker  
+**Subject:** Re: Analytics Integration for IBM Cloud Object Storage
+
+Hi Abigail and Quinn,
+
+Sure, I can be available on Thursday afternoon. Does that work for you both? 
+
+I think this integration could really enhance our reporting capabilities for IBM Cognos Analytics. Looking forward to discussing it further.
+
+Best,  
+Benji Martinez  
+IT Operations Manager, Infrastructure Department  
+IBM
+
+#### Email 3
+
+**From:** Quinn Parker  
+**To:** Abigail Carter, Benji Martinez  
+**Subject:** Re: Analytics Integration for IBM Cloud Object Storage
+
+Hi Abigail and Benji,
+
+Thursday afternoon works for me as well. I'll prepare some preliminary data insights that we can discuss during the meeting.
+
+See you then!
+
+Best,  
+Quinn Parker  
+Data Analyst, Data Science Department  
+IBM
+
+#### Email 4
+
+**From:** Abigail Carter  
+**To:** Paul Hernandez  
+**Subject:** Meeting Invite: Analytics Integration for IBM Cloud Object Storage
+
+Hi Paul,
+
+I wanted to loop you into our upcoming meeting regarding the integration of analytics reporting with IBM Cloud Object Storage. Your expertise in maintaining the IBM Z systems infrastructure could offer valuable perspectives on ensuring compatibility.
+
+The meeting is scheduled for Thursday afternoon. Can you join us?
+
+Thanks,  
+Abigail Carter  
+Business Intelligence Analyst, Data Analytics Department  
+IBM
+
+#### Email 5
+
+**From:** Paul Hernandez  
+**To:** Abigail Carter  
+**Subject:** Re: Meeting Invite: Analytics Integration for IBM Cloud Object Storage
+
+Hi Abigail,
+
+I'd be happy to join the meeting. I'll be there on Thursday afternoon.
+
+Best regards,  
+Paul Hernandez  
+Systems Engineer, IT Support Department  
+IBM
+
+### JSON Object

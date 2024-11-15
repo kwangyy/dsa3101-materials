@@ -1,0 +1,189 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time:** 01-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Zachary Brooks (Notes)
+- Yasmine Ali
+- Xander Williams
+
+**Absentees:**
+- Franklin Moore
+
+**Agenda:**
+1. Client interaction feedback
+2. Collaboration on predictive models for client projects
+
+**Discussion Points:**
+- **Client Interaction Feedback:**
+  - Zachary shared insights from recent client meetings.
+  - Xander highlighted some concerns regarding app performance reported by clients.
+  - Yasmine suggested analyzing client data for better predictive modeling.
+
+- **Collaboration on Predictive Models:**
+  - Yasmine proposed collaboration with the AI department to enhance predictive models.
+  - Zachary supported the idea, mentioning the integration with cloud solutions.
+  - Xander agreed to coordinate app data sharing for analytics purposes.
+
+**Next Steps:**
+- Yasmine to draft a proposal for collaboration by 05-Jan-2023.
+- Zachary to gather client feedback reports and share with the team by 03-Jan-2023.
+- Xander to provide data access to Yasmine by 04-Jan-2023.
+
+### Meeting Minutes 2 (Moderate)
+**Date and Time:** 15-Feb-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Zachary Brooks
+- Yasmine Ali
+- Xander Williams (Notes)
+- Franklin Moore
+
+**Absentees:**
+None
+
+**Agenda:**
+1. Updates on ongoing projects
+2. Strategy for improved client interactions
+3. Coordination with Databricks
+
+**Discussion Points:**
+- **Project Updates:**
+  - Each member provided updates on their respective projects.
+  - Challenges discussed include integration issues and data inconsistencies.
+
+- **Improved Client Interactions:**
+  - Franklin suggested leveraging AI for better client communication.
+  - Zachary highlighted the need for real-time solutions.
+
+- **Coordination with Databricks:**
+  - Yasmine proposed a data integration strategy using Databricks.
+  - Franklin agreed to explore API connectivity with Databricks.
+
+**Next Steps:**
+- Franklin to draft an AI-enhanced client communication strategy by 20-Feb-2023.
+- Yasmine to coordinate a meeting with Databricks by 18-Feb-2023.
+- Xander to report on app data integration progress by 25-Feb-2023.
+
+### Meeting Minutes 3 (Detailed)
+**Date and Time:** 05-Mar-2023, 11:00 AM - 12:30 PM
+
+**Attendees:**
+- Zachary Brooks
+- Yasmine Ali (Notes)
+- Xander Williams
+- Franklin Moore
+
+**Absentees:**
+None
+
+**Agenda:**
+1. Review of recent client issues
+2. Cross-department collaboration strategies
+3. Evaluation of predictive model performance
+4. Integration with external platforms
+
+**Discussion Points:**
+- **Review of Client Issues:**
+  - Zachary reviewed client complaints regarding cloud integration issues.
+  - Xander mentioned performance issues in the mobile app.
+  - Franklin suggested real-time analytics to monitor client interactions.
+
+- **Cross-Department Collaboration:**
+  - Yasmine proposed monthly cross-departmental meetings.
+  - Franklin emphasized the importance of shared goals.
+
+- **Predictive Model Performance:**
+  - Yasmine presented recent results of predictive models.
+  - Identified areas needing improvement and discussed potential solutions.
+  - Xander to assist with data acquisition for model enhancement.
+
+- **Integration with External Platforms:**
+  - Zachary discussed ongoing efforts to integrate with Databricks.
+  - Franklin suggested exploring API options for better data flow.
+  - Yasmine agreed to lead a technical feasibility study.
+
+**Next Steps:**
+- Zachary to compile client issue reports and share by 10-Mar-2023.
+- Yasmine to set up a recurring monthly meeting schedule by 07-Mar-2023.
+- Franklin to provide an API integration plan by 15-Mar-2023.
+- Xander to facilitate data sharing for predictive models by 12-Mar-2023.
+
+### Meeting Minutes 4 (Moderate)
+**Date and Time:** 20-Apr-2023, 3:00 PM - 4:00 PM
+
+**Attendees:**
+- Zachary Brooks
+- Yasmine Ali
+- Xander Williams (Notes)
+
+**Absentees:**
+- Franklin Moore
+
+**Agenda:**
+1. Update on collaboration proposals
+2. Strategy for enhanced client support
+3. Data integration challenges
+
+**Discussion Points:**
+- **Collaboration Proposals:**
+  - Zachary discussed recent proposals for cloud integration.
+  - Yasmine suggested leveraging AI for better data insights.
+
+- **Enhanced Client Support:**
+  - Xander proposed real-time app updates.
+  - Zachary highlighted the need for a dedicated support team.
+
+- **Data Integration Challenges:**
+  - Yasmine discussed issues with current data pipelines.
+  - Zachary suggested engaging the Databricks team for solutions.
+
+**Next Steps:**
+- Yasmine to prepare a detailed report on data integration issues by 25-Apr-2023.
+- Xander to draft a proposal for real-time app updates by 23-Apr-2023.
+- Zachary to coordinate with the Databricks team and set up a meeting by 22-Apr-2023.
+
+### Meeting Minutes 5 (Detailed)
+**Date and Time:** 30-May-2023, 1:00 PM - 2:30 PM
+
+**Attendees:**
+- Zachary Brooks (Notes)
+- Yasmine Ali
+- Xander Williams
+- Franklin Moore
+- External Attendee: Jane Smith, Databricks - Data Engineering Lead
+
+**Absentees:**
+None
+
+**Agenda:**
+1. Review of client feedback and satisfaction
+2. Collaboration with Databricks
+3. Enhancement of predictive models
+4. Upcoming project timelines
+
+**Discussion Points:**
+- **Client Feedback and Satisfaction:**
+  - Zachary reviewed recent client feedback reports.
+  - Yasmine presented satisfaction survey results.
+  - Franklin proposed AI-driven satisfaction analysis.
+
+- **Collaboration with Databricks:**
+  - Jane Smith discussed potential data integration strategies.
+  - Yasmine highlighted the benefits of Apache Spark for data processing.
+  - Xander suggested mobile app enhancements to support new data streams.
+
+- **Predictive Model Enhancement:**
+  - Yasmine discussed current limitations and proposed improvements.
+  - Franklin agreed to integrate new APIs for better data analytics.
+
+- **Upcoming Project Timelines:**
+  - Zachary outlined the next quarter’s project deadlines.
+  - Xander provided an update on mobile app development progress.
+
+**Next Steps:**
+- Zachary to compile a detailed client satisfaction report by 05-Jun-2023.
+- Yasmine to draft a collaboration plan with Databricks by 07-Jun-2023.
+- Franklin to integrate new APIs by 10-Jun-2023.
+- Xander to ensure mobile app updates are aligned with new data streams by 15-Jun-2023.
+
+### JSON Data

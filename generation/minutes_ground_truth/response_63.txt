@@ -1,0 +1,164 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:** 01-Jan-2023, 10:00 AM - 10:30 AM  
+**Attendees:**  
+- Yasmine Ali (Notes)  
+- Uma Patel  
+- Abigail Carter  
+- Xander Williams  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Project updates  
+- Client interaction strategies  
+
+**Discussion Points:**  
+- Yasmine Ali provided an update on predictive models for IBM Planning Analytics.  
+- Uma Patel discussed ongoing hybrid cloud solutions projects for IBM Cloud Private.  
+- Abigail Carter presented new dashboards for IBM Cognos Analytics.  
+- Xander Williams shared progress on the IBM MobileFirst Platform applications.  
+- Strategies for improving client interactions were discussed, with emphasis on collaborative tools.  
+
+**Next Steps:**  
+- Yasmine to refine predictive models by 15-Jan-2023.  
+- Uma to finalize architecture for hybrid cloud solution by 20-Jan-2023.  
+- Abigail to generate a comprehensive report on dashboards by 10-Jan-2023.  
+- Xander to complete mobile app updates by 25-Jan-2023.  
+
+---
+
+### Meeting Minutes 2: Moderate
+
+**Date and Time:** 15-Feb-2023, 2:00 PM - 3:00 PM  
+**Attendees:**  
+- Yasmine Ali  
+- Uma Patel  
+- Abigail Carter (Notes)  
+- Xander Williams  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Review of client interactions  
+- Challenges in enterprise-level collaboration  
+- Problem-solving session  
+
+**Discussion Points:**  
+- Client feedback on predictive models was reviewed.  
+- Uma Patel highlighted issues in hybrid cloud integration.  
+- Abigail Carter noted the need for enhanced data visualization techniques.  
+- Xander Williams brought up technical challenges in mobile app development.  
+- Proposed solutions included cross-department collaboration and potential external support from Illumio for cybersecurity.  
+
+**Next Steps:**  
+- Yasmine to gather more client feedback by 25-Feb-2023.  
+- Uma to work on cloud integration issues with the Solutions Engineering team by 28-Feb-2023.  
+- Abigail to prototype new data visualization methods by 20-Feb-2023.  
+- Xander to consult with the Digital Solutions team regarding technical challenges by 22-Feb-2023.  
+
+---
+
+### Meeting Minutes 3: Detailed
+
+**Date and Time:** 28-Mar-2023, 1:30 PM - 3:00 PM  
+**Attendees:**  
+- Yasmine Ali (Notes)  
+- Uma Patel  
+- Abigail Carter  
+- Xander Williams  
+- Mark Thompson (Guest, Illumio, Cybersecurity Specialist)  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Enterprise-level collaboration review  
+- Client interaction improvements  
+- Cybersecurity measures with Illumio  
+
+**Discussion Points:**  
+- Yasmine Ali discussed new predictive models and their impact on client satisfaction.  
+- Uma Patel shared updates on hybrid cloud solutions and highlighted recent successes and failures.  
+- Abigail Carter presented an in-depth analysis of the latest dashboards and their reception by clients.  
+- Xander Williams provided a demo of the latest mobile app features and gathered feedback.  
+- Mark Thompson from Illumio discussed potential cybersecurity solutions, emphasizing zero-trust segmentation.  
+
+**Next Steps:**  
+- Yasmine to integrate client feedback into predictive models by 10-Apr-2023.  
+- Uma to resolve hybrid cloud issues with additional resources by 15-Apr-2023.  
+- Abigail to implement client suggestions into dashboards by 12-Apr-2023.  
+- Xander to enhance mobile app security features in collaboration with Illumio by 20-Apr-2023.  
+- Mark Thompson to provide a detailed report on cybersecurity measures by 05-Apr-2023.  
+
+---
+
+### Meeting Minutes 4: Moderate
+
+**Date and Time:** 12-May-2023, 11:00 AM - 12:00 PM  
+**Attendees:**  
+- Yasmine Ali  
+- Uma Patel (Notes)  
+- Abigail Carter  
+- Xander Williams  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Project status update  
+- Strategy for upcoming client meetings  
+- Collaboration between departments  
+
+**Discussion Points:**  
+- Yasmine Ali reported on the performance of predictive models and client feedback.  
+- Uma Patel discussed the latest hybrid cloud solutions and shared upcoming milestones.  
+- Abigail Carter presented an analysis of dashboard performance.  
+- Xander Williams highlighted the latest enhancements in the mobile app.  
+- Strategies for collaborative client meetings were developed, emphasizing cross-functional support.  
+
+**Next Steps:**  
+- Yasmine to refine models based on client feedback by 25-May-2023.  
+- Uma to ensure milestone completion for cloud solutions by 30-May-2023.  
+- Abigail to revise dashboards based on performance analysis by 22-May-2023.  
+- Xander to deploy mobile app enhancements by 28-May-2023.  
+
+---
+
+### Meeting Minutes 5: Detailed
+
+**Date and Time:** 20-Jun-2023, 1:00 PM - 2:30 PM  
+**Attendees:**  
+- Yasmine Ali  
+- Uma Patel  
+- Abigail Carter  
+- Xander Williams (Notes)  
+- Sarah Johnson (Guest, IBM Marketing Department, Marketing Specialist)  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Comprehensive review of client projects  
+- Marketing strategies for new product launches  
+- Data-driven decision-making  
+
+**Discussion Points:**  
+- Yasmine Ali discussed advanced predictive models and their alignment with client needs.  
+- Uma Patel shared progress on hybrid cloud projects and identified potential risks.  
+- Abigail Carter presented detailed analytics on recent client interactions and dashboard usage.  
+- Xander Williams showcased new mobile app features and gathered multi-department feedback.  
+- Sarah Johnson from the Marketing Department discussed strategies for promoting new IBM products using data-driven insights.  
+
+**Next Steps:**  
+- Yasmine to further align models with client requirements by 05-Jul-2023.  
+- Uma to mitigate identified risks in cloud projects by 10-Jul-2023.  
+- Abigail to refine dashboards based on interaction analytics by 07-Jul-2023.  
+- Xander to finalize app features based on feedback by 15-Jul-2023.  
+- Sarah Johnson to develop a marketing campaign plan by 12-Jul-2023.  
+
+---
+
+### JSON Representation

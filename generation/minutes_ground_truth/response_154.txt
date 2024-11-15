@@ -1,0 +1,122 @@
+### Simple Meeting Minutes
+
+#### Date and Time
+- Date: 10-Jan-2023
+- Start Time: 10:00 AM
+- End Time: 10:30 AM
+
+#### Attendees
+- Natalie Wu (Note taker)
+- Clara Diaz
+- Carol Nguyen
+- Paul Hernandez
+
+#### Absentees
+- None
+
+#### Agenda
+- Project Updates
+- Roles and Responsibilities
+
+#### Discussion Points
+- **Project Updates**:
+  - Natalie Wu shared updates on promoting IBM Watson Discovery.
+  - Carol Nguyen provided a brief on data analysis for Microsoft Azure.
+- **Roles and Responsibilities**:
+  - Clarified each member's responsibilities in upcoming tasks.
+  - Discussed inter-departmental collaboration for seamless progress.
+
+#### Next Steps
+- Carol to complete the data analysis by 15-Jan-2023.
+- Natalie to prepare a promotional strategy report by 20-Jan-2023.
+- Paul to check the systems infrastructure for any issues by 12-Jan-2023.
+
+---
+
+### Moderate Meeting Minutes
+
+#### Date and Time
+- Date: 25-Feb-2023
+- Start Time: 2:00 PM
+- End Time: 3:00 PM
+
+#### Attendees
+- Clara Diaz (Note taker)
+- Natalie Wu
+- Carol Nguyen
+- Paul Hernandez
+
+#### Absentees
+- None
+
+#### Agenda
+- AI Ethics Policies
+- Cross-functional Team Updates
+- External Collaboration
+
+#### Discussion Points
+- **AI Ethics Policies**:
+  - Clara Diaz discussed ongoing research on AI ethics.
+  - Potential challenges in policy implementation highlighted.
+- **Cross-functional Team Updates**:
+  - Natalie Wu discussed the latest progress on marketing strategies.
+  - Carol Nguyen shared recent data insights and their implications.
+- **External Collaboration**:
+  - Potential collaboration with Zscaler for secure internet access discussed.
+  - Action items created for reaching out to Zscaler representatives.
+
+#### Next Steps
+- Clara to finalize the AI ethics policy draft by 10-Mar-2023.
+- Carol to analyze new data sets and report by 5-Mar-2023.
+- Natalie to arrange a meeting with Zscaler by 1-Mar-2023.
+- Paul to ensure secure systems for new implementations by 8-Mar-2023.
+
+---
+
+### Detailed Meeting Minutes
+
+#### Date and Time
+- Date: 15-Apr-2023
+- Start Time: 11:00 AM
+- End Time: 12:30 PM
+
+#### Attendees
+- Paul Hernandez (Note taker)
+- Natalie Wu
+- Clara Diaz
+- Carol Nguyen
+
+#### Absentees
+- None
+
+#### Agenda
+- Product Development Updates
+- Ethical Considerations in AI
+- Data Analysis Techniques
+- IT Infrastructure Improvements
+
+#### Discussion Points
+- **Product Development Updates**:
+  - Natalie provided a comprehensive update on marketing initiatives for IBM Watson Discovery.
+  - Key metrics and client feedback reviewed.
+  - Concerns about product placement and client adoption discussed.
+- **Ethical Considerations in AI**:
+  - Clara Diaz presented recent findings on ethical concerns.
+  - Discussed strategies to mitigate potential ethical issues in AI systems.
+- **Data Analysis Techniques**:
+  - Carol Nguyen introduced new data analysis methodologies.
+  - Discussed integrating these techniques into ongoing projects.
+  - Potential outcomes and challenges identified.
+- **IT Infrastructure Improvements**:
+  - Paul Hernandez highlighted areas needing immediate attention in the IT infrastructure.
+  - Suggested solutions to address identified issues.
+
+#### Next Steps
+- Natalie to follow up on client feedback and refine marketing strategies by 30-Apr-2023.
+- Clara to continue research on AI ethics and provide updates by 20-Apr-2023.
+- Carol to implement new data analysis techniques and share results by 25-Apr-2023.
+- Paul to execute IT infrastructure improvements by 22-Apr-2023.
+
+---
+
+### JSON Data

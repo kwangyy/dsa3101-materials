@@ -1,0 +1,173 @@
+### Meeting Minutes 1 (Simple)
+
+**Date and Time:**  
+12-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**  
+- Xander Williams (Note taker)
+- Tina Foster  
+- Brian Taylor  
+- Quinn Parker  
+
+**Absentees:**  
+- None
+
+**Agenda:**
+- Introduction of new innovation initiatives.
+- Feedback requests on the current projects.
+- Brief discussion on cross-departmental collaboration.
+
+**Discussion Points:**
+- **Innovation Initiatives:** Briefly introduced new initiatives focusing on enhancing mobile application functionalities.
+  - Xander Williams suggested integrating new security features.
+- **Feedback Requests:** Brian Taylor requested feedback on the latest data models implemented in Microsoft Azure.
+  - Quinn Parker recommended some improvements based on recent analytics data.
+
+**Next Steps:**
+- Xander to develop a proposal for the new security features by 20-Jan-2023.
+- Brian to review Quinn's suggestions and update the data models by 25-Jan-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+
+**Date and Time:**  
+18-Feb-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**  
+- Xander Williams  
+- Tina Foster (Note taker)  
+- Quinn Parker  
+- External Attendee: John Smith (Product Manager, ServiceTitan)
+
+**Absentees:**  
+- Brian Taylor
+
+**Agenda:**
+- Collaboration with ServiceTitan.
+- Feedback on QRadar SIEM implementation.
+- MobileFirst Platform updates.
+
+**Discussion Points:**
+- **ServiceTitan Collaboration:** Discussed potential integration with ServiceTitan's software.
+  - John Smith proposed a pilot project for managing home service operations.
+- **QRadar SIEM Feedback:** Tina Foster provided updates and requested feedback on recent client implementations.
+  - Xander noted some client issues that need addressing.
+- **MobileFirst Platform Updates:** Xander shared updates on the latest developments and requested feedback.
+
+**Next Steps:**
+- John Smith to draft a collaboration proposal by 28-Feb-2023.
+- Tina to follow up on client issues and report back by 25-Feb-2023.
+- Xander to incorporate feedback into MobileFirst updates by 05-Mar-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+
+**Date and Time:**  
+05-Mar-2023, 11:00 AM - 12:30 PM
+
+**Attendees:**  
+- Xander Williams (Note taker)
+- Brian Taylor  
+- Tina Foster  
+- Quinn Parker  
+- External Attendee: Lisa Green (Consultant, IBM Innovation Team)
+
+**Absentees:**  
+- None
+
+**Agenda:**
+- Detailed review of innovation initiatives.
+- Cross-departmental collaboration strategies.
+- Feedback on new analytics models.
+- Client feedback on QRadar SIEM.
+
+**Discussion Points:**
+- **Innovation Initiatives:** 
+  - Lisa Green detailed new initiatives focusing on AI integration within the MobileFirst Platform.
+  - Xander Williams discussed possible security enhancements using AI.
+- **Cross-Departmental Collaboration:** 
+  - Brian Taylor suggested regular bi-weekly meetings to ensure alignment.
+  - Quinn Parker proposed a shared dashboard for better visibility of ongoing projects.
+- **Feedback on Analytics Models:** 
+  - Brian provided insights on the performance of new data models.
+  - Quinn recommended further optimization based on analytics trends.
+- **QRadar SIEM Feedback:** 
+  - Tina Foster shared client feedback, emphasizing areas needing improvement.
+
+**Next Steps:**
+- Xander to create a draft proposal for AI-enhanced security features by 15-Mar-2023.
+- Brian to schedule bi-weekly meetings starting from 10-Mar-2023.
+- Quinn to develop and share the shared dashboard by 20-Mar-2023.
+- Tina to address client feedback and implement changes by 15-Mar-2023.
+
+---
+
+### Meeting Minutes 4 (Simple)
+
+**Date and Time:**  
+10-Apr-2023, 9:00 AM - 9:30 AM
+
+**Attendees:**  
+- Xander Williams  
+- Tina Foster (Note taker)  
+- Brian Taylor  
+
+**Absentees:**  
+- Quinn Parker
+
+**Agenda:**
+- Updates on ongoing projects.
+- Feedback requests on recent initiatives.
+
+**Discussion Points:**
+- **Ongoing Projects:** Brief updates provided by each attendee on their current projects.
+  - Xander updated on the progress of MobileFirst enhancements.
+  - Brian shared updates on new data models.
+- **Feedback Requests:** 
+  - Tina requested feedback on recent QRadar implementations.
+
+**Next Steps:**
+- Xander to continue with the current enhancements and provide the next update by 20-Apr-2023.
+- Brian to finalize new data models by 15-Apr-2023.
+- Tina to compile feedback and report by 18-Apr-2023.
+
+---
+
+### Meeting Minutes 5 (Moderate)
+
+**Date and Time:**  
+15-May-2023, 3:00 PM - 4:00 PM
+
+**Attendees:**  
+- Xander Williams (Note taker)  
+- Tina Foster  
+- Quinn Parker  
+- External Attendee: Amanda Brown (Project Manager, IBM External Innovations)
+
+**Absentees:**  
+- Brian Taylor
+
+**Agenda:**
+- Innovation project updates.
+- Feedback on MobileFirst platform security.
+- Cross-department support.
+
+**Discussion Points:**
+- **Innovation Project Updates:** Amanda Brown provided an update on the external innovation projects.
+  - Emphasized the need for better cross-department support.
+- **MobileFirst Platform Security:** 
+  - Xander requested feedback on the new security features implemented.
+  - Tina suggested additional testing for better reliability.
+- **Cross-Department Support:** 
+  - Quinn discussed the analytics insights and how they can support other departments.
+
+**Next Steps:**
+- Amanda to prepare a detailed report on innovation project progress by 25-May-2023.
+- Xander to incorporate additional testing based on Tina's suggestions by 30-May-2023.
+- Quinn to share detailed analytics insights with other departments by 22-May-2023.
+
+---
+
+### JSON Data

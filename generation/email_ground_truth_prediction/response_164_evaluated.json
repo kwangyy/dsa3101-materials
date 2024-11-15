@@ -1,0 +1,143 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Carol Nguyen"
+                },
+                {
+                    "name": "Gina Lopez"
+                },
+                {
+                    "name": "Michael Turner"
+                },
+                {
+                    "name": "Victor Ramos"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "IBM"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Junior Data Scientist"
+                },
+                {
+                    "title": "UX Designer"
+                },
+                {
+                    "title": "Cloud Security Architect"
+                },
+                {
+                    "title": "RPA Developer"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "IBM R&D"
+                },
+                {
+                    "name": "IBM Product Development"
+                },
+                {
+                    "name": "IBM Cybersecurity"
+                },
+                {
+                    "name": "IBM Automation"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "name": "New Data Visualization Dashboard"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Carol Nguyen",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Gina Lopez",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Turner",
+                "organization": "IBM"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Victor Ramos",
+                "organization": "IBM"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Carol Nguyen",
+                "role": "Junior Data Scientist"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Gina Lopez",
+                "role": "UX Designer"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Turner",
+                "role": "Cloud Security Architect"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Victor Ramos",
+                "role": "RPA Developer"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM R&D",
+                "location": "IBM R&D"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM Product Development",
+                "location": "IBM Product Development"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM Cybersecurity",
+                "location": "IBM Cybersecurity"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "IBM Automation",
+                "location": "IBM Automation"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Carol Nguyen",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Gina Lopez",
+                "product_service": "New Data Visualization Dashboard"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Michael Turner",
+                "product_service": "Microsoft Azure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Victor Ramos",
+                "product_service": "New Data Visualization Dashboard"
+            }
+        ]
+    }
+}

@@ -1,0 +1,191 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:** 01-SEP-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Henry Zhou (Note Taker)
+- Samuel Davis
+- Abigail Carter
+- Paul Hernandez
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Review of upcoming project schedules
+- Discuss team management strategies
+
+**Discussion Points:**
+- **Review of Project Schedules:**
+  - Henry Zhou discussed the status of the CI/CD automation pipeline.
+  - Samuel Davis provided an update on the Hyperledger Fabric development.
+  - Abigail Carter shared recent improvements in IBM Cognos Analytics dashboards.
+  - Paul Hernandez mentioned the latest maintenance updates for IBM Z systems.
+- **Team Management Strategies:**
+  - Emphasized the importance of cross-departmental collaboration.
+  - Discussed potential challenges related to resource allocation and proposed solutions.
+
+**Next Steps:**
+- Henry to prepare a detailed report on CI/CD pipeline status by 05-SEP-2023.
+- Samuel to draft a new development roadmap for Hyperledger Fabric by 08-SEP-2023.
+- Abigail to update BI dashboards with latest metrics by 07-SEP-2023.
+- Paul to complete IBM Z system maintenance by 06-SEP-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+
+**Date and Time:** 10-SEP-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Samuel Davis (Note Taker)
+- Henry Zhou
+- Abigail Carter
+- Paul Hernandez
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Project updates
+- Resource allocation
+- Collaboration with Nutanix for cloud infrastructure
+
+**Discussion Points:**
+- **Project Updates:**
+  - Samuel Davis detailed the current progress on the IBM Blockchain Platform.
+  - Henry Zhou shared updates on the Kubernetes Service CI/CD pipelines.
+- **Resource Allocation:**
+  - Abigail Carter discussed current BI team workloads and resource needs.
+  - Paul Hernandez highlighted areas where additional IT support resources are required.
+- **Collaboration with Nutanix:**
+  - Samuel suggested integrating Nutanix’s hybrid cloud solutions for better infrastructure scalability.
+  - Henry agreed to evaluate the feasibility and potential benefits.
+
+**Next Steps:**
+- Samuel to coordinate a follow-up meeting with Nutanix by 15-SEP-2023.
+- Henry to prepare a feasibility report on integrating Nutanix solutions by 20-SEP-2023.
+- Abigail to provide a detailed resource allocation plan by 18-SEP-2023.
+- Paul to draft an additional support resource requirement document by 17-SEP-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+
+**Date and Time:** 20-SEP-2023, 9:00 AM - 10:30 AM
+
+**Attendees:**
+- Abigail Carter (Note Taker)
+- Henry Zhou
+- Samuel Davis
+- Paul Hernandez
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Deep dive into current project statuses
+- Strategy discussion for Q4 2023
+- Departmental interdependencies and support
+
+**Discussion Points:**
+- **Project Status Deep Dive:**
+  - Abigail presented detailed metrics from IBM Cognos Analytics and highlighted areas needing immediate attention.
+  - Henry Zhou discussed specific challenges in automating CI/CD pipelines and proposed solutions.
+  - Samuel Davis elaborated on the next milestones for Hyperledger Fabric.
+  - Paul Hernandez shared comprehensive insights on IBM Z systems performance.
+- **Q4 2023 Strategy:**
+  - Each team presented their strategic objectives for Q4.
+  - Emphasis was placed on aligning cross-departmental goals.
+  - Challenges discussed included budget constraints, timeline pressures, and resource limitations.
+- **Departmental Interdependencies:**
+  - Abigail suggested forming a cross-functional task force to streamline communication.
+  - Henry Zhou proposed regular bi-weekly sync meetings.
+  - Paul Hernandez and Samuel Davis agreed to share resource availability data more frequently.
+
+**Next Steps:**
+- Abigail to compile and share a detailed project status report by 25-SEP-2023.
+- Henry to initiate the bi-weekly sync meetings starting 01-OCT-2023.
+- Samuel to update the strategic roadmap document by 28-SEP-2023.
+- Paul to share the resource availability data by 26-SEP-2023.
+
+---
+
+### Meeting Minutes 4: Moderate
+
+**Date and Time:** 05-OCT-2023, 3:00 PM - 4:00 PM
+
+**Attendees:**
+- Paul Hernandez (Note Taker)
+- Henry Zhou
+- Samuel Davis
+- Abigail Carter
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Review of inter-departmental projects
+- Update on Nutanix collaboration
+- Problem-solving session for ongoing issues
+
+**Discussion Points:**
+- **Inter-Departmental Projects:**
+  - Paul Hernandez highlighted the importance of maintaining IBM Z systems and how other departments can support.
+  - Henry Zhou discussed CI/CD pipeline improvements and the need for BI data.
+  - Samuel Davis shared progress on blockchain integrations.
+- **Nutanix Collaboration:**
+  - Samuel confirmed the feasibility of integrating Nutanix solutions.
+  - Henry proposed a pilot project to test the integration.
+- **Problem-Solving Session:**
+  - Abigail Carter raised an issue about data inconsistencies in BI reports.
+  - Paul suggested a coordinated effort to resolve these inconsistencies.
+
+**Next Steps:**
+- Paul to schedule a system maintenance window by 10-OCT-2023.
+- Henry to initiate the Nutanix integration pilot by 15-OCT-2023.
+- Samuel to prepare a blockchain demo for the next meeting by 12-OCT-2023.
+- Abigail to resolve data inconsistencies by 14-OCT-2023.
+
+---
+
+### Meeting Minutes 5: Detailed
+
+**Date and Time:** 15-OCT-2023, 11:00 AM - 12:30 PM
+
+**Attendees:**
+- Henry Zhou (Note Taker)
+- Samuel Davis
+- Abigail Carter
+- Paul Hernandez
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Final review of Q4 strategic plans
+- Integration of new technologies
+- Cross-departmental support and coordination
+
+**Discussion Points:**
+- **Q4 Strategic Plans Review:**
+  - Henry Zhou reviewed the CI/CD pipeline upgrades and timelines.
+  - Samuel Davis discussed blockchain project timelines and milestones.
+  - Abigail Carter outlined the updated BI dashboard features.
+  - Paul Hernandez shared the maintenance schedule for IBM Z systems.
+- **New Technologies Integration:**
+  - Discussed potential integration of AI tools into existing systems.
+  - Henry and Samuel proposed a joint initiative to explore AI applications.
+- **Cross-Departmental Coordination:**
+  - Agreed on improving data sharing protocols.
+  - Discussed setting up a centralized communication platform for better coordination.
+
+**Next Steps:**
+- Henry to finalize the CI/CD pipeline upgrades by 20-OCT-2023.
+- Samuel to draft a proposal for AI tool integration by 22-OCT-2023.
+- Abigail to enhance BI dashboard features by 21-OCT-2023.
+- Paul to confirm the IBM Z systems maintenance schedule by 18-OCT-2023.
+
+---
+
+### JSON Data

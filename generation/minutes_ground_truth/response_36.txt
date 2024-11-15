@@ -1,0 +1,152 @@
+### Meeting Minutes 1 - Simple
+**Date and Time:** 12-Jan-2023, 10:00 AM - 10:30 AM  
+**Attendees:**  
+- Brian Taylor  
+- Emma Lee  
+- Ivy Bennett (Note Taker)  
+- Kevin O'Reilly  
+- Absentees: None  
+
+**Agenda:**  
+- Product Development Updates  
+- Request for Feedback  
+
+**Discussion Points:**  
+- **Product Development Updates**:  
+  - Brian provided an update on the data analytics module he is developing using Microsoft Azure.  
+  - Emma discussed the latest features for the Google Cloud AI Platform.  
+- **Feedback Requests**:  
+  - Kevin requested feedback on the latest machine learning model for IBM Watson Studio.  
+  - Ivy asked for suggestions on optimizing the ETL pipelines for IBM Db2 Database.
+
+**Next Steps:**  
+- Brian will integrate feedback and provide a revised plan by 19-Jan-2023.  
+- Emma to prepare a detailed product development roadmap by 26-Jan-2023.  
+- Kevin will run additional tests based on feedback and update the team by 19-Jan-2023.  
+- Ivy to explore optimization techniques and report findings by 19-Jan-2023.  
+
+
+### Meeting Minutes 2 - Moderate
+**Date and Time:** 20-Jan-2023, 2:00 PM - 3:00 PM  
+**Attendees:**  
+- Brian Taylor  
+- Emma Lee  
+- Ivy Bennett  
+- Kevin O'Reilly (Note Taker)  
+- Absentees: None  
+
+**Agenda:**  
+- Strategy Discussion for AI Integration  
+- Cross-Department Collaboration Opportunities  
+- Request for Feedback  
+
+**Discussion Points:**  
+- **AI Integration Strategy**:  
+  - Emma proposed integrating Google Cloud AI with IBM Watson Studio.  
+  - Brian discussed potential Azure-based solutions for data processing.
+- **Cross-Department Collaboration**:  
+  - Ivy suggested that the Data Management Department could support AI Research with advanced ETL pipelines.  
+  - Kevin highlighted the need for collaborative efforts to improve model accuracy.
+- **Feedback Requests**:  
+  - Brian requested input on data preprocessing techniques.  
+  - Emma asked for feedback on the initial AI integration plan.
+
+**Next Steps:**  
+- Emma will draft a detailed integration plan and share it by 27-Jan-2023.  
+- Brian to explore Azure-based solutions and report findings by 27-Jan-2023.  
+- Ivy to identify ETL pipeline improvements and present a proposal by 03-Feb-2023.  
+- Kevin will review collaborative efforts and provide a progress update by 27-Jan-2023.  
+
+
+### Meeting Minutes 3 - Detailed
+**Date and Time:** 30-Jan-2023, 11:00 AM - 12:30 PM  
+**Attendees:**  
+- Brian Taylor  
+- Emma Lee  
+- Ivy Bennett  
+- Kevin O'Reilly  
+- Jack Simmons (Security Specialist, Illumio)  
+- Absentees: None  
+
+**Agenda:**  
+- Detailed Review of Product Development  
+- Cybersecurity Integration with Product  
+- Request for Feedback  
+
+**Discussion Points:**  
+- **Product Development Review**:  
+  - Brian presented a comprehensive overview of the current status of the analytics module.  
+  - Emma highlighted recent achievements and upcoming milestones for the Google Cloud AI Platform.  
+  - Ivy shared progress on the ETL pipelines.
+- **Cybersecurity Integration**:  
+  - Jack from Illumio discussed integrating zero-trust segmentation into the product.  
+  - Brian and Kevin explored potential challenges and benefits of the integration.
+- **Feedback Requests**:  
+  - Emma requested feedback on the user interface design.  
+  - Jack sought input on the cybersecurity plan.
+
+**Next Steps:**  
+- Brian to finalize the analytics module and share the final version by 10-Feb-2023.  
+- Emma to incorporate UI feedback and present the updated design by 10-Feb-2023.  
+- Ivy to complete ETL pipeline optimization by 17-Feb-2023.  
+- Kevin and Jack to collaborate on the cybersecurity integration plan and report by 10-Feb-2023.  
+
+
+### Meeting Minutes 4 - Simple
+**Date and Time:** 15-Feb-2023, 9:00 AM - 9:30 AM  
+**Attendees:**  
+- Brian Taylor  
+- Emma Lee  
+- Ivy Bennett (Note Taker)  
+- Absentees: Kevin O'Reilly  
+
+**Agenda:**  
+- Status Updates  
+- Request for Feedback  
+
+**Discussion Points:**  
+- **Status Updates**:  
+  - Brian shared progress on the analytics module development.  
+  - Emma provided updates on recent product milestones.
+- **Feedback Requests**:  
+  - Emma requested input on the feature prioritization for the next release.  
+  - Brian asked for suggestions on data visualization techniques.
+
+**Next Steps:**  
+- Emma to prioritize features based on feedback and share an updated list by 22-Feb-2023.  
+- Brian will explore new data visualization techniques and provide a report by 22-Feb-2023.  
+
+
+### Meeting Minutes 5 - Moderate
+**Date and Time:** 01-Mar-2023, 3:00 PM - 4:00 PM  
+**Attendees:**  
+- Brian Taylor (Note Taker)  
+- Emma Lee  
+- Ivy Bennett  
+- Kevin O'Reilly  
+- Absentees: None  
+
+**Agenda:**  
+- Progress Review  
+- External Collaboration Opportunities  
+- Request for Feedback  
+
+**Discussion Points:**  
+- **Progress Review**:  
+  - Each team member provided a brief update on their tasks.  
+  - Discussed alignment of ongoing projects.
+- **External Collaboration**:  
+  - Kevin proposed collaborating with Illumio on enhancing security features.  
+  - Emma suggested exploring partnerships with other AI research organizations.
+- **Feedback Requests**:  
+  - Ivy requested feedback on the data engineering process.  
+  - Brian asked for input on scaling the analytics module.
+
+**Next Steps:**  
+- Kevin to draft a proposal for Illumio collaboration and share it by 08-Mar-2023.  
+- Emma to research potential AI partnerships and report back by 15-Mar-2023.  
+- Ivy to refine the data engineering process based on feedback by 08-Mar-2023.  
+- Brian to implement scaling strategies and provide an update by 08-Mar-2023.  
+
+
+### JSON Data

@@ -1,0 +1,159 @@
+### Meeting Minutes 1 - Simple
+**Date and Time:** 10-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- David Patel
+- Paul Hernandez
+- Kevin O'Reilly (Note-taker)
+- Rachel Singh
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Project updates on ongoing tasks
+- Address immediate technical concerns
+
+**Discussion Points:**
+- David Patel provided a brief update on the AWS infrastructure setup.
+- Paul Hernandez highlighted some minor issues with IBM Z systems that required immediate attention.
+- Kevin O'Reilly shared progress on the new machine learning models for IBM Watson Studio.
+- Rachel Singh discussed recent backend development achievements for IBM Cloud Functions.
+
+**Next Steps:**
+- David to resolve AWS configuration issues by 15-Jan-2023.
+- Paul to troubleshoot IBM Z system issues by 13-Jan-2023.
+- Kevin to finalize machine learning models by 20-Jan-2023.
+- Rachel to complete the next phase of backend development by 18-Jan-2023.
+
+---
+
+### Meeting Minutes 2 - Moderate
+**Date and Time:** 22-Feb-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- David Patel
+- Paul Hernandez
+- Kevin O'Reilly
+- Rachel Singh (Note-taker)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Project milestones and timeline review
+- Cross-departmental support requirements
+
+**Discussion Points:**
+- David Patel shared the completion status of AWS infrastructure improvements.
+- Paul Hernandez suggested scheduling routine maintenance for IBM Z systems.
+- Kevin O'Reilly requested feedback on preliminary AI models from the AI Research Department.
+- Rachel Singh highlighted the need for additional APIs for IBM Cloud Functions.
+
+**Next Steps:**
+- David to integrate feedback into AWS setup by 27-Feb-2023.
+- Paul to create a maintenance schedule for IBM Z by 25-Feb-2023.
+- Kevin to incorporate feedback and present refined models by 5-Mar-2023.
+- Rachel to coordinate with the API team and complete integration by 10-Mar-2023.
+
+---
+
+### Meeting Minutes 3 - Detailed
+**Date and Time:** 15-Mar-2023, 9:00 AM - 10:30 AM
+
+**Attendees:**
+- David Patel
+- Paul Hernandez
+- Kevin O'Reilly
+- Rachel Singh
+- John Smith (External, Splunk - IT Operations)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Detailed project updates
+- External collaboration with Splunk
+- Strategy for upcoming quarter
+
+**Discussion Points:**
+- David Patel discussed recent advancements in AWS infrastructure and proposed future improvements.
+- Paul Hernandez elaborated on the success of the new IBM Z maintenance schedule and upcoming updates.
+- Kevin O'Reilly presented detailed findings on AI model performance and identified areas for further research.
+- Rachel Singh shared progress on backend development and outlined challenges faced with current APIs.
+- John Smith from Splunk provided insights on how their monitoring tools could enhance IBM's IT operations.
+
+**Next Steps:**
+- David to draft future improvements plan and present by 22-Mar-2023.
+- Paul to prepare a detailed report on IBM Z maintenance success by 20-Mar-2023.
+- Kevin to start new AI research based on identified areas by 25-Mar-2023.
+- Rachel to address API challenges and develop solutions by 28-Mar-2023.
+- John Smith to set up a demo session for Splunk tools by 24-Mar-2023.
+
+---
+
+### Meeting Minutes 4 - Simple
+**Date and Time:** 05-Apr-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**
+- David Patel
+- Paul Hernandez
+- Kevin O'Reilly (Note-taker)
+- Rachel Singh
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Quick project updates
+- Immediate concerns and solutions
+
+**Discussion Points:**
+- David Patel mentioned completion of AWS configuration tasks.
+- Paul Hernandez reported on IBM Z system stability post-maintenance.
+- Kevin O'Reilly shared initial results from new AI research.
+- Rachel Singh noted minor bugs in backend development that need fixing.
+
+**Next Steps:**
+- David to ensure AWS tasks are documented by 07-Apr-2023.
+- Paul to monitor IBM Z system performance for another week.
+- Kevin to continue refining AI models and present updates by 15-Apr-2023.
+- Rachel to fix backend bugs by 10-Apr-2023.
+
+---
+
+### Meeting Minutes 5 - Moderate
+**Date and Time:** 20-May-2023, 1:00 PM - 2:00 PM
+
+**Attendees:**
+- David Patel
+- Paul Hernandez
+- Kevin O'Reilly
+- Rachel Singh (Note-taker)
+- Emma Taylor (Marketing Department)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Review of quarterly goals
+- Marketing collaboration on new product launch
+- Resource allocation
+
+**Discussion Points:**
+- David Patel discussed the completion of AWS infrastructure updates and future plans.
+- Paul Hernandez provided an overview of the success of the IBM Z system maintenance program.
+- Kevin O'Reilly shared updates on AI research and discussed potential applications in new products.
+- Rachel Singh outlined the next phase of backend development and requested additional resources.
+- Emma Taylor from Marketing provided insights on the upcoming product launch and discussed collaboration opportunities.
+
+**Next Steps:**
+- David to prepare future AWS plans and submit by 25-May-2023.
+- Paul to document IBM Z maintenance success and share by 22-May-2023.
+- Kevin to identify potential AI applications and report by 30-May-2023.
+- Rachel to allocate resources and begin the next development phase by 28-May-2023.
+- Emma to coordinate a product launch meeting with all stakeholders by 27-May-2023.
+
+---
+
+### JSON Data

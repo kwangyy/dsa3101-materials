@@ -1,0 +1,128 @@
+### Meeting Minutes 1 (Simple)
+
+**Date and Time:** 03-Oct-2023, 10:00 AM - 10:30 AM
+**Attendees:**
+- Wendy Chen (AI Solutions Architect)
+- Benji Martinez (IT Operations Manager)
+- Derek Hill (QA Engineer)
+- Kevin O'Reilly (Machine Learning Engineer)
+- Note-taker: Benji Martinez
+
+**Agenda:**
+- Scheduling next team meeting
+- Initial discussion on inter-department collaboration
+
+**Discussion Points:**
+- Reviewed team members' availability for the next month
+- Discussed the potential for AI department and IT Operations to collaborate on improving IBM Cloud Object Storage efficiencies
+
+**Next Steps:**
+- Wendy Chen to draft a collaboration proposal by 10-Oct-2023
+- Next meeting scheduled for 17-Oct-2023
+
+---
+
+### Meeting Minutes 2 (Moderate)
+
+**Date and Time:** 10-Oct-2023, 11:00 AM - 12:00 PM
+**Attendees:**
+- Wendy Chen (AI Solutions Architect)
+- Benji Martinez (IT Operations Manager)
+- Derek Hill (QA Engineer)
+- Kevin O'Reilly (Machine Learning Engineer)
+- Note-taker: Kevin O'Reilly
+
+**Agenda:**
+- Review of Wendy's collaboration proposal
+- Discuss QA requirements for inter-department project
+
+**Discussion Points:**
+- Wendy presented the proposal, suggesting AI-driven optimizations for IBM Cloud Object Storage
+- Derek emphasized the need for rigorous QA testing to ensure reliability
+- Benji highlighted the importance of minimal downtime during integration phases
+
+**Next Steps:**
+- Derek to draft a QA plan by 17-Oct-2023
+- Next meeting to review QA plan scheduled for 24-Oct-2023
+
+---
+
+### Meeting Minutes 3 (Detailed)
+
+**Date and Time:** 17-Oct-2023, 2:00 PM - 3:30 PM
+**Attendees:**
+- Wendy Chen (AI Solutions Architect)
+- Benji Martinez (IT Operations Manager)
+- Derek Hill (QA Engineer)
+- Kevin O'Reilly (Machine Learning Engineer)
+- External: Jane Smith (Machine Vision Expert, Cognex)
+- Note-taker: Derek Hill
+
+**Agenda:**
+- Finalizing collaboration proposal
+- Review QA plan
+- Discuss machine vision integration possibilities with Cognex
+
+**Discussion Points:**
+- Wendy's proposal received final feedback and minor adjustments
+- Derek presented a detailed QA plan with testing phases and milestones
+- Jane from Cognex discussed potential for integrating their machine vision systems to enhance storage monitoring
+
+**Next Steps:**
+- Kevin to incorporate QA feedback into the model development by 25-Oct-2023
+- Wendy to liaise with Jane on potential pilot integration, update by 31-Oct-2023
+- Next meeting scheduled for 01-Nov-2023
+
+---
+
+### Meeting Minutes 4 (Moderate)
+
+**Date and Time:** 24-Oct-2023, 3:00 PM - 4:00 PM
+**Attendees:**
+- Wendy Chen (AI Solutions Architect)
+- Benji Martinez (IT Operations Manager)
+- Derek Hill (QA Engineer)
+- Kevin O'Reilly (Machine Learning Engineer)
+- Note-taker: Wendy Chen
+
+**Agenda:**
+- Mid-project review
+- Discuss challenges and potential solutions
+
+**Discussion Points:**
+- Kevin reported on progress with model development, incorporating QA feedback
+- Benji raised issues regarding unexpected downtime during early tests
+- Derek suggested additional QA checkpoints to mitigate issues
+
+**Next Steps:**
+- Kevin to adjust testing timeline, send updates by 27-Oct-2023
+- Benji to coordinate with IT for backup plans during downtime, update by 29-Oct-2023
+- Next meeting scheduled for 07-Nov-2023
+
+---
+
+### Meeting Minutes 5 (Simple)
+
+**Date and Time:** 07-Nov-2023, 9:00 AM - 9:30 AM
+**Attendees:**
+- Wendy Chen (AI Solutions Architect)
+- Benji Martinez (IT Operations Manager)
+- Derek Hill (QA Engineer)
+- Kevin O'Reilly (Machine Learning Engineer)
+- Note-taker: Derek Hill
+
+**Agenda:**
+- Quick check-in on project status
+- Plan for final deployment
+
+**Discussion Points:**
+- Kevin confirmed model is ready for final testing
+- Benji reported backup plans are in place for deployment
+
+**Next Steps:**
+- Final deployment scheduled for 10-Nov-2023
+- Post-deployment review meeting set for 14-Nov-2023
+
+---
+
+### JSON Representation of People and Relationships

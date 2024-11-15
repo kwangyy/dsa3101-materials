@@ -1,0 +1,117 @@
+{
+    "entities": {
+        "persons": [
+            {
+                "name": "Alice Smith"
+            },
+            {
+                "name": "Michael Turner"
+            },
+            {
+                "name": "Rachel Singh"
+            },
+            {
+                "name": "Samuel Davis"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "IBM"
+            },
+            {
+                "name": "Symantec"
+            }
+        ],
+        "roles": [
+            {
+                "title": "Chief Data Officer"
+            },
+            {
+                "title": "Cloud Security Architect"
+            },
+            {
+                "title": "Software Engineer"
+            },
+            {
+                "title": "Blockchain Developer"
+            }
+        ],
+        "products_services": [
+            {
+                "name": "Symantec Endpoint Security"
+            },
+            {
+                "name": "IBM Cloud Functions"
+            },
+            {
+                "name": "Microsoft Azure"
+            },
+            {
+                "name": "Hyperledger Fabric"
+            }
+        ]
+    },
+    "relationships": [
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Alice Smith",
+            "organization": "IBM"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Michael Turner",
+            "organization": "IBM"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Rachel Singh",
+            "organization": "IBM"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Samuel Davis",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Alice Smith",
+            "role": "Chief Data Officer"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Michael Turner",
+            "role": "Cloud Security Architect"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Rachel Singh",
+            "role": "Software Engineer"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Samuel Davis",
+            "role": "Blockchain Developer"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Alice Smith",
+            "product_service": "Symantec Endpoint Security"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Rachel Singh",
+            "product_service": "IBM Cloud Functions"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Michael Turner",
+            "product_service": "Microsoft Azure"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Samuel Davis",
+            "product_service": "Hyperledger Fabric"
+        }
+    ]
+}
+

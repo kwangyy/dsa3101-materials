@@ -1,0 +1,165 @@
+### Meeting Minutes 1: Simple
+**Date and Time:** 15-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Natalie Wu (Note taker)
+- Henry Zhou
+- Abigail Carter
+- Zachary Brooks
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Project updates on IBM Watson Discovery
+- Status of CI/CD pipeline automation
+- Dashboard reporting enhancements
+- Integration solutions for IBM Cloud Pak
+
+**Discussion Points:**
+- **Natalie Wu:** Provided updates on the promotional strategies for IBM Watson Discovery. Mentioned successful client onboarding.
+- **Henry Zhou:** Shared progress on automating CI/CD pipelines for IBM Kubernetes Service. Highlighted minor roadblocks.
+- **Abigail Carter:** Discussed enhancements to dashboard reporting. Emphasized the need for better data integration.
+- **Zachary Brooks:** Briefed on new solutions implemented for IBM Cloud Pak for Integration. Mentioned positive client feedback.
+
+**Next Steps:**
+- **Natalie Wu:** Prepare a detailed report on promotional outcomes by 20-Jan-2023.
+- **Henry Zhou:** Resolve pipeline automation issues by 22-Jan-2023.
+- **Abigail Carter:** Develop a proposal for data integration improvements by 25-Jan-2023.
+- **Zachary Brooks:** Collect additional client feedback and report by 20-Jan-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+**Date and Time:** 25-Feb-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Natalie Wu
+- Henry Zhou
+- Abigail Carter (Note taker)
+- Zachary Brooks
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Quarterly performance review
+- Upcoming marketing campaigns
+- Enhancements to CI/CD pipelines
+- BI dashboard updates
+- Cross-departmental collaboration
+
+**Discussion Points:**
+- **Natalie Wu:** Summarized the quarterly performance and upcoming marketing campaigns for IBM Watson Discovery. Discussed collaboration with external partners.
+- **Henry Zhou:** Provided updates on CI/CD pipeline enhancements and discussed the potential integration with Nutanix for hybrid cloud solutions.
+- **Abigail Carter:** Presented new BI dashboard features. Highlighted the necessity for real-time data analytics.
+- **Zachary Brooks:** Discussed recent client implementations and shared feedback on IBM Cloud Pak for Integration.
+
+**Next Steps:**
+- **Natalie Wu:** Coordinate with external marketing partners and prepare campaign materials by 01-Mar-2023.
+- **Henry Zhou:** Finalize integration plans with Nutanix and update CI/CD pipelines by 05-Mar-2023.
+- **Abigail Carter:** Implement real-time data analytics features in dashboards by 08-Mar-2023.
+- **Zachary Brooks:** Follow up with clients to gather further feedback by 03-Mar-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+**Date and Time:** 10-Mar-2023, 11:00 AM - 12:30 PM
+
+**Attendees:**
+- Natalie Wu
+- Henry Zhou (Note taker)
+- Abigail Carter
+- Zachary Brooks
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Strategic planning for next quarter
+- Marketing strategy for IBM Watson Discovery
+- CI/CD pipeline optimization
+- BI and data analytics improvements
+- Cross-departmental initiatives
+
+**Discussion Points:**
+- **Natalie Wu:** Presented a comprehensive marketing strategy for IBM Watson Discovery targeting enterprise clients. Discussed collaboration with the Sales team.
+- **Henry Zhou:** Provided a detailed plan for CI/CD pipeline optimization, mentioning possible challenges with current infrastructure.
+- **Abigail Carter:** Discussed BI dashboard improvements and how to better integrate with other departments' data.
+- **Zachary Brooks:** Shared insights from recent client interactions, emphasizing the need for seamless integration solutions.
+
+**Next Steps:**
+- **Natalie Wu:** Collaborate with the Sales team and finalize the marketing strategy by 15-Mar-2023.
+- **Henry Zhou:** Implement CI/CD optimization strategies and address infrastructure challenges by 20-Mar-2023.
+- **Abigail Carter:** Enhance BI dashboards and ensure data integration by 18-Mar-2023.
+- **Zachary Brooks:** Provide a detailed client feedback report and integration plan by 15-Mar-2023.
+
+---
+
+### Meeting Minutes 4: Moderate
+**Date and Time:** 15-Apr-2023, 1:00 PM - 2:00 PM
+
+**Attendees:**
+- Natalie Wu (Note taker)
+- Henry Zhou
+- Abigail Carter
+- Zachary Brooks
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Monthly performance review
+- Upcoming CI/CD improvements
+- Data analytics updates
+- Client success stories
+
+**Discussion Points:**
+- **Natalie Wu:** Reviewed monthly performance metrics for IBM Watson Discovery. Discussed new promotional tactics.
+- **Henry Zhou:** Shared updates on CI/CD improvements and discussed collaboration with the Security team for compliance.
+- **Abigail Carter:** Presented latest updates on data analytics and discussed potential upgrades.
+- **Zachary Brooks:** Shared recent client success stories and discussed how these can be used for marketing purposes.
+
+**Next Steps:**
+- **Natalie Wu:** Implement new promotional tactics and track their performance by 20-Apr-2023.
+- **Henry Zhou:** Work with the Security team to ensure compliance in CI/CD improvements by 25-Apr-2023.
+- **Abigail Carter:** Plan and propose data analytics upgrades by 22-Apr-2023.
+- **Zachary Brooks:** Create marketing materials based on client success stories by 20-Apr-2023.
+
+---
+
+### Meeting Minutes 5: Detailed
+**Date and Time:** 20-May-2023, 9:30 AM - 11:00 AM
+
+**Attendees:**
+- Natalie Wu
+- Henry Zhou
+- Abigail Carter (Note taker)
+- Zachary Brooks
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Semi-annual performance review
+- Future marketing strategies
+- Advanced CI/CD pipeline tactics
+- Long-term data analytics goals
+- Cross-functional team initiatives
+- Collaboration with Nutanix for hybrid cloud solutions
+
+**Discussion Points:**
+- **Natalie Wu:** Summarized semi-annual performance for IBM Watson Discovery. Discussed future marketing strategies including digital campaigns and webinars.
+- **Henry Zhou:** Provided insights into advanced CI/CD tactics and discussed ongoing collaboration with Nutanix.
+- **Abigail Carter:** Discussed long-term goals for data analytics and the necessity for predictive analytics capabilities.
+- **Zachary Brooks:** Shared insights on cross-functional team initiatives and discussed future plans for better client integration solutions.
+
+**Next Steps:**
+- **Natalie Wu:** Finalize future marketing strategies and align with digital campaigns by 25-May-2023.
+- **Henry Zhou:** Implement advanced CI/CD tactics and continue collaboration with Nutanix by 30-May-2023.
+- **Abigail Carter:** Develop a roadmap for predictive analytics and long-term data goals by 28-May-2023.
+- **Zachary Brooks:** Coordinate with other departments for cross-functional team initiatives and draft a proposal by 25-May-2023.
+
+---
+
+### JSON Representation of Relationships

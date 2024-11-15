@@ -1,0 +1,174 @@
+### Meeting Minutes 1: Simple
+**Date and Time:** 01-Sep-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Abigail Carter
+- Carol Nguyen
+- Derek Hill
+- David Patel
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Feedback on current projects
+- Cross-functional collaboration improvements
+
+**Discussion Points:**
+- **Feedback on Current Projects:** 
+  - Abigail reported on dashboard progress for IBM Cognos Analytics.
+  - Carol discussed data analysis work for Microsoft Azure.
+  - Derek provided updates on QA testing for IBM Aspera.
+  - David shared current AWS infrastructure status.
+- **Cross-functional Collaboration Improvements:** 
+  - Identified the need for better communication channels between departments.
+
+**Next Steps:**
+- Abigail will create a shared feedback document by 05-Sep-2023.
+- Carol to draft a proposal for improved data sharing by 07-Sep-2023.
+- Derek to set up a bi-weekly meeting to discuss QA concerns by 10-Sep-2023.
+- David to organize a cross-department workshop by 15-Sep-2023.
+
+
+### Meeting Minutes 2: Moderate
+**Date and Time:** 08-Sep-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**
+- Abigail Carter
+- Carol Nguyen
+- Derek Hill
+- David Patel
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Mid-project evaluations
+- Potential collaboration with Splunk
+
+**Discussion Points:**
+- **Mid-Project Evaluations:**
+  - Abigail expressed the need for more frequent updates on the Cognos Analytics project.
+  - Carol emphasized the importance of data accuracy for ongoing R&D.
+  - Derek highlighted a few critical bugs found in IBM Aspera.
+  - David discussed AWS resource optimization.
+- **Potential Collaboration with Splunk:**
+  - Abigail suggested leveraging Splunk for machine data analysis.
+  - Group agreed to schedule a meeting with Splunk representatives.
+
+**Next Steps:**
+- Abigail to schedule bi-weekly updates by 11-Sep-2023.
+- Carol to run additional data checks by 14-Sep-2023.
+- Derek to prepare a report on identified bugs by 12-Sep-2023.
+- David to contact Splunk and arrange a meeting by 18-Sep-2023.
+
+
+### Meeting Minutes 3: Detailed
+**Date and Time:** 15-Sep-2023, 2:00 PM - 3:30 PM
+
+**Attendees:**
+- Abigail Carter
+- Carol Nguyen
+- Derek Hill
+- David Patel
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Cross-functional team feedback
+- Detailed project updates
+- Problem-solving session
+
+**Discussion Points:**
+- **Cross-Functional Team Feedback:**
+  - General consensus on the need for more integrated tools.
+  - Carol suggested using JIRA for project management.
+- **Detailed Project Updates:**
+  - Abigail shared a comprehensive report on Cognos Analytics dashboards.
+  - Carol presented findings from Azure data analysis.
+  - Derek listed the top 5 critical bugs in IBM Aspera and mitigation plans.
+  - David reviewed AWS infrastructure and cost-saving measures.
+- **Problem-Solving Session:**
+  - Identified bottlenecks in data processing.
+  - Proposed solutions included using automated scripts and better workflow management.
+
+**Next Steps:**
+- Abigail to integrate JIRA into the project workflow by 22-Sep-2023.
+- Carol to validate Azure data processing scripts by 20-Sep-2023.
+- Derek to finalize bug mitigation plans by 21-Sep-2023.
+- David to assess the feasibility of proposed cost-saving measures by 25-Sep-2023.
+
+
+### Meeting Minutes 4: Moderate
+**Date and Time:** 22-Sep-2023, 10:00 AM - 11:00 AM
+
+**Attendees:**
+- Abigail Carter
+- Carol Nguyen
+- Derek Hill
+- David Patel
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Review of last week's problem-solving session
+- Planning for the next quarter
+
+**Discussion Points:**
+- **Review of Last Week's Problem-Solving Session:**
+  - Abigail reported that JIRA integration is underway.
+  - Carol confirmed successful validation of Azure scripts.
+  - Derek announced the completion of bug mitigation plans.
+  - David highlighted potential AWS cost savings.
+- **Planning for Next Quarter:**
+  - Set goals for Q4.
+  - Discussed required resources and team allocations.
+
+**Next Steps:**
+- Abigail to complete JIRA integration by 29-Sep-2023.
+- Carol to start working on new Azure data models by 01-Oct-2023.
+- Derek to implement finalized mitigation plans by 28-Sep-2023.
+- David to optimize AWS infrastructure by 05-Oct-2023.
+
+
+### Meeting Minutes 5: Detailed
+**Date and Time:** 29-Sep-2023, 3:00 PM - 4:30 PM
+
+**Attendees:**
+- Abigail Carter
+- Carol Nguyen
+- Derek Hill
+- David Patel
+- External: John Smith (Splunk, Data Analysis Specialist)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Final review of Q3 projects
+- Discussion with Splunk for potential collaboration
+- Strategy for Q4
+
+**Discussion Points:**
+- **Final Review of Q3 Projects:**
+  - Abigail summarized the completion of key dashboards for Cognos Analytics.
+  - Carol presented the final results of Azure data analysis.
+  - Derek confirmed that all critical bugs in IBM Aspera were resolved.
+  - David reviewed the AWS optimization efforts.
+- **Discussion with Splunk:**
+  - John Smith introduced Splunk's capabilities in machine data analysis.
+  - Team discussed potential areas for collaboration.
+- **Strategy for Q4:**
+  - Set specific objectives for the next quarter.
+  - Discussed resource allocation and timelines.
+
+**Next Steps:**
+- Abigail to draft an end-of-quarter report by 02-Oct-2023.
+- Carol to begin integrating Splunk's tools into the workflow by 05-Oct-2023.
+- Derek to monitor post-mitigation performance by 03-Oct-2023.
+- David to finalize AWS infrastructure optimization by 10-Oct-2023.
+- John Smith to provide a detailed proposal for Splunk collaboration by 07-Oct-2023.
+
+### JSON Representation

@@ -1,0 +1,157 @@
+### Meeting Minutes 1
+**Date and Time:**
+- Date: 01-Jan-2023
+- Start Time: 10:00 AM
+- End Time: 10:30 AM
+
+**Attendees:**
+- Tina Foster
+- Rachel Singh
+- Derek Hill
+- Benji Martinez
+- Note taker: Tina Foster
+- Absentees: None
+
+**Agenda:**
+- Simple greetings
+- Client interactions for IBM Cloud Functions
+
+**Discussion Points:**
+- Rachel provided an update on backend development for IBM Cloud Functions.
+- Derek discussed the QA testing progress for IBM Aspera.
+- Benji gave an overview of infrastructure maintenance for IBM Cloud Object Storage.
+- Tina shared feedback from clients about the IBM QRadar SIEM implementation.
+
+**Next Steps:**
+- Rachel to finalize backend development features by 10-Jan-2023.
+- Derek to complete final QA tests by 12-Jan-2023.
+- Benji to plan the next maintenance window by 15-Jan-2023.
+- Tina to schedule a client feedback meeting by 20-Jan-2023.
+
+### Meeting Minutes 2
+**Date and Time:**
+- Date: 15-Jan-2023
+- Start Time: 2:00 PM
+- End Time: 2:45 PM
+
+**Attendees:**
+- Tina Foster
+- Rachel Singh
+- Derek Hill
+- Benji Martinez
+- Note taker: Rachel Singh
+- Absentees: None
+
+**Agenda:**
+- Updates on project deadlines
+- Client interactions regarding IBM Cloud solutions
+
+**Discussion Points:**
+- Rachel confirmed that the backend development for IBM Cloud Functions is on track.
+- Derek mentioned that the QA tests are almost complete.
+- Benji discussed the upcoming maintenance window for IBM Cloud Object Storage.
+- Tina presented new client feedback on IBM QRadar SIEM and suggested improvements.
+
+**Next Steps:**
+- Rachel to deliver the final backend code by 20-Jan-2023.
+- Derek to compile a final QA report by 22-Jan-2023.
+- Benji to execute the maintenance plan on 25-Jan-2023.
+- Tina to implement client feedback by 30-Jan-2023.
+
+### Meeting Minutes 3
+**Date and Time:**
+- Date: 01-Feb-2023
+- Start Time: 9:00 AM
+- End Time: 10:00 AM
+
+**Attendees:**
+- Tina Foster
+- Rachel Singh
+- Derek Hill
+- Benji Martinez
+- Note taker: Derek Hill
+- Absentees: None
+
+**Agenda:**
+- Client feedback for various products
+- Collaboration with external entity Veeva Systems
+
+**Discussion Points:**
+- Tina reported positive client feedback for IBM QRadar SIEM.
+- Rachel shared backend improvements for IBM Cloud Functions based on client suggestions.
+- Derek noted successful QA tests for IBM Aspera.
+- Benji updated on infrastructure stability for IBM Cloud Object Storage.
+- Discussion on potential collaboration with Veeva Systems for cloud solutions in the life sciences industry.
+
+**Next Steps:**
+- Tina to gather more detailed client feedback by 05-Feb-2023.
+- Rachel to integrate suggested improvements by 10-Feb-2023.
+- Derek to validate new test cases by 15-Feb-2023.
+- Benji to prepare infrastructure stability report by 20-Feb-2023.
+- All to explore collaboration opportunities with Veeva Systems by 28-Feb-2023.
+
+### Meeting Minutes 4
+**Date and Time:**
+- Date: 15-Feb-2023
+- Start Time: 11:00 AM
+- End Time: 12:30 PM
+
+**Attendees:**
+- Tina Foster
+- Rachel Singh
+- Derek Hill
+- Benji Martinez
+- Note taker: Benji Martinez
+- Absentees: None
+- Additional Attendee: 
+  - John Smith, Senior VP, Veeva Systems
+
+**Agenda:**
+- Detailed project status updates
+- Strategic discussion with Veeva Systems
+
+**Discussion Points:**
+- Rachel provided detailed backend development updates and future plans for IBM Cloud Functions.
+- Derek discussed complex QA test scenarios for IBM Aspera.
+- Benji presented a comprehensive infrastructure report for IBM Cloud Object Storage.
+- Tina highlighted key client concerns and proposed solutions for IBM QRadar SIEM.
+- John Smith from Veeva Systems discussed potential collaboration strategies and mutual benefits.
+
+**Next Steps:**
+- Rachel to refine backend systems based on client requirements by 28-Feb-2023.
+- Derek to conduct advanced QA tests by 01-Mar-2023.
+- Benji to initiate additional infrastructure improvements by 05-Mar-2023.
+- Tina to organize a follow-up client meeting by 10-Mar-2023.
+- All to draft a collaboration plan with Veeva Systems by 15-Mar-2023.
+
+### Meeting Minutes 5
+**Date and Time:**
+- Date: 01-Mar-2023
+- Start Time: 1:00 PM
+- End Time: 2:30 PM
+
+**Attendees:**
+- Tina Foster
+- Rachel Singh
+- Derek Hill
+- Benji Martinez
+- Note taker: Tina Foster
+- Absentees: None
+
+**Agenda:**
+- Complex client interaction scenarios
+- Follow-up on Veeva Systems collaboration
+
+**Discussion Points:**
+- Rachel discussed client-specific backend development challenges and solutions.
+- Derek shared insights on advanced QA methodologies and their effectiveness for IBM Aspera.
+- Benji provided an in-depth analysis of recent infrastructure updates for IBM Cloud Object Storage.
+- Tina outlined the latest client feedback on IBM QRadar SIEM and potential future improvements.
+- All discussed ongoing collaboration efforts with Veeva Systems and identified key milestones.
+
+**Next Steps:**
+- Rachel to resolve complex client-specific issues by 10-Mar-2023.
+- Derek to implement new QA strategies by 15-Mar-2023.
+- Benji to monitor infrastructure performance by 20-Mar-2023.
+- Tina to integrate future client feedback into development processes by 25-Mar-2023.
+- All to finalize collaboration details with Veeva Systems by 30-Mar-2023.

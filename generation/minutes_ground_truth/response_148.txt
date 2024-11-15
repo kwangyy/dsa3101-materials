@@ -1,0 +1,164 @@
+### Meeting Minutes 1
+**Date and Time:**
+- 05-Jan-2023
+- Start: 10:00 AM
+- End: 10:30 AM
+
+**Attendees:**
+- Benji Martinez
+- Abigail Carter
+- Michael Turner
+- Ivy Bennett
+- Note-taker: Abigail Carter
+- Absentees: None
+
+**Agenda:**
+- Feedback requests on the latest IBM Cloud Object Storage update
+- Coordination for upcoming product launches
+
+**Discussion Points:**
+- **IBM Cloud Object Storage Update:**
+  - Benji provided an overview of the latest update.
+  - Feedback requested from the team for further improvements.
+- **Security Enhancements:**
+  - Michael discussed the new security protocols designed for Microsoft Azure.
+  - Team brainstormed potential challenges and solutions.
+- **Product Launch Coordination:**
+  - Ivy discussed the ETL pipeline status for IBM Db2 Database.
+  - Abigail highlighted the need for detailed dashboards for Cognos Analytics.
+
+**Next Steps:**
+- Benji to gather feedback and integrate suggestions by 12-Jan-2023.
+- Michael to finalize security protocols by 15-Jan-2023.
+- Ivy to complete ETL pipeline enhancements by 20-Jan-2023.
+- Abigail to develop dashboards for product launch by 25-Jan-2023.
+
+
+### Meeting Minutes 2
+**Date and Time:**
+- 12-Jan-2023
+- Start: 2:00 PM
+- End: 3:00 PM
+
+**Attendees:**
+- Benji Martinez
+- Abigail Carter
+- Ivy Bennett
+- Note-taker: Ivy Bennett
+- Absentees: Michael Turner
+
+**Agenda:**
+- Review of feedback from IBM Cloud Object Storage update
+- Discuss dashboards for IBM Cognos Analytics
+
+**Discussion Points:**
+- **Feedback Review:**
+  - Benji presented the collected feedback.
+  - Team discussed incorporating feedback into the next update.
+- **Dashboards Discussion:**
+  - Abigail shared the initial designs for the dashboards.
+  - Suggestions made to improve user interface and data presentation.
+
+**Next Steps:**
+- Benji to start the implementation of feedback by 18-Jan-2023.
+- Abigail to refine dashboard designs based on suggestions by 22-Jan-2023.
+
+
+### Meeting Minutes 3
+**Date and Time:**
+- 19-Jan-2023
+- Start: 9:00 AM
+- End: 11:00 AM
+
+**Attendees:**
+- Benji Martinez
+- Abigail Carter
+- Michael Turner
+- Ivy Bennett
+- External: Jane Doe (Splunk, IT Operations Specialist)
+- Note-taker: Michael Turner
+- Absentees: None
+
+**Agenda:**
+- Finalize product launch details
+- Evaluate security enhancements with Splunk
+
+**Discussion Points:**
+- **Product Launch Details:**
+  - Ivy confirmed the readiness of ETL pipelines.
+  - Abigail presented the final version of the dashboards.
+  - Benji reviewed the infrastructure readiness.
+- **Security Enhancements:**
+  - Michael discussed security protocols with input from Jane.
+  - Jane provided insights on monitoring IT operations.
+
+**Next Steps:**
+- Ivy to perform final tests on ETL pipelines by 25-Jan-2023.
+- Abigail to create user training sessions for dashboards by 28-Jan-2023.
+- Michael to implement monitoring suggestions from Splunk by 31-Jan-2023.
+
+
+### Meeting Minutes 4
+**Date and Time:**
+- 26-Jan-2023
+- Start: 1:00 PM
+- End: 2:30 PM
+
+**Attendees:**
+- Benji Martinez
+- Abigail Carter
+- Michael Turner
+- Note-taker: Benji Martinez
+- Absentees: Ivy Bennett
+
+**Agenda:**
+- Status update on IBM Cognos Analytics dashboards
+- Discuss infrastructure scalability for the upcoming launch
+
+**Discussion Points:**
+- **Status Update:**
+  - Abigail shared the progress on dashboard user training sessions.
+- **Infrastructure Scalability:**
+  - Benji outlined the current infrastructure capabilities.
+  - Team discussed potential challenges and scalability solutions.
+
+**Next Steps:**
+- Abigail to finalize training sessions by 01-Feb-2023.
+- Benji to prepare a scalability plan by 05-Feb-2023.
+
+
+### Meeting Minutes 5
+**Date and Time:**
+- 02-Feb-2023
+- Start: 3:00 PM
+- End: 4:00 PM
+
+**Attendees:**
+- Benji Martinez
+- Abigail Carter
+- Michael Turner
+- Ivy Bennett
+- Note-taker: Abigail Carter
+- Absentees: None
+
+**Agenda:**
+- Review final preparations for product launch
+- Plan for post-launch support
+
+**Discussion Points:**
+- **Final Preparations:**
+  - Ivy confirmed that ETL pipelines are fully operational.
+  - Benji reviewed the final infrastructure checks.
+  - Michael ensured security protocols are in place.
+- **Post-Launch Support:**
+  - Abigail discussed the plan for ongoing dashboard updates and support.
+  - Team agreed on a weekly check-in schedule post-launch.
+
+**Next Steps:**
+- Benji to monitor infrastructure performance post-launch.
+- Abigail to handle initial dashboard support queries.
+- Michael to oversee security monitoring for the first two weeks post-launch.
+
+---
+
+### JSON Representation of Meeting Data

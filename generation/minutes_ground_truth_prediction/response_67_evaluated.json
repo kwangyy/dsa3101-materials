@@ -1,0 +1,194 @@
+{
+    "data": {
+        "entities": {
+            "persons": [
+                {
+                    "name": "Zachary Brooks"
+                },
+                {
+                    "name": "David Patel"
+                },
+                {
+                    "name": "Rachel Singh"
+                },
+                {
+                    "name": "Alice Smith"
+                },
+                {
+                    "name": "John Miller"
+                },
+                {
+                    "name": "Sarah White"
+                },
+                {
+                    "name": "Michael Brown"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "Acme Corp"
+                },
+                {
+                    "name": "Cognex"
+                },
+                {
+                    "name": "Symantec"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Microsoft"
+                }
+            ],
+            "roles": [
+                {
+                    "title": "Note-taker"
+                },
+                {
+                    "title": "Machine Vision Systems Expert"
+                },
+                {
+                    "title": "Tech Consultant"
+                },
+                {
+                    "title": "Solutions Architect"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "New York"
+                }
+            ],
+            "products_services": [
+                {
+                    "name": "IBM Cloud Pak for Integration"
+                },
+                {
+                    "name": "IBM Cloud Functions"
+                },
+                {
+                    "name": "AWS infrastructure"
+                },
+                {
+                    "name": "Symantec Endpoint Security"
+                },
+                {
+                    "name": "Microsoft Azure"
+                }
+            ]
+        },
+        "relationships": [
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Zachary Brooks",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "David Patel",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Rachel Singh",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Alice Smith",
+                "organization": "Acme Corp"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "John Miller",
+                "organization": "Cognex"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Sarah White",
+                "organization": "Symantec"
+            },
+            {
+                "type": "AFFILIATED_WITH",
+                "person": "Michael Brown",
+                "organization": "AWS"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Rachel Singh",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Alice Smith",
+                "role": "Note-taker"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "John Miller",
+                "role": "Machine Vision Systems Expert"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Sarah White",
+                "role": "Tech Consultant"
+            },
+            {
+                "type": "HAS_ROLE",
+                "person": "Michael Brown",
+                "role": "Solutions Architect"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Zachary Brooks",
+                "product_service": "IBM Cloud Pak for Integration"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Rachel Singh",
+                "product_service": "IBM Cloud Functions"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "David Patel",
+                "product_service": "AWS infrastructure"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "John Miller",
+                "product_service": "Cognex machine vision systems"
+            },
+            {
+                "type": "INVOLVED_WITH",
+                "person": "Sarah White",
+                "product_service": "Symantec Endpoint Security"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Acme Corp",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Cognex",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Symantec",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "AWS",
+                "location": "New York"
+            },
+            {
+                "type": "LOCATED_AT",
+                "organization": "Microsoft",
+                "location": "New York"
+            }
+        ]
+    }
+}

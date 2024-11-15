@@ -1,0 +1,121 @@
+### Meeting Minutes 1 - Simple
+
+**Date and Time:** 10-Jan-2023, 10:00 AM - 10:30 AM
+**Attendees:**
+- Alice Smith (notes)
+- Xander Williams
+- Abigail Carter
+- Quinn Parker
+
+**Agenda:**
+- Project Update on Microsoft Azure
+- Preliminary Discussion on IBM MobileFirst Platform
+
+**Discussion Points:**
+- Alice provided an update on the current status of Microsoft Azure, emphasizing the need for enhanced security measures.
+- Xander gave a brief overview of ongoing development for the IBM MobileFirst Platform and requested additional resources.
+
+**Next Steps:**
+- Alice to propose enhanced security features for Microsoft Azure by 15-Jan-2023.
+- Xander to submit a resource requirement list by 12-Jan-2023.
+
+---
+
+### Meeting Minutes 2 - Moderate
+
+**Date and Time:** 20-Feb-2023, 2:00 PM - 3:00 PM
+**Attendees:**
+- Alice Smith
+- Xander Williams (notes)
+- Abigail Carter
+- Quinn Parker
+
+**Agenda:**
+- Review of IBM Cognos Analytics Reports
+- Collaboration with Data Science Department
+
+**Discussion Points:**
+- Abigail shared the latest reports generated using IBM Cognos Analytics and highlighted some key metrics.
+- Quinn discussed potential areas for collaboration between the Data Analytics and Data Science departments to improve report accuracy.
+
+**Next Steps:**
+- Abigail to schedule a follow-up meeting with Quinn and other Data Science team members by 25-Feb-2023.
+- Quinn to draft a proposal on collaborative opportunities by 28-Feb-2023.
+
+---
+
+### Meeting Minutes 3 - Simple
+
+**Date and Time:** 15-Mar-2023, 9:00 AM - 9:30 AM
+**Attendees:**
+- Alice Smith
+- Xander Williams
+- Abigail Carter (notes)
+- Quinn Parker
+
+**Agenda:**
+- Status Check on Symantec Endpoint Security
+- IBM MobileFirst Platform Updates
+
+**Discussion Points:**
+- Alice reviewed the current deployment of Symantec Endpoint Security and identified a few bugs.
+- Xander provided updates on new features for the IBM MobileFirst Platform, highlighting the need for beta testers.
+
+**Next Steps:**
+- Alice to coordinate with the QA team to resolve identified bugs by 20-Mar-2023.
+- Xander to prepare a beta testing plan and circulate it by 18-Mar-2023.
+
+---
+
+### Meeting Minutes 4 - Detailed
+
+**Date and Time:** 10-Apr-2023, 11:00 AM - 12:30 PM
+**Attendees:**
+- Alice Smith
+- Xander Williams
+- Abigail Carter
+- Quinn Parker
+- Mark Johnson (DigitalOcean, Cloud Solutions Architect)
+
+**Agenda:**
+- Detailed Review of Microsoft Azure Enhancements
+- Collaborative Opportunities with DigitalOcean
+- Comprehensive Update on IBM Cognos Analytics
+
+**Discussion Points:**
+- Alice detailed the latest enhancements to Microsoft Azure, including new security protocols and performance optimizations.
+- Mark Johnson from DigitalOcean discussed potential areas of collaboration, such as integrating DigitalOcean's cloud solutions with IBM's offerings.
+- Abigail provided an in-depth analysis of recent IBM Cognos Analytics reports, suggesting improvements in data visualization.
+
+**Next Steps:**
+- Alice and Mark to schedule a dedicated session on integration possibilities by 15-Apr-2023.
+- Abigail to implement suggested improvements in data visualization by 20-Apr-2023.
+- Quinn to explore additional data sources that could benefit from DigitalOcean's cloud capabilities by 25-Apr-2023.
+
+---
+
+### Meeting Minutes 5 - Moderate
+
+**Date and Time:** 25-May-2023, 1:00 PM - 2:00 PM
+**Attendees:**
+- Alice Smith
+- Xander Williams
+- Abigail Carter
+- Quinn Parker (notes)
+
+**Agenda:**
+- IBM MobileFirst Platform Project Review
+- Data Analytics Department's New Dashboard Tools
+
+**Discussion Points:**
+- Xander presented a project review for IBM MobileFirst Platform, highlighting successful deployments and future roadmap.
+- Abigail introduced new dashboard tools for the Data Analytics department, explaining how they can improve data insights.
+
+**Next Steps:**
+- Xander to finalize the roadmap for the next quarter by 30-May-2023.
+- Abigail to conduct a training session on new dashboard tools by 05-Jun-2023.
+- Quinn to gather user feedback on new tools by 10-Jun-2023.
+
+---
+
+### JSON Data

@@ -1,0 +1,159 @@
+### Meeting Minutes 1 (Simple)
+
+**Date and Time:**
+- 15-JAN-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Xander Williams
+- Victor Ramos
+- Oliver James
+- Jackie Lin (note taker)
+- Absentees: None
+
+**Agenda:**
+- Project updates
+
+**Discussion Points:**
+- **Xander Williams** provided updates on the IBM MobileFirst Platform application development.
+- **Victor Ramos** shared progress on the latest bots developed using IBM Robotic Process Automation.
+- **Oliver James** discussed ongoing research in natural language processing for IBM Watson Language Translator.
+- **Jackie Lin** gave a brief report on recent threat detection activities for IBM Security Guardium.
+
+**Next Steps:**
+- Xander Williams to deliver the next milestone by 22-JAN-2023.
+- Victor Ramos to finalize bot features by 20-JAN-2023.
+- Oliver James to present new NLP model results in the next meeting on 18-JAN-2023.
+- Jackie Lin to perform a detailed threat analysis report by 19-JAN-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+
+**Date and Time:**
+- 25-JAN-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Xander Williams
+- Victor Ramos
+- Oliver James
+- Jackie Lin
+- Additional attendee: 
+  - Sarah Smith - Project Manager at IBM
+
+**Agenda:**
+- Project updates
+- Resource allocation
+- Collaboration with Nutanix
+
+**Discussion Points:**
+- **Xander Williams** noted that the MobileFirst Platform application is on track, but requires additional testing resources.
+- **Victor Ramos** highlighted the need for more collaboration with the R&D team to integrate the new bots seamlessly.
+- **Oliver James** discussed potential challenges in NLP model accuracy and suggested collaboration with external experts.
+- **Jackie Lin** reported increased cybersecurity threats and the need for advanced threat detection tools.
+- **Sarah Smith** proposed a timeline for resource allocation and discussed potential partnership opportunities with Nutanix for hybrid cloud solutions.
+
+**Next Steps:**
+- Xander Williams to coordinate with QA team for additional testing resources by 27-JAN-2023.
+- Victor Ramos to schedule a meeting with R&D team by 28-JAN-2023.
+- Oliver James to contact external NLP experts by 30-JAN-2023.
+- Jackie Lin to draft a proposal for new threat detection tools by 31-JAN-2023.
+- Sarah Smith to finalize the Nutanix collaboration plan by 03-FEB-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+
+**Date and Time:**
+- 05-FEB-2023, 9:00 AM - 10:30 AM
+
+**Attendees:**
+- Xander Williams
+- Victor Ramos
+- Oliver James
+- Jackie Lin
+- Additional attendees:
+  - Rachel Green - Business Analyst at IBM
+  - James Thompson - Infrastructure Manager at Nutanix
+
+**Agenda:**
+- Project updates
+- Integration with Nutanix infrastructure
+- Cross-department collaboration
+
+**Discussion Points:**
+- **Xander Williams** provided an in-depth update on the IBM MobileFirst Platform application, including user feedback and testing results.
+- **Victor Ramos** shared detailed analytics on bot performance and the need for infrastructure support for scaling.
+- **Oliver James** discussed the latest advancements in NLP for IBM Watson Language Translator, including data processing and model training challenges.
+- **Jackie Lin** reported on a recent spike in cybersecurity threats and the effectiveness of current measures.
+- **Rachel Green** emphasized the importance of aligning project goals with business objectives and suggested performance metrics.
+- **James Thompson** outlined the benefits of integrating Nutanix infrastructure for better scalability and security.
+
+**Next Steps:**
+- Xander Williams to incorporate user feedback into the next iteration by 10-FEB-2023.
+- Victor Ramos to collaborate with Nutanix for infrastructure support by 12-FEB-2023.
+- Oliver James to complete data processing improvements by 15-FEB-2023.
+- Jackie Lin to implement enhanced threat detection measures by 14-FEB-2023.
+- Rachel Green to develop performance metrics by 11-FEB-2023.
+- James Thompson to provide a detailed integration plan by 13-FEB-2023.
+
+---
+
+### Meeting Minutes 4 (Moderate)
+
+**Date and Time:**
+- 15-FEB-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**
+- Xander Williams
+- Victor Ramos
+- Oliver James
+- Jackie Lin
+- Absentees: None
+
+**Agenda:**
+- Project updates
+- Issue resolution
+- Feedback from external stakeholders
+
+**Discussion Points:**
+- **Xander Williams** discussed a minor issue with the MobileFirst application related to user interface responsiveness.
+- **Victor Ramos** highlighted a bug in one of the automation bots, requiring urgent attention.
+- **Oliver James** reported feedback from external stakeholders on the NLP model's performance.
+- **Jackie Lin** shared insights on recent security audits and compliance requirements.
+
+**Next Steps:**
+- Xander Williams to fix the UI issue by 18-FEB-2023.
+- Victor Ramos to resolve the automation bot bug by 17-FEB-2023.
+- Oliver James to incorporate stakeholder feedback into the NLP model by 20-FEB-2023.
+- Jackie Lin to ensure compliance measures are in place by 19-FEB-2023.
+
+---
+
+### Meeting Minutes 5 (Simple)
+
+**Date and Time:**
+- 22-FEB-2023, 3:00 PM - 3:30 PM
+
+**Attendees:**
+- Xander Williams
+- Victor Ramos
+- Oliver James (note taker)
+- Jackie Lin
+- Absentees: None
+
+**Agenda:**
+- Project updates
+
+**Discussion Points:**
+- **Xander Williams** shared updates on the MobileFirst application, focusing on new feature implementation.
+- **Victor Ramos** reported on the progress of recent bot developments.
+- **Oliver James** discussed the latest improvements in NLP for IBM Watson Language Translator.
+- **Jackie Lin** provided an overview of ongoing cybersecurity measures.
+
+**Next Steps:**
+- Xander Williams to finalize new features by 25-FEB-2023.
+- Victor Ramos to continue bot development and present the next version by 24-FEB-2023.
+- Oliver James to test NLP model improvements by 26-FEB-2023.
+- Jackie Lin to monitor cybersecurity measures and report back by 27-FEB-2023.
+
+---

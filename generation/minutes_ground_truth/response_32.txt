@@ -1,0 +1,165 @@
+### Meeting Minutes 1 (Simple)
+
+**Date and Time:** 05-Sep-2023, 10:00 AM - 10:30 AM
+
+**Attendees:** 
+- Yasmine Ali
+- Victor Ramos
+- Michael Turner
+- Abigail Carter
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Introduction to project collaboration
+- Initial brainstorming on product development
+
+**Discussion Points:**
+- Yasmine Ali discussed the potential of using predictive models for the new product.
+- Victor Ramos suggested implementing RPA bots to streamline processes.
+- Michael Turner emphasized the need for stringent cloud security protocols.
+- Abigail Carter highlighted the importance of robust reporting and dashboards for monitoring.
+
+**Next Steps:**
+- Yasmine to draft initial predictive model specifications by 12-Sep-2023.
+- Victor to outline potential RPA integrations by 14-Sep-2023.
+- Michael to prepare cloud security framework by 15-Sep-2023.
+- Abigail to design a preliminary dashboard by 16-Sep-2023.
+
+---
+
+### Meeting Minutes 2 (Simple)
+
+**Date and Time:** 12-Sep-2023, 11:00 AM - 11:30 AM
+
+**Attendees:** 
+- Yasmine Ali
+- Victor Ramos
+- Michael Turner
+- Abigail Carter
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Review of initial project proposals
+
+**Discussion Points:**
+- Yasmine presented the draft predictive model specifications.
+- Victor shared his outline for RPA integrations.
+- Michael detailed the preliminary cloud security framework.
+- Abigail showcased the initial design of the dashboard.
+
+**Next Steps:**
+- Yasmine to refine predictive models based on feedback by 20-Sep-2023.
+- Victor to begin development of RPA bots by 18-Sep-2023.
+- Michael to finalize security protocols by 22-Sep-2023.
+- Abigail to incorporate team feedback into dashboard design by 25-Sep-2023.
+
+---
+
+### Meeting Minutes 3 (Moderate)
+
+**Date and Time:** 20-Sep-2023, 1:00 PM - 2:00 PM
+
+**Attendees:** 
+- Yasmine Ali
+- Victor Ramos
+- Michael Turner
+- Abigail Carter
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Detailed discussion on product development
+- Integration of multi-cloud environments with HashiCorp
+
+**Discussion Points:**
+- Yasmine provided updates on the refinement of predictive models.
+- Victor reported on the progress of RPA bot development.
+- Michael shared finalized security protocols.
+- Abigail presented the updated dashboard design.
+- Discussion on integrating multi-cloud environments using HashiCorp for infrastructure automation.
+
+**Next Steps:**
+- Yasmine to collaborate with HashiCorp on predictive model integration by 27-Sep-2023.
+- Victor to complete RPA bot development and testing by 30-Sep-2023.
+- Michael to ensure security compliance in multi-cloud environments by 02-Oct-2023.
+- Abigail to finalize dashboard for multi-cloud monitoring by 03-Oct-2023.
+
+---
+
+### Meeting Minutes 4 (Detailed)
+
+**Date and Time:** 27-Sep-2023, 2:00 PM - 3:30 PM
+
+**Attendees:** 
+- Yasmine Ali
+- Victor Ramos
+- Michael Turner
+- Abigail Carter
+- John Smith (HashiCorp, Infrastructure Specialist)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Final review of product development phases
+- Challenges and solutions for multi-cloud integration
+- Collaboration with external entity HashiCorp
+
+**Discussion Points:**
+- Yasmine discussed the integration challenges of predictive models in multi-cloud environments.
+- Victor demonstrated the fully developed RPA bots and their operational efficiency.
+- Michael outlined potential security risks and mitigation strategies in a multi-cloud setup.
+- Abigail showcased the final version of the dashboard, highlighting cross-cloud monitoring capabilities.
+- John Smith provided insights on best practices for infrastructure automation with HashiCorp.
+
+**Next Steps:**
+- Yasmine to address integration challenges with John Smith and finalize model integration by 05-Oct-2023.
+- Victor to initiate RPA bot deployment by 07-Oct-2023.
+- Michael to implement additional security measures as suggested by John Smith by 10-Oct-2023.
+- Abigail to roll out the final dashboard to the team by 11-Oct-2023.
+
+---
+
+### Meeting Minutes 5 (Detailed)
+
+**Date and Time:** 05-Oct-2023, 3:00 PM - 4:30 PM
+
+**Attendees:** 
+- Yasmine Ali
+- Victor Ramos
+- Michael Turner
+- Abigail Carter
+- John Smith (HashiCorp, Infrastructure Specialist)
+- Emily Parker (IBM, Project Manager)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Finalization of product development
+- Deployment schedule
+- Post-deployment monitoring and feedback
+
+**Discussion Points:**
+- Yasmine confirmed the successful integration of predictive models in a multi-cloud environment.
+- Victor announced the successful deployment of RPA bots.
+- Michael verified the implementation of additional security measures.
+- Abigail presented the live dashboard now monitoring all environments.
+- John Smith discussed continuous support from HashiCorp for future enhancements.
+- Emily Parker emphasized the importance of post-deployment monitoring and feedback collection.
+
+**Next Steps:**
+- Yasmine to provide continuous model performance reports bi-weekly starting 15-Oct-2023.
+- Victor to monitor bot performance and report any issues by 20-Oct-2023.
+- Michael to conduct security audits monthly, first report due 25-Oct-2023.
+- Abigail to collect user feedback and improve the dashboard continuously, first feedback session on 30-Oct-2023.
+- Emily Parker to oversee the entire project and coordinate with all team members for seamless operation.
+
+---
+
+### JSON Data for Relationships

@@ -1,0 +1,198 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:** 10-Jan-2023, 10:00 AM - 10:30 AM  
+**Attendees:**  
+- Ivy Bennett (Note-taker)  
+- Quinn Parker  
+- Benji Martinez  
+
+**Absentees:**  
+- Henry Zhou
+
+**Agenda:**  
+1. Introduction and Objectives
+2. Project Updates
+3. Collaboration Proposal
+4. Next Steps
+
+**Discussion Points:**
+- **Introduction and Objectives:**
+  - Ivy Bennett welcomed everyone and outlined the meeting's objectives: discussing project updates and exploring inter-department collaboration.
+  
+- **Project Updates:**
+  - Quinn Parker provided analytics insights on recent IBM Cognos Analytics projects.
+  - Benji Martinez gave a brief update on infrastructure enhancements for IBM Cloud Object Storage.
+
+- **Collaboration Proposal:**
+  - Ivy proposed improved data pipeline integration between the Data Management and Data Science departments.
+  - Benji agreed that better data flow could enhance infrastructure operations.
+
+**Next Steps:**
+- **Ivy Bennett:** Draft a detailed plan for data pipeline integration. Deadline: 17-Jan-2023.
+- **Quinn Parker:** Provide additional analytics data to support the integration proposal. Deadline: 13-Jan-2023.
+- **Benji Martinez:** Review and provide feedback on the integration plan. Deadline: 18-Jan-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+
+**Date and Time:** 17-Feb-2023, 2:00 PM - 3:00 PM  
+**Attendees:**  
+- Ivy Bennett  
+- Quinn Parker  
+- Benji Martinez  
+- Henry Zhou (Note-taker)
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+1. Introduction
+2. Review of Previous Meeting Minutes
+3. Strategy Discussion
+4. External Collaboration with Illumio
+5. Next Steps
+
+**Discussion Points:**
+- **Introduction:**
+  - Ivy Bennett welcomed attendees and initiated the meeting.
+  
+- **Review of Previous Meeting Minutes:**
+  - The team reviewed actions from the last meeting. All tasks were completed on time.
+
+- **Strategy Discussion:**
+  - Quinn Parker discussed the need for advanced data analytics for upcoming projects.
+  - Benji Martinez mentioned ongoing infrastructure scalability efforts.
+  - Henry Zhou suggested automating some of the CI/CD pipelines to improve efficiency.
+
+- **External Collaboration with Illumio:**
+  - Ivy Bennett proposed engaging Illumio for cybersecurity enhancements.
+  - The team agreed to explore this further.
+
+**Next Steps:**
+- **Henry Zhou:** Draft a preliminary plan for CI/CD pipeline automation. Deadline: 24-Feb-2023.
+- **Quinn Parker:** Conduct a needs assessment for advanced data analytics. Deadline: 20-Feb-2023.
+- **Benji Martinez:** Contact Illumio for an initial consultation. Deadline: 19-Feb-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+
+**Date and Time:** 28-Mar-2023, 1:00 PM - 2:30 PM  
+**Attendees:**  
+- Ivy Bennett (Note-taker)  
+- Quinn Parker  
+- Benji Martinez  
+- Henry Zhou  
+- External Attendee: Sarah Lee (Illumio, Cybersecurity Specialist)
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+1. Welcome and Overview
+2. Review of Action Items
+3. Collaboration Opportunities
+4. Security Enhancements with Illumio
+5. Project Timelines
+6. Next Steps
+
+**Discussion Points:**
+- **Welcome and Overview:**
+  - Ivy Bennett opened the meeting and welcomed Sarah Lee from Illumio.
+
+- **Review of Action Items:**
+  - Henry Zhou updated on the progress of CI/CD pipeline automation.
+  - Quinn Parker reported on the needs assessment for advanced data analytics.
+
+- **Collaboration Opportunities:**
+  - Ivy Bennett discussed potential data pipeline collaborations with Quinn Parker.
+  - Benji Martinez suggested infrastructure enhancements to support these initiatives.
+
+- **Security Enhancements with Illumio:**
+  - Sarah Lee provided insights into zero-trust segmentation and how it can benefit IBM's infrastructure.
+  - The team discussed potential challenges and proposed solutions.
+
+- **Project Timelines:**
+  - Ivy Bennett proposed a timeline for integrating Illumio's security solutions.
+  - Benji Martinez and Henry Zhou agreed to align their schedules accordingly.
+
+**Next Steps:**
+- **Ivy Bennett:** Finalize the data pipeline collaboration plan. Deadline: 05-Apr-2023.
+- **Henry Zhou:** Continue working on CI/CD automation with a focus on security. Deadline: 10-Apr-2023.
+- **Benji Martinez:** Start integrating Illumio's solutions into the infrastructure. Deadline: 12-Apr-2023.
+- **Sarah Lee:** Share detailed documentation on Illumio's solutions. Deadline: 03-Apr-2023.
+
+---
+
+### Meeting Minutes 4: Simple
+
+**Date and Time:** 05-Apr-2023, 11:00 AM - 11:30 AM  
+**Attendees:**  
+- Ivy Bennett (Note-taker)  
+- Quinn Parker  
+- Henry Zhou  
+
+**Absentees:**  
+- Benji Martinez
+
+**Agenda:**  
+1. Quick Updates
+2. Follow-up on Collaboration
+3. Next Steps
+
+**Discussion Points:**
+- **Quick Updates:**
+  - Ivy Bennett provided a quick recap of the previous meeting's outcomes.
+  
+- **Follow-up on Collaboration:**
+  - Quinn Parker shared preliminary results of the data pipeline integration.
+  - Henry Zhou reported on the progress of CI/CD pipeline automation.
+
+**Next Steps:**
+- **Ivy Bennett:** Review preliminary results and provide feedback. Deadline: 09-Apr-2023.
+- **Henry Zhou:** Finalize automation scripts. Deadline: 11-Apr-2023.
+- **Quinn Parker:** Prepare detailed analytics report. Deadline: 08-Apr-2023.
+
+---
+
+### Meeting Minutes 5: Moderate
+
+**Date and Time:** 20-Apr-2023, 1:30 PM - 2:30 PM  
+**Attendees:**  
+- Ivy Bennett  
+- Quinn Parker  
+- Benji Martinez  
+- Henry Zhou (Note-taker)
+
+**Absentees:**  
+- None
+
+**Agenda:**  
+1. Introduction
+2. Review of Progress
+3. Finalizing Collaboration Plans
+4. Next Steps
+
+**Discussion Points:**
+- **Introduction:**
+  - Ivy Bennett welcomed attendees and set the agenda.
+  
+- **Review of Progress:**
+  - Ivy Bennett reviewed feedback on preliminary data pipeline results.
+  - Quinn Parker provided an update on the detailed analytics report.
+  - Benji Martinez shared his progress on integrating Illumio's security solutions.
+  - Henry Zhou discussed the finalization of automation scripts.
+
+- **Finalizing Collaboration Plans:**
+  - The team agreed on the finalized plan for inter-department collaboration.
+
+**Next Steps:**
+- **Ivy Bennett:** Circulate the finalized collaboration plan. Deadline: 23-Apr-2023.
+- **Quinn Parker:** Begin implementation of the analytics integration. Deadline: 27-Apr-2023.
+- **Benji Martinez:** Continue Illumio integration. Deadline: 30-Apr-2023.
+- **Henry Zhou:** Monitor and optimize CI/CD pipeline. Deadline: 29-Apr-2023.
+
+---
+
+### JSON Representation

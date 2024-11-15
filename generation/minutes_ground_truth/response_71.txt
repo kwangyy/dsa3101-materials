@@ -1,0 +1,175 @@
+### Meeting Minutes 1: Simple
+
+**Date and Time:** 01-Sep-2023, 09:00 AM - 09:30 AM
+
+**Attendees:**
+- Brian Taylor (Note taker)
+- Emma Lee
+- Abigail Carter
+- Samuel Davis
+
+**Agenda:**
+- Review last week's project updates
+- Informal request for assistance in client interactions
+
+**Discussion Points:**
+- **Project Updates:**
+  - **Brian Taylor:** Completed data analysis on Azure. Preparing for integration with client data.
+  - **Emma Lee:** New feature on Google Cloud AI platform released. Needs feedback.
+  - **Abigail Carter:** Dashboard for IBM Cognos Analytics updated to include real-time data.
+  - **Samuel Davis:** Blockchain project is progressing; awaiting client feedback on current prototype.
+
+- **Client Interaction Requests:**
+  - Abigail suggested improved documentation could help clients.
+  - Brian and Emma offered to review and provide feedback on documentation drafts.
+
+**Next Steps:**
+- **Brian Taylor:** Review Emma's new feature feedback by 08-Sep-2023.
+- **Emma Lee:** Prepare documentation drafts for Brian and Abigail to review by 05-Sep-2023.
+- **Abigail Carter:** Collect additional real-time data requirements from clients by 10-Sep-2023.
+- **Samuel Davis:** Follow up with clients on blockchain prototype by 12-Sep-2023.
+
+---
+
+### Meeting Minutes 2: Moderate
+
+**Date and Time:** 10-Sep-2023, 10:00 AM - 11:00 AM
+
+**Attendees:**
+- Brian Taylor
+- Emma Lee
+- Abigail Carter (Note taker)
+- Samuel Davis
+
+**Agenda:**
+- Detailed discussion on project timelines
+- Brainstorming solutions for client feedback
+
+**Discussion Points:**
+- **Project Timelines:**
+  - **Brian Taylor:** Data integration scheduled to complete by end of month.
+  - **Emma Lee:** New feature rollout has been delayed due to unforeseen technical issues.
+  - **Abigail Carter:** Dashboard updates will be ongoing; no major delays expected.
+  - **Samuel Davis:** Blockchain project on track; needs coordination with IT for deployment.
+
+- **Client Feedback Solutions:**
+  - Emma suggested hosting a webinar to address common questions.
+  - Brian proposed a collaborative troubleshooting session with the Cloudera team.
+  - Samuel stressed the need for better cross-departmental communication.
+
+**Next Steps:**
+- **Brian Taylor:** Coordinate with Cloudera for troubleshooting session by 15-Sep-2023.
+- **Emma Lee:** Schedule and prepare content for the webinar by 20-Sep-2023.
+- **Abigail Carter:** Continue to monitor client feedback on dashboards and update regularly.
+- **Samuel Davis:** Arrange a meeting with IT department for deployment strategy by 18-Sep-2023.
+
+---
+
+### Meeting Minutes 3: Detailed
+
+**Date and Time:** 20-Sep-2023, 02:00 PM - 03:30 PM
+
+**Attendees:**
+- Brian Taylor
+- Emma Lee (Note taker)
+- Abigail Carter
+- Samuel Davis
+- External: John Smith (Cloudera, Data Architect)
+
+**Agenda:**
+- Review project milestones and status
+- Discuss collaborative efforts with Cloudera
+- Address client issues and propose solutions
+
+**Discussion Points:**
+- **Project Milestones:**
+  - **Brian Taylor:** Data integration is complete. Presented initial client data analysis.
+  - **Emma Lee:** Resolved technical issues with the new feature. Preparing for final testing.
+  - **Abigail Carter:** Real-time data dashboard is live. Positive client feedback received.
+  - **Samuel Davis:** Blockchain prototype ready for client demo.
+
+- **Collaboration with Cloudera:**
+  - John Smith discussed potential integration opportunities for enhanced machine learning capabilities.
+  - Brian and John agreed to jointly work on a proof of concept for a new client project.
+
+- **Client Issues & Solutions:**
+  - Abigail mentioned some clients facing issues with real-time data updates. Proposed a new automated notification system.
+  - Emma suggested incorporating client feedback into product development cycles more frequently.
+  - Samuel highlighted the importance of timely communication to avoid project delays.
+
+**Next Steps:**
+- **Brian Taylor:** Develop proof of concept with Cloudera by 30-Sep-2023.
+- **Emma Lee:** Complete final testing of new feature and prepare for deployment by 27-Sep-2023.
+- **Abigail Carter:** Implement automated notification system for dashboard updates by 01-Oct-2023.
+- **Samuel Davis:** Demo blockchain prototype to clients and collect feedback by 25-Sep-2023.
+- **John Smith:** Provide technical specifications and support for proof of concept by 22-Sep-2023.
+
+---
+
+### Meeting Minutes 4: Simple
+
+**Date and Time:** 25-Sep-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**
+- Brian Taylor
+- Emma Lee
+- Abigail Carter
+- Samuel Davis (Note taker)
+
+**Agenda:**
+- Quick project status check
+- Immediate client requests
+
+**Discussion Points:**
+- **Project Status:**
+  - **Brian Taylor:** Proof of concept with Cloudera is underway.
+  - **Emma Lee:** New feature deployment scheduled for tomorrow.
+  - **Abigail Carter:** Automated notification system development started.
+  - **Samuel Davis:** Awaiting client feedback post demo.
+
+- **Immediate Client Requests:**
+  - Emma noted a client requested a personalized demo of the new feature.
+  - Brian offered to assist in tailoring the demo to client needs.
+
+**Next Steps:**
+- **Brian Taylor:** Assist Emma with personalized demo by 28-Sep-2023.
+- **Emma Lee:** Conduct personalized demo for client by 29-Sep-2023.
+- **Abigail Carter:** Continue development of notification system, update team by 30-Sep-2023.
+- **Samuel Davis:** Follow up with clients on demo feedback by 27-Sep-2023.
+
+---
+
+### Meeting Minutes 5: Moderate
+
+**Date and Time:** 01-Oct-2023, 03:00 PM - 04:00 PM
+
+**Attendees:**
+- Brian Taylor (Note taker)
+- Emma Lee
+- Abigail Carter
+- Samuel Davis
+
+**Agenda:**
+- Review progress on ongoing projects
+- Discuss upcoming client requirements
+
+**Discussion Points:**
+- **Progress Review:**
+  - **Brian Taylor:** Proof of concept with Cloudera completed; initial results promising.
+  - **Emma Lee:** New feature successfully deployed; positive client reception.
+  - **Abigail Carter:** Automated notification system is live; testing phase ongoing.
+  - **Samuel Davis:** Received constructive feedback on blockchain prototype; adjustments in progress.
+
+- **Upcoming Client Requirements:**
+  - Clients have requested more detailed analytics reports. Abigail to spearhead this initiative.
+  - Emma suggested setting up a dedicated support team to handle client queries more efficiently.
+
+**Next Steps:**
+- **Brian Taylor:** Analyze results from proof of concept and prepare a report by 08-Oct-2023.
+- **Emma Lee:** Develop a plan for the dedicated support team, present by 10-Oct-2023.
+- **Abigail Carter:** Begin work on detailed analytics reports, initial draft by 12-Oct-2023.
+- **Samuel Davis:** Make necessary adjustments to blockchain prototype and prepare for next client demo by 15-Oct-2023.
+
+---
+
+### JSON Data

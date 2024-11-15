@@ -1,0 +1,167 @@
+### Meeting Minutes 1 (Simple)
+
+**Date and Time:** 12-Sep-2023, 10:00 AM - 10:30 AM
+**Attendees:**
+- Carol Nguyen
+- Abigail Carter
+- Jackie Lin
+- Clara Diaz
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Review of current project statuses
+- Discussion on cross-department collaboration
+
+**Discussion Points:**
+- Carol Nguyen provided a brief update on data analysis for Microsoft Azure.
+- Abigail Carter discussed the latest updates on reporting and dashboards for IBM Cognos Analytics.
+- Jackie Lin shared insights into current threat detection activities.
+- Clara Diaz emphasized the importance of integrating AI ethics into current projects.
+
+**Next Steps:**
+- Carol to deliver a preliminary analysis report by 20-Sep-2023.
+- Abigail to update dashboards and report findings by 18-Sep-2023.
+- Jackie to complete threat detection overview by 22-Sep-2023.
+- Clara to provide an AI ethics report by 25-Sep-2023.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+
+**Date and Time:** 19-Sep-2023, 2:00 PM - 3:00 PM
+**Attendees:**
+- Carol Nguyen
+- Abigail Carter
+- Jackie Lin
+- Clara Diaz
+- Jason Lee (External, DigitalOcean, Cloud Solutions Architect)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Exploring cross-departmental data-sharing protocols
+- Discussing potential collaboration with DigitalOcean
+- AI ethics in cloud computing
+
+**Discussion Points:**
+- Carol Nguyen suggested automating data-sharing processes to improve efficiency.
+- Abigail Carter highlighted the need for robust data governance policies.
+- Jackie Lin raised concerns about cybersecurity risks in data-sharing.
+- Clara Diaz recommended the inclusion of ethical guidelines in data-sharing protocols.
+- Jason Lee introduced potential collaborative opportunities with DigitalOcean and its benefits.
+
+**Next Steps:**
+- Carol and Abigail to draft a data-sharing protocol by 30-Sep-2023.
+- Jackie to evaluate cybersecurity risks and provide a report by 28-Sep-2023.
+- Clara to draft ethical guidelines for data-sharing by 27-Sep-2023.
+- Jason Lee to arrange a follow-up meeting for collaboration with DigitalOcean by 05-Oct-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+
+**Date and Time:** 25-Sep-2023, 11:00 AM - 12:30 PM
+**Attendees:**
+- Carol Nguyen
+- Abigail Carter
+- Jackie Lin
+- Clara Diaz
+- Michael Brown (External, Microsoft, Data Analyst)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Deep dive into data analysis methodologies
+- Enhancing cross-functional communication
+- Integration of AI ethics in data analytics
+- Collaboration with external entities like Microsoft
+
+**Discussion Points:**
+- Carol Nguyen discussed current methodologies for data analysis, highlighting the need for more advanced techniques.
+- Abigail Carter emphasized the importance of accurate and timely reporting to drive business decisions.
+- Jackie Lin outlined the potential cybersecurity threats associated with data analysis.
+- Clara Diaz stressed the need for ethical considerations, especially in AI-driven data analysis.
+- Michael Brown shared insights on data analysis techniques used at Microsoft and suggested possible areas of collaboration.
+
+**Next Steps:**
+- Carol to research advanced data analysis techniques and present findings by 10-Oct-2023.
+- Abigail to enhance reporting mechanisms and share updates by 08-Oct-2023.
+- Jackie to develop a cybersecurity risk mitigation plan by 12-Oct-2023.
+- Clara to integrate AI ethics into data analysis protocols by 15-Oct-2023.
+- Michael Brown to coordinate a workshop on advanced data analysis techniques by 20-Oct-2023.
+
+---
+
+### Meeting Minutes 4 (Moderate)
+
+**Date and Time:** 02-Oct-2023, 9:00 AM - 10:00 AM
+**Attendees:**
+- Carol Nguyen
+- Abigail Carter
+- Jackie Lin
+- Clara Diaz
+- Sarah Johnson (External, DigitalOcean, Product Manager)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- Review of previous action items
+- Data security in cloud computing
+- Potential new projects with DigitalOcean
+
+**Discussion Points:**
+- Carol Nguyen provided an update on the preliminary analysis report.
+- Abigail Carter shared the latest dashboard updates.
+- Jackie Lin presented the cybersecurity risk assessment report.
+- Clara Diaz discussed the ethical guidelines for data-sharing.
+- Sarah Johnson explored potential new projects between IBM and DigitalOcean.
+
+**Next Steps:**
+- Carol to finalize the analysis report by 15-Oct-2023.
+- Abigail to make final dashboard adjustments by 12-Oct-2023.
+- Jackie to implement cybersecurity improvements by 18-Oct-2023.
+- Clara to finalize ethical guidelines by 17-Oct-2023.
+- Sarah Johnson to draft a project proposal for collaboration by 22-Oct-2023.
+
+---
+
+### Meeting Minutes 5 (Detailed)
+
+**Date and Time:** 10-Oct-2023, 3:00 PM - 4:30 PM
+**Attendees:**
+- Carol Nguyen
+- Abigail Carter
+- Jackie Lin
+- Clara Diaz
+- Rachel Green (Internal, IBM, Project Manager)
+
+**Absentees:**
+- None
+
+**Agenda:**
+- In-depth review of ongoing projects
+- Strategies for improving cross-functional collaboration
+- Implementation of AI ethics in ongoing projects
+
+**Discussion Points:**
+- Carol Nguyen reviewed the progress of data analysis for Microsoft Azure.
+- Abigail Carter discussed the improvements made in reporting and dashboards.
+- Jackie Lin shared insights into recent threat detection activities.
+- Clara Diaz stressed the importance of embedding AI ethics in all projects.
+- Rachel Green outlined strategies for improving cross-functional collaboration and ensuring project success.
+
+**Next Steps:**
+- Carol to continue refining data analysis techniques and provide updates by 25-Oct-2023.
+- Abigail to further enhance reporting mechanisms and share findings by 22-Oct-2023.
+- Jackie to monitor and report on threat detection activities by 28-Oct-2023.
+- Clara to ensure AI ethics guidelines are adhered to in all projects by 27-Oct-2023.
+- Rachel to organize a workshop on cross-functional collaboration by 30-Oct-2023.
+
+---
+
+### JSON Relationships

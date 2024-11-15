@@ -1,0 +1,152 @@
+{
+ "data": {
+  "entities": {
+   "persons": [
+    {
+     "name": "Quinn Parker"
+    },
+    {
+     "name": "Oliver James"
+    },
+    {
+     "name": "Abigail Carter"
+    },
+    {
+     "name": "Emma Lee"
+    },
+    {
+     "name": "John Smith"
+    }
+   ],
+   "organizations": [
+    {
+     "name": "IBM"
+    },
+    {
+     "name": "Zscaler"
+    }
+   ],
+   "roles": [
+    {
+     "title": "Data Analyst"
+    },
+    {
+     "title": "AI Research Scientist"
+    },
+    {
+     "title": "Business Intelligence Analyst"
+    },
+    {
+     "title": "Product Manager"
+    },
+    {
+     "title": "Senior Security Consultant"
+    }
+   ],
+   "products_services": [
+    {
+     "name": "IBM Cognos Analytics"
+    },
+    {
+     "name": "IBM Watson Language Translator"
+    },
+    {
+     "name": "Google Cloud AI Platform"
+    },
+    {
+     "name": "Zscaler Cloud Security"
+    }
+   ],
+   "locations": [
+    {
+     "name": "IBM Headquarters"
+    },
+    {
+     "name": "Zscaler Headquarters"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Quinn Parker",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Oliver James",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Abigail Carter",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "Emma Lee",
+    "organization": "IBM"
+   },
+   {
+    "type": "AFFILIATED_WITH",
+    "person": "John Smith",
+    "organization": "Zscaler"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Quinn Parker",
+    "role": "Data Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Oliver James",
+    "role": "AI Research Scientist"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Abigail Carter",
+    "role": "Business Intelligence Analyst"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "Emma Lee",
+    "role": "Product Manager"
+   },
+   {
+    "type": "HAS_ROLE",
+    "person": "John Smith",
+    "role": "Senior Security Consultant"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Quinn Parker",
+    "product_service": "IBM Cognos Analytics"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Oliver James",
+    "product_service": "IBM Watson Language Translator"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "person": "Emma Lee",
+    "product_service": "Google Cloud AI Platform"
+   },
+   {
+    "type": "INVOLVED_WITH",
+    "organization": "Zscaler",
+    "product_service": "Zscaler Cloud Security"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "IBM",
+    "location": "IBM Headquarters"
+   },
+   {
+    "type": "LOCATED_AT",
+    "organization": "Zscaler",
+    "location": "Zscaler Headquarters"
+   }
+  ]
+ }
+}

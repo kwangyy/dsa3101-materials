@@ -1,0 +1,161 @@
+### Meeting Minutes 1 (Simple)
+**Date and Time:**  
+20-Jan-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**  
+- Paul Hernandez (Notes Taker)  
+- Abigail Carter  
+- Samuel Davis  
+- David Patel  
+
+**Absentees:**  
+- Michael Johnson (Project Manager, IT Department)  
+
+**Agenda:**  
+- Request for feedback on the recent market analysis  
+- System performance review  
+
+**Discussion Points:**  
+- Abigail presented the market analysis report, highlighting key trends.  
+- Paul noted that the IBM Z systems infrastructure needs an upgrade to support new applications.  
+- Samuel pointed out potential improvements in blockchain integration with cloud services.  
+
+**Next Steps:**  
+- Abigail to provide a detailed report on market trends by 27-Jan-2023.  
+- Paul to initiate system performance review and upgrade plans by 25-Jan-2023.  
+- Samuel to draft a proposal for blockchain-cloud integration by 30-Jan-2023.  
+
+---
+
+### Meeting Minutes 2 (Simple)
+**Date and Time:**  
+15-Feb-2023, 2:00 PM - 2:30 PM
+
+**Attendees:**  
+- Paul Hernandez  
+- Abigail Carter  
+- Samuel Davis (Notes Taker)  
+- David Patel  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Feedback on the new IBM Cognos Analytics dashboard  
+- Planning for upcoming IT projects  
+
+**Discussion Points:**  
+- Abigail shared the new dashboard features and requested feedback.  
+- Paul mentioned that the current systems might need additional resources for the new dashboard.  
+- David proposed a timeline for upcoming IT projects, including cloud architecture upgrades.  
+
+**Next Steps:**  
+- Abigail to finalize dashboard updates by 22-Feb-2023.  
+- Paul to assess system resource requirements by 20-Feb-2023.  
+- David to prepare a detailed project timeline by 25-Feb-2023.  
+
+---
+
+### Meeting Minutes 3 (Moderate)
+**Date and Time:**  
+10-Mar-2023, 11:00 AM - 12:00 PM
+
+**Attendees:**  
+- Paul Hernandez  
+- Abigail Carter  
+- Samuel Davis  
+- David Patel  
+- Michael Johnson (Guest, Databricks - Data Engineer)  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Review of system integration with Databricks  
+- Analysis of data processing performance  
+
+**Discussion Points:**  
+- Michael discussed Databricks capabilities and how it can integrate with IBM's existing infrastructure.  
+- Abigail provided insights into data processing performance and areas for improvement.  
+- Samuel highlighted the need for secure data transfer protocols.  
+- Paul mentioned ongoing system maintenance and compatibility with Databricks.  
+
+**Next Steps:**  
+- Michael to provide a detailed integration plan by 17-Mar-2023.  
+- Abigail to identify key performance metrics and report back by 15-Mar-2023.  
+- Samuel to draft secure data transfer protocol guidelines by 20-Mar-2023.  
+- Paul to check system compatibility and update by 18-Mar-2023.  
+
+---
+
+### Meeting Minutes 4 (Detailed)
+**Date and Time:**  
+25-Mar-2023, 1:00 PM - 2:30 PM
+
+**Attendees:**  
+- Paul Hernandez  
+- Abigail Carter  
+- Samuel Davis  
+- David Patel  
+- John Smith (External Consultant, IBM Cloud Services)  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Feedback on market analysis for cloud services  
+- Strategy for upgrading cloud infrastructure  
+
+**Discussion Points:**  
+- John Smith reviewed the market analysis, focusing on competitive positioning.  
+- Abigail highlighted data analytics results and customer feedback.  
+- Paul discussed system infrastructure limitations and future needs.  
+- Samuel presented potential improvements using blockchain for data security.  
+- David proposed a phased approach for cloud infrastructure upgrades, including AWS enhancements.  
+
+**Next Steps:**  
+- John to submit a comprehensive market analysis report by 30-Mar-2023.  
+- Abigail to follow up on customer feedback and update the team by 28-Mar-2023.  
+- Paul to outline infrastructure needs and potential upgrades by 31-Mar-2023.  
+- Samuel to create a detailed plan for blockchain integration by 5-Apr-2023.  
+- David to draft a phased upgrade plan for cloud infrastructure by 2-Apr-2023.  
+
+---
+
+### Meeting Minutes 5 (Detailed)
+**Date and Time:**  
+05-Apr-2023, 9:00 AM - 10:30 AM
+
+**Attendees:**  
+- Paul Hernandez  
+- Abigail Carter  
+- Samuel Davis  
+- David Patel  
+- Emily Thompson (Marketing Manager, IBM)  
+- Jack Lee (Account Manager, AWS)  
+
+**Absentees:**  
+- None  
+
+**Agenda:**  
+- Review and feedback on marketing strategy  
+- Discussion on new AWS features and how they impact IBM's cloud services  
+- Collaboration between departments for upcoming projects  
+
+**Discussion Points:**  
+- Emily presented the new marketing strategy and sought feedback.  
+- Jack discussed new AWS features and their potential advantages for IBM's cloud services.  
+- Abigail focused on data analytics to identify target markets.  
+- Paul and David discussed infrastructure adjustments needed to support new AWS features.  
+- Samuel proposed blockchain applications to enhance service offerings.  
+
+**Next Steps:**  
+- Emily to adjust the marketing strategy based on feedback and present it by 10-Apr-2023.  
+- Jack to provide technical documentation on new AWS features by 7-Apr-2023.  
+- Abigail to refine data analytics reports by 12-Apr-2023.  
+- Paul and David to collaborate on infrastructure adjustments by 15-Apr-2023.  
+- Samuel to prepare a blockchain application proposal by 18-Apr-2023.  
+
+---
+
+### JSON Data

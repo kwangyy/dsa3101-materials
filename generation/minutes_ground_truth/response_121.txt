@@ -1,0 +1,166 @@
+### Meeting Minutes 1 (Simple)
+
+**Date and Time:** 05-Sep-2023, 10:00 AM - 10:30 AM
+
+**Attendees:**
+- Gina Lopez
+- Tina Foster
+- Franklin Moore
+- Zachary Brooks
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Project update: IBM Cloud Pak for Data
+2. Support status: IBM QRadar SIEM
+
+**Discussion Points:**
+- **Gina Lopez** provided a brief update on the user interface designs for IBM Cloud Pak for Data.
+  - Design is on track, with user testing scheduled for next week.
+- **Tina Foster** shared the status of ongoing support for IBM QRadar SIEM.
+  - No major issues reported; one minor bug was fixed.
+
+**Next Steps:**
+- Gina Lopez to prepare user testing plan by 08-Sep-2023.
+- Tina Foster to monitor bug reports and update the team in the next meeting.
+
+---
+
+### Meeting Minutes 2 (Moderate)
+
+**Date and Time:** 15-Sep-2023, 2:00 PM - 3:00 PM
+
+**Attendees:**
+- Gina Lopez
+- Tina Foster
+- Franklin Moore
+- Zachary Brooks
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Project update: IBM Watson Assistant APIs
+2. Collaboration strategies with C3.ai
+
+**Discussion Points:**
+- **Franklin Moore** discussed the progress on API development for IBM Watson Assistant.
+  - APIs are ready for internal testing.
+  - Potential collaboration with C3.ai was suggested to leverage their enterprise AI platform.
+- **Zachary Brooks** expressed interest in implementing integration solutions with C3.ai.
+  - He highlighted the need for seamless data exchange between IBM Watson Assistant and C3.ai's AI platform.
+
+**Next Steps:**
+- Franklin Moore to initiate internal testing of the APIs by 22-Sep-2023.
+- Zachary Brooks to arrange a meeting with C3.ai representatives by 20-Sep-2023.
+
+---
+
+### Meeting Minutes 3 (Detailed)
+
+**Date and Time:** 25-Sep-2023, 9:00 AM - 11:00 AM
+
+**Attendees:**
+- Gina Lopez
+- Tina Foster
+- Franklin Moore
+- Zachary Brooks
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Comprehensive review of IBM Cloud Pak for Data project
+2. Status of IBM QRadar SIEM support
+3. API development for IBM Watson Assistant
+4. Enterprise collaboration strategies with C3.ai
+
+**Discussion Points:**
+- **Gina Lopez** reviewed the current status of the IBM Cloud Pak for Data project.
+  - User testing results were positive, with minor UI adjustments needed.
+  - Proposed timeline for next phase of development.
+- **Tina Foster** provided an in-depth analysis of support issues related to IBM QRadar SIEM.
+  - Addressed recurring support tickets and discussed potential root causes.
+  - Proposed improvements to reduce support load.
+- **Franklin Moore** gave a comprehensive overview of API development for IBM Watson Assistant.
+  - APIs passed internal testing; ready for external beta testing.
+  - Discussed potential improvements and future API features.
+- **Zachary Brooks** elaborated on possible integration strategies with C3.ai.
+  - Discussed technical requirements and potential challenges.
+  - Highlighted the importance of data security and compliance.
+
+**Next Steps:**
+- Gina Lopez to implement UI adjustments by 30-Sep-2023.
+- Tina Foster to create a detailed support improvement plan by 28-Sep-2023.
+- Franklin Moore to prepare APIs for external beta testing by 02-Oct-2023.
+- Zachary Brooks to draft an integration plan with C3.ai by 01-Oct-2023.
+
+---
+
+### Meeting Minutes 4 (Moderate)
+
+**Date and Time:** 10-Oct-2023, 1:00 PM - 2:00 PM
+
+**Attendees:**
+- Gina Lopez
+- Tina Foster
+- Franklin Moore
+- Zachary Brooks
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Review user feedback for IBM Cloud Pak for Data
+2. Update on external beta testing for IBM Watson Assistant APIs
+3. Collaboration with Technical Services team
+
+**Discussion Points:**
+- **Gina Lopez** reviewed user feedback for IBM Cloud Pak for Data.
+  - Overall positive with suggestions for additional features.
+- **Franklin Moore** shared the progress of external beta testing for IBM Watson Assistant APIs.
+  - No major issues reported; performance improvements needed.
+- **Tina Foster** discussed potential collaboration with the Technical Services team to enhance support for IBM QRadar SIEM.
+  - Proposed joint training sessions and knowledge-sharing initiatives.
+
+**Next Steps:**
+- Gina Lopez to consolidate feedback and prioritize new features by 15-Oct-2023.
+- Franklin Moore to implement performance improvements by 17-Oct-2023.
+- Tina Foster to coordinate with the Technical Services team for a joint session by 20-Oct-2023.
+
+---
+
+### Meeting Minutes 5 (Simple)
+
+**Date and Time:** 20-Oct-2023, 11:00 AM - 11:30 AM
+
+**Attendees:**
+- Gina Lopez
+- Tina Foster
+- Franklin Moore
+- Zachary Brooks
+
+**Absentees:**
+- None
+
+**Agenda:**
+1. Quick update on ongoing projects
+2. Follow-up on previous action items
+
+**Discussion Points:**
+- **Gina Lopez** provided a quick update on the IBM Cloud Pak for Data project.
+  - Feature prioritization completed.
+- **Tina Foster** reported on the joint session with the Technical Services team.
+  - Session was successful and will be repeated monthly.
+- **Franklin Moore** shared the status of performance improvements for IBM Watson Assistant APIs.
+  - Improvements implemented; monitoring in progress.
+
+**Next Steps:**
+- Gina Lopez to start implementing prioritized features by 25-Oct-2023.
+- Tina Foster to schedule the next joint session by 30-Oct-2023.
+- Franklin Moore to continue monitoring API performance and report findings by 27-Oct-2023.
+
+---
+
+### JSON Data

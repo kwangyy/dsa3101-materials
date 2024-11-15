@@ -1,0 +1,134 @@
+{
+    "entities": {
+        "persons": [
+            {
+                "name": "Lily Garcia"
+            },
+            {
+                "name": "Kevin O'Reilly"
+            },
+            {
+                "name": "Paul Hernandez"
+            },
+            {
+                "name": "Uma Patel"
+            },
+            {
+                "name": "Ivy Bennett"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "IBM"
+            }
+        ],
+        "roles": [
+            {
+                "title": "Marketing Analyst"
+            },
+            {
+                "title": "Machine Learning Engineer"
+            },
+            {
+                "title": "Systems Engineer"
+            },
+            {
+                "title": "Senior Solutions Architect"
+            },
+            {
+                "title": "Data Engineer"
+            }
+        ],
+        "products_services": [
+            {
+                "name": "IBM Cloud Satellite"
+            },
+            {
+                "name": "IBM Watson Studio"
+            },
+            {
+                "name": "IBM Db2 Database"
+            },
+            {
+                "name": "IBM Z systems"
+            }
+        ]
+    },
+    "relationships": [
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Lily Garcia",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Lily Garcia",
+            "role": "Marketing Analyst"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Lily Garcia",
+            "product_service": "IBM Cloud Satellite"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Kevin O'Reilly",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Kevin O'Reilly",
+            "role": "Machine Learning Engineer"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Kevin O'Reilly",
+            "product_service": "IBM Watson Studio"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Paul Hernandez",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Paul Hernandez",
+            "role": "Systems Engineer"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Paul Hernandez",
+            "product_service": "IBM Z systems"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Uma Patel",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Uma Patel",
+            "role": "Senior Solutions Architect"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Uma Patel",
+            "product_service": "IBM Cloud Private"
+        },
+        {
+            "type": "AFFILIATED_WITH",
+            "person": "Ivy Bennett",
+            "organization": "IBM"
+        },
+        {
+            "type": "HAS_ROLE",
+            "person": "Ivy Bennett",
+            "role": "Data Engineer"
+        },
+        {
+            "type": "INVOLVED_WITH",
+            "person": "Ivy Bennett",
+            "product_service": "IBM Db2 Database"
+        }
+    ]
+}

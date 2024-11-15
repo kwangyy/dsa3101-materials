@@ -1,0 +1,77 @@
+### Email Thread
+
+#### Email 1
+
+From: Wendy Chen <wendy.chen@ibm.com>  
+To: Ivy Bennett <ivy.bennett@ibm.com>, Kevin O'Reilly <kevin.oreilly@ibm.com>, Derek Hill <derek.hill@ibm.com>  
+Subject: Collaboration on AI Integration for Veeva Systems  
+
+Hi Team,
+
+I hope this email finds you well. As you know, we are working on integrating our AI solutions with Veeva Systems' cloud platform for life sciences. This is a key partnership for us, and we need to ensure that all systems are fully operational before the launch next month.
+
+**Kevin**: Could you update us on the current status of the machine learning models for this project?
+
+**Ivy**: We'll need to discuss how the ETL pipelines for IBM Db2 Database will handle the data flow from Veeva's systems.
+
+**Derek**: Once the integration is complete, we'll need your team to run comprehensive QA tests to ensure everything is working seamlessly.
+
+Let's aim to have a preliminary meeting tomorrow to go over these points. 
+
+Best,  
+Wendy Chen  
+AI Solutions Architect  
+IBM
+
+#### Email 2
+
+From: Kevin O'Reilly <kevin.oreilly@ibm.com>  
+To: Wendy Chen <wendy.chen@ibm.com>, Ivy Bennett <ivy.bennett@ibm.com>, Derek Hill <derek.hill@ibm.com>  
+Subject: RE: Collaboration on AI Integration for Veeva Systems  
+
+Hi Wendy,
+
+Thanks for the email. As for the machine learning models for Veeva Systems, we are in the final stages of training. We should be able to start testing them in the live environment by the end of this week.
+
+Ivy, it would be great if we could sync up on the ETL pipelines to make sure our data requirements are aligned.
+
+Looking forward to our meeting tomorrow.
+
+Best,  
+Kevin O'Reilly  
+Machine Learning Engineer  
+IBM
+
+#### Email 3
+
+From: Ivy Bennett <ivy.bennett@ibm.com>  
+To: Wendy Chen <wendy.chen@ibm.com>, Kevin O'Reilly <kevin.oreilly@ibm.com>, Derek Hill <derek.hill@ibm.com>  
+Subject: RE: Collaboration on AI Integration for Veeva Systems  
+
+Hi Team,
+
+Sounds good. Kevin, I can make some time after our meeting tomorrow to discuss the ETL pipelines. 
+
+Derek, once Kevin has the models ready, I'll ensure the data flow is stable for your QA testing.
+
+Best,  
+Ivy Bennett  
+Data Engineer  
+IBM
+
+#### Email 4
+
+From: Derek Hill <derek.hill@ibm.com>  
+To: Wendy Chen <wendy.chen@ibm.com>, Ivy Bennett <ivy.bennett@ibm.com>, Kevin O'Reilly <kevin.oreilly@ibm.com>  
+Subject: RE: Collaboration on AI Integration for Veeva Systems  
+
+Hi All,
+
+Thanks for the updates. I'll prepare our QA team to begin testing as soon as the integration is ready. Looking forward to our meeting tomorrow.
+
+Best,  
+Derek Hill  
+QA Engineer  
+IBM
+
+### JSON Object

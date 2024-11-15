@@ -1,0 +1,208 @@
+### Meeting 1 - Simple
+
+#### Date and Time
+- Date: 15-Apr-2023
+- Time: 10:00 AM - 10:30 AM
+
+#### Attendees
+- Michael Turner
+- Ivy Bennett
+- Abigail Carter (Note taker)
+- Henry Zhou
+
+#### Agenda
+- Feedback on current service integration
+- Next steps for project improvement
+
+#### Discussion Points
+- **Feedback on Service Integration:**
+  - Michael highlighted security concerns with Azure integration.
+  - Ivy mentioned data pipeline issues affecting ETL processes.
+  - Abigail noted reporting delays in Cognos Analytics due to data inconsistencies.
+  - Henry suggested automation improvements for Kubernetes deployments.
+
+#### Next Steps
+- Michael to review and update security protocols by 20-Apr-2023.
+- Ivy to resolve ETL pipeline issues by 22-Apr-2023.
+- Abigail to investigate data inconsistencies and update reporting by 21-Apr-2023.
+- Henry to enhance automation scripts by 23-Apr-2023.
+
+---
+
+### Meeting 2 - Moderate
+
+#### Date and Time
+- Date: 20-Apr-2023
+- Time: 2:00 PM - 3:00 PM
+
+#### Attendees
+- Michael Turner (Note taker)
+- Ivy Bennett
+- Abigail Carter
+- Henry Zhou
+
+#### Agenda
+- Service integration feedback
+- Discuss collaboration with Splunk for IT monitoring
+- Upcoming project deadlines
+
+#### Discussion Points
+- **Service Integration Feedback:**
+  - Michael reiterated security issues in Azure.
+  - Ivy noted minor improvements in ETL processes.
+  - Abigail highlighted ongoing issues with data accuracy in reports.
+  - Henry shared progress on automation of CI/CD pipelines.
+
+- **Collaboration with Splunk:**
+  - Michael suggested leveraging Splunk for enhanced IT monitoring.
+  - Ivy agreed and mentioned potential benefits for data analytics.
+  - Abigail highlighted Splunk’s capability to integrate with Cognos Analytics.
+  - Henry noted the possibility to automate monitoring alerts using Splunk.
+
+- **Upcoming Project Deadlines:**
+  - Michael to finalize security updates by 25-Apr-2023.
+  - Ivy to ensure ETL pipelines are stable by 26-Apr-2023.
+  - Abigail to complete report updates by 27-Apr-2023.
+  - Henry to finish automation scripts by 28-Apr-2023.
+
+#### Next Steps
+- Michael to schedule a meeting with Splunk representatives by 22-Apr-2023.
+- Ivy to prepare a list of data metrics for monitoring by 23-Apr-2023.
+- Abigail to create a draft integration plan with Splunk by 24-Apr-2023.
+- Henry to develop automation workflows for Splunk integration by 25-Apr-2023.
+
+---
+
+### Meeting 3 - Detailed
+
+#### Date and Time
+- Date: 25-Apr-2023
+- Time: 11:00 AM - 12:30 PM
+
+#### Attendees
+- Michael Turner
+- Ivy Bennett (Note taker)
+- Abigail Carter
+- Henry Zhou
+- External Attendee: John Smith (Splunk, IT Operations Specialist)
+
+#### Agenda
+- Comprehensive feedback on service integration
+- Detailed discussion on Splunk integration
+- Addressing inter-departmental challenges
+- Planning for future milestones
+
+#### Discussion Points
+- **Comprehensive Feedback on Service Integration:**
+  - Michael provided a detailed report on security vulnerabilities in Azure.
+  - Ivy shared comprehensive data on ETL pipeline performance and issues.
+  - Abigail presented a report on data accuracy and reporting delays.
+  - Henry explained current automation status and future plans for CI/CD pipelines.
+
+- **Detailed Discussion on Splunk Integration:**
+  - John Smith gave an overview of Splunk’s capabilities for IT monitoring.
+  - Michael discussed potential security enhancements using Splunk.
+  - Ivy explored how Splunk can optimize data analytics processes.
+  - Abigail suggested potential integration points for Cognos Analytics.
+  - Henry outlined steps to automate monitoring with Splunk.
+
+- **Addressing Inter-Departmental Challenges:**
+  - Michael mentioned the need for better coordination on security issues.
+  - Ivy highlighted data sharing challenges between departments.
+  - Abigail pointed out the need for accurate data from the Data Management Department.
+  - Henry suggested regular inter-departmental meetings to resolve issues.
+
+- **Planning for Future Milestones:**
+  - Michael to complete security updates by 30-Apr-2023.
+  - Ivy to stabilize ETL pipelines by 01-May-2023.
+  - Abigail to finalize report updates by 02-May-2023.
+  - Henry to enhance automation scripts by 03-May-2023.
+
+#### Next Steps
+- Michael to draft a security protocol update plan by 28-Apr-2023.
+- Ivy to prepare a data sharing protocol by 29-Apr-2023.
+- Abigail to develop a data accuracy improvement plan by 30-Apr-2023.
+- Henry to create a detailed automation workflow for Splunk by 01-May-2023.
+- John Smith to provide a Splunk integration guide by 26-Apr-2023.
+
+---
+
+### Meeting 4 - Simple
+
+#### Date and Time
+- Date: 05-May-2023
+- Time: 9:00 AM - 9:30 AM
+
+#### Attendees
+- Michael Turner
+- Ivy Bennett
+- Abigail Carter
+- Henry Zhou (Note taker)
+
+#### Agenda
+- Quick feedback round
+- Immediate next steps
+
+#### Discussion Points
+- **Quick Feedback Round:**
+  - Michael briefly mentioned ongoing security updates.
+  - Ivy shared that ETL pipelines are now stable.
+  - Abigail noted improvement in data accuracy.
+  - Henry provided a quick update on automation progress.
+
+#### Next Steps
+- Michael to finalize remaining security tasks by 10-May-2023.
+- Ivy to monitor ETL pipeline performance continuously.
+- Abigail to update all reports by 08-May-2023.
+- Henry to ensure automation scripts are deployed by 09-May-2023.
+
+---
+
+### Meeting 5 - Moderate
+
+#### Date and Time
+- Date: 10-May-2023
+- Time: 3:00 PM - 4:00 PM
+
+#### Attendees
+- Michael Turner (Note taker)
+- Ivy Bennett
+- Abigail Carter
+- Henry Zhou
+- External Attendee: Jane Doe (Splunk, Data Analytics Specialist)
+
+#### Agenda
+- Feedback on recent improvements
+- Further discussion on Splunk integration
+- Review of upcoming deadlines
+
+#### Discussion Points
+- **Feedback on Recent Improvements:**
+  - Michael confirmed that most security issues have been resolved.
+  - Ivy mentioned that ETL pipeline performance has been optimal.
+  - Abigail noted a significant improvement in report accuracy.
+  - Henry shared that automation scripts have been successfully deployed.
+
+- **Further Discussion on Splunk Integration:**
+  - Jane Doe provided additional insights on how Splunk can enhance data analytics.
+  - Michael discussed further security benefits.
+  - Ivy explored advanced data analytics features.
+  - Abigail considered new reporting capabilities.
+  - Henry suggested more automation possibilities.
+
+- **Review of Upcoming Deadlines:**
+  - Michael to review final security protocols by 15-May-2023.
+  - Ivy to ensure continuous ETL monitoring by 16-May-2023.
+  - Abigail to complete final report updates by 17-May-2023.
+  - Henry to test new automation scripts by 18-May-2023.
+
+#### Next Steps
+- Michael to finalize security report by 14-May-2023.
+- Ivy to draft a continuous ETL monitoring plan by 13-May-2023.
+- Abigail to create a final report template by 12-May-2023.
+- Henry to develop new automation test cases by 15-May-2023.
+- Jane Doe to provide additional Splunk training resources by 11-May-2023.
+
+---
+
+### JSON Data
