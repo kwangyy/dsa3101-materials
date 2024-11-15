@@ -6,6 +6,10 @@ There are two parts to our project:
 1. Backend: A REST API built with FastAPI that allows users to process text data, generate ontologies, and manage a knowledge graph using Neo4j.
 2. Frontend: A React application that interacts with the backend API to process text data, generate ontologies, and manage a knowledge graph using Neo4j.
 
+## Generation Folder
+The generation folder contains the code for generating the data for the NER model. This folder was taken from a previous repository by Subgroup A, therefore the lack of commits from them. 
+
+
 ## Running the Project with Docker Compose
 
 To run the entire project using Docker Compose, follow these steps:
